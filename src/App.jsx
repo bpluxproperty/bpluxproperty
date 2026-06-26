@@ -213,7 +213,7 @@ export default function App() {
             </div>
             <div>
               <p className="fh">{t.footer.legal}</p>
-              <p><a href="#">{t.footer.privacy}</a></p><p><a href="#">{t.footer.terms}</a></p><p>P.IVA ···········</p>
+              <p><a href="/privacy.html">{t.footer.privacy}</a></p><p><a href="/termini.html">{t.footer.terms}</a></p>
             </div>
           </div>
           <div>© {new Date().getFullYear()} B&amp;P Lux Property — Bertocchi &amp; Puggioni. {t.footer.rights}</div>
