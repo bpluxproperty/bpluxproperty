@@ -183,7 +183,7 @@ export default function App() {
             <span className="eyebrow">{t.cta.eyebrow}</span>
             <h2>{t.cta.title}</h2>
             <p>{t.cta.sub}</p>
-            <a className="wa" href="https://wa.me/39XXXXXXXXXX">✆ WhatsApp →</a>
+            <a className="wa" href="https://wa.me/393467259098" target="_blank" rel="noreferrer">✆ WhatsApp +39 346 725 9098 →</a>
           </div>
           <form className="reveal" onSubmit={submit}>
             {sent ? <div className="ok">{t.cta.ok}</div> : <>
@@ -209,7 +209,7 @@ export default function App() {
             </div>
             <div>
               <p className="fh">{t.footer.contacts}</p>
-              <p>info@bpluxproperty.com</p><p>+39 ··· ······</p><p>Instagram · Facebook</p>
+              <p>info@bpluxproperty.com</p><p><a href="https://wa.me/393467259098" target="_blank" rel="noreferrer">+39 346 725 9098</a></p><p>Instagram · Facebook</p>
             </div>
             <div>
               <p className="fh">{t.footer.legal}</p>

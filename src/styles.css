@@ -123,3 +123,17 @@ footer a:hover{color:var(--gold-2)}
   .grid4{gap:34px}
   section{padding:70px 0}
 }
+/* fix header su telefono: il bottone "Valutazione gratuita" non sfora più */
+@media(max-width:560px){
+  .wrap{padding:0 16px}
+  .nav{gap:10px}
+  .brand .bt{display:none}            /* resta solo il logo, libera spazio */
+  .brand img{height:40px;width:40px}
+  .head-right{gap:9px}
+  .head-right .btn{padding:11px 14px;font-size:11px;letter-spacing:.03em}
+  .lang{padding:6px 8px;font-size:10px}
+  header{padding:13px 0}
+  .hero .wrap{padding-top:76px}
+  .hero-cta{gap:12px}
+  .hero-cta .btn{padding:13px 20px}
+}
