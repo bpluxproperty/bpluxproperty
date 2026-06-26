@@ -46,8 +46,8 @@ export const T = {
       eyebrow: 'Chi siamo', title: 'Due founder, un’ossessione: i tuoi risultati.',
       sub: 'Non un’agenzia anonima: ci mettiamo la faccia.',
       people: [
-        { in: 'DB', name: 'Davide Bertocchi', role: 'Co-Founder', bio: 'Dedicato all’acquisizione e alla relazione con i proprietari: trasparenza, dati alla mano, zero promesse vuote.' },
-        { in: 'SP', name: 'Stefano Puggioni', role: 'Co-Founder', bio: 'Dedicato all’ottimizzazione e alla gestione: prezzi dinamici, esperienza ospite, recensioni 5 stelle.' },
+        { in: 'DB', img: '/assets/founder-davide.jpg', name: 'Davide Bertocchi', role: 'Co-Founder', bio: 'Dedicato all’acquisizione e alla relazione con i proprietari: trasparenza, dati alla mano, zero promesse vuote.' },
+        { in: 'SP', img: '/assets/founder-stefano.jpg', name: 'Stefano Puggioni', role: 'Co-Founder', bio: 'Dedicato all’ottimizzazione e alla gestione: prezzi dinamici, esperienza ospite, recensioni 5 stelle.' },
       ],
     },
     reviews: {
@@ -114,8 +114,8 @@ export const T = {
       eyebrow: 'About us', title: 'Two founders, one obsession: your results.',
       sub: 'Not a faceless agency: we put our faces on it.',
       people: [
-        { in: 'DB', name: 'Davide Bertocchi', role: 'Co-Founder', bio: 'Focused on acquisition and owner relationships: transparency, data-driven, no empty promises.' },
-        { in: 'SP', name: 'Stefano Puggioni', role: 'Co-Founder', bio: 'Focused on optimization and operations: dynamic pricing, guest experience, 5-star reviews.' },
+        { in: 'DB', img: '/assets/founder-davide.jpg', name: 'Davide Bertocchi', role: 'Co-Founder', bio: 'Focused on acquisition and owner relationships: transparency, data-driven, no empty promises.' },
+        { in: 'SP', img: '/assets/founder-stefano.jpg', name: 'Stefano Puggioni', role: 'Co-Founder', bio: 'Focused on optimization and operations: dynamic pricing, guest experience, 5-star reviews.' },
       ],
     },
     reviews: {

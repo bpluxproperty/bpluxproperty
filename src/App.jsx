@@ -156,7 +156,7 @@ export default function App() {
           <div className="fgrid">
             {t.founders.people.map((p, i) => (
               <div className="founder reveal" key={i}>
-                <div className="pic">{p.in}</div>
+                <div className="pic">{p.img ? <img src={p.img} alt={p.name} /> : p.in}</div>
                 <div><h3>{p.name}</h3><div className="role">{p.role}</div><p>{p.bio}</p></div>
               </div>
             ))}
