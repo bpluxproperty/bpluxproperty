@@ -1,0 +1,7 @@
+{
+  "rewrites": [
+    { "source": "/crm", "destination": "https://bplux-crm-bp-luxproperty.vercel.app/" },
+    { "source": "/crm/", "destination": "https://bplux-crm-bp-luxproperty.vercel.app/" },
+    { "source": "/crm/:path*", "destination": "https://bplux-crm-bp-luxproperty.vercel.app/:path*" }
+  ]
+}
