@@ -1,6 +1,6 @@
 export const T = {
   it: {
-    nav: { prop: 'Per i proprietari', method: 'Come lavoriamo', portfolio: 'Portfolio', about: 'Chi siamo', contact: 'Contatti', cta: 'Valutazione gratuita' },
+    nav: { prop: 'Per i proprietari', agencies: 'Agenzie', method: 'Come lavoriamo', portfolio: 'Portfolio', about: 'Chi siamo', contact: 'Contatti', cta: 'Valutazione gratuita' },
     hero: {
       eyebrow: 'Property management · Affitti brevi di lusso',
       titleA: 'Il vero lusso è guadagnare dalla tua casa',
@@ -22,6 +22,17 @@ export const T = {
         { tag: 'Gestione Completa', title: 'Non ti occupi di nulla', items: ['Annuncio professionale su Airbnb, Booking e Vrbo', 'Servizio fotografico e revenue management dinamico', 'Comunicazione ospiti, check-in e check-out', 'Pulizie, biancheria e rifornimenti', 'Burocrazia completa (CIN, Alloggiati Web, tassa di soggiorno)'] },
         { tag: 'Gestione Online', title: 'Tu gestisci la casa, noi i guadagni', items: ['Creazione e ottimizzazione dell’annuncio', 'Gestione dinamica dei prezzi h24', 'Messaggistica e assistenza ospiti', 'Adempimenti e comunicazioni obbligatorie', 'Ideale se sei fuori città o hai già un tuo staff'] },
       ],
+    },
+    agenzie: {
+      eyebrow: 'Per agenzie immobiliari',
+      title: 'Hai case sfitte o invendute? Falle rendere — senza gestirle.',
+      sub: 'Gestiamo noi gli affitti brevi degli immobili della tua agenzia. Offri un servizio in più ai tuoi proprietari, guadagni una rendita passiva e non perdi mai il cliente: lavoriamo in white-label, dietro le quinte.',
+      cards: [
+        { tag: 'Rendita passiva', title: 'Guadagni senza muovere un dito', items: ['8% passivo sugli immobili che ci affidi', '0€ costi iniziali, solo a percentuale', 'Nessun costo nascosto'] },
+        { tag: 'White-label', title: 'Il cliente resta tuo', items: ['Lavoriamo dietro le quinte, col tuo brand', 'Il proprietario resta della tua agenzia', 'Report mensile trasparente'] },
+        { tag: 'Zero pensieri', title: 'Ci pensiamo noi', items: ['Annunci, prezzi, ospiti, pulizie', 'Burocrazia 2026: CIN, cedolare, sicurezza', 'Monetizzi anche le case in vendita'] },
+      ],
+      cta: 'Scopri il programma per agenzie →',
     },
     method: {
       eyebrow: 'Come lavoriamo',
@@ -68,7 +79,7 @@ export const T = {
   },
 
   en: {
-    nav: { prop: 'For owners', method: 'How we work', portfolio: 'Portfolio', about: 'About us', contact: 'Contact', cta: 'Free valuation' },
+    nav: { prop: 'For owners', agencies: 'Agencies', method: 'How we work', portfolio: 'Portfolio', about: 'About us', contact: 'Contact', cta: 'Free valuation' },
     hero: {
       eyebrow: 'Property management · Luxury short-term rentals',
       titleA: 'True luxury is earning from your home',
@@ -90,6 +101,17 @@ export const T = {
         { tag: 'Full Management', title: 'You handle nothing', items: ['Professional listing on Airbnb, Booking and Vrbo', 'Photo shoot and dynamic revenue management', 'Guest communication, check-in and check-out', 'Cleaning, linen and restocking', 'Full paperwork (CIN, police registration, tourist tax)'] },
         { tag: 'Online Management', title: 'You run the home, we run the income', items: ['Listing creation and optimization', '24/7 dynamic pricing', 'Messaging and guest support', 'Mandatory filings and communications', 'Ideal if you are out of town or already have staff'] },
       ],
+    },
+    agenzie: {
+      eyebrow: 'For real estate agencies',
+      title: 'Vacant or unsold homes? Make them earn — without managing them.',
+      sub: 'We run the short-term rentals of your agency properties. Offer your owners one more service, earn passive income and never lose the client: we work white-label, behind the scenes.',
+      cards: [
+        { tag: 'Passive income', title: 'Earn without lifting a finger', items: ['8% passive on the properties you entrust to us', '€0 upfront, only a percentage', 'No hidden fees'] },
+        { tag: 'White-label', title: 'The client stays yours', items: ['We work behind the scenes, under your brand', 'The owner stays your agency’s client', 'Transparent monthly report'] },
+        { tag: 'Zero hassle', title: 'We handle everything', items: ['Listings, pricing, guests, cleaning', '2026 paperwork: CIN, tax, safety', 'Monetize even homes that are for sale'] },
+      ],
+      cta: 'Discover the agency program →',
     },
     method: {
       eyebrow: 'How we work',

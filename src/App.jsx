@@ -48,6 +48,7 @@ export default function App() {
           </a>
           <nav><ul>
             <li><a href="#proprietari">{t.nav.prop}</a></li>
+            <li><a href="#agenzie">{t.nav.agencies}</a></li>
             <li><a href="#metodo">{t.nav.method}</a></li>
             <li><a href="#portfolio">{t.nav.portfolio}</a></li>
             <li><a href="#founder">{t.nav.about}</a></li>
@@ -143,6 +144,27 @@ export default function App() {
               </div>
             ))}
           </div>
+        </div>
+      </section>
+
+      {/* AGENZIE */}
+      <section id="agenzie" className="agenzie">
+        <div className="wrap">
+          <div className="sec-head reveal">
+            <span className="eyebrow">{t.agenzie.eyebrow}</span>
+            <h2>{t.agenzie.title}</h2>
+            <p>{t.agenzie.sub}</p>
+          </div>
+          <div className="pillars">
+            {t.agenzie.cards.map((c, i) => (
+              <div className="pillar reveal" key={i}>
+                <span className="tag">{c.tag}</span>
+                <h3>{c.title}</h3>
+                <ul>{c.items.map((it, j) => <li key={j}>{it}</li>)}</ul>
+              </div>
+            ))}
+          </div>
+          <div className="ag-cta reveal"><a href="/agenzie-immobiliari" className="btn btn-gold">{t.agenzie.cta}</a></div>
         </div>
       </section>
 

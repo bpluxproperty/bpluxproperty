@@ -66,6 +66,18 @@ section{padding:96px 0}
 .pillar li{padding:9px 0 9px 26px;position:relative;border-top:1px solid var(--line);font-size:15px}
 .pillar li:first-child{border-top:0}
 .pillar li::before{content:"—";position:absolute;left:0;color:var(--gold)}
+/* Sezione Agenzie (B2B, banda navy) */
+#agenzie{background:linear-gradient(135deg,#1F2A44,#141d31);color:#fff}
+#agenzie .eyebrow{color:#C99A3E}
+#agenzie h2{color:#fff}
+#agenzie .sec-head p{color:#c7cdd8}
+#agenzie .pillars{grid-template-columns:repeat(3,1fr)}
+#agenzie .pillar{background:rgba(255,255,255,.05);border:1px solid rgba(255,255,255,.14);border-left:4px solid var(--gold)}
+#agenzie .pillar h3{color:#fff}
+#agenzie .pillar li{color:#dfe3ea;border-top-color:rgba(255,255,255,.12)}
+#agenzie .pillar .tag{color:#C99A3E}
+#agenzie .ag-cta{text-align:center;margin-top:34px}
+@media(max-width:820px){#agenzie .pillars{grid-template-columns:1fr}}
 
 .steps{background:var(--charcoal-2);color:var(--ivory)}
 .stepgrid{margin-top:10px}
