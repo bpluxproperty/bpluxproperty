@@ -46,7 +46,25 @@ export const T = {
     },
     portfolio: {
       eyebrow: 'Portfolio', title: 'Immobili che gestiamo.',
-      sub: 'Una selezione curata di proprietà.',
+      sub: 'Immobili reali che gestiamo, pubblicati e ottimizzati da noi.',
+      featured: {
+        badge: 'Amato dagli ospiti',
+        title: 'Loft Elegante nel centro di Dozza',
+        loc: 'Dozza (BO) · Emilia-Romagna',
+        meta: '2 ospiti · 1 camera · 1 bagno',
+        rating: '4,97', reviews: 31, revsWord: 'recensioni', host: 'Superhost',
+        desc: 'Nel cuore di Dozza, borgo medievale e Città d’Arte: un appartamento nella corte interna di una casa tradizionale, sotto i portici affrescati. Ingresso privato, silenzioso, curato in ogni dettaglio — gestito da noi.',
+        amen: ['Wi-Fi', 'Cucina', 'Climatizzatore', 'Lavatrice', 'TV', 'Self check-in', 'Vista città'],
+        cin: 'IT037025C1838LH355',
+        url: 'https://www.airbnb.it/rooms/1112801148439631438',
+        cta: 'Vedi su Airbnb',
+        revTitle: 'Cosa dicono gli ospiti',
+        revs: [
+          { n: 'Maciej', d: 'ago 2026', t: 'Uno dei migliori alloggi Airbnb in cui abbiamo mai soggiornato. Posizione bellissima, appartamento meraviglioso, pulito e accogliente e host fantastico. Prenotatelo!' },
+          { n: 'Giuseppe', d: 'gen 2026', t: 'Ottimo soggiorno, appartamento pulito e fornito di ogni comfort. La proprietaria ci ha fatto trovare diverse specialità. Dozza splendida.' },
+          { n: 'Anne', d: 'giu 2026', t: 'Una bella settimana a casa di Maria: estremamente comunicativa e disponibile. Dozza è un borgo splendido e l’alloggio era proprio al centro.' },
+        ],
+      },
       cards: [
         { t: 'Suite Living', m: 'Centro città · 4 ospiti' },
         { t: 'Camera Padronale', m: 'Zona elegante · 2 ospiti' },
@@ -125,7 +143,25 @@ export const T = {
     },
     portfolio: {
       eyebrow: 'Portfolio', title: 'Properties we manage.',
-      sub: 'A curated selection of homes.',
+      sub: 'Real homes we manage, listed and optimised by us.',
+      featured: {
+        badge: 'Guest favourite',
+        title: 'Elegant Loft in the heart of Dozza',
+        loc: 'Dozza (BO) · Emilia-Romagna',
+        meta: '2 guests · 1 bedroom · 1 bath',
+        rating: '4.97', reviews: 31, revsWord: 'reviews', host: 'Superhost',
+        desc: 'In the heart of Dozza, a medieval “City of Art”: an apartment in the inner courtyard of a traditional house, under the frescoed arcades. Private entrance, quiet, cared for in every detail — managed by us.',
+        amen: ['Wi-Fi', 'Kitchen', 'A/C', 'Washer', 'TV', 'Self check-in', 'City view'],
+        cin: 'IT037025C1838LH355',
+        url: 'https://www.airbnb.it/rooms/1112801148439631438',
+        cta: 'View on Airbnb',
+        revTitle: 'What guests say',
+        revs: [
+          { n: 'Maciej', d: 'Aug 2026', t: 'One of the best Airbnb stays we’ve ever had. Beautiful location, wonderful apartment, clean and cosy, and a fantastic host. Book it!' },
+          { n: 'Giuseppe', d: 'Jan 2026', t: 'Great stay, spotless apartment with every comfort. The owner welcomed us with local specialities. Dozza is splendid.' },
+          { n: 'Anne', d: 'Jun 2026', t: 'A lovely week at Maria’s: extremely communicative and helpful. Dozza is a gorgeous village and the flat was right in the centre.' },
+        ],
+      },
       cards: [
         { t: 'Living Suite', m: 'City centre · 4 guests' },
         { t: 'Master Bedroom', m: 'Elegant area · 2 guests' },

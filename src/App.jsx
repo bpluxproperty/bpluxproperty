@@ -8,6 +8,7 @@ export default function App() {
   const [scrolled, setScrolled] = useState(false)
   const [sent, setSent] = useState(false)
   const t = T[lang]
+  const f = t.portfolio.featured
 
   useEffect(() => {
     const onScrollWin = () => setScrolled(window.scrollY > 40)
@@ -136,6 +137,41 @@ export default function App() {
             <span className="eyebrow">{t.portfolio.eyebrow}</span>
             <h2>{t.portfolio.title}</h2><p>{t.portfolio.sub}</p>
           </div>
+
+          <div className="feat-listing reveal">
+            <div className="fl-gallery">
+              <div className="fl-main" style={{ backgroundImage: 'url(/assets/dozza/dozza-1.jpg)' }}></div>
+              <div className="fl-grid">
+                <div style={{ backgroundImage: 'url(/assets/dozza/dozza-2.jpg)' }}></div>
+                <div style={{ backgroundImage: 'url(/assets/dozza/dozza-3.jpg)' }}></div>
+                <div style={{ backgroundImage: 'url(/assets/dozza/dozza-4.jpg)' }}></div>
+                <div style={{ backgroundImage: 'url(/assets/dozza/dozza-5.jpg)' }}></div>
+              </div>
+            </div>
+            <div className="fl-info">
+              <span className="fl-badge">★ {f.badge}</span>
+              <h3>{f.title}</h3>
+              <div className="fl-loc">{f.loc} · {f.meta}</div>
+              <div className="fl-rate"><b>{f.rating}</b><span className="stars">★★★★★</span><span className="fl-rn">{f.reviews} {f.revsWord} · {f.host}</span></div>
+              <p className="fl-desc">{f.desc}</p>
+              <ul className="fl-amen">{f.amen.map((a, i) => <li key={i}>{a}</li>)}</ul>
+              <div className="fl-foot">
+                <a className="btn btn-gold" href={f.url} target="_blank" rel="noopener noreferrer">{f.cta} →</a>
+                <span className="fl-cin">CIN {f.cin}</span>
+              </div>
+            </div>
+          </div>
+
+          <div className="fl-reviews">
+            {f.revs.map((r, i) => (
+              <div className="rev reveal" key={i}>
+                <div className="rev-stars">★★★★★</div>
+                <p>{r.t}</p>
+                <div className="rev-who">{r.n} · {r.d}</div>
+              </div>
+            ))}
+          </div>
+
           <div className="pf">
             {t.portfolio.cards.map((c, i) => (
               <div className="card reveal" key={i}>
