@@ -1,0 +1,96 @@
+<!doctype html><html lang="it"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Calcolatore rendita affitti brevi | B&amp;P Lux Property</title>
+<meta name="description" content="Calcola una stima gratuita di quanto puo rendere il tuo immobile come affitto breve per citta, posti letto e posizione. Poi l&#x27;analisi precisa e gratuita.">
+<link rel="canonical" href="https://www.bpluxproperty.com/blog/calcolatore-rendita/">
+<meta property="og:type" content="website"><meta property="og:title" content="Calcolatore rendita affitti brevi | B&amp;P Lux Property">
+<meta property="og:description" content="Calcola una stima gratuita di quanto puo rendere il tuo immobile come affitto breve per citta, posti letto e posizione. Poi l&#x27;analisi precisa e gratuita."><meta property="og:site_name" content="B&P Lux Property">
+<meta property="og:url" content="https://www.bpluxproperty.com/blog/calcolatore-rendita/">
+<meta property="og:image" content="https://www.bpluxproperty.com/blog/og/_calcolatore.png"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="https://www.bpluxproperty.com/blog/og/_calcolatore.png">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Jost:wght@300;400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/blog/blog.css">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebApplication", "name": "Calcolatore di rendita affitti brevi", "applicationCategory": "FinanceApplication", "operatingSystem": "Web", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "EUR"}}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Blog", "item": "https://www.bpluxproperty.com/blog/"}, {"@type": "ListItem", "position": 2, "name": "Calcolatore di rendita", "item": "https://www.bpluxproperty.com/blog/calcolatore-rendita/"}]}</script>
+</head><body>
+<header class="top"><div class="wrap top-in">
+  <a class="brand" href="/blog/"><span class="bt">B&amp;P<small>Lux Property</small></span></a>
+  <nav class="topnav"><a href="/blog/categoria/dozza-emilia-romagna/">Dozza &amp; Emilia-Romagna</a><a href="/blog/categoria/gestione/">Gestione &amp; Property Management</a><a href="/blog/categoria/quanto-rende/">Quanto rende</a><a href="/blog/categoria/citta/">Città &amp; Zone</a><a class="nav-calc" href="/blog/calcolatore-rendita/">Calcolatore rendita</a><a class="btn btn-ghost" href="/">Sito &rarr;</a></nav>
+</div></header>
+<main class="art-wrap">
+<nav class="crumb wrap"><a href="/blog/">Blog</a> / <span>Calcolatore di rendita</span></nav>
+<div class="art-hero-img" style="background-image:linear-gradient(180deg,rgba(22,20,15,.5),rgba(22,20,15,.86)),url(/assets/prop2.jpg)">
+  <div class="ahi-in wrap"><span class="kick">Strumento gratuito</span><h1>Calcolatore di rendita affitto breve</h1><div class="meta">Una stima indicativa in trenta secondi &middot; poi l'analisi precisa e gratuita sul tuo immobile</div></div>
+</div>
+<div class="calc wrap">
+  <div class="calc-card">
+    <div class="calc-form">
+      <label>Citta / provincia<select id="cCitta"><option data-tier="A">Milano</option><option data-tier="A">Venezia</option><option data-tier="A">Firenze</option><option data-tier="A">Como</option><option data-tier="A">Sorrento</option><option data-tier="B">Roma</option><option data-tier="B">Bologna</option><option data-tier="B">Verona</option><option data-tier="B">Napoli</option><option data-tier="B">Matera</option><option data-tier="B">Siena</option><option data-tier="B">Bolzano</option><option data-tier="B">La Spezia / Cinque Terre</option><option data-tier="C">Torino</option><option data-tier="C">Genova</option><option data-tier="C">Rimini</option><option data-tier="C">Bergamo</option><option data-tier="C">Padova</option><option data-tier="C">Trento</option><option data-tier="C">Bari</option><option data-tier="C">Lecce</option><option data-tier="C">Palermo</option><option data-tier="C">Catania</option><option data-tier="C">Cagliari</option><option data-tier="C">Salerno</option><option data-tier="C">Pisa</option><option data-tier="C">Perugia</option><option data-tier="D">Altra citta / provincia</option></select></label>
+      <label>Posti letto<select id="cBeds"><option value="2">1-2</option><option value="4">3-4</option><option value="6">5-6</option><option value="8">7+</option></select></label>
+      <label>Posizione<select id="cPos"><option value="centro">In centro</option><option value="semicentro">Semicentro</option><option value="fuori">Fuori / periferia</option><option value="turistica">Localita turistica (mare/montagna)</option></select></label>
+      <button class="btn btn-gold" id="cGo" type="button">Calcola la stima</button>
+    </div>
+    <div class="calc-out" id="cOut" hidden>
+      <span class="co-k">Stima ricavo lordo annuo</span>
+      <div class="co-range" id="cRange">&mdash;</div>
+      <div class="co-sub" id="cSub"></div>
+      <p class="co-note">Stima indicativa basata su medie di mercato per citta, tipologia e zona: <strong>non e un preventivo</strong>. Il dato reale dipende dal singolo immobile.</p>
+      <div class="co-lead">
+        <strong>Vuoi il numero preciso sul tuo immobile?</strong>
+        <p>Te lo calcoliamo gratis, con i dati reali della tua zona e della tua casa. Lasciaci un recapito:</p>
+        <form class="cta-form" onsubmit="return bpLead(event)">
+          <input name="nome" required placeholder="Nome e cognome" aria-label="Nome e cognome">
+          <input name="email" type="email" required placeholder="Email" aria-label="Email">
+          <input name="telefono" placeholder="Telefono / WhatsApp" aria-label="Telefono">
+          <input name="citta" placeholder="Citta e zona dell'immobile" aria-label="Citta immobile">
+          <button class="btn btn-gold" type="submit">Richiedi l'analisi gratuita</button>
+          <a class="wa" href="https://wa.me/393467259098?text=Ciao%20B%26P%2C%20ho%20letto%20il%20vostro%20blog%20e%20vorrei%20una%20valutazione%20del%20mio%20immobile." target="_blank" rel="noopener">Oppure scrivici su WhatsApp</a>
+        </form>
+      </div>
+    </div>
+  </div>
+  <p class="calc-disc">I valori sono stime indicative a scopo informativo, non un'offerta contrattuale. La rendita reale dipende da stagionalita, qualita dell'immobile, gestione e concorrenza locale.</p>
+</div>
+<script>
+(function(){
+ var ADR={A:[110,175],B:[85,130],C:[65,100],D:[50,80]};
+ var OCC={centro:[0.60,0.74],semicentro:[0.50,0.64],fuori:[0.40,0.54],turistica:[0.45,0.62]};
+ var BEDS={"2":1,"4":1.35,"6":1.7,"8":2.05};
+ function g(id){return document.getElementById(id);}
+ function r5(n){return Math.round(n/500)*500;}
+ function f(n){return n.toLocaleString("it-IT");}
+ var b=g("cGo"); if(!b) return;
+ b.addEventListener("click",function(){
+   var o=g("cCitta").selectedOptions[0], tier=(o&&o.getAttribute("data-tier"))||"C";
+   var occ=OCC[g("cPos").value], adr=ADR[tier], bm=BEDS[g("cBeds").value];
+   var low=r5(adr[0]*bm*365*occ[0]), high=r5(adr[1]*bm*365*occ[1]);
+   g("cRange").innerHTML="&euro; "+f(low)+" &ndash; &euro; "+f(high)+" <small>/ anno (lordo)</small>";
+   var occp=Math.round((occ[0]+occ[1])/2*100);
+   g("cSub").innerHTML="Occupazione indicativa ~"+occp+"% &middot; netto stimato &euro; "+f(r5(low*0.62))+" &ndash; &euro; "+f(r5(high*0.62))+" /anno, dopo i costi di gestione";
+   g("cOut").hidden=false; g("cOut").scrollIntoView({behavior:"smooth",block:"nearest"});
+ });
+})();
+</script><section class="related wrap"><h2>Approfondisci</h2><div class="cards"><a class="card" href="/blog/quanto-rende-affitto-breve-bologna/">
+  <span class="card-cat">Quanto rende</span>
+  <span class="card-h">Quanto rende davvero un affitto breve a Bologna (e da cosa dipende)</span>
+  <span class="card-x">A Bologna un affitto breve ben gestito rende spesso più del canone tradizionale, grazie a una domanda che non conosce vera bassa stagione. Ma il numero reale dipende da zona, immobile e gestione: ecco come ragionarci senza illusioni.</span>
+  <span class="card-go">Leggi &rarr;</span></a><a class="card" href="/blog/property-manager-affitti-brevi/">
+  <span class="card-cat">Gestione &amp; Property Management</span>
+  <span class="card-h">Property manager per affitti brevi: cosa fa, quanto costa e quando conviene</span>
+  <span class="card-x">Chi gestisce un affitto breve al posto tuo, cosa comprende il servizio, come funziona il costo a percentuale e quando delegare conviene davvero.</span>
+  <span class="card-go">Leggi &rarr;</span></a><a class="card" href="/blog/affitto-breve-o-lungo-cosa-conviene/">
+  <span class="card-cat">Guida agli Affitti Brevi</span>
+  <span class="card-h">Affitto breve o affitto lungo: come capire cosa conviene al tuo immobile</span>
+  <span class="card-x">Affitto breve o affitto lungo: quale conviene davvero? Confronto onesto su rendimento, gestione, rischi e fisco, con i casi reali in cui è meglio l&#x27;uno o l&#x27;altro.</span>
+  <span class="card-go">Leggi &rarr;</span></a></div></section></main>
+<section class="foot-news"><div class="wrap foot-news-in">
+  <div class="fn-txt"><span class="fn-k">Iscriviti alla newsletter</span><p>Consigli sugli affitti brevi e novita dal blog, ogni tanto. Niente spam.</p></div>
+  <form class="news-form" onsubmit="return bpNews(event)"><input name="email" type="email" required placeholder="La tua email" aria-label="Email"><button class="btn btn-gold" type="submit">Iscriviti</button></form>
+</div></section>
+<footer class="foot"><div class="wrap foot-in">
+  <div><strong>B&amp;P Lux Property</strong><br><span class="muted">Gestione professionale di affitti brevi di lusso</span></div>
+  <div class="foot-links"><a href="/blog/categoria/dozza-emilia-romagna/">Dozza &amp; Emilia-Romagna</a><a href="/blog/categoria/gestione/">Gestione &amp; Property Management</a><a href="/blog/categoria/quanto-rende/">Quanto rende</a><a href="/blog/categoria/citta/">Città &amp; Zone</a><a href="/blog/categoria/normativa-fisco/">Normativa &amp; Fisco</a><a href="/blog/categoria/piattaforme/">Airbnb, Booking &amp; Piattaforme</a><a href="/blog/categoria/affitti-brevi/">Guida agli Affitti Brevi</a><a href="/blog/categoria/preparare-casa/">Preparare la Casa</a><a href="/blog/calcolatore-rendita/">Calcolatore rendita</a></div>
+  <div class="muted">info@bpluxproperty.com &middot; <a href="https://wa.me/393467259098" target="_blank" rel="noopener">WhatsApp +39 346 725 9098</a><br><a href="/privacy.html">Privacy</a> &middot; <a href="/termini.html">Termini</a></div>
+</div></footer>
+<a class="fab-wa" href="https://wa.me/393467259098?text=Ciao%20B%26P%2C%20ho%20letto%20il%20vostro%20blog%20e%20vorrei%20una%20valutazione%20del%20mio%20immobile." target="_blank" rel="noopener" aria-label="Scrivici su WhatsApp"><svg viewBox="0 0 24 24" width="26" height="26" fill="currentColor" aria-hidden="true"><path d="M12 2a10 10 0 0 0-8.6 15l-1.3 4.9 5-1.3A10 10 0 1 0 12 2zm0 2a8 8 0 1 1-4.1 14.9l-.3-.2-2.6.7.7-2.5-.2-.3A8 8 0 0 1 12 4zm4.4 9.7c-.2-.1-1.4-.7-1.6-.8-.2-.1-.4-.1-.5.1l-.7.9c-.1.2-.3.2-.5.1a6.5 6.5 0 0 1-3.2-2.8c-.1-.2 0-.4.1-.5l.4-.5c.1-.1.1-.3 0-.4l-.7-1.7c-.2-.4-.4-.4-.5-.4h-.5c-.2 0-.4.1-.6.3-.7.7-.8 1.7-.4 2.7a9 9 0 0 0 3.9 4.1c1.4.7 2 .7 2.7.6.5-.1 1.4-.6 1.6-1.1.2-.5.2-1 .1-1.1z"/></svg></a>
+<script src="/blog/blog.js" defer></script>
+</body></html>

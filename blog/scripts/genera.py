@@ -115,6 +115,7 @@ def side_bar(a):
     <p>Scopri quanto puo rendere il tuo immobile come affitto breve. La calcoliamo noi, sui numeri reali.</p>
     <a class="btn btn-gold" href="#contatti-blog">Richiedi la valutazione</a>
   </div>
+  {calc_card()}
   <div class="side-card side-wa">
     <span class="sw-t">Preferisci WhatsApp?</span>
     <a class="btn btn-wa" href="{WA_LINK}" target="_blank" rel="noopener">{WA_SVG}<span>Scrivici ora</span></a>
@@ -129,6 +130,7 @@ def side_bar(a):
     <span class="sl-k">Esplora per categoria</span>
     <div class="sc-tags">{cats_html}</div>
   </div>
+  {newsletter_box()}
   <a class="side-card side-dozza" href="/blog/dove-dormire-a-dozza-appartamento/">
     <span class="sd-k">Il nostro immobile</span>
     <strong>Loft nel centro di Dozza</strong>
@@ -150,6 +152,25 @@ def author_box():
   <div class="ab-badge">B&amp;P</div>
   <div class="ab-txt"><strong>{esc(au["name"])}</strong><span>{esc(au["role"])}</span><p>{esc(au["bio"])}</p></div>
 </div>'''
+def calc_card():
+    return '''<a class="side-card side-calc" href="/blog/calcolatore-rendita/">
+  <span class="sd-k">Strumento gratuito</span>
+  <strong>Calcolatore di rendita</strong>
+  <span class="sc-go">Stima quanto puo rendere il tuo immobile &rarr;</span>
+</a>'''
+def newsletter_box():
+    return '''<div class="side-card side-news">
+  <span class="sl-k">Newsletter</span>
+  <p>Consigli sugli affitti brevi, ogni tanto. Niente spam.</p>
+  <form class="news-form" onsubmit="return bpNews(event)"><input name="email" type="email" required placeholder="La tua email" aria-label="Email"><button class="btn btn-gold" type="submit">Iscriviti</button></form>
+</div>'''
+def trust_strip():
+    return '''<section class="trust"><div class="wrap trust-in">
+  <div class="tr"><strong>4,97&#9733;</strong><span>oltre 30 recensioni</span></div>
+  <div class="tr"><strong>Superhost</strong><span>su Airbnb</span></div>
+  <div class="tr"><strong>360&deg;</strong><span>gestione completa</span></div>
+  <div class="tr"><strong>0&euro;</strong><span>costi iniziali, solo a %</span></div>
+</div></section>'''
 
 # ---------------- COMPONENTI ----------------
 def cta_block(cid=""):
@@ -172,22 +193,27 @@ def cta_block(cid=""):
 </section>'''
 
 def header():
-    links="".join(f'<a href="/blog/categoria/{c}/">{esc(CATS[c]["name"])}</a>' for c in CAT_ORDER[:5])
+    links="".join(f'<a href="/blog/categoria/{c}/">{esc(CATS[c]["name"])}</a>' for c in CAT_ORDER[:4])
     return f'''<header class="top"><div class="wrap top-in">
   <a class="brand" href="/blog/"><span class="bt">B&amp;P<small>Lux Property</small></span></a>
-  <nav class="topnav">{links}<a class="btn btn-ghost" href="/">Sito &rarr;</a></nav>
+  <nav class="topnav">{links}<a class="nav-calc" href="/blog/calcolatore-rendita/">Calcolatore rendita</a><a class="btn btn-ghost" href="/">Sito &rarr;</a></nav>
 </div></header>'''
 
 def footer():
     cols="".join(f'<a href="/blog/categoria/{c}/">{esc(CATS[c]["name"])}</a>' for c in CAT_ORDER)
-    return f'''<footer class="foot"><div class="wrap foot-in">
+    return f'''<section class="foot-news"><div class="wrap foot-news-in">
+  <div class="fn-txt"><span class="fn-k">Iscriviti alla newsletter</span><p>Consigli sugli affitti brevi e novita dal blog, ogni tanto. Niente spam.</p></div>
+  <form class="news-form" onsubmit="return bpNews(event)"><input name="email" type="email" required placeholder="La tua email" aria-label="Email"><button class="btn btn-gold" type="submit">Iscriviti</button></form>
+</div></section>
+<footer class="foot"><div class="wrap foot-in">
   <div><strong>B&amp;P Lux Property</strong><br><span class="muted">{esc(S["tagline"])}</span></div>
-  <div class="foot-links">{cols}</div>
+  <div class="foot-links">{cols}<a href="/blog/calcolatore-rendita/">Calcolatore rendita</a></div>
   <div class="muted">{esc(S["email"])} &middot; <a href="https://wa.me/{WA}" target="_blank" rel="noopener">WhatsApp {esc(S["whatsappDisplay"])}</a><br><a href="/privacy.html">Privacy</a> &middot; <a href="/termini.html">Termini</a></div>
 </div></footer>'''
 
-def page(title, desc, canonical, body, jsonld, extra_head=""):
+def page(title, desc, canonical, body, jsonld, extra_head="", og_image=None):
     ld="".join(f'<script type="application/ld+json">{json.dumps(x,ensure_ascii=False)}</script>' for x in jsonld)
+    ogimg=og_image or (S["url"]+"/blog/og/_default.png")
     return f'''<!doctype html><html lang="it"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{esc(title)}</title>
@@ -196,6 +222,7 @@ def page(title, desc, canonical, body, jsonld, extra_head=""):
 <meta property="og:type" content="website"><meta property="og:title" content="{esc(title)}">
 <meta property="og:description" content="{esc(desc)}"><meta property="og:site_name" content="B&P Lux Property">
 <meta property="og:url" content="{canonical}">
+<meta property="og:image" content="{ogimg}"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="{ogimg}">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Jost:wght@300;400;500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/blog/blog.css">{extra_head}
@@ -278,7 +305,7 @@ def render_article(a):
     title=a.get("title")
     out=os.path.join(OUT,a["slug"],"index.html")
     os.makedirs(os.path.dirname(out),exist_ok=True)
-    open(out,"w",encoding="utf-8").write(page(title,a.get("metaDescription",""),art_url(a["slug"]),body,ld))
+    open(out,"w",encoding="utf-8").write(page(title,a.get("metaDescription",""),art_url(a["slug"]),body,ld,og_image=f'{S["url"]}/blog/og/{a["slug"]}.png'))
 
 # ---------------- CATEGORIA ----------------
 def render_category(cid):
@@ -317,7 +344,12 @@ def render_hub():
 <div class="hero blog-hero"><span class="kick">Il blog di B&amp;P Lux Property</span>
   <h1>Affitti brevi, senza giri di parole.</h1>
   <p class="lead">Guide pratiche su rendita, regole, Airbnb, Booking e gestione &mdash; scritte da chi gestisce case vere ogni giorno.</p></div>
+{trust_strip()}
 <section class="intro-band"><p>{esc(ent["blogHubIntro"])}</p></section>
+<section class="calc-hl"><div class="wrap calc-hl-in">
+  <div><span class="kick">Strumento gratuito</span><h2>Quanto puo rendere il tuo immobile?</h2><p>Fai una stima in trenta secondi con il nostro calcolatore. Poi, se vuoi, ti prepariamo l'analisi precisa e gratuita.</p></div>
+  <a class="btn btn-gold" href="/blog/calcolatore-rendita/">Prova il calcolatore &rarr;</a>
+</div></section>
 <section class="cat-block"><div class="cat-head"><h2>In evidenza</h2></div><div class="cards">{feat_html}</div></section>
 {cat_secs}
 {agenzie}
@@ -335,10 +367,119 @@ def sitemap():
     body='<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
     for a in articles:
         body+=f'<url><loc>{art_url(a["slug"])}/</loc><lastmod>{a.get("updatedAt",now)}</lastmod></url>\n'
-    for u in [f'{S["url"]}/blog/']+[f'{S["url"]}/blog/categoria/{c}/' for c in CAT_ORDER if any(a["category"]==c for a in articles)]:
+    for u in [f'{S["url"]}/blog/',f'{S["url"]}/blog/calcolatore-rendita/']+[f'{S["url"]}/blog/categoria/{c}/' for c in CAT_ORDER if any(a["category"]==c for a in articles)]:
         body+=f'<url><loc>{u}</loc><lastmod>{now}</lastmod></url>\n'
     body+='</urlset>\n'
     open(os.path.join(OUT,"sitemap.xml"),"w",encoding="utf-8").write(body)
+
+# ---------------- CALCOLATORE ----------------
+CALC_CITIES=[("Milano","A"),("Venezia","A"),("Firenze","A"),("Como","A"),("Sorrento","A"),
+ ("Roma","B"),("Bologna","B"),("Verona","B"),("Napoli","B"),("Matera","B"),("Siena","B"),("Bolzano","B"),("La Spezia / Cinque Terre","B"),
+ ("Torino","C"),("Genova","C"),("Rimini","C"),("Bergamo","C"),("Padova","C"),("Trento","C"),("Bari","C"),("Lecce","C"),("Palermo","C"),("Catania","C"),("Cagliari","C"),("Salerno","C"),("Pisa","C"),("Perugia","C"),
+ ("Altra citta / provincia","D")]
+CALC_SCRIPT='''<script>
+(function(){
+ var ADR={A:[110,175],B:[85,130],C:[65,100],D:[50,80]};
+ var OCC={centro:[0.60,0.74],semicentro:[0.50,0.64],fuori:[0.40,0.54],turistica:[0.45,0.62]};
+ var BEDS={"2":1,"4":1.35,"6":1.7,"8":2.05};
+ function g(id){return document.getElementById(id);}
+ function r5(n){return Math.round(n/500)*500;}
+ function f(n){return n.toLocaleString("it-IT");}
+ var b=g("cGo"); if(!b) return;
+ b.addEventListener("click",function(){
+   var o=g("cCitta").selectedOptions[0], tier=(o&&o.getAttribute("data-tier"))||"C";
+   var occ=OCC[g("cPos").value], adr=ADR[tier], bm=BEDS[g("cBeds").value];
+   var low=r5(adr[0]*bm*365*occ[0]), high=r5(adr[1]*bm*365*occ[1]);
+   g("cRange").innerHTML="&euro; "+f(low)+" &ndash; &euro; "+f(high)+" <small>/ anno (lordo)</small>";
+   var occp=Math.round((occ[0]+occ[1])/2*100);
+   g("cSub").innerHTML="Occupazione indicativa ~"+occp+"% &middot; netto stimato &euro; "+f(r5(low*0.62))+" &ndash; &euro; "+f(r5(high*0.62))+" /anno, dopo i costi di gestione";
+   g("cOut").hidden=false; g("cOut").scrollIntoView({behavior:"smooth",block:"nearest"});
+ });
+})();
+</script>'''
+def render_calculator():
+    opts="".join('<option data-tier="%s">%s</option>'%(t,esc(n)) for n,t in CALC_CITIES)
+    ui='''<main class="art-wrap">
+<nav class="crumb wrap"><a href="/blog/">Blog</a> / <span>Calcolatore di rendita</span></nav>
+<div class="art-hero-img" style="background-image:linear-gradient(180deg,rgba(22,20,15,.5),rgba(22,20,15,.86)),url(/assets/prop2.jpg)">
+  <div class="ahi-in wrap"><span class="kick">Strumento gratuito</span><h1>Calcolatore di rendita affitto breve</h1><div class="meta">Una stima indicativa in trenta secondi &middot; poi l'analisi precisa e gratuita sul tuo immobile</div></div>
+</div>
+<div class="calc wrap">
+  <div class="calc-card">
+    <div class="calc-form">
+      <label>Citta / provincia<select id="cCitta">__OPTS__</select></label>
+      <label>Posti letto<select id="cBeds"><option value="2">1-2</option><option value="4">3-4</option><option value="6">5-6</option><option value="8">7+</option></select></label>
+      <label>Posizione<select id="cPos"><option value="centro">In centro</option><option value="semicentro">Semicentro</option><option value="fuori">Fuori / periferia</option><option value="turistica">Localita turistica (mare/montagna)</option></select></label>
+      <button class="btn btn-gold" id="cGo" type="button">Calcola la stima</button>
+    </div>
+    <div class="calc-out" id="cOut" hidden>
+      <span class="co-k">Stima ricavo lordo annuo</span>
+      <div class="co-range" id="cRange">&mdash;</div>
+      <div class="co-sub" id="cSub"></div>
+      <p class="co-note">Stima indicativa basata su medie di mercato per citta, tipologia e zona: <strong>non e un preventivo</strong>. Il dato reale dipende dal singolo immobile.</p>
+      <div class="co-lead">
+        <strong>Vuoi il numero preciso sul tuo immobile?</strong>
+        <p>Te lo calcoliamo gratis, con i dati reali della tua zona e della tua casa. Lasciaci un recapito:</p>
+        <form class="cta-form" onsubmit="return bpLead(event)">
+          <input name="nome" required placeholder="Nome e cognome" aria-label="Nome e cognome">
+          <input name="email" type="email" required placeholder="Email" aria-label="Email">
+          <input name="telefono" placeholder="Telefono / WhatsApp" aria-label="Telefono">
+          <input name="citta" placeholder="Citta e zona dell'immobile" aria-label="Citta immobile">
+          <button class="btn btn-gold" type="submit">Richiedi l'analisi gratuita</button>
+          <a class="wa" href="__WA__" target="_blank" rel="noopener">Oppure scrivici su WhatsApp</a>
+        </form>
+      </div>
+    </div>
+  </div>
+  <p class="calc-disc">I valori sono stime indicative a scopo informativo, non un'offerta contrattuale. La rendita reale dipende da stagionalita, qualita dell'immobile, gestione e concorrenza locale.</p>
+</div>
+'''
+    tail='<section class="related wrap"><h2>Approfondisci</h2><div class="cards">'+ "".join(card(BY[s]) for s in ["quanto-rende-affitto-breve-bologna","property-manager-affitti-brevi","affitto-breve-o-lungo-cosa-conviene"] if s in BY) +'</div></section></main>'
+    body=ui.replace("__OPTS__",opts).replace("__WA__",WA_LINK)+CALC_SCRIPT+tail
+    ld=[{"@context":"https://schema.org","@type":"WebApplication","name":"Calcolatore di rendita affitti brevi","applicationCategory":"FinanceApplication","operatingSystem":"Web","offers":{"@type":"Offer","price":"0","priceCurrency":"EUR"}},
+        {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Blog","item":S["url"]+"/blog/"},{"@type":"ListItem","position":2,"name":"Calcolatore di rendita","item":S["url"]+"/blog/calcolatore-rendita/"}]}]
+    out=os.path.join(OUT,"calcolatore-rendita","index.html"); os.makedirs(os.path.dirname(out),exist_ok=True)
+    open(out,"w",encoding="utf-8").write(page("Calcolatore rendita affitti brevi | B&P Lux Property","Calcola una stima gratuita di quanto puo rendere il tuo immobile come affitto breve per citta, posti letto e posizione. Poi l'analisi precisa e gratuita.",S["url"]+"/blog/calcolatore-rendita/",body,ld,og_image=S["url"]+"/blog/og/_calcolatore.png"))
+
+# ---------------- OG IMAGES ----------------
+def make_og():
+    try:
+        from PIL import Image, ImageDraw, ImageFont
+    except Exception as e:
+        print("OG: PIL non disponibile, salto:",e); return
+    ogdir=os.path.join(OUT,"og"); os.makedirs(ogdir,exist_ok=True)
+    def font(paths,size):
+        for p in paths:
+            try: return ImageFont.truetype(p,size)
+            except Exception: pass
+        return ImageFont.load_default()
+    SER=["C:/Windows/Fonts/georgiab.ttf","C:/Windows/Fonts/timesbd.ttf","georgiab.ttf"]
+    SANS=["C:/Windows/Fonts/arial.ttf","arial.ttf"]
+    def wrap(d,t,fn,maxw):
+        out=[];cur=""
+        for w in t.split():
+            s=(cur+" "+w).strip()
+            if d.textlength(s,font=fn)<=maxw: cur=s
+            else:
+                if cur: out.append(cur)
+                cur=w
+        if cur: out.append(cur)
+        return out[:4]
+    def one(path,kicker,title):
+        im=Image.new("RGB",(1200,630),(22,20,15)); d=ImageDraw.Draw(im)
+        d.rectangle([36,36,1164,594],outline=(176,137,78),width=2)
+        d.text((72,84),(kicker or "").upper(),font=font(SANS,26),fill=(201,162,75))
+        tf=font(SER,58); y=152
+        for ln in wrap(d,title,tf,1030):
+            d.text((72,y),ln,font=tf,fill=(244,238,225)); y+=72
+        d.text((72,514),"B&P LUX PROPERTY",font=font(SER,34),fill=(201,162,75))
+        d.text((74,560),"bpluxproperty.com/blog",font=font(SANS,22),fill=(150,145,135))
+        im.save(path,"PNG",optimize=True)
+    for a in articles:
+        one(os.path.join(ogdir,a["slug"]+".png"),CATS.get(a["category"],{}).get("name",""),a.get("h1") or a.get("title"))
+    one(os.path.join(ogdir,"_default.png"),"Blog B&P Lux Property","Affitti brevi, senza giri di parole")
+    one(os.path.join(ogdir,"_calcolatore.png"),"Strumento gratuito","Calcolatore di rendita affitto breve")
+    print("OG: generate",len(articles)+2,"immagini")
 
 BLOG_CSS=r''':root{--ivory:#F6F2E9;--paper:#FBF9F3;--charcoal:#16140F;--charcoal2:#211E17;--gold:#B0894E;--gold2:#C9A24B;--muted:#7d7466;--line:rgba(22,20,15,.12);--serif:'Cormorant Garamond',Georgia,serif;--sans:'Jost',system-ui,sans-serif}
 *{box-sizing:border-box;margin:0;padding:0}
@@ -500,6 +641,58 @@ h1,h2,h3{font-family:var(--serif);font-weight:600;line-height:1.12;color:var(--c
 .ab-txt p{font-size:14px;color:var(--muted);margin:0}
 .fab-wa{position:fixed;right:20px;bottom:20px;z-index:90;width:56px;height:56px;border-radius:50%;background:#1f7a44;color:#fff;display:flex;align-items:center;justify-content:center;box-shadow:0 12px 30px rgba(0,0,0,.28);transition:.2s}
 .fab-wa:hover{transform:scale(1.08)}
+/* trust strip */
+.trust{background:var(--charcoal);color:var(--ivory)}
+.trust-in{display:flex;flex-wrap:wrap;justify-content:center;gap:22px 54px;padding:22px}
+.trust .tr{text-align:center}
+.trust .tr strong{display:block;font-family:var(--serif);font-size:26px;color:var(--gold2);line-height:1}
+.trust .tr span{font-size:12.5px;color:#c9c2b4}
+/* calc highlight in hub */
+.calc-hl{max-width:1120px;margin:44px auto 0;padding:0 22px}
+.calc-hl-in{display:flex;align-items:center;justify-content:space-between;gap:24px;flex-wrap:wrap;background:linear-gradient(135deg,var(--charcoal),var(--charcoal2));color:var(--ivory);border-radius:8px;padding:30px 34px}
+.calc-hl-in .kick{color:var(--gold2)}
+.calc-hl-in h2{color:#fff;font-size:26px;margin-bottom:6px}
+.calc-hl-in p{color:#d9d3c6;font-size:15px;max-width:560px;margin:0}
+.nav-calc{color:var(--gold);font-weight:500}
+.nav-calc:hover{color:var(--charcoal)}
+/* newsletter */
+.foot-news{background:var(--charcoal2);color:var(--ivory);border-top:1px solid rgba(255,255,255,.08)}
+.foot-news-in{display:flex;align-items:center;justify-content:space-between;gap:24px;flex-wrap:wrap;padding:26px 22px}
+.foot-news .fn-k{font-family:var(--serif);font-size:22px;color:#fff}
+.foot-news p{color:#c9c2b4;font-size:14px;margin-top:2px}
+.news-form{display:flex;gap:8px;flex-wrap:wrap}
+.news-form input{padding:12px 14px;border:1px solid var(--line);border-radius:2px;font-family:var(--sans);font-size:14px;min-width:220px;background:#fff;color:var(--charcoal)}
+.side-news .news-form{flex-direction:column}
+.side-news .news-form input{min-width:0;width:100%}
+.side-news .news-form .btn{width:100%;justify-content:center}
+.side-news p{font-size:14px;color:var(--muted);margin-bottom:12px}
+/* side calc card */
+.side-calc{display:block;background:linear-gradient(135deg,var(--gold),#8a6a29);color:#fff;border-color:transparent;transition:.25s}
+.side-calc .sd-k{display:block;font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:#3a2c0f;margin-bottom:6px}
+.side-calc strong{display:block;font-family:var(--serif);font-size:21px;color:#fff;margin-bottom:6px}
+.side-calc .sc-go{font-size:13px;color:#3a2c0f}
+.side-calc:hover{transform:translateY(-2px);box-shadow:0 16px 40px rgba(176,137,78,.35)}
+/* calcolatore page */
+.calc{max-width:820px;margin:36px auto 0}
+.calc-card{background:var(--paper);border:1px solid var(--line);border-radius:8px;padding:28px;box-shadow:0 16px 44px rgba(22,20,15,.07)}
+.calc-form{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.calc-form label{display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:500;color:var(--charcoal)}
+.calc-form select{padding:12px;border:1px solid var(--line);border-radius:3px;font-family:var(--sans);font-size:15px;background:#fff}
+.calc-form .btn-gold{grid-column:1/-1;justify-content:center}
+.calc-out{margin-top:24px;border-top:1px solid var(--line);padding-top:22px}
+.co-k{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:500}
+.co-range{font-family:var(--serif);font-size:clamp(30px,5vw,44px);color:var(--charcoal);margin:6px 0}
+.co-range small{font-family:var(--sans);font-size:15px;color:var(--muted)}
+.co-sub{font-size:14px;color:var(--muted)}
+.co-note{font-size:13px;color:var(--muted);background:var(--ivory);border-left:3px solid var(--gold);padding:10px 14px;margin:16px 0}
+.co-lead{background:#fff;border:1px solid var(--line);border-radius:6px;padding:20px;margin-top:8px}
+.co-lead strong{font-family:var(--serif);font-size:20px}
+.co-lead p{font-size:14px;color:var(--muted);margin:6px 0 12px}
+.co-lead .cta-form{display:flex;flex-direction:column;gap:10px}
+.co-lead .cta-form input{padding:12px 14px;border:1px solid var(--line);border-radius:2px;font-family:var(--sans);font-size:15px}
+.co-lead .wa{font-size:13.5px;color:#1f7a44;text-align:center}
+.calc-disc{font-size:12px;color:var(--muted);text-align:center;margin-top:14px}
+@media(max-width:560px){.calc-form{grid-template-columns:1fr}}
 @media(max-width:900px){
   .art-grid{grid-template-columns:1fr;gap:30px}
   .side{position:static}
@@ -532,6 +725,14 @@ BLOG_JS='''(function(){
     window.open("https://wa.me/"+WA+"?text="+t,"_blank");
   }
   function enc(s){return encodeURIComponent(s||"");}
+  window.bpNews=function(e){
+    e.preventDefault(); var f=e.target, em=(f.email&&f.email.value)||"";
+    var d={email:em,fonte:"newsletter "+location.pathname};
+    var ok=false; try{ if(HOOK) ok=navigator.sendBeacon(HOOK,new Blob([JSON.stringify(d)],{type:"application/json"})); }catch(_){}
+    if(!ok && !HOOK){ window.open("https://wa.me/"+WA+"?text="+enc("Ciao B&P, iscrivimi alla newsletter: "+em),"_blank"); }
+    f.innerHTML='<p style="color:#1f7a44;font-weight:500;margin:0">Iscrizione ricevuta, grazie!</p>';
+    return false;
+  };
 })();'''
 
 def write_assets():
@@ -543,9 +744,10 @@ def write_assets():
 def main():
     os.makedirs(OUT,exist_ok=True)
     write_assets()
+    make_og()
     for a in articles: render_article(a)
     for cid in CAT_ORDER: render_category(cid)
-    render_hub(); sitemap()
+    render_hub(); render_calculator(); sitemap()
     print(f"Generati: {len(articles)} articoli + {len(CAT_ORDER)} categorie + hub + sitemap")
     if warn:
         print("\n== AVVISI cancello contenuto (%d) =="%len(warn))
