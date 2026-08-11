@@ -76,13 +76,13 @@ WA_LINK='https://wa.me/'+WA+'?text='+_q(WA_PREFILL)
 WA_SVG='<svg viewBox="0 0 24 24" width="26" height="26" fill="currentColor" aria-hidden="true"><path d="M12 2a10 10 0 0 0-8.6 15l-1.3 4.9 5-1.3A10 10 0 1 0 12 2zm0 2a8 8 0 1 1-4.1 14.9l-.3-.2-2.6.7.7-2.5-.2-.3A8 8 0 0 1 12 4zm4.4 9.7c-.2-.1-1.4-.7-1.6-.8-.2-.1-.4-.1-.5.1l-.7.9c-.1.2-.3.2-.5.1a6.5 6.5 0 0 1-3.2-2.8c-.1-.2 0-.4.1-.5l.4-.5c.1-.1.1-.3 0-.4l-.7-1.7c-.2-.4-.4-.4-.5-.4h-.5c-.2 0-.4.1-.6.3-.7.7-.8 1.7-.4 2.7a9 9 0 0 0 3.9 4.1c1.4.7 2 .7 2.7.6.5-.1 1.4-.6 1.6-1.1.2-.5.2-1 .1-1.1z"/></svg>'
 HERO_POOL={
  "dozza-emilia-romagna":["/assets/dozza/dozza-1.jpg","/assets/dozza/dozza-5.jpg","/assets/dozza/dozza-2.jpg"],
- "gestione":["/assets/prop1.jpg","/assets/prop3.jpg"],
- "quanto-rende":["/assets/prop2.jpg","/assets/hero.jpg"],
- "citta":["/assets/prop3.jpg","/assets/prop1.jpg","/assets/hero.jpg","/assets/prop2.jpg"],
- "normativa-fisco":["/assets/hero.jpg","/assets/prop2.jpg"],
- "piattaforme":["/assets/prop1.jpg","/assets/prop2.jpg"],
- "affitti-brevi":["/assets/prop2.jpg","/assets/prop3.jpg"],
- "preparare-casa":["/assets/prop3.jpg","/assets/prop1.jpg"],
+ "gestione":["/blog/assets/ai/gestione.jpg","/blog/assets/ai/citta-2.jpg"],
+ "quanto-rende":["/blog/assets/ai/quanto-rende.jpg","/blog/assets/ai/citta-1.jpg"],
+ "citta":["/blog/assets/ai/citta-1.jpg","/blog/assets/ai/citta-2.jpg","/blog/assets/ai/citta-3.jpg"],
+ "normativa-fisco":["/blog/assets/ai/fisco.jpg","/blog/assets/ai/quanto-rende.jpg"],
+ "piattaforme":["/blog/assets/ai/piattaforme.jpg","/blog/assets/ai/citta-3.jpg"],
+ "affitti-brevi":["/blog/assets/ai/guida.jpg","/blog/assets/ai/citta-2.jpg"],
+ "preparare-casa":["/blog/assets/ai/preparare-casa.jpg","/blog/assets/ai/citta-1.jpg"],
 }
 def hero_for(a):
     if a.get("heroImage"): return a["heroImage"]
