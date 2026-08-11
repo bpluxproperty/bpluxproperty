@@ -1,0 +1,200 @@
+{
+  "slug": "come-funziona-airbnb-host",
+  "keyword": "come funziona airbnb host",
+  "category": "piattaforme",
+  "title": "Come funziona Airbnb per host: guida completa",
+  "metaDescription": "Come funziona Airbnb per chi affitta: creare l'annuncio, come e quando ti paga, le commissioni, calendario e prezzi, recensioni e obblighi in Italia.",
+  "h1": "Come funziona Airbnb per host: dall'annuncio al pagamento",
+  "excerpt": "Come funziona Airbnb per chi mette casa in affitto: dall'annuncio ai pagamenti, dalle commissioni ai prezzi, fino a recensioni, Superhost e adempimenti italiani. Spiegato semplice, da chi lo fa di mestiere.",
+  "opening": "Airbnb, dal lato host, funziona così: pubblichi un annuncio con foto, descrizione, prezzo e regole, apri il calendario e gli ospiti prenotano. Airbnb incassa dall'ospite e ti paga di norma circa 24 ore dopo il check-in. In cambio trattiene una commissione, in genere intorno al 3% per l'host. Tu gestisci accoglienza, recensioni e adempimenti.",
+  "publishedAt": "2026-08-11",
+  "updatedAt": "2026-08-11",
+  "heroKicker": "AIRBNB",
+  "sections": [
+    {
+      "h2": "Come funziona Airbnb dal lato host: il ciclo in breve",
+      "paragraphs": [
+        "Dal lato di chi affitta, Airbnb è la piattaforma che mette in contatto la tua casa con chi cerca un soggiorno breve. Tu pubblichi, l'ospite prenota, Airbnb gestisce il pagamento. Il resto — accoglienza e qualità — dipende da te.",
+        "Prima di entrare nei dettagli, ecco l'intero ciclo visto con gli occhi dell'host."
+      ],
+      "list": [
+        "Crei l'annuncio: foto, descrizione, prezzo, regole della casa e calendario.",
+        "Apri le date e ricevi le prenotazioni, oppure attivi la prenotazione immediata.",
+        "Accogli l'ospite: check-in, soggiorno ed eventuale assistenza.",
+        "Airbnb incassa dall'ospite e ti paga, di norma circa 24 ore dopo il check-in.",
+        "A fine soggiorno host e ospite si lasciano una recensione reciproca."
+      ]
+    },
+    {
+      "h2": "Creare l'annuncio: la vetrina della tua casa",
+      "paragraphs": [
+        "L'annuncio è la prima e spesso unica cosa che l'ospite vede. Si costruisce con foto, titolo, descrizione, prezzo, regole della casa e calendario delle disponibilità. Pubblicare non costa nulla: Airbnb guadagna solo quando guadagni tu.",
+        "La qualità qui pesa più di tutto. Da Superhost, sappiamo che le foto contano più di qualsiasi altra cosa: la stessa casa, fotografata bene o male, si prenota o resta vuota."
+      ],
+      "list": [
+        "Foto: luminose, ordinate, che mostrano ogni ambiente senza gonfiare la realtà.",
+        "Titolo e descrizione: chiari e concreti, con i punti di forza reali (posizione, silenzio, parcheggio).",
+        "Servizi: wi-fi, cucina, climatizzazione, tutto ciò che l'ospite filtra in ricerca.",
+        "Regole della casa: orari, animali, feste, numero massimo di ospiti.",
+        "Prezzo e calendario: tariffa base e date aperte, il punto di partenza di tutto."
+      ]
+    },
+    {
+      "h2": "Come e quando si viene pagati",
+      "paragraphs": [
+        "È il dubbio numero uno di chi inizia. La risposta è semplice: non incassi tu dall'ospite, incassa Airbnb. L'ospite paga al momento della prenotazione; tu ricevi il pagamento dopo, quando il soggiorno è cominciato.",
+        "In pratica Airbnb invia il pagamento all'host di norma circa 24 ore dopo il check-in dell'ospite. Poi i fondi impiegano qualche giorno ad arrivare sul metodo che hai scelto: bonifico bancario o altri metodi disponibili nel tuo Paese.",
+        "Il senso di questa attesa è la tutela di entrambi. L'ospite ha la certezza di trovare la casa; tu la certezza di essere pagato una volta iniziato il soggiorno."
+      ],
+      "table": {
+        "headers": [
+          "Momento",
+          "Cosa succede"
+        ],
+        "rows": [
+          [
+            "L'ospite prenota",
+            "Airbnb incassa subito l'intero importo dall'ospite"
+          ],
+          [
+            "Check-in",
+            "Parte il conteggio per il pagamento all'host"
+          ],
+          [
+            "Circa 24 ore dopo il check-in",
+            "Airbnb rilascia il pagamento verso l'host"
+          ],
+          [
+            "Nei giorni successivi",
+            "I fondi arrivano sul metodo scelto (es. bonifico)"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Le commissioni: quanto trattiene Airbnb",
+      "paragraphs": [
+        "Airbnb non fa pagare l'iscrizione né la pubblicazione: si ripaga con le commissioni sulle prenotazioni. Per gli host privati il modello più diffuso prevede una commissione a carico dell'host in genere intorno al 3% sul valore della prenotazione, mentre l'ospite paga in più una propria commissione di servizio.",
+        "Esiste anche una modalità \"solo host\", in cui la commissione è tutta a carico tuo con una percentuale più alta e l'ospite non paga il suo servizio. Le percentuali possono cambiare: conviene verificare sempre i valori aggiornati nel tuo account Airbnb prima di fissare i prezzi."
+      ],
+      "table": {
+        "headers": [
+          "Voce",
+          "Chi la paga",
+          "In genere"
+        ],
+        "rows": [
+          [
+            "Commissione host (modello condiviso)",
+            "Host",
+            "Intorno al 3% del valore della prenotazione"
+          ],
+          [
+            "Commissione di servizio",
+            "Ospite",
+            "Si aggiunge al totale che paga l'ospite"
+          ],
+          [
+            "Modalità \"solo host\"",
+            "Host",
+            "Percentuale più alta, l'ospite non paga il servizio"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Calendario e prezzi: le due leve della resa",
+      "paragraphs": [
+        "Il calendario decide quando la casa è prenotabile; il prezzo decide a quanto. Sono le due leve che, più di ogni altra cosa, determinano quanto rende un immobile.",
+        "I prezzi puoi impostarli a mano, tariffa per tariffa, oppure affidarti allo strumento prezzi di Airbnb, che suggerisce importi in base alla domanda. Una gestione dinamica — più alta nei weekend e negli eventi, più bassa nei periodi vuoti — rende di più di una tariffa fissa tutto l'anno."
+      ],
+      "list": [
+        "Prezzi dinamici: adegua la tariffa a stagione, giorni della settimana ed eventi in città.",
+        "Sconti per soggiorni lunghi: riempiono i buchi di calendario con meno gestione.",
+        "Regole di prenotazione: notti minime, finestra di preavviso, prenotazione immediata.",
+        "Calendario sincronizzato: se usi più portali, eviti le doppie prenotazioni."
+      ]
+    },
+    {
+      "h2": "Recensioni e Superhost: come si costruisce la reputazione",
+      "paragraphs": [
+        "A fine soggiorno host e ospite si lasciano una recensione reciproca. Sono pubbliche, restano nel tempo e pesano moltissimo: chi prenota le legge prima di scegliere, e una media alta porta più prenotazioni a parità di prezzo.",
+        "Con la costanza arriva il badge Superhost, il riconoscimento che Airbnb assegna agli host più affidabili. Dà più visibilità in ricerca e più fiducia agli ospiti. Non si compra: si ottiene tenendo alte la valutazione, la puntualità nelle risposte e la qualità dell'accoglienza.",
+        "Noi trattiamo ogni ospite come se lasciasse la prima recensione: è il modo più semplice per non scendere mai di livello. Su come diventare Superhost abbiamo una guida dedicata."
+      ]
+    },
+    {
+      "h2": "Gli obblighi in Italia, in sintesi",
+      "paragraphs": [
+        "Affittare su Airbnb in Italia non è solo pubblicare un annuncio: ci sono adempimenti di legge da rispettare. Qui li vediamo in sintesi; per i dettagli, e perché le regole cambiano nel tempo, conviene verificare sulle fonti ufficiali o farsi seguire da chi gestisce di mestiere.",
+        "Sono la parte che spaventa di più chi inizia, ed è anche quella dove un errore costa. Non è difficile in sé: va tenuta aggiornata e fatta con metodo, ospite dopo ospite.",
+        "Da property manager, la burocrazia è una delle cose che gestiamo al posto del proprietario, insieme ad annuncio, prezzi, ospiti e recensioni. Chi affitta la prima casa, invece, fa bene a impostarla con calma fin dall'inizio: rimediare dopo è sempre più lento che partire in regola."
+      ],
+      "list": [
+        "CIN (Codice Identificativo Nazionale): va richiesto ed esposto nell'annuncio e all'esterno dell'immobile.",
+        "Comunicazione degli ospiti: i dati di chi soggiorna vanno trasmessi alla Questura tramite il portale Alloggiati Web, di norma entro 24 ore dall'arrivo.",
+        "Imposta di soggiorno: dove prevista, si incassa dall'ospite e si versa al Comune secondo le sue regole.",
+        "Aspetti fiscali: i redditi da affitto breve vanno dichiarati; il regime dipende dalla tua situazione."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quanto costa pubblicare una casa su Airbnb?",
+      "a": "Pubblicare un annuncio è gratis. Airbnb non fa pagare iscrizione né inserzione: guadagna solo con le commissioni sulle prenotazioni. Per gli host privati la commissione è in genere intorno al 3% del valore della prenotazione, da verificare aggiornata nel tuo account."
+    },
+    {
+      "q": "Quando arriva il pagamento dopo la prenotazione?",
+      "a": "Airbnb ti paga di norma circa 24 ore dopo il check-in dell'ospite, non al momento della prenotazione. Da lì i fondi impiegano qualche giorno ad arrivare sul metodo che hai scelto, come il bonifico bancario."
+    },
+    {
+      "q": "Quanto trattiene Airbnb sull'host?",
+      "a": "Nel modello più diffuso per gli host privati la commissione host è in genere intorno al 3% sul valore della prenotazione, e l'ospite paga in più la sua commissione di servizio. Esiste anche una modalità \"solo host\" con percentuale più alta. Le cifre possono cambiare: verifica sempre su Airbnb."
+    },
+    {
+      "q": "Come si fissano i prezzi su Airbnb?",
+      "a": "Puoi impostare le tariffe a mano oppure usare lo strumento prezzi di Airbnb, che suggerisce importi in base alla domanda. Una gestione dinamica — più alta nei weekend e negli eventi, più bassa nei periodi vuoti — rende di più di una tariffa fissa tutto l'anno."
+    },
+    {
+      "q": "Devo per forza usare la prenotazione immediata?",
+      "a": "No. Puoi approvare manualmente ogni richiesta oppure attivare la prenotazione immediata, che permette all'ospite di prenotare senza attesa. La prenotazione immediata dà più visibilità in ricerca, ma la scelta dipende da quanto controllo vuoi sugli ospiti."
+    },
+    {
+      "q": "Cosa serve per affittare su Airbnb in Italia?",
+      "a": "Servono gli adempimenti di legge: il CIN da esporre, la comunicazione dei dati degli ospiti tramite Alloggiati Web e, dove prevista, l'imposta di soggiorno da versare al Comune. I redditi vanno poi dichiarati. Le regole cambiano: conviene verificarle sulle fonti ufficiali."
+    }
+  ],
+  "related": [
+    "come-diventare-superhost",
+    "property-manager-affitti-brevi",
+    "arredare-casa-per-affitti-brevi"
+  ],
+  "sources": [
+    {
+      "label": "Come e quando ricevi i pagamenti come host",
+      "ente": "Airbnb — Centro assistenza",
+      "data": "2026",
+      "url": ""
+    },
+    {
+      "label": "Commissioni di servizio per gli host",
+      "ente": "Airbnb — Centro assistenza",
+      "data": "2026",
+      "url": ""
+    },
+    {
+      "label": "Strumento prezzi e impostazione delle tariffe",
+      "ente": "Airbnb — Centro assistenza",
+      "data": "2026",
+      "url": ""
+    },
+    {
+      "label": "CIN e adempimenti per gli affitti brevi",
+      "ente": "Ministero del Turismo",
+      "data": "2026",
+      "url": ""
+    }
+  ],
+  "disclaimer": false,
+  "note": ""
+}

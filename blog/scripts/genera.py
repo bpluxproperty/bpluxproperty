@@ -80,7 +80,8 @@ def cta_block():
     </div>
     <form class="cta-form" onsubmit="return bpLead(event)">
       <input name="nome" required placeholder="Nome e cognome" aria-label="Nome e cognome">
-      <input name="contatto" required placeholder="Email o telefono" aria-label="Email o telefono">
+      <input name="email" type="email" required placeholder="Email" aria-label="Email">
+      <input name="telefono" placeholder="Telefono / WhatsApp" aria-label="Telefono o WhatsApp">
       <input name="citta" placeholder="Citta dell'immobile" aria-label="Citta dell'immobile">
       <button type="submit" class="btn btn-gold">{esc(ent["cta"]["bottone"])}</button>
       <a class="wa" href="https://wa.me/{WA}?text={esc(WA_PREFILL).replace(' ','%20')}" target="_blank" rel="noopener">&#128241; {esc(ent["cta"]["whatsappTesto"])} ({esc(S["whatsappDisplay"])})</a>
@@ -373,14 +374,14 @@ BLOG_JS='''(function(){
     d.fonte="blog "+location.pathname;
     var done=function(){f.innerHTML='<p style="font-family:Cormorant Garamond,serif;font-size:22px;color:#16140F">Grazie! Ti ricontattiamo a breve.</p>';};
     if(HOOK){
-      fetch(HOOK,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(d)})
-        .then(done).catch(function(){waFallback(d);});
+      var ok=false; try{ ok=navigator.sendBeacon(HOOK,new URLSearchParams(d)); }catch(e){}
+      if(ok){done();} else { waFallback(d); }
     } else { waFallback(d); }
     return false;
   };
   function waFallback(d){
     var t="Ciao B&P! Richiesta dal blog.%0A"+
-      "Nome: "+enc(d.nome)+"%0AContatto: "+enc(d.contatto)+"%0ACitta: "+enc(d.citta||"-")+"%0APagina: "+enc(location.pathname);
+      "Nome: "+enc(d.nome)+"%0AEmail: "+enc(d.email||"-")+"%0ATelefono: "+enc(d.telefono||"-")+"%0ACitta: "+enc(d.citta||"-")+"%0APagina: "+enc(location.pathname);
     window.open("https://wa.me/"+WA+"?text="+t,"_blank");
   }
   function enc(s){return encodeURIComponent(s||"");}
