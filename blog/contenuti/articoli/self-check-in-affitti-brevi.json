@@ -1,0 +1,69 @@
+{
+  "slug": "self-check-in-affitti-brevi",
+  "keyword": "self check-in affitti brevi",
+  "category": "gestione",
+  "title": "Self check-in affitti brevi: come funziona e sistemi",
+  "metaDescription": "Cos'è il self check-in negli affitti brevi, quali sistemi usare, i vantaggi per host e ospiti e come impostarlo senza saltare l'identificazione degli ospiti.",
+  "h1": "Self check-in per affitti brevi: la guida pratica per host",
+  "excerpt": "Cos'è il self check-in, quali sistemi usare per farlo bene e perché migliora l'esperienza dell'ospite, senza dimenticare l'obbligo di identificare chi soggiorna.",
+  "opening": "Il self check-in permette all'ospite di entrare in casa da solo, senza incontrarti di persona: gli invii le istruzioni prima dell'arrivo e lui accede con un codice, una chiave in cassetta o una serratura smart. Conviene perché libera l'ospite dagli orari e te dal dover essere sempre presente. E spesso alza il voto sul check-in.",
+  "publishedAt": "2026-08-11",
+  "updatedAt": "2026-08-11",
+  "heroKicker": "GESTIONE",
+  "sections": [
+    { "h2": "Come funziona il self check-in",
+      "paragraphs": [
+        "Il principio è semplice: l'ospite arriva quando gli fa comodo ed entra da solo, seguendo istruzioni che gli mandi prima. Nessun appuntamento da incastrare, nessuna attesa sotto il portone.",
+        "Prima dell'arrivo invii tutto il necessario: indirizzo esatto, come raggiungere la casa, dove trovare la chiave o il codice, come aprire il portone e cosa fare una volta dentro. Foto e un video breve aiutano più di mille parole."
+      ],
+      "list": ["Confermi la prenotazione e raccogli i dati per l'identificazione", "Invii le istruzioni di accesso qualche giorno prima dell'arrivo", "L'ospite entra da solo con codice, chiave in cassetta o serratura smart", "Resti reperibile via messaggio per qualsiasi dubbio"] },
+    { "h2": "I sistemi per il self check-in",
+      "paragraphs": [
+        "Non esiste un sistema giusto in assoluto: dipende dalla casa, dalla porta e da quanto vuoi automatizzare. I più usati sono quattro.",
+        "La serratura smart apre con codice o app e ti permette di cambiare il codice a ogni ospite. La key box è una cassetta con combinazione che custodisce la chiave fisica. Il tastierino a codice sblocca la porta senza chiavi. La portineria o un servizio di custodia chiavi affida la consegna a terzi."
+      ],
+      "table": { "headers": ["Sistema", "Pro", "Contro"],
+        "rows": [
+          ["Serratura smart", "Codice diverso per ogni ospite, niente chiavi da perdere", "Costo iniziale più alto, serve gestire batteria e connessione"],
+          ["Key box / cassetta", "Economica, adatta a quasi ogni porta", "La chiave fisica va gestita, la combinazione va cambiata spesso"],
+          ["Tastierino a codice", "Nessuna chiave, accesso rapido", "Va installato sulla porta e dipende dall'alimentazione"],
+          ["Portineria / custodia chiavi", "Presenza umana, gestisce gli imprevisti", "Vincolata agli orari, con un costo ricorrente"]
+        ] } },
+    { "h2": "I vantaggi del self check-in",
+      "paragraphs": [
+        "Per l'ospite il vantaggio è la libertà: atterra tardi, arriva in treno all'alba o si perde per strada, e la casa lo aspetta comunque. Nessuna pressione sull'orario, da nessuna delle due parti.",
+        "Per te significa meno corse e meno tempo perso ad aspettare. Gestisci più arrivi senza doverti sdoppiare, anche quando l'immobile è in un'altra città.",
+        "Nei nostri alloggi, come quello di Dozza, il self check-in è la norma: il punteggio sul check-in è costantemente tra i più alti che riceviamo. Un accesso semplice e ben spiegato mette l'ospite a suo agio dal primo minuto."
+      ],
+      "list": ["Flessibilità totale sugli orari di arrivo", "Meno tempo speso in spostamenti e attese", "Più arrivi gestibili, anche a distanza", "Prima impressione ordinata, che si riflette sulle recensioni"] },
+    { "h2": "Quando il self check-in non è la scelta giusta",
+      "paragraphs": [
+        "Il self check-in non è adatto a tutto. In un immobile di fascia alta l'accoglienza di persona è parte del servizio: un padrone di casa che ti accoglie, spiega e consiglia vale quanto la casa stessa.",
+        "Serve la presenza anche quando devi mostrare l'appartamento, spiegare impianti particolari o gestire una consegna delicata. In questi casi l'incontro non è un costo, è un valore. La regola è semplice: automatizza dove aggiunge comodità, resta presente dove aggiunge esperienza."
+      ] },
+    { "h2": "Come impostare bene il self check-in",
+      "paragraphs": [
+        "La differenza tra un self check-in che funziona e uno che genera messaggi a mezzanotte sta nei dettagli. Le istruzioni devono essere chiare, visive e a prova di fraintendimento.",
+        "Metti alla prova il percorso come se fossi l'ospite: parti dalla strada, trova la porta, apri, entra. Ogni punto in cui esiti è un punto da spiegare meglio."
+      ],
+      "list": ["Indirizzo preciso e indicazioni per arrivare, con foto del portone", "Posizione e combinazione della cassetta, oppure il codice della serratura", "Istruzioni passo passo, meglio se con foto o un video breve", "Come funzionano riscaldamento, wifi e piccoli elettrodomestici", "Un contatto sempre raggiungibile per gli imprevisti", "Cosa fare alla partenza: chiavi, rifiuti e orario di uscita"] },
+    { "h2": "Sicurezza e identificazione degli ospiti",
+      "paragraphs": [
+        "Entrare da soli non vuol dire entrare da anonimi. In Italia resta l'obbligo di identificare chi soggiorna e di comunicare i dati alle autorità tramite il portale Alloggiati Web della Questura. Il self check-in cambia il come, non il se.",
+        "Quindi raccogli i documenti prima o al momento dell'arrivo, anche a distanza, e completi la comunicazione come previsto. È un passaggio che non puoi saltare, per quanto comoda sia la modalità di accesso.",
+        "Sul fronte della sicurezza fisica vale una regola d'oro: cambia il codice a ogni ospite, non lasciare la stessa combinazione per mesi e tieni una chiave di scorta gestita da te o da chi si occupa della casa."
+      ] }
+  ],
+  "faq": [
+    { "q": "Il self check-in è legale in Italia?", "a": "Sì, la modalità di accesso è libera. Resta però l'obbligo di identificare gli ospiti e comunicarne i dati alle autorità tramite il portale Alloggiati Web della Questura. Il self check-in non elimina questo passaggio: cambia solo il modo in cui l'ospite entra." },
+    { "q": "Qual è il sistema di self check-in migliore?", "a": "Dipende dalla casa. La serratura smart offre un codice diverso per ogni ospite ma costa di più; la key box è economica e adatta a quasi ogni porta; il tastierino elimina le chiavi. Scegli in base a porta, budget e a quanto vuoi automatizzare." },
+    { "q": "Il self check-in migliora le recensioni?", "a": "Spesso sì, se è ben fatto. Un accesso semplice e istruzioni chiare mettono l'ospite a suo agio subito. Nei nostri alloggi il punteggio del check-in è tra i più alti. Ma istruzioni confuse ottengono l'effetto opposto." },
+    { "q": "Come consegno le chiavi senza esserci?", "a": "Con una key box a combinazione fissata vicino all'ingresso, con una serratura smart che apre a codice o con un tastierino senza chiavi. In alternativa puoi appoggiarti a una portineria o a un servizio di custodia chiavi." },
+    { "q": "Come identifico gli ospiti se non li incontro?", "a": "Puoi raccogliere i documenti prima dell'arrivo, anche in digitale, e completare la comunicazione tramite Alloggiati Web. L'importante è farlo per ogni ospite che soggiorna, indipendentemente dalla modalità di accesso." },
+    { "q": "Il self check-in va bene per ogni immobile?", "a": "No. Per case di fascia alta, o quando serve mostrare l'appartamento, spiegare impianti o gestire consegne particolari, l'accoglienza di persona resta un valore. In quei casi l'incontro migliora l'esperienza invece di rallentarla." }
+  ],
+  "related": ["property-manager-affitti-brevi", "come-diventare-superhost", "arredare-casa-per-affitti-brevi"],
+  "sources": [],
+  "disclaimer": false,
+  "note": ""
+}
