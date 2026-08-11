@@ -1,0 +1,69 @@
+{
+  "slug": "alloggiati-web-comunicazione-ospiti",
+  "keyword": "alloggiati web affitti brevi",
+  "category": "normativa-fisco",
+  "title": "Alloggiati Web affitti brevi: guida alla comunicazione",
+  "metaDescription": "Con gli affitti brevi devi comunicare i dati degli ospiti alla Questura tramite il portale Alloggiati Web. Ecco come accreditarti e inviare le schedine.",
+  "h1": "Alloggiati Web: come comunicare gli ospiti degli affitti brevi",
+  "excerpt": "Chi affitta a breve deve comunicare i dati degli ospiti alla Questura tramite Alloggiati Web. Come si ottengono le credenziali e come si inviano le schedine, passo per passo.",
+  "opening": "Alloggiati Web è il portale della Polizia di Stato con cui comunichi alla Questura i dati di chi soggiorna nel tuo alloggio. Chi affitta a breve è obbligato a farlo: ti accrediti presso la Questura competente, ottieni le credenziali e, per ogni ospite, inserisci i dati del documento entro i tempi previsti dalla normativa. È un obbligo di pubblica sicurezza, distinto dal CIN e dall'imposta di soggiorno.",
+  "publishedAt": "2026-08-11",
+  "updatedAt": "2026-08-11",
+  "heroKicker": "NORMATIVA & FISCO",
+  "sections": [
+    { "h2": "Cos'è Alloggiati Web e perché è obbligatorio",
+      "paragraphs": [
+        "Alloggiati Web è il servizio online della Polizia di Stato con cui ogni struttura ricettiva comunica alla Questura chi vi alloggia. Gli affitti brevi rientrano a pieno titolo in questo obbligo: ospiti una persona a fini ricettivi, quindi ne devi comunicare i dati.",
+        "È un adempimento di pubblica sicurezza, non fiscale. Serve allo Stato per sapere chi si trova sul territorio, come da sempre avviene negli hotel. Vale per ogni ospite che soggiorna, a prescindere dalla durata e dal portale su cui hai pubblicato l'annuncio."
+      ],
+      "list": ["Vale per appartamenti interi e per singole stanze", "Riguarda ogni ospite che pernotta, non solo chi prenota", "È indipendente dal portale: Airbnb, Booking o prenotazione diretta", "Non viene sostituito dal self check-in"] },
+    { "h2": "Come ci si accredita in Questura",
+      "paragraphs": [
+        "Per usare il portale devi prima ottenere le credenziali. L'accreditamento si fa presso la Questura competente per il territorio in cui si trova l'immobile, con una richiesta dedicata.",
+        "Al termine ricevi le credenziali personali per accedere ad Alloggiati Web. Sono legate a te come gestore e all'immobile: se gestisci più case in province diverse, verifica cosa richiede ciascuna Questura, perché le indicazioni operative possono variare."
+      ],
+      "list": ["Prepara i dati dell'immobile e i tuoi come gestore", "Presenta la richiesta di accreditamento alla Questura competente", "Ricevi le credenziali di accesso al portale", "Accedi ad Alloggiati Web e configura la struttura"] },
+    { "h2": "Come si comunicano gli ospiti, passo per passo",
+      "paragraphs": [
+        "A ogni arrivo inserisci i dati di ogni persona che soggiorna. Si parte dal documento d'identità: tipo, numero e dati anagrafici, distinguendo chi guida il gruppo dagli altri componenti.",
+        "Puoi inserire i dati manualmente sul portale oppure caricare un file con l'elenco degli ospiti. Al termine il sistema restituisce una ricevuta: conservala, è la prova che la comunicazione è stata inviata.",
+        "Per i proprietari che seguiamo gestiamo noi sia l'accreditamento sia l'invio delle comunicazioni a ogni arrivo. È un compito ripetitivo ma delicato: un ospite dimenticato o una schedina in ritardo sono problemi evitabili, e vale la pena avere una procedura fissa."
+      ],
+      "list": ["Accedi al portale con le tue credenziali", "Inserisci i dati del documento di ogni ospite", "Distingui il capogruppo dagli altri componenti", "Invia la comunicazione e scarica la ricevuta", "Conserva la ricevuta insieme ai dati della prenotazione"] },
+    { "h2": "Entro quando va fatta la comunicazione",
+      "paragraphs": [
+        "La comunicazione va effettuata entro i tempi previsti dalla normativa: di norma entro 24 ore dall'arrivo dell'ospite. Per i soggiorni molto brevi, la comunicazione va fatta al momento dell'arrivo.",
+        "Le istruzioni operative possono aggiornarsi nel tempo: verifica sempre le indicazioni ufficiali sul portale della Polizia di Stato prima di impostare la tua routine. Il consiglio pratico è muoversi subito dopo il check-in, senza rimandare."
+      ] },
+    { "h2": "Cosa serve dall'ospite",
+      "paragraphs": [
+        "Per comunicare i dati ti serve un documento d'identità valido di ogni persona che soggiorna. Servono i dati anagrafici completi e gli estremi del documento, così come richiesti dal portale per il tipo di ospite.",
+        "Il consiglio è raccogliere i documenti prima o al momento dell'arrivo, anche in digitale se usi il self check-in. Così eviti di rincorrere l'ospite più tardi, quando ormai è fuori a visitare la città."
+      ],
+      "list": ["Documento d'identità valido di ogni ospite", "Dati anagrafici completi: nome, data e luogo di nascita", "Il documento anche dei minori che pernottano", "La suddivisione tra capogruppo e altri componenti"] },
+    { "h2": "Alloggiati Web, CIN e imposta di soggiorno: le differenze",
+      "paragraphs": [
+        "Sono tre cose diverse che spesso vengono confuse. Alloggiati Web è la comunicazione degli ospiti alla Questura, per la pubblica sicurezza. Il CIN è il codice che identifica l'immobile. L'imposta di soggiorno è un tributo comunale che paga l'ospite.",
+        "Averne uno non ti mette a posto con gli altri: sono adempimenti separati, con enti e finalità diverse. Nella nostra esperienza è l'equivoco più frequente tra i proprietari che iniziano ad affittare a breve."
+      ],
+      "table": { "headers": ["Adempimento", "A cosa serve", "Dove/con chi si fa"],
+        "rows": [
+          ["Alloggiati Web", "Comunicare i dati degli ospiti per la pubblica sicurezza", "Portale della Polizia di Stato, verso la Questura"],
+          ["CIN", "Identificare l'immobile e renderlo tracciabile negli annunci", "Ministero del Turismo, poi esposto negli annunci"],
+          ["Imposta di soggiorno", "Tributo pagato dall'ospite sul pernottamento", "Comune dove si trova l'alloggio"]
+        ] } }
+  ],
+  "faq": [
+    { "q": "Chi affitta a breve deve usare Alloggiati Web?", "a": "Sì. Chi ospita a fini ricettivi, inclusi gli affitti brevi, deve comunicare i dati di chi soggiorna alla Questura tramite il portale Alloggiati Web della Polizia di Stato. Vale per ogni ospite, a prescindere dalla durata del soggiorno e dal portale usato per l'annuncio." },
+    { "q": "Come ottengo le credenziali di Alloggiati Web?", "a": "Devi accreditarti presso la Questura competente per il territorio in cui si trova l'immobile, con una richiesta dedicata. Al termine ricevi le credenziali personali per accedere al portale. Verifica sul sito della Polizia di Stato le indicazioni aggiornate per la tua zona." },
+    { "q": "Entro quando devo comunicare gli ospiti?", "a": "La comunicazione va inviata entro i tempi previsti dalla normativa: di norma entro 24 ore dall'arrivo dell'ospite e, per i soggiorni molto brevi, al momento dell'arrivo. Verifica sempre le istruzioni ufficiali aggiornate sul portale della Polizia di Stato." },
+    { "q": "Il self check-in mi esonera dalla comunicazione?", "a": "No. Il self check-in cambia solo il modo in cui l'ospite entra in casa, non l'obbligo di identificarlo. Devi comunque raccogliere il documento e inviare i dati tramite Alloggiati Web, anche a distanza e per ogni persona che pernotta." },
+    { "q": "Alloggiati Web e imposta di soggiorno sono la stessa cosa?", "a": "No. Alloggiati Web è la comunicazione degli ospiti alla Questura per la pubblica sicurezza. L'imposta di soggiorno è un tributo comunale che paga l'ospite. Sono adempimenti distinti, con enti e finalità diverse, e vanno gestiti entrambi." }
+  ],
+  "related": ["cin-affitti-brevi-come-ottenerlo", "imposta-di-soggiorno-affitti-brevi", "self-check-in-affitti-brevi"],
+  "sources": [
+    { "label": "Portale Alloggiati Web", "ente": "Polizia di Stato", "data": "", "url": "" }
+  ],
+  "disclaimer": true,
+  "note": ""
+}

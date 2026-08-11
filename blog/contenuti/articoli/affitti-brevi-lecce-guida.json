@@ -1,0 +1,65 @@
+{
+  "slug": "affitti-brevi-lecce-guida",
+  "keyword": "affitti brevi lecce",
+  "category": "citta",
+  "title": "Affitti brevi a Lecce: la guida per host",
+  "metaDescription": "Affitti brevi a Lecce: le zone migliori, che ospiti aspettarti e come gestire la forte stagionalità del Salento. La guida di un property manager.",
+  "h1": "Affitti brevi a Lecce: barocco, mare del Salento e stagionalità",
+  "excerpt": "Lecce unisce il fascino del barocco al ruolo di porta del Salento. Zone migliori, tipo di ospiti e come gestire una domanda estiva fortissima.",
+  "opening": "A Lecce l'affitto breve funziona su due binari: il turismo culturale del centro barocco, vivo buona parte dell'anno, e l'ondata estiva di chi usa la città come base per il mare del Salento. Il nodo vero non è riempire ad agosto, ma gestire la stagionalità: prezzi dinamici e centro storico sono le due leve principali.",
+  "publishedAt": "2026-08-11",
+  "updatedAt": "2026-08-11",
+  "heroKicker": "LECCE",
+  "sections": [
+    { "h2": "Perché Lecce funziona per gli affitti brevi",
+      "paragraphs": [
+        "Lecce è la capitale del barocco, la \"Firenze del Sud\": un centro storico compatto e scenografico che attira turismo culturale in gran parte dell'anno. A questo si somma il ruolo di porta del Salento, con una domanda estiva molto forte.",
+        "Per chi affitta significa una cosa concreta: un immobile ben posizionato lavora d'estate col mare e nelle altre stagioni con arte, eventi e weekend. La differenza la fa saper cavalcare entrambe le domande."
+      ] },
+    { "h2": "Le zone migliori",
+      "paragraphs": [
+        "Il centro storico è il cuore della domanda: chi viene a Lecce vuole dormire tra le chiese barocche e i vicoli in pietra leccese. Le zone semicentrali offrono buon compromesso tra prezzo d'acquisto e comodità."
+      ],
+      "table": { "headers": ["Zona", "Vocazione", "Ospiti tipici"],
+        "rows": [
+          ["Centro storico", "Barocco, a piedi ovunque", "Coppie, turismo culturale"],
+          ["Semicentro / mura", "Comodo e più accessibile", "Famiglie, soggiorni lunghi"],
+          ["Vicino stazione", "Base per il Salento in treno/auto", "Viaggiatori in transito"],
+          ["Lecce come base mare", "Auto verso Otranto/Gallipoli", "Turismo balneare estivo"]
+        ] } },
+    { "h2": "Che ospiti aspettarti",
+      "paragraphs": [
+        "Il pubblico è vario e cambia con la stagione. Conoscerlo aiuta ad arredare e comunicare nel modo giusto."
+      ],
+      "list": ["Coppie e city-break sul barocco (primavera e autunno)", "Turisti balneari che usano Lecce come base per il Salento (estate)", "Famiglie e gruppi per soggiorni più lunghi d'estate", "Turismo internazionale in crescita, attratto dal Sud autentico"] },
+    { "h2": "Stagionalità: la vera sfida del Salento",
+      "paragraphs": [
+        "Il Salento vive un picco estivo intenso: da giugno a settembre la domanda esplode e le tariffe salgono, ma il resto dell'anno va lavorato con attenzione. Il centro barocco aiuta a destagionalizzare, perché attira anche fuori estate.",
+        "Nella nostra esperienza, l'errore più comune qui è tenere lo stesso prezzo tutto l'anno: si lasciano soldi sul tavolo in alta stagione e si resta sfitti in bassa. I prezzi dinamici, con ponti ed eventi valorizzati, cambiano il risultato."
+      ] },
+    { "h2": "Regole locali in sintesi",
+      "paragraphs": [
+        "Come ovunque in Italia, per affittare a breve serve il CIN, va comunicata la presenza degli ospiti e si applica l'imposta di soggiorno comunale. Sono adempimenti gestibili, ma vanno fatti bene fin dall'inizio.",
+        "Non è un parere fiscale o legale: verifica le regole aggiornate del Comune di Lecce e, per il codice, la nostra guida dedicata al CIN."
+      ] },
+    { "h2": "Come far rendere un immobile a Lecce",
+      "paragraphs": [
+        "Il centro storico premia la cura: foto che raccontano la pietra leccese, un arredo che valorizza volte e dettagli, e una comunicazione che suggerisce cosa vedere e dove mangiare. Fuori stagione, contenuti ed eventi tengono viva l'occupazione.",
+        "Chi ha l'immobile ma vive altrove, o non vuole gestire i picchi estivi, spesso preferisce delegare a chi lo fa di mestiere: prezzi, ospiti e turnover fitti d'estate si gestiscono meglio con un metodo."
+      ] }
+  ],
+  "faq": [
+    { "q": "Conviene affittare a breve a Lecce?", "a": "Sì, se gestisci bene la stagionalità. Lecce unisce turismo culturale sul barocco, presente gran parte dell'anno, e una domanda estiva fortissima legata al mare del Salento. Un immobile ben posizionato in centro lavora su entrambe le stagioni." },
+    { "q": "Qual è la zona migliore a Lecce?", "a": "Il centro storico barocco è la zona più richiesta: gli ospiti vogliono dormire tra chiese e vicoli in pietra leccese. Le zone semicentrali sono un buon compromesso tra prezzo d'acquisto e comodità, utili per famiglie e soggiorni lunghi." },
+    { "q": "Come si gestisce la stagionalità estiva del Salento?", "a": "Con i prezzi dinamici e valorizzando il centro barocco fuori estate. D'estate la domanda per il mare è altissima e le tariffe salgono; nelle altre stagioni si lavora con arte, eventi e weekend. Il prezzo fisso tutto l'anno è l'errore più comune." },
+    { "q": "Serve il CIN per affittare a Lecce?", "a": "Sì. Il CIN è obbligatorio in tutta Italia, insieme alla comunicazione degli ospiti e all'imposta di soggiorno comunale. Verifica le regole aggiornate del Comune di Lecce; per ottenere il codice trovi la nostra guida dedicata al CIN." },
+    { "q": "Posso usare Lecce come base per il mare?", "a": "Sì, ed è uno dei motivi della domanda estiva. Molti ospiti dormono a Lecce e raggiungono in auto Otranto, Gallipoli e le spiagge del Salento. Un immobile con parcheggio comodo o vicino ai collegamenti è particolarmente apprezzato d'estate." }
+  ],
+  "related": ["affitti-brevi-bari-guida", "property-manager-affitti-brevi", "cin-affitti-brevi-come-ottenerlo"],
+  "sources": [
+    { "label": "Regolamento turistico e imposta di soggiorno", "ente": "Comune di Lecce", "data": "", "url": "" },
+    { "label": "Codice Identificativo Nazionale (CIN)", "ente": "Ministero del Turismo", "data": "", "url": "" }
+  ],
+  "disclaimer": false,
+  "note": ""
+}
