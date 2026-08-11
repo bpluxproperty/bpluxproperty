@@ -70,9 +70,91 @@ def table(tb):
     rows="".join("<tr>"+"".join(f"<td>{inline(c)}</td>" for c in r)+"</tr>" for r in tb.get("rows",[]))
     return f'<div class="tbl"><table><thead><tr>{h}</tr></thead><tbody>{rows}</tbody></table></div>'
 
+# ---------------- HELPER PREMIUM ----------------
+from urllib.parse import quote as _q
+WA_LINK='https://wa.me/'+WA+'?text='+_q(WA_PREFILL)
+WA_SVG='<svg viewBox="0 0 24 24" width="26" height="26" fill="currentColor" aria-hidden="true"><path d="M12 2a10 10 0 0 0-8.6 15l-1.3 4.9 5-1.3A10 10 0 1 0 12 2zm0 2a8 8 0 1 1-4.1 14.9l-.3-.2-2.6.7.7-2.5-.2-.3A8 8 0 0 1 12 4zm4.4 9.7c-.2-.1-1.4-.7-1.6-.8-.2-.1-.4-.1-.5.1l-.7.9c-.1.2-.3.2-.5.1a6.5 6.5 0 0 1-3.2-2.8c-.1-.2 0-.4.1-.5l.4-.5c.1-.1.1-.3 0-.4l-.7-1.7c-.2-.4-.4-.4-.5-.4h-.5c-.2 0-.4.1-.6.3-.7.7-.8 1.7-.4 2.7a9 9 0 0 0 3.9 4.1c1.4.7 2 .7 2.7.6.5-.1 1.4-.6 1.6-1.1.2-.5.2-1 .1-1.1z"/></svg>'
+HERO_POOL={
+ "dozza-emilia-romagna":["/assets/dozza/dozza-1.jpg","/assets/dozza/dozza-5.jpg","/assets/dozza/dozza-2.jpg"],
+ "gestione":["/assets/prop1.jpg","/assets/prop3.jpg"],
+ "quanto-rende":["/assets/prop2.jpg","/assets/hero.jpg"],
+ "citta":["/assets/prop3.jpg","/assets/prop1.jpg","/assets/hero.jpg","/assets/prop2.jpg"],
+ "normativa-fisco":["/assets/hero.jpg","/assets/prop2.jpg"],
+ "piattaforme":["/assets/prop1.jpg","/assets/prop2.jpg"],
+ "affitti-brevi":["/assets/prop2.jpg","/assets/prop3.jpg"],
+ "preparare-casa":["/assets/prop3.jpg","/assets/prop1.jpg"],
+}
+def hero_for(a):
+    if a.get("heroImage"): return a["heroImage"]
+    pool=HERO_POOL.get(a.get("category"),["/assets/prop1.jpg"])
+    return pool[sum(ord(ch) for ch in a["slug"])%len(pool)]
+def reading_time(a):
+    w=len((a.get("opening","")).split())
+    for s in a.get("sections",[]):
+        for p in s.get("paragraphs",[]): w+=len(p.split())
+        for l in (s.get("list") or []): w+=len(l.split())
+    for q in a.get("faq",[]): w+=len(q.get("a","").split())
+    return max(3,round(w/200))
+def cta_inline():
+    return f'''<div class="cta-inline">
+  <div><strong>Quanto puo rendere il tuo immobile?</strong><span>Valutazione gratuita, numeri reali, senza impegno.</span></div>
+  <div class="ci-btns"><a class="btn btn-gold" href="#contatti-blog">Valutazione gratuita</a><a class="btn btn-wa" href="{WA_LINK}" target="_blank" rel="noopener">WhatsApp</a></div>
+</div>'''
+def side_bar(a):
+    seen={a["slug"]}; links=[]
+    for r in a.get("related",[]):
+        if r in BY and r not in seen: seen.add(r); links.append(BY[r])
+    for x in articles:
+        if len(links)>=5: break
+        if x["category"]==a["category"] and x["slug"] not in seen: seen.add(x["slug"]); links.append(x)
+    links_html="".join(f'<li><a href="/blog/{x["slug"]}/">{esc(x.get("h1") or x.get("title"))}</a></li>' for x in links)
+    cats_html="".join(f'<a href="/blog/categoria/{cid}/">{esc(CATS[cid]["name"])}</a>' for cid in CAT_ORDER)
+    return f'''<aside class="side">
+  <div class="side-card side-val">
+    <span class="sv-k">Valutazione gratuita</span>
+    <p>Scopri quanto puo rendere il tuo immobile come affitto breve. La calcoliamo noi, sui numeri reali.</p>
+    <a class="btn btn-gold" href="#contatti-blog">Richiedi la valutazione</a>
+  </div>
+  <div class="side-card side-wa">
+    <span class="sw-t">Preferisci WhatsApp?</span>
+    <a class="btn btn-wa" href="{WA_LINK}" target="_blank" rel="noopener">{WA_SVG}<span>Scrivici ora</span></a>
+    <img src="/blog/assets/wa-qr.png" alt="QR per scrivere a B&P Lux Property su WhatsApp" width="128" height="128" loading="lazy">
+    <span class="sw-q">Inquadra il QR per scriverci</span>
+  </div>
+  <div class="side-card side-list">
+    <span class="sl-k">Articoli utili</span>
+    <ul>{links_html}</ul>
+  </div>
+  <div class="side-card side-cats">
+    <span class="sl-k">Esplora per categoria</span>
+    <div class="sc-tags">{cats_html}</div>
+  </div>
+  <a class="side-card side-dozza" href="/blog/dove-dormire-a-dozza-appartamento/">
+    <span class="sd-k">Il nostro immobile</span>
+    <strong>Loft nel centro di Dozza</strong>
+    <span class="sd-r">&#9733; 4,97 &middot; Superhost</span>
+    <span class="sd-go">Scoprilo &rarr;</span>
+  </a>
+</aside>'''
+def share_box(a):
+    u=_q(art_url(a["slug"])+"/"); t=_q(a.get("h1") or a.get("title"))
+    return f'''<div class="share"><span>Condividi</span>
+  <a href="https://wa.me/?text={t}%20{u}" target="_blank" rel="noopener">WhatsApp</a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u={u}" target="_blank" rel="noopener">Facebook</a>
+  <a href="https://www.linkedin.com/sharing/share-offsite/?url={u}" target="_blank" rel="noopener">LinkedIn</a>
+  <a href="https://twitter.com/intent/tweet?url={u}&text={t}" target="_blank" rel="noopener">X</a>
+</div>'''
+def author_box():
+    au=ent["author"]
+    return f'''<div class="authorbox">
+  <div class="ab-badge">B&amp;P</div>
+  <div class="ab-txt"><strong>{esc(au["name"])}</strong><span>{esc(au["role"])}</span><p>{esc(au["bio"])}</p></div>
+</div>'''
+
 # ---------------- COMPONENTI ----------------
-def cta_block():
-    return f'''<section class="cta" aria-label="Contattaci">
+def cta_block(cid=""):
+    idattr=f' id="{cid}"' if cid else ""
+    return f'''<section class="cta"{idattr} aria-label="Contattaci">
   <div class="cta-in">
     <div class="cta-txt">
       <span class="kick">{esc(ent["cta"]["titolo"])}</span>
@@ -122,6 +204,7 @@ def page(title, desc, canonical, body, jsonld, extra_head=""):
 {header()}
 {body}
 {footer()}
+<a class="fab-wa" href="{WA_LINK}" target="_blank" rel="noopener" aria-label="Scrivici su WhatsApp">{WA_SVG}</a>
 <script src="/blog/blog.js" defer></script>
 </body></html>'''
 
@@ -141,7 +224,7 @@ def render_article(a):
     for i,sec in enumerate(a.get("sections",[])):
         sid=f"s{i+1}"; toc.append((sid,sec["h2"]))
         secs_html+=f'<section id="{sid}"><h2>{esc(sec["h2"])}</h2>{paras(sec.get("paragraphs"))}{ul(sec.get("list"))}{table(sec.get("table"))}</section>'
-        if i==2: secs_html+=cta_block()   # CTA a meta
+        if i==2: secs_html+=cta_inline()   # CTA a meta
     toc_html=""
     if len(toc)>=5:
         toc_html='<nav class="toc"><span>In questa guida</span><ol>'+"".join(f'<li><a href="#{i}">{esc(h)}</a></li>' for i,h in toc)+'</ol></nav>'
@@ -153,26 +236,32 @@ def render_article(a):
         items="".join(f'<li>{("<a href=\""+esc(s["url"])+"\" target=\"_blank\" rel=\"noopener\">"+esc(s["label"])+"</a>") if s.get("url") else esc(s.get("label",""))} — {esc(s.get("ente",""))}{(", "+esc(str(s["data"]))) if s.get("data") else ""}</li>' for s in a["sources"])
         src_html=f'<section class="sources"><h2>Fonti</h2><ul>{items}</ul></section>'
     disc='<p class="disclaimer">Contenuto informativo, aggiornato alla data di pubblicazione: non sostituisce una consulenza professionale. Per il tuo caso specifico, verifica con un professionista o contattaci.</p>' if a.get("disclaimer") else ""
-    heroimg=a.get("heroImage")
-    hero_style=f' style="background-image:linear-gradient(180deg,rgba(22,20,15,.35),rgba(22,20,15,.78)),url({heroimg});background-size:cover;background-position:center"' if heroimg else ""
-    hero_cls="hero art-hero"+(" has-img" if heroimg else "")
-    body=f'''<main class="art">
-<nav class="crumb"><a href="/blog/">Blog</a> / <a href="/blog/categoria/{a["category"]}/">{esc(c.get("name",""))}</a> / <span>{esc(a.get("h1") or a.get("title"))}</span></nav>
-<div class="{hero_cls}"{hero_style}>
-  <span class="kick">{esc(a.get("heroKicker") or c.get("name",""))}</span>
-  <h1>{esc(a.get("h1") or a.get("title"))}</h1>
-  <div class="meta">A cura di {esc(ent["author"]["name"])} &middot; agg. {esc(a.get("updatedAt",""))}</div>
+    hero=hero_for(a); rt=reading_time(a)
+    hero_style=f'background-image:linear-gradient(180deg,rgba(22,20,15,.30),rgba(22,20,15,.82)),url({hero})'
+    body=f'''<main class="art-wrap">
+<nav class="crumb wrap"><a href="/blog/">Blog</a> / <a href="/blog/categoria/{a["category"]}/">{esc(c.get("name",""))}</a> / <span>{esc(a.get("h1") or a.get("title"))}</span></nav>
+<div class="art-hero-img" style="{hero_style}">
+  <div class="ahi-in wrap">
+    <span class="kick">{esc(a.get("heroKicker") or c.get("name",""))}</span>
+    <h1>{esc(a.get("h1") or a.get("title"))}</h1>
+    <div class="meta">A cura di {esc(ent["author"]["name"])} &middot; {rt} min di lettura &middot; agg. {esc(a.get("updatedAt",""))}</div>
+  </div>
 </div>
-<article class="body">
-<p class="opening">{inline(a.get("opening",""))}</p>
-{toc_html}
-{secs_html}
-{disc}
-{src_html}
-</article>
-<section class="faqs"><h2>Domande frequenti</h2>{faq_html}</section>
-{cta_block()}
-<section class="related"><h2>Continua a leggere</h2><div class="cards">{rel_html}</div></section>
+<div class="art-grid wrap">
+  <article class="body">
+    <p class="opening">{inline(a.get("opening",""))}</p>
+    {toc_html}
+    {secs_html}
+    {disc}
+    {share_box(a)}
+    {author_box()}
+    {src_html}
+    <section class="faqs"><h2>Domande frequenti</h2>{faq_html}</section>
+  </article>
+  {side_bar(a)}
+</div>
+{cta_block("contatti-blog")}
+<section class="related wrap"><h2>Continua a leggere</h2><div class="cards">{rel_html}</div></section>
 </main>'''
     # schema
     ld=[
@@ -358,11 +447,69 @@ h1,h2,h3{font-family:var(--serif);font-weight:600;line-height:1.12;color:var(--c
 .foot strong{color:#fff;font-family:var(--serif);font-size:18px;font-weight:600}
 .foot-links{display:flex;flex-direction:column;gap:6px}
 .foot-links a:hover,.foot a:hover{color:var(--gold2)}
+/* ===== premium: hero foto, 2 colonne, sidebar, share, autore, fab ===== */
+.art-wrap .crumb{padding:20px 0 0}
+.art-hero-img{background-size:cover;background-position:center;color:#fff;margin-top:14px;min-height:360px;display:flex;align-items:flex-end;padding:0 0 34px}
+.ahi-in{width:100%}
+.art-hero-img .kick{color:var(--gold2)}
+.art-hero-img h1{color:#fff;font-size:clamp(30px,4.4vw,48px);max-width:900px;margin-bottom:10px}
+.art-hero-img .meta{font-size:13px;color:#e7e1d5;letter-spacing:.02em}
+.art-grid{display:grid;grid-template-columns:minmax(0,1fr) 320px;gap:48px;align-items:start;margin-top:40px}
+.art-grid .body{max-width:none;margin:0}
+.body .faqs{max-width:none;padding:0;margin:38px 0 0}
+.body .faqs h2{font-size:26px;margin-bottom:14px}
+.side{position:sticky;top:84px;display:flex;flex-direction:column;gap:18px}
+.side-card{background:var(--paper);border:1px solid var(--line);border-radius:6px;padding:20px}
+.side-val{background:linear-gradient(180deg,#fff,#FBF6EC);border-top:3px solid var(--gold)}
+.side-val .sv-k{display:block;font-family:var(--serif);font-size:21px;font-weight:600;color:var(--charcoal);margin-bottom:6px}
+.side-val p{font-size:14px;color:var(--muted);margin-bottom:14px}
+.side-val .btn{width:100%;justify-content:center}
+.side-wa{text-align:center}
+.side-wa .sw-t{display:block;font-weight:500;margin-bottom:12px}
+.btn-wa{background:#1f7a44;color:#fff;justify-content:center}.btn-wa:hover{background:#17603a;transform:translateY(-2px)}
+.side-wa .btn-wa{width:100%}
+.side-wa img{margin:14px auto 6px;display:block;border:1px solid var(--line);border-radius:6px;background:#fff;padding:6px}
+.side-wa .sw-q{font-size:12px;color:var(--muted)}
+.sl-k{display:block;font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:500;margin-bottom:12px}
+.side-list ul{list-style:none}
+.side-list li{border-bottom:1px solid var(--line);padding:9px 0}
+.side-list li:last-child{border-bottom:0}
+.side-list a{font-family:var(--serif);font-size:16px;line-height:1.25;color:var(--charcoal)}
+.side-list a:hover{color:var(--gold)}
+.sc-tags{display:flex;flex-wrap:wrap;gap:8px}
+.sc-tags a{font-size:12px;border:1px solid var(--line);border-radius:20px;padding:6px 12px;color:var(--charcoal)}
+.sc-tags a:hover{border-color:var(--gold);color:var(--gold)}
+.side-dozza{display:block;background:var(--charcoal);color:var(--ivory);border-color:var(--charcoal);transition:.25s}
+.side-dozza .sd-k{display:block;font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold2);margin-bottom:8px}
+.side-dozza strong{display:block;font-family:var(--serif);font-size:20px;font-weight:600;color:#fff;margin-bottom:6px}
+.side-dozza .sd-r{display:block;color:var(--gold2);font-size:14px;margin-bottom:12px}
+.side-dozza .sd-go{font-size:13px;color:var(--ivory)}
+.side-dozza:hover{transform:translateY(-2px);box-shadow:0 16px 40px rgba(22,20,15,.18)}
+.cta-inline{display:flex;justify-content:space-between;align-items:center;gap:18px;flex-wrap:wrap;background:linear-gradient(180deg,#fff,#FBF6EC);border:1px solid var(--line);border-left:4px solid var(--gold);border-radius:6px;padding:18px 22px;margin:28px 0}
+.cta-inline strong{display:block;font-family:var(--serif);font-size:20px;color:var(--charcoal)}
+.cta-inline span{font-size:14px;color:var(--muted)}
+.ci-btns{display:flex;gap:10px;flex-wrap:wrap}
+.ci-btns .btn{padding:11px 18px}
+.share{display:flex;gap:14px;align-items:center;flex-wrap:wrap;margin:30px 0 6px;font-size:13px;color:var(--muted)}
+.share a{color:var(--gold);font-weight:500;border-bottom:1px solid rgba(176,137,78,.4)}
+.share a:hover{color:var(--charcoal)}
+.authorbox{display:flex;gap:16px;align-items:flex-start;background:var(--paper);border:1px solid var(--line);border-radius:6px;padding:20px;margin:22px 0}
+.ab-badge{flex:none;width:52px;height:52px;border-radius:50%;background:var(--charcoal);color:var(--gold);display:flex;align-items:center;justify-content:center;font-family:var(--serif);font-weight:700;font-size:18px;border:2px solid var(--gold)}
+.ab-txt strong{font-family:var(--serif);font-size:19px;color:var(--charcoal)}
+.ab-txt span{display:block;font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--gold);margin:2px 0 8px}
+.ab-txt p{font-size:14px;color:var(--muted);margin:0}
+.fab-wa{position:fixed;right:20px;bottom:20px;z-index:90;width:56px;height:56px;border-radius:50%;background:#1f7a44;color:#fff;display:flex;align-items:center;justify-content:center;box-shadow:0 12px 30px rgba(0,0,0,.28);transition:.2s}
+.fab-wa:hover{transform:scale(1.08)}
+@media(max-width:900px){
+  .art-grid{grid-template-columns:1fr;gap:30px}
+  .side{position:static}
+}
 @media(max-width:820px){
   .topnav a:not(.btn){display:none}
   .cta-in{grid-template-columns:1fr;gap:18px}
   .cards{grid-template-columns:1fr}
   .agenzie-band{padding:48px 0}
+  .cta-inline{flex-direction:column;align-items:flex-start}
 }'''
 
 BLOG_JS='''(function(){
