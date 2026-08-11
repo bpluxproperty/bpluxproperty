@@ -67,6 +67,7 @@ export default function App() {
             <li><a href="#agenzie">{t.nav.agencies}</a></li>
             <li><a href="#metodo">{t.nav.method}</a></li>
             <li><a href="#portfolio">{t.nav.portfolio}</a></li>
+            <li><a href="/blog/">Blog</a></li>
             <li><a href="#founder">{t.nav.about}</a></li>
             <li><a href="#contatti">{t.nav.contact}</a></li>
           </ul></nav>

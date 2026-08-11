@@ -1,0 +1,67 @@
+{
+  "slug": "terzo-immobile-partita-iva-affitti-brevi",
+  "keyword": "terzo immobile partita iva affitti brevi",
+  "category": "normativa-fisco",
+  "title": "Dal terzo immobile: P.IVA per gli affitti brevi",
+  "metaDescription": "Dal 2026, destinare tre o più appartamenti agli affitti brevi fa scattare la presunzione d'impresa e l'obbligo di P.IVA. Ecco cosa cambia e come gestirla.",
+  "h1": "Dal terzo immobile scatta la P.IVA: cosa cambia per gli affitti brevi",
+  "excerpt": "Con tre o più appartamenti destinati agli affitti brevi scatta la presunzione di attività d'impresa e l'obbligo di partita IVA. Cosa significa in pratica e come non trasformarsi in impresa senza volerlo.",
+  "opening": "Dal 1° gennaio 2026, chi destina tre o più appartamenti agli affitti brevi rientra nella presunzione di attività d'impresa, con obbligo di partita IVA. Sotto quella soglia si resta nell'affitto breve \"tra privati\" con cedolare secca. È il vero spartiacque fiscale del settore, e va conosciuto prima di comprare il terzo immobile.",
+  "publishedAt": "2026-08-11",
+  "updatedAt": "2026-08-11",
+  "heroKicker": "NORMATIVA & FISCO",
+  "sections": [
+    { "h2": "La soglia dei tre immobili, in breve",
+      "paragraphs": [
+        "La regola separa due mondi. Con uno o due appartamenti affittati a breve puoi restare nella locazione breve \"tra privati\", con la cedolare secca. Dal terzo immobile la legge presume che stai svolgendo un'attività d'impresa: serve la partita IVA e cambia tutto l'inquadramento.",
+        "È una presunzione legata al numero di immobili destinati all'affitto breve nell'anno, non a quanto guadagni. Per questo va valutata prima: è il conteggio delle case, non il fatturato, a farti scattare oltre la soglia."
+      ] },
+    { "h2": "Cosa cambia in pratica con la partita IVA",
+      "paragraphs": [
+        "Aprire la partita IVA non è solo un adempimento formale. Significa scegliere un regime fiscale (forfettario oppure ordinario), iscriversi alla gestione previdenziale, tenere una contabilità e, di norma, affidarsi a un commercialista.",
+        "Cambia anche la tassazione: si esce dalla cedolare secca e si entra nel reddito d'impresa, con contributi INPS e obblighi dichiarativi diversi. Non è necessariamente uno svantaggio, ma è una scelta da fare con un professionista, numeri alla mano."
+      ],
+      "list": ["Apertura partita IVA e scelta del regime (forfettario/ordinario)", "Iscrizione alla gestione previdenziale INPS", "Contabilità e dichiarazioni dedicate", "Adempimenti degli affitti brevi comunque dovuti: CIN, comunicazione ospiti, imposta di soggiorno"] },
+    { "h2": "Cedolare secca o partita IVA: le differenze",
+      "paragraphs": [
+        "Finché resti privato, la cedolare secca sugli affitti brevi è del 21% sul primo immobile e sale al 26% dal secondo. Superata la soglia, si ragiona invece in termini di impresa. Ecco il confronto essenziale."
+      ],
+      "table": { "headers": ["Aspetto", "Privato (cedolare)", "Impresa (partita IVA)"],
+        "rows": [
+          ["Quando", "Fino a 2 immobili", "Da 3 immobili in su"],
+          ["Tassazione", "21% (1° immobile), 26% (dal 2°)", "Reddito d'impresa (forfettario o ordinario)"],
+          ["Contributi INPS", "No", "Sì"],
+          ["Contabilità", "Minima", "Sì, con commercialista"],
+          ["CIN e adempimenti", "Sì", "Sì"]
+        ] } },
+    { "h2": "Come si contano gli immobili",
+      "paragraphs": [
+        "Il conteggio riguarda gli appartamenti che destini agli affitti brevi, non tutte le case che possiedi: una casa data in affitto lungo o tenuta per te non entra nel conto ai fini di questa soglia.",
+        "Il punto delicato è la programmazione. Se hai due immobili e stai valutando il terzo, quel passaggio va pianificato prima con il commercialista: è lì che si decide se conviene diventare impresa o cambiare strategia."
+      ] },
+    { "h2": "Come non diventare impresa senza volerlo",
+      "paragraphs": [
+        "Molti proprietari scoprono la soglia dopo aver comprato, quando ormai la scelta è obbligata. Conoscerla prima apre alternative: distribuire gli immobili tra più intestatari del nucleo, valutare l'affitto medio su alcuni, o affidarli a un gestore professionale."
+      ],
+      "list": ["Pianificare l'acquisto del terzo immobile con il commercialista", "Valutare intestazioni diverse all'interno del nucleo familiare", "Considerare l'affitto a medio termine su parte degli immobili", "Affidare la gestione a un property manager che opera già come impresa"] },
+    { "h2": "La via più semplice: delegare la complessità",
+      "paragraphs": [
+        "Nella nostra esperienza, la soglia dei tre immobili è il momento in cui molti proprietari e agenzie decidono di non gestire più in proprio: diventare impresa turistica non è nel loro mestiere. Affidando gli immobili a chi già opera in regime d'impresa ti tieni la rendita e lasci a noi burocrazia, CIN, comunicazioni e fisco della gestione.",
+        "È lo stesso motivo per cui molte agenzie immobiliari ci affidano gli appartamenti invenduti o sfitti: li facciamo rendere senza trasformarsi in operatori turistici."
+      ] }
+  ],
+  "faq": [
+    { "q": "Da quanti immobili serve la partita IVA per gli affitti brevi?", "a": "Dal terzo immobile destinato agli affitti brevi scatta, dal 2026, la presunzione di attività d'impresa e l'obbligo di partita IVA. Con uno o due immobili puoi restare privato con la cedolare secca. Verifica sempre la tua situazione con un commercialista." },
+    { "q": "Quanto è la cedolare secca sugli affitti brevi?", "a": "La cedolare secca è del 21% sul primo immobile e del 26% dal secondo in poi. È un regime riservato a chi affitta come privato, cioè entro la soglia oltre la quale scatta l'attività d'impresa." },
+    { "q": "Le case affittate a lungo termine contano nella soglia?", "a": "No. La soglia riguarda gli immobili destinati agli affitti brevi. Una casa in affitto tradizionale o tenuta per uso personale non rientra nel conteggio ai fini della presunzione d'impresa per gli affitti brevi." },
+    { "q": "Conviene aprire la partita IVA o restare privato?", "a": "Dipende dai numeri: quanti immobili, quanto rendono, quali costi. Non c'è una risposta valida per tutti. È una valutazione da fare con un commercialista prima di superare la soglia dei tre immobili, non dopo." },
+    { "q": "Serve comunque il CIN se ho la partita IVA?", "a": "Sì. Il codice identificativo nazionale (CIN), la comunicazione degli ospiti e l'imposta di soggiorno restano obbligatori sia da privato sia da impresa. La partita IVA aggiunge adempimenti fiscali, non sostituisce quelli degli affitti brevi." }
+  ],
+  "related": ["property-manager-affitti-brevi", "gestione-affitti-brevi-fai-da-te-o-agenzia", "affitti-brevi-bologna-guida"],
+  "sources": [
+    { "label": "Regime fiscale delle locazioni brevi", "ente": "Agenzia delle Entrate", "data": "", "url": "" },
+    { "label": "Legge di Bilancio 2026 (disposizioni su locazioni brevi)", "ente": "Gazzetta Ufficiale", "data": "2026", "url": "" }
+  ],
+  "disclaimer": true,
+  "note": ""
+}
