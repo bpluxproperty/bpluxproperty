@@ -181,3 +181,12 @@ footer a:hover{color:var(--gold-2)}
   .fl-main{min-height:230px}
   .fl-reviews{grid-template-columns:1fr}
 }
+
+/* Portfolio CTA (al posto delle card generiche) */
+.pf-cta{text-align:center;margin-top:8px}
+
+/* WhatsApp floating button */
+.wa-float{position:fixed;right:22px;bottom:22px;z-index:80;width:56px;height:56px;border-radius:50%;background:#25D366;display:flex;align-items:center;justify-content:center;box-shadow:0 10px 26px rgba(0,0,0,.28);transition:transform .25s,box-shadow .25s}
+.wa-float:hover{transform:translateY(-3px) scale(1.05);box-shadow:0 14px 32px rgba(37,211,102,.45)}
+.wa-float svg{width:30px;height:30px;fill:#fff}
+@media(max-width:560px){.wa-float{right:14px;bottom:14px;width:52px;height:52px}}

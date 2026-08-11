@@ -90,8 +90,8 @@ export const T = {
     cta: {
       eyebrow: 'Valutazione gratuita', title: 'Scopri quanto può rendere la tua casa.',
       sub: 'Compila il form: ti ricontattiamo entro 24 ore con una stima personalizzata, senza impegno.',
-      f: { name: 'Nome e cognome', email: 'Email', tel: 'Telefono', addr: 'Indirizzo dell’immobile', msg: 'Messaggio (opzionale)', send: 'Richiedi la valutazione', note: 'Inviando accetti la Privacy Policy. Nessuno spam.' },
-      ok: 'Grazie! Ti ricontattiamo entro 24h. (In versione live questo invio andrà al tuo CRM.)',
+      f: { name: 'Nome e cognome', email: 'Email', tel: 'Telefono', addr: 'Indirizzo dell’immobile', msg: 'Messaggio (opzionale)', send: 'Richiedi la valutazione', note: 'Inviando accetti la Privacy Policy. Nessuno spam.', err: 'Qualcosa è andato storto. Scrivici a info@bpluxproperty.com o su WhatsApp.' },
+      ok: 'Grazie! Ti ricontattiamo entro 24 ore.',
     },
     footer: { tagline: 'Gestione affitti brevi di lusso. Reddito dalla tua proprietà, senza pensieri.', contacts: 'Contatti', legal: 'Legale', privacy: 'Privacy Policy', terms: 'Termini di servizio', rights: 'Tutti i diritti riservati.' },
   },
@@ -187,8 +187,8 @@ export const T = {
     cta: {
       eyebrow: 'Free valuation', title: 'Find out how much your home can earn.',
       sub: 'Fill in the form: we’ll get back to you within 24 hours with a tailored estimate, no commitment.',
-      f: { name: 'Full name', email: 'Email', tel: 'Phone', addr: 'Property address', msg: 'Message (optional)', send: 'Request the valuation', note: 'By submitting you accept the Privacy Policy. No spam.' },
-      ok: 'Thank you! We’ll contact you within 24h. (In the live version this goes to your CRM.)',
+      f: { name: 'Full name', email: 'Email', tel: 'Phone', addr: 'Property address', msg: 'Message (optional)', send: 'Request the valuation', note: 'By submitting you accept the Privacy Policy. No spam.', err: 'Something went wrong. Email info@bpluxproperty.com or message us on WhatsApp.' },
+      ok: 'Thank you! We’ll contact you within 24 hours.',
     },
     footer: { tagline: 'Luxury short-term rental management. Income from your property, effortlessly.', contacts: 'Contact', legal: 'Legal', privacy: 'Privacy Policy', terms: 'Terms of service', rights: 'All rights reserved.' },
   },

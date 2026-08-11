@@ -7,6 +7,8 @@ export default function App() {
   const [lang, setLang] = useState('it')
   const [scrolled, setScrolled] = useState(false)
   const [sent, setSent] = useState(false)
+  const [sending, setSending] = useState(false)
+  const [formErr, setFormErr] = useState(false)
   const t = T[lang]
   const f = t.portfolio.featured
 
@@ -36,10 +38,23 @@ export default function App() {
     })
   }, [])
 
-  const submit = (e) => { e.preventDefault(); setSent(true) }
+  const submit = async (e) => {
+    e.preventDefault()
+    setFormErr(false); setSending(true)
+    const payload = Object.fromEntries(new FormData(e.target).entries())
+    payload.source = 'sito-home'; payload.lang = lang
+    try {
+      const r = await fetch('/api/lead', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(payload) })
+      if (!r.ok) throw new Error('bad')
+      setSent(true)
+    } catch (_) { setFormErr(true) } finally { setSending(false) }
+  }
 
   return (
     <div ref={root}>
+      <a className="wa-float" href="https://wa.me/393467259098?text=Ciao%20B%26P%20Lux%20Property%2C%20vorrei%20informazioni%20sulla%20gestione%20del%20mio%20immobile." target="_blank" rel="noreferrer" aria-label="WhatsApp">
+        <svg viewBox="0 0 32 32" aria-hidden="true"><path d="M16 .5C7.4.5.5 7.4.5 16c0 2.8.7 5.4 2 7.8L.5 31.5l7.9-2c2.3 1.2 4.9 1.9 7.6 1.9 8.6 0 15.5-6.9 15.5-15.5S24.6.5 16 .5zm0 28c-2.4 0-4.7-.7-6.7-1.9l-.5-.3-4.7 1.2 1.3-4.6-.3-.5C3.7 20.3 3 18.2 3 16 3 8.8 8.8 3 16 3s13 5.8 13 13-5.8 12.5-13 12.5zm7.1-9.4c-.4-.2-2.3-1.1-2.6-1.3-.4-.1-.6-.2-.9.2s-1 1.3-1.2 1.5c-.2.2-.4.3-.8.1-.4-.2-1.6-.6-3.1-1.9-1.1-1-1.9-2.3-2.1-2.7-.2-.4 0-.6.2-.8.2-.2.4-.4.6-.7.2-.2.2-.4.3-.6.1-.2 0-.5 0-.7-.1-.2-.9-2.1-1.2-2.9-.3-.8-.6-.7-.9-.7h-.8c-.2 0-.6.1-1 .5s-1.4 1.3-1.4 3.3 1.4 3.8 1.6 4.1c.2.2 2.8 4.3 6.8 6 .9.4 1.7.6 2.2.8.9.3 1.8.2 2.4.2.7-.1 2.3-.9 2.6-1.9.3-.9.3-1.7.2-1.9-.1-.1-.3-.2-.7-.4z"/></svg>
+      </a>
       {/* HEADER */}
       <header className={scrolled ? 'scrolled' : ''}>
         <div className="wrap nav">
@@ -172,14 +187,7 @@ export default function App() {
             ))}
           </div>
 
-          <div className="pf">
-            {t.portfolio.cards.map((c, i) => (
-              <div className="card reveal" key={i}>
-                <div className="ph" style={{ backgroundImage: `url(/assets/prop${i + 1}.jpg)` }}></div>
-                <div className="body"><h3>{c.t}</h3><div className="meta"><span>{c.m}</span><span className="cin">CIN ······</span></div></div>
-              </div>
-            ))}
-          </div>
+          <div className="pf-cta reveal"><a className="btn btn-gold" href="#contatti">{t.nav.cta}</a></div>
         </div>
       </section>
 
@@ -245,12 +253,13 @@ export default function App() {
           </div>
           <form className="reveal" onSubmit={submit}>
             {sent ? <div className="ok">{t.cta.ok}</div> : <>
-              <label>{t.cta.f.name}</label><input required placeholder="Mario Rossi" />
-              <label>{t.cta.f.email}</label><input required type="email" placeholder="mario@email.it" />
-              <label>{t.cta.f.tel}</label><input required placeholder="+39 ..." />
-              <label>{t.cta.f.addr}</label><input placeholder="Via, città" />
-              <label>{t.cta.f.msg}</label><textarea rows="3"></textarea>
-              <button type="submit" className="btn btn-dark">{t.cta.f.send}</button>
+              <label>{t.cta.f.name}</label><input name="name" required placeholder="Mario Rossi" />
+              <label>{t.cta.f.email}</label><input name="email" required type="email" placeholder="mario@email.it" />
+              <label>{t.cta.f.tel}</label><input name="phone" required placeholder="+39 ..." />
+              <label>{t.cta.f.addr}</label><input name="address" placeholder="Via, città" />
+              <label>{t.cta.f.msg}</label><textarea name="message" rows="3"></textarea>
+              <button type="submit" className="btn btn-dark" disabled={sending}>{sending ? '…' : t.cta.f.send}</button>
+              {formErr && <div className="note" style={{ color: '#c0392b' }}>{t.cta.f.err}</div>}
               <div className="note">{t.cta.f.note}</div>
             </>}
           </form>
