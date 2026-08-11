@@ -35,7 +35,7 @@
       "table": { "headers": ["Aspetto", "Valutazione"], "rows": [["Pulizia", "4,9 / 5"], ["Check-in", "5,0 / 5"], ["Comunicazione", "5,0 / 5"], ["Posizione", "4,9 / 5"], ["Qualità-prezzo", "4,8 / 5"]] } },
     { "h2": "Come prenotare",
       "paragraphs": [
-        "Puoi vedere tutte le foto, la disponibilità e i prezzi aggiornati direttamente sull'annuncio [Guarda il Loft su Airbnb](https://www.airbnb.it/rooms/1112801148439631438). L'alloggio è prenotabile anche su Booking.com.",
+        "Puoi vedere tutte le foto, la disponibilità e i prezzi aggiornati direttamente sull'annuncio [Guarda il Loft su Airbnb](https://www.airbnb.it/rooms/1112801148439631438). L'alloggio è prenotabile anche [su Booking.com](https://www.booking.com/hotel/it/loft-elegante-nel-centro-di-dozza-citta-d-arte.it.html).",
         "L'immobile è in regola e pubblicato con il codice identificativo CIN IT037025C1838LH355. Per soggiorni lunghi o richieste particolari, scrivici: rispondiamo in giornata."
       ] },
     { "h2": "Cosa vedere intorno",
@@ -52,7 +52,8 @@
   ],
   "related": ["cosa-vedere-a-dozza", "dove-dormire-imola-autodromo", "affitti-brevi-bologna-guida"],
   "sources": [
-    { "label": "Loft Elegante nel centro di Dozza (annuncio)", "ente": "Airbnb", "data": "", "url": "https://www.airbnb.it/rooms/1112801148439631438" }
+    { "label": "Loft Elegante nel centro di Dozza (annuncio)", "ente": "Airbnb", "data": "", "url": "https://www.airbnb.it/rooms/1112801148439631438" },
+    { "label": "Loft Elegante nel centro di Dozza (Booking)", "ente": "Booking.com", "data": "", "url": "https://www.booking.com/hotel/it/loft-elegante-nel-centro-di-dozza-citta-d-arte.it.html" }
   ],
   "disclaimer": false,
   "note": ""

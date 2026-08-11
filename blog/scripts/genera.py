@@ -374,7 +374,7 @@ BLOG_JS='''(function(){
     d.fonte="blog "+location.pathname;
     var done=function(){f.innerHTML='<p style="font-family:Cormorant Garamond,serif;font-size:22px;color:#16140F">Grazie! Ti ricontattiamo a breve.</p>';};
     if(HOOK){
-      var ok=false; try{ ok=navigator.sendBeacon(HOOK,new URLSearchParams(d)); }catch(e){}
+      var ok=false; try{ ok=navigator.sendBeacon(HOOK,new Blob([JSON.stringify(d)],{type:"application/json"})); }catch(e){}
       if(ok){done();} else { waFallback(d); }
     } else { waFallback(d); }
     return false;

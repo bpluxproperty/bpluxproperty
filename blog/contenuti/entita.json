@@ -8,13 +8,13 @@
     "email": "info@bpluxproperty.com",
     "whatsapp": "393467259098",
     "whatsappDisplay": "+39 346 725 9098",
-    "ghlWebhook": "",
-    "note_webhook": "Inserire qui l'URL dell'inbound webhook GHL: i dati del form vanno la'."
+    "ghlWebhook": "https://services.leadconnectorhq.com/hooks/dBDJJALoNI6Gps2GwMqb/webhook-trigger/f15d46f8-6ee2-4317-93bf-14950f14fe0e",
+    "note_webhook": "Inbound webhook GHL sub-account dBDJ: i lead del form arrivano qui (POST JSON)."
   },
   "dozza": {
     "nome": "Loft Elegante nel centro di Dozza",
     "airbnb": "https://www.airbnb.it/rooms/1112801148439631438",
-    "booking": "",
+    "booking": "https://www.booking.com/hotel/it/loft-elegante-nel-centro-di-dozza-citta-d-arte.it.html",
     "cin": "IT037025C1838LH355",
     "rating": "4,97",
     "recensioni": 31,
