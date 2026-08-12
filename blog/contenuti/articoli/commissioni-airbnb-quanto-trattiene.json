@@ -1,0 +1,155 @@
+{
+  "slug": "commissioni-airbnb-quanto-trattiene",
+  "keyword": "commissioni airbnb",
+  "category": "piattaforme",
+  "title": "Commissioni Airbnb: quanto trattiene davvero",
+  "metaDescription": "Commissioni Airbnb: come funzionano i due modelli, quanto incidono sul netto e perché guardare solo la percentuale è l'errore da evitare. Confronto con Booking.",
+  "h1": "Commissioni Airbnb: come funzionano davvero e quanto incidono sul tuo netto",
+  "excerpt": "Airbnb non ha una commissione unica: esistono due modelli, quello condiviso e quello a solo host. Ecco come funzionano, come si confrontano con Booking e perché l'unico numero che conta è quanto ti resta netto, non la percentuale.",
+  "opening": "Airbnb non applica una commissione unica: esistono due modelli. In quello condiviso l'host paga una quota bassa (spesso intorno al 3%) e l'ospite una commissione di servizio a parte; in quello a solo host la commissione è tutta tua, più alta. Le percentuali cambiano nel tempo e per Paese: quello che conta davvero è quanto ti resta netto.",
+  "publishedAt": "2026-08-12",
+  "updatedAt": "2026-08-12",
+  "heroKicker": "AIRBNB",
+  "sections": [
+    {
+      "h2": "Come funziona la commissione di Airbnb: due modelli, non uno",
+      "paragraphs": [
+        "Airbnb non trattiene una percentuale fissa uguale per tutti. Il costo dipende da quale modello di commissione è attivo sul tuo annuncio. I modelli sono due e cambiano chi paga e quanto.",
+        "Nel modello condiviso il peso è diviso: l'host paga una quota bassa e l'ospite paga una commissione di servizio a parte, al momento della prenotazione. Nel modello a solo host, invece, la commissione è tutta a carico tuo, con una percentuale più alta, e l'ospite non vede alcun costo aggiuntivo.",
+        "Le percentuali esatte cambiano nel tempo, per Paese e per tipo di annuncio. Qui trovi gli ordini di grandezza per ragionare; per le cifre precise verifica sempre le condizioni aggiornate nel tuo account Airbnb prima di fissare i prezzi."
+      ],
+      "list": [
+        "Modello condiviso: quota bassa all'host (spesso intorno al 3%) più una commissione di servizio a carico dell'ospite.",
+        "Modello a solo host: una commissione unica, più alta, tutta a carico dell'host; l'ospite non paga il servizio.",
+        "Quale dei due si applica dipende dal tipo di annuncio e dagli strumenti che usi, come un channel manager."
+      ],
+      "table": null
+    },
+    {
+      "h2": "Modello condiviso e modello solo host: le differenze reali",
+      "paragraphs": [
+        "La differenza tra i due modelli non è solo la percentuale. Cambia chi sostiene il costo e come appare il prezzo all'ospite. Capirlo ti evita confronti sbagliati.",
+        "Il modello condiviso è il più diffuso tra gli host privati e i piccoli gestori. L'host cede poco, l'ospite paga la sua quota alla prenotazione. Il prezzo finale che l'ospite vede è più alto della tariffa base, ma la commissione a tuo carico resta contenuta.",
+        "Il modello a solo host è tipico di alberghi e gestori professionali che collegano Airbnb a un channel manager. La commissione è unica e più alta, ma tutta lato host: l'ospite vede un prezzo pulito, senza servizio aggiunto. Chi lavora su più portali spesso lo adotta per uniformare tariffe e regole tra i canali."
+      ],
+      "list": [],
+      "table": {
+        "headers": ["Aspetto", "Modello condiviso", "Modello solo host"],
+        "rows": [
+          ["Chi paga la commissione", "Host (quota bassa) e ospite (servizio)", "Solo l'host, con un'unica commissione"],
+          ["Ordine di grandezza per l'host", "Spesso intorno al 3%", "Più alto, tipicamente a doppia cifra"],
+          ["Cosa vede l'ospite", "Prezzo più commissione di servizio", "Un prezzo unico, senza servizio a parte"],
+          ["Tipico di", "Host privati e piccoli gestori", "Alberghi e gestori con channel manager"]
+        ]
+      }
+    },
+    {
+      "h2": "Airbnb e Booking: due logiche di commissione diverse",
+      "paragraphs": [
+        "Confrontare Airbnb e Booking guardando solo la percentuale porta fuori strada. Le due piattaforme seguono logiche diverse, non solo numeri diversi.",
+        "Booking arriva dal mondo alberghiero: la commissione è di norma interamente a carico della struttura ed è più alta rispetto alla quota host del modello condiviso di Airbnb. Non ci sono cifre garantite: variano per mercato, programmi e visibilità, e vanno verificate sul centro assistenza ufficiale.",
+        "Ma una commissione più alta non significa automaticamente meno guadagno. Se un canale ti riempie notti che sarebbero rimaste vuote, può valere più di uno con commissione bassa e calendario semi-vuoto. Il confronto giusto è sul risultato, non sulla singola percentuale."
+      ],
+      "list": [
+        "Airbnb, modello condiviso: quota host bassa (spesso intorno al 3%), l'ospite paga il servizio.",
+        "Airbnb, solo host: commissione unica più alta, tutta lato host.",
+        "Booking: commissione di norma tutta sulla struttura, in genere più alta e variabile per mercato.",
+        "Regola pratica: conta quanto ti resta netto per canale, non chi ha la percentuale più bassa."
+      ],
+      "table": null
+    },
+    {
+      "h2": "Oltre la commissione: gli altri costi da mettere in conto",
+      "paragraphs": [
+        "La commissione è solo una delle voci che separano il prezzo di listino da quello che ti arriva in banca. Fermarsi lì è l'errore che fa sembrare un affitto più redditizio di quanto sia.",
+        "C'è l'IVA sulle commissioni, che a seconda del tuo profilo fiscale può gravare sulla quota trattenuta dalla piattaforma. C'è la pulizia, che imposti tu e di solito paga l'ospite, ma che se è troppo alta scoraggia i soggiorni brevi. E ci sono le imposte sul reddito e l'imposta di soggiorno, con logiche del tutto diverse tra loro.",
+        "L'imposta di soggiorno, dove prevista, non è un tuo ricavo: la incassi dall'ospite e la versi al Comune. Le imposte sul reddito, invece, incidono sul tuo guadagno reale e dipendono dal regime fiscale che scegli. Metterle tutte in fila è l'unico modo per capire il netto."
+      ],
+      "list": [],
+      "table": {
+        "headers": ["Voce di costo", "A carico di", "Nota"],
+        "rows": [
+          ["Commissione host (modello condiviso)", "Host", "Quota bassa, spesso intorno al 3%; verifica il valore aggiornato"],
+          ["Commissione di servizio", "Ospite", "Si somma al prezzo che vede l'ospite e alza il totale finale"],
+          ["Commissione unica (modello solo host)", "Host", "Più alta della quota host condivisa; l'ospite non paga il servizio"],
+          ["IVA sulle commissioni", "Host (di norma)", "Può gravare sulla commissione; dipende dal profilo fiscale e dal Paese"],
+          ["Pulizia", "Ospite (di solito)", "La imposti tu; se troppo alta scoraggia le brevi permanenze"],
+          ["Imposta di soggiorno", "Ospite", "La incassi e la versi al Comune; è pass-through, non un tuo ricavo"],
+          ["Imposte sul reddito", "Host", "Sul reddito da affitto breve; regime da valutare, come la cedolare secca"]
+        ]
+      }
+    },
+    {
+      "h2": "L'errore più costoso: guardare la commissione, non il netto",
+      "paragraphs": [
+        "Molti proprietari scelgono il canale con la commissione più bassa e si fermano lì. È un ragionamento che sembra logico e quasi sempre lascia soldi sul tavolo.",
+        "La percentuale è solo un pezzo del puzzle. Un canale con commissione più alta può portarti più prenotazioni, tariffe medie migliori o ospiti che riempiono i periodi morti. A fine mese non conta quanto hai risparmiato di commissione, ma quanto ti è rimasto davvero.",
+        "Nella nostra gestione da Superhost guardiamo sempre il netto per canale, mese per mese: non la commissione più bassa, ma quanto resta in tasca al proprietario dopo commissioni, costi e imposte. È l'unico numero che dice la verità sulla resa di un immobile."
+      ],
+      "list": [],
+      "table": null
+    },
+    {
+      "h2": "Come tenere conto delle commissioni nel prezzo",
+      "paragraphs": [
+        "Se conosci il modello di commissione e gli altri costi, puoi costruire la tariffa a ritroso: parti dal netto che vuoi e aggiungi ciò che verrà trattenuto. Così il prezzo non è un numero a caso, ma un obiettivo.",
+        "Il punto delicato è non scaricare tutto sull'ospite. Alzare troppo la tariffa o la pulizia per coprire ogni costo rende l'annuncio meno competitivo e taglia le prenotazioni. L'equilibrio sta nel prezzare in modo che il netto regga senza spaventare chi prenota.",
+        "Su più canali questo lavoro va rifatto per ciascuno, perché commissioni e costi cambiano. Un prezzo unico copiato su tutti i portali quasi sempre penalizza il canale con le trattenute più alte."
+      ],
+      "list": [
+        "Parti dal netto obiettivo e aggiungi commissione, IVA e costi variabili per arrivare alla tariffa.",
+        "Tratta la pulizia come parte del prezzo percepito: se è alta, l'ospite la somma alla tariffa e confronta.",
+        "Rivedi il prezzo per canale: la stessa cifra su Airbnb e su Booking non lascia lo stesso netto.",
+        "Verifica periodicamente le condizioni aggiornate: i modelli di commissione evolvono nel tempo."
+      ],
+      "table": null
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quanto trattiene Airbnb sull'host?",
+      "a": "Dipende dal modello. Nel modello condiviso, il più diffuso tra gli host privati, la quota a carico dell'host è bassa, spesso intorno al 3%, mentre l'ospite paga a parte la commissione di servizio. Nel modello a solo host la commissione è unica e più alta, tutta lato host. Le cifre cambiano nel tempo: verifica sempre nel tuo account Airbnb."
+    },
+    {
+      "q": "Qual è la differenza tra modello condiviso e solo host?",
+      "a": "Cambia chi paga la commissione. Nel modello condiviso il costo è diviso tra host (quota bassa) e ospite (commissione di servizio); nel modello a solo host paga tutto l'host con un'unica percentuale più alta, e l'ospite vede un prezzo senza servizio aggiunto. Il secondo è tipico di alberghi e gestori che usano un channel manager."
+    },
+    {
+      "q": "Le commissioni di Airbnb sono più basse di quelle di Booking?",
+      "a": "Di norma sì, ma il confronto non è così semplice. La quota host del modello condiviso di Airbnb è bassa, mentre Booking mette in genere una commissione più alta e tutta sulla struttura. Quello che conta però è il netto per canale: una commissione più alta può convenire se porta più prenotazioni."
+    },
+    {
+      "q": "Si paga l'IVA sulle commissioni di Airbnb?",
+      "a": "Può applicarsi, e dipende dal tuo profilo fiscale e dal Paese. Sulla commissione trattenuta dalla piattaforma l'IVA può gravare in modo diverso a seconda che tu abbia o meno una partita IVA. È una voce da non dimenticare nel calcolo del netto: per il tuo caso specifico conviene chiedere al commercialista."
+    },
+    {
+      "q": "La commissione include pulizia, tasse e imposta di soggiorno?",
+      "a": "No, sono voci separate. La commissione è solo il costo della piattaforma; pulizia, imposte sul reddito e imposta di soggiorno seguono logiche proprie. L'imposta di soggiorno, in particolare, non è un tuo ricavo: la incassi dall'ospite e la versi al Comune."
+    },
+    {
+      "q": "Come calcolo quanto mi resta davvero da una prenotazione?",
+      "a": "Parti dal prezzo e sottrai tutto ciò che esce. Togli la commissione host ed eventuale IVA, i costi variabili come la pulizia e ricorda che l'imposta di soggiorno è pass-through, non un ricavo. Sul risultato incideranno poi le imposte sul reddito. Il numero finale, non la percentuale di commissione, è la vera resa."
+    }
+  ],
+  "related": [
+    "come-funziona-airbnb-host",
+    "airbnb-o-booking",
+    "prezzi-dinamici-affitti-brevi"
+  ],
+  "sources": [
+    {
+      "label": "Costi e commissioni per gli host",
+      "ente": "Airbnb — Centro assistenza",
+      "data": "2026",
+      "url": ""
+    },
+    {
+      "label": "Commissioni e condizioni per le strutture",
+      "ente": "Booking.com — Centro assistenza partner",
+      "data": "2026",
+      "url": ""
+    }
+  ],
+  "disclaimer": false,
+  "note": ""
+}
