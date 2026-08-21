@@ -538,7 +538,7 @@ h1,h2,h3{font-family:var(--serif);font-weight:600;line-height:1.12;color:var(--c
 .cta .kick{font-family:var(--serif);font-size:26px;letter-spacing:0;text-transform:none;color:var(--charcoal);font-weight:600;display:block;margin-bottom:8px}
 .cta-txt p{color:var(--muted);font-size:15.5px}
 .cta-form{display:flex;flex-direction:column;gap:10px}
-.cta-form input{padding:13px 14px;border:1px solid var(--line);border-radius:2px;font-family:var(--sans);font-size:15px;background:#fff}
+.cta-form input{padding:13px 14px;border:1px solid var(--line);border-radius:2px;font-family:var(--sans);font-size:16px;background:#fff}
 .cta-form input:focus{outline:none;border-color:var(--gold)}
 .cta-form .btn-gold{justify-content:center}
 .cta-form .wa{font-size:13.5px;color:#1f7a44;text-align:center;font-weight:500}
@@ -661,7 +661,7 @@ h1,h2,h3{font-family:var(--serif);font-weight:600;line-height:1.12;color:var(--c
 .foot-news .fn-k{font-family:var(--serif);font-size:22px;color:#fff}
 .foot-news p{color:#c9c2b4;font-size:14px;margin-top:2px}
 .news-form{display:flex;gap:8px;flex-wrap:wrap}
-.news-form input{padding:12px 14px;border:1px solid var(--line);border-radius:2px;font-family:var(--sans);font-size:14px;min-width:220px;background:#fff;color:var(--charcoal)}
+.news-form input{padding:12px 14px;border:1px solid var(--line);border-radius:2px;font-family:var(--sans);font-size:16px;min-width:220px;background:#fff;color:var(--charcoal)}
 .side-news .news-form{flex-direction:column}
 .side-news .news-form input{min-width:0;width:100%}
 .side-news .news-form .btn{width:100%;justify-content:center}
@@ -677,7 +677,7 @@ h1,h2,h3{font-family:var(--serif);font-weight:600;line-height:1.12;color:var(--c
 .calc-card{background:var(--paper);border:1px solid var(--line);border-radius:8px;padding:28px;box-shadow:0 16px 44px rgba(22,20,15,.07)}
 .calc-form{display:grid;grid-template-columns:1fr 1fr;gap:16px}
 .calc-form label{display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:500;color:var(--charcoal)}
-.calc-form select{padding:12px;border:1px solid var(--line);border-radius:3px;font-family:var(--sans);font-size:15px;background:#fff}
+.calc-form select{padding:12px;border:1px solid var(--line);border-radius:3px;font-family:var(--sans);font-size:16px;background:#fff}
 .calc-form .btn-gold{grid-column:1/-1;justify-content:center}
 .calc-out{margin-top:24px;border-top:1px solid var(--line);padding-top:22px}
 .co-k{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:500}
@@ -689,7 +689,7 @@ h1,h2,h3{font-family:var(--serif);font-weight:600;line-height:1.12;color:var(--c
 .co-lead strong{font-family:var(--serif);font-size:20px}
 .co-lead p{font-size:14px;color:var(--muted);margin:6px 0 12px}
 .co-lead .cta-form{display:flex;flex-direction:column;gap:10px}
-.co-lead .cta-form input{padding:12px 14px;border:1px solid var(--line);border-radius:2px;font-family:var(--sans);font-size:15px}
+.co-lead .cta-form input{padding:12px 14px;border:1px solid var(--line);border-radius:2px;font-family:var(--sans);font-size:16px}
 .co-lead .wa{font-size:13.5px;color:#1f7a44;text-align:center}
 .calc-disc{font-size:12px;color:var(--muted);text-align:center;margin-top:14px}
 @media(max-width:560px){.calc-form{grid-template-columns:1fr}}
@@ -704,6 +704,7 @@ h1,h2,h3{font-family:var(--serif);font-weight:600;line-height:1.12;color:var(--c
   .cta-inline{flex-direction:column;align-items:flex-start}
 }
 @media(max-width:600px){
+  input,select,textarea{font-size:16px}
   .cta-in{padding:24px 22px}
   .calc-hl-in{padding:24px}
   .calc-card{padding:22px}
