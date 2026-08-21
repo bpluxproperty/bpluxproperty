@@ -60,7 +60,33 @@ def inline(t):
     t=INTERNAL_RE.sub(lambda m:f'<a href="{m.group(1)}">{m.group(1).strip("/").replace("/"," ")}</a>' if not re.search(r'href="[^"]*$',t[:m.start()]) else m.group(1),t)
     return t
 
-def paras(lst): return "".join(f"<p>{inline(p)}</p>" for p in (lst or []))
+KEY_TERMS=["property manager","prezzi dinamici","imposta di soggiorno","cedolare secca","self check-in","Alloggiati Web","CIN","Superhost","recensioni","occupazione"]
+_BOLD={"n":0,"done":set()}
+MAXBOLD=5
+def auto_bold_raw(t):
+    if not t or _BOLD["n"]>=MAXBOLD: return t
+    masks=[]
+    def _mask(m): masks.append(m.group(0)); return f"\x00{len(masks)-1}\x00"
+    t=LINK_RE.sub(_mask,t)
+    for term in KEY_TERMS:
+        if _BOLD["n"]>=MAXBOLD: break
+        if term in _BOLD["done"]: continue
+        m=re.compile(r"(?<![0-9A-Za-zàèéìòùÀÈÉÌÒÙ])("+re.escape(term)+r")(?![0-9A-Za-zàèéìòùÀÈÉÌÒÙ])",re.I).search(t)
+        if m:
+            t=t[:m.start()]+"**"+m.group(1)+"**"+t[m.end():]
+            _BOLD["n"]+=1; _BOLD["done"].add(term)
+    for i,orig in enumerate(masks): t=t.replace(f"\x00{i}\x00",orig)
+    return t
+def pullquote_for(a):
+    pat=re.compile(r"[^.!?]*\b(nostra esperienza|Nella nostra|da property manager|Superhost|lo vediamo di continuo|nel nostro lavoro|abbiamo (?:visto|imparato))\b[^.!?]*[.!?]",re.I)
+    for sec in a.get("sections",[]):
+        for p in sec.get("paragraphs",[]):
+            m=pat.search(p)
+            if m:
+                s=m.group(0).strip()
+                if 45<=len(s)<=210: return f'<blockquote class="pull"><p>{inline(s)}</p></blockquote>'
+    return ""
+def paras(lst, ab=False): return "".join(f"<p>{inline(auto_bold_raw(p) if ab else p)}</p>" for p in (lst or []))
 def ul(lst):
     if not lst: return ""
     return "<ul>"+"".join(f"<li>{inline(x)}</li>" for x in lst)+"</ul>"
@@ -238,7 +264,7 @@ def page(title, desc, canonical, body, jsonld, extra_head="", og_image=None):
 def art_url(slug): return f'{S["url"]}/blog/{slug}'
 def card(a):
     c=CATS.get(a["category"],{})
-    return f'''<a class="card" href="/blog/{a["slug"]}/">
+    return f'''<a class="card cat-{a["category"]}" href="/blog/{a["slug"]}/">
   <span class="card-cat">{esc(c.get("name",""))}</span>
   <span class="card-h">{esc(a.get("h1") or a.get("title"))}</span>
   <span class="card-x">{esc(a.get("excerpt",""))}</span>
@@ -247,11 +273,16 @@ def card(a):
 # ---------------- ARTICOLO ----------------
 def render_article(a):
     c=CATS.get(a["category"],{})
+    _BOLD["n"]=0; _BOLD["done"]=set()
+    pq=pullquote_for(a); nsec=len(a.get("sections",[]))
+    pq_at=(nsec-2) if nsec>=4 else -1
+    if pq_at==2: pq_at=3
     secs_html=""; toc=[]
     for i,sec in enumerate(a.get("sections",[])):
         sid=f"s{i+1}"; toc.append((sid,sec["h2"]))
-        secs_html+=f'<section id="{sid}"><h2>{esc(sec["h2"])}</h2>{paras(sec.get("paragraphs"))}{ul(sec.get("list"))}{table(sec.get("table"))}</section>'
+        secs_html+=f'<section id="{sid}"><h2>{esc(sec["h2"])}</h2>{paras(sec.get("paragraphs"),True)}{ul(sec.get("list"))}{table(sec.get("table"))}</section>'
         if i==2: secs_html+=cta_inline()   # CTA a meta
+        if pq and i==pq_at: secs_html+=pq
     toc_html=""
     if len(toc)>=5:
         toc_html='<nav class="toc"><span>In questa guida</span><ol>'+"".join(f'<li><a href="#{i}">{esc(h)}</a></li>' for i,h in toc)+'</ol></nav>'
@@ -264,8 +295,9 @@ def render_article(a):
         src_html=f'<section class="sources"><h2>Fonti</h2><ul>{items}</ul></section>'
     disc='<p class="disclaimer">Contenuto informativo, aggiornato alla data di pubblicazione: non sostituisce una consulenza professionale. Per il tuo caso specifico, verifica con un professionista o contattaci.</p>' if a.get("disclaimer") else ""
     hero=hero_for(a); rt=reading_time(a)
+    tldr=f'<aside class="tldr"><span class="tldr-k">In sintesi</span><p>{inline(a.get("excerpt",""))}</p></aside>' if a.get("excerpt") else ""
     hero_style=f'background-image:linear-gradient(180deg,rgba(22,20,15,.30),rgba(22,20,15,.82)),url({hero})'
-    body=f'''<main class="art-wrap">
+    body=f'''<main class="art-wrap cat-{a["category"]}">
 <nav class="crumb wrap"><a href="/blog/">Blog</a> / <a href="/blog/categoria/{a["category"]}/">{esc(c.get("name",""))}</a> / <span>{esc(a.get("h1") or a.get("title"))}</span></nav>
 <div class="art-hero-img" style="{hero_style}">
   <div class="ahi-in wrap">
@@ -276,9 +308,10 @@ def render_article(a):
 </div>
 <div class="art-grid wrap">
   <article class="body">
-    <p class="opening">{inline(a.get("opening",""))}</p>
+    <p class="opening">{inline(auto_bold_raw(a.get("opening","")))}</p>
     {toc_html}
     {secs_html}
+    {tldr}
     {disc}
     {share_box(a)}
     {author_box()}
@@ -481,10 +514,10 @@ def make_og():
     one(os.path.join(ogdir,"_calcolatore.png"),"Strumento gratuito","Calcolatore di rendita affitto breve")
     print("OG: generate",len(articles)+2,"immagini")
 
-BLOG_CSS=r''':root{--ivory:#F6F2E9;--paper:#FBF9F3;--charcoal:#16140F;--charcoal2:#211E17;--gold:#B0894E;--gold2:#C9A24B;--muted:#7d7466;--line:rgba(22,20,15,.12);--maxw:1120px;--pad:clamp(20px,4vw,34px);--serif:'Cormorant Garamond',Georgia,serif;--sans:'Jost',system-ui,sans-serif}
+BLOG_CSS=r''':root{--ivory:#F6F2E9;--paper:#FBF9F3;--charcoal:#16140F;--charcoal2:#211E17;--gold:#B0894E;--gold2:#C9A24B;--muted:#5f574a;--line:rgba(22,20,15,.12);--maxw:1120px;--pad:clamp(20px,4vw,34px);--serif:'Cormorant Garamond',Georgia,serif;--sans:'Jost',system-ui,sans-serif}
 *{box-sizing:border-box;margin:0;padding:0}
 html{scroll-behavior:smooth}
-body{font-family:var(--sans);color:var(--charcoal);background:var(--ivory);line-height:1.65;font-weight:300;-webkit-font-smoothing:antialiased}
+body{font-family:var(--sans);color:var(--charcoal);background:var(--ivory);line-height:1.68;font-weight:400;-webkit-font-smoothing:antialiased}
 a{color:inherit;text-decoration:none}
 .wrap{max-width:var(--maxw);margin:0 auto;padding:0 var(--pad)}
 h1,h2,h3{font-family:var(--serif);font-weight:600;line-height:1.12;color:var(--charcoal)}
@@ -512,12 +545,13 @@ h1,h2,h3{font-family:var(--serif);font-weight:600;line-height:1.12;color:var(--c
 .intro-band p{font-size:18px;color:#3c372e;line-height:1.75;max-width:760px}
 /* cards */
 .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,300px),1fr));gap:22px}
-.card{display:flex;flex-direction:column;background:var(--paper);border:1px solid var(--line);border-radius:4px;padding:24px 22px;transition:.28s}
+.card{--acc:var(--gold);display:flex;flex-direction:column;background:var(--paper);border:1px solid var(--line);border-top:3px solid var(--acc);border-radius:4px;padding:22px 22px;transition:.28s}
+.cat-quanto-rende{--acc:#4d7c5a}.cat-normativa-fisco{--acc:#4a6785}.cat-piattaforme{--acc:#3f7d78}.cat-gestione{--acc:#a15c43}.cat-affitti-brevi{--acc:#7a5a86}.cat-preparare-casa{--acc:#6f6c37}.cat-dozza-emilia-romagna{--acc:#8a4a4a}
 .card:hover{transform:translateY(-3px);box-shadow:0 18px 40px rgba(22,20,15,.09);border-color:rgba(176,137,78,.5)}
-.card-cat{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--gold);font-weight:500;margin-bottom:10px}
+.card-cat{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--acc,var(--gold));font-weight:600;margin-bottom:10px}
 .card-h{font-family:var(--serif);font-size:22px;font-weight:600;line-height:1.15;margin-bottom:8px}
 .card-x{font-size:14.5px;color:var(--muted);flex:1}
-.card-go{font-size:13px;color:var(--gold);font-weight:500;margin-top:14px}
+.card-go{font-size:13px;color:var(--acc,var(--gold));font-weight:600;margin-top:14px}
 /* blocchi categoria */
 .hub{padding-bottom:20px}
 .cat-block{max-width:var(--maxw);margin:44px auto 0;padding:0 var(--pad)}
@@ -552,10 +586,14 @@ h1,h2,h3{font-family:var(--serif);font-weight:600;line-height:1.12;color:var(--c
 .art-hero .meta{font-size:13px;color:var(--muted);letter-spacing:.02em}
 .art-hero.has-img{border-radius:6px;padding:46px 30px;color:#fff;margin-bottom:10px}
 .art-hero.has-img h1{color:#fff}.art-hero.has-img .meta{color:#e7e1d5}.art-hero.has-img .kick{color:var(--gold2)}
-.body{font-size:17px;color:#2b271f}
+.body{font-size:17px;color:#26221b}
+.body p a,.body li a{color:var(--gold);text-decoration:underline;text-underline-offset:2px;text-decoration-thickness:1px;font-weight:500}
+.body p a:hover,.body li a:hover{color:var(--charcoal)}
+.body strong{font-weight:600;color:var(--charcoal)}
 .body .opening{font-size:20px;line-height:1.6;color:#3c372e;border-left:3px solid var(--gold);padding-left:18px;margin:18px 0 8px}
 .body section{margin:30px 0}
 .body h2{font-size:27px;margin-bottom:12px}
+.body section[id]>h2::before{content:"";display:block;width:40px;height:3px;background:var(--acc,var(--gold));border-radius:2px;margin-bottom:14px}
 .body p{margin:12px 0}
 .body ul{margin:12px 0 12px 4px;list-style:none}
 .body li{position:relative;padding:5px 0 5px 22px}
@@ -569,7 +607,13 @@ h1,h2,h3{font-family:var(--serif);font-weight:600;line-height:1.12;color:var(--c
 .toc span{font-family:var(--sans);font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:500}
 .toc ol{margin:10px 0 0 18px;font-size:15px}
 .toc a{color:#3c372e}.toc a:hover{color:var(--gold)}
-.disclaimer{font-size:13.5px;color:var(--muted);font-style:italic;background:var(--paper);border-left:3px solid var(--gold);padding:12px 16px;margin-top:22px}
+.disclaimer{font-size:14px;color:#4a4234;background:var(--paper);border-left:3px solid var(--gold);padding:14px 18px;margin-top:22px;border-radius:0 4px 4px 0}
+.disclaimer::before{content:"NOTA";display:block;font-family:var(--sans);font-size:11px;letter-spacing:.18em;color:var(--gold);font-weight:600;margin-bottom:4px}
+.tldr{background:var(--paper);border:1px solid var(--line);border-left:4px solid var(--acc,var(--gold));border-radius:0 6px 6px 0;padding:16px 20px;margin:22px 0}
+.tldr-k{display:block;font-family:var(--sans);font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:var(--acc,var(--gold));font-weight:600;margin-bottom:6px}
+.tldr p{margin:0;color:#3c372e;font-size:16px;font-weight:400}
+.pull{margin:34px 0;padding:4px 0 4px 24px;border-left:4px solid var(--acc,var(--gold))}
+.pull p{font-family:var(--serif);font-size:clamp(21px,2.8vw,29px);line-height:1.32;color:var(--charcoal);font-weight:600;margin:0}
 .sources{margin-top:26px;font-size:14px}.sources h2{font-size:20px}.sources ul{margin-top:8px;color:var(--muted)}.sources li{margin:6px 0}
 .sources a{color:var(--gold);text-decoration:underline}
 .faqs{max-width:760px;margin:36px auto 0;padding:0 22px}
