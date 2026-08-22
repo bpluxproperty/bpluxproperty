@@ -250,6 +250,25 @@ export default function App() {
         </div>
       </section>
 
+      {/* BLOG */}
+      <section id="blog-promo" className="blog-promo">
+        <div className="wrap">
+          <div className="sec-head reveal">
+            <span className="eyebrow">{lang === 'it' ? 'Il blog' : 'The blog'}</span>
+            <h2>{lang === 'it' ? 'Oltre 100 guide sugli affitti brevi' : '100+ guides on short lets'}</h2>
+            <p>{lang === 'it' ? 'Città per città, quanto rende, regole e fisco, Airbnb e Booking, gestione: oltre 100 guide pratiche scritte da chi gestisce case vere ogni giorno. Aggiornate e senza giri di parole.' : 'City by city, yields, rules and tax, Airbnb and Booking, management: 100+ practical guides written by people who run real homes every day.'}</p>
+          </div>
+          <div className="blogp-links reveal">
+            <a href="/blog/quanto-rende-affitto-breve-milano/">Quanto rende a Milano</a>
+            <a href="/blog/affitti-brevi-roma-guida/">Affitti brevi a Roma</a>
+            <a href="/blog/cin-affitti-brevi-come-ottenerlo/">Come ottenere il CIN</a>
+            <a href="/blog/cedolare-secca-affitti-brevi/">Cedolare secca</a>
+            <a href="/blog/come-iniziare-affitti-brevi-guida/">{lang === 'it' ? 'Come iniziare' : 'Getting started'}</a>
+          </div>
+          <div className="ag-cta reveal"><a href="/blog/" className="btn btn-gold">{lang === 'it' ? 'Sfoglia il blog →' : 'Browse the blog →'}</a></div>
+        </div>
+      </section>
+
       {/* CTA + FORM */}
       <section id="contatti" className="cta">
         <div className="wrap cta-grid">

@@ -45,6 +45,12 @@ nav ul a:hover{color:var(--gold-2)}
 .hero-anim{opacity:0}
 
 section{padding:96px 0}
+.blog-promo{background:linear-gradient(180deg,var(--paper),var(--ivory));text-align:center}
+.blog-promo .sec-head{max-width:760px;margin-left:auto;margin-right:auto;margin-bottom:32px}
+.blogp-links{display:flex;flex-wrap:wrap;gap:12px;justify-content:center;margin:0 auto 30px;max-width:820px}
+.blogp-links a{font-size:14px;border:1px solid var(--line);border-radius:24px;padding:9px 18px;color:var(--charcoal);background:#fff;transition:.2s}
+.blogp-links a:hover{border-color:var(--gold);color:var(--gold);transform:translateY(-2px)}
+.blog-promo .ag-cta{text-align:center}
 .sec-head{max-width:700px;margin-bottom:54px}
 .sec-head h2{font-size:clamp(32px,4.2vw,52px);margin:14px 0}
 .sec-head p{color:var(--muted);font-size:17px}
