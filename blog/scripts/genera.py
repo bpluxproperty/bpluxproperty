@@ -77,6 +77,24 @@ def auto_bold_raw(t):
             _BOLD["n"]+=1; _BOLD["done"].add(term)
     for i,orig in enumerate(masks): t=t.replace(f"\x00{i}\x00",orig)
     return t
+LINK_MAP=[("property manager","property-manager-affitti-brevi"),("cedolare secca","cedolare-secca-affitti-brevi"),("imposta di soggiorno","imposta-di-soggiorno-affitti-brevi"),("Alloggiati Web","alloggiati-web-comunicazione-ospiti"),("prezzi dinamici","prezzi-dinamici-affitti-brevi"),("self check-in","self-check-in-affitti-brevi"),("channel manager","channel-manager-affitti-brevi"),("home staging","home-staging-affitti-brevi"),("foto professionali","foto-professionali-affitti-brevi"),("Superhost","come-diventare-superhost"),("CIN","cin-affitti-brevi-come-ottenerlo")]
+_LINK={"n":0,"done":set()}
+_SELF={"slug":""}
+MAXLINK=3
+def auto_link_raw(t):
+    if not t or _LINK["n"]>=MAXLINK: return t
+    masks=[]
+    def _mask(m): masks.append(m.group(0)); return f"\x01{len(masks)-1}\x01"
+    t=LINK_RE.sub(_mask,t)
+    for term,slug in LINK_MAP:
+        if _LINK["n"]>=MAXLINK: break
+        if slug in _LINK["done"] or slug==_SELF["slug"]: continue
+        m=re.compile(r"(?<![0-9A-Za-zàèéìòùÀÈÉÌÒÙ])("+re.escape(term)+r")(?![0-9A-Za-zàèéìòùÀÈÉÌÒÙ])",re.I).search(t)
+        if m:
+            t=t[:m.start()]+f"[{m.group(1)}](/blog/{slug}/)"+t[m.end():]
+            _LINK["n"]+=1; _LINK["done"].add(slug)
+    for i,orig in enumerate(masks): t=t.replace(f"\x01{i}\x01",orig)
+    return t
 def pullquote_for(a):
     pat=re.compile(r"[^.!?]*\b(nostra esperienza|Nella nostra|da property manager|Superhost|lo vediamo di continuo|nel nostro lavoro|abbiamo (?:visto|imparato))\b[^.!?]*[.!?]",re.I)
     for sec in a.get("sections",[]):
@@ -86,7 +104,7 @@ def pullquote_for(a):
                 s=m.group(0).strip()
                 if 45<=len(s)<=210: return f'<blockquote class="pull"><p>{inline(s)}</p></blockquote>'
     return ""
-def paras(lst, ab=False): return "".join(f"<p>{inline(auto_bold_raw(p) if ab else p)}</p>" for p in (lst or []))
+def paras(lst, ab=False): return "".join(f"<p>{inline(auto_bold_raw(auto_link_raw(p)) if ab else p)}</p>" for p in (lst or []))
 def ul(lst):
     if not lst: return ""
     return "<ul>"+"".join(f"<li>{inline(x)}</li>" for x in lst)+"</ul>"
@@ -274,6 +292,7 @@ def card(a):
 def render_article(a):
     c=CATS.get(a["category"],{})
     _BOLD["n"]=0; _BOLD["done"]=set()
+    _LINK["n"]=0; _LINK["done"]=set(); _SELF["slug"]=a["slug"]
     pq=pullquote_for(a); nsec=len(a.get("sections",[]))
     pq_at=(nsec-2) if nsec>=4 else -1
     if pq_at==2: pq_at=3
@@ -399,11 +418,11 @@ def render_hub():
 
 # ---------------- GUIDA DEL PROPRIETARIO (pilastro) ----------------
 GUIDE_PHASES=[
- ("Decidere e valutare","Capire se conviene, con quale formula partire e quanto può rendere.",["come-iniziare-affitti-brevi-guida","affitto-breve-o-lungo-cosa-conviene","conviene-comprare-casa-per-affitto-breve","casa-vacanze-o-affitto-breve-differenze","come-calcolare-rendita-affitto-breve","quanto-si-guadagna-affitti-brevi-italia"]),
- ("Regole, fisco e burocrazia","CIN, tasse e adempimenti spiegati semplici, senza sorprese.",["cin-affitti-brevi-come-ottenerlo","cedolare-secca-affitti-brevi","imposta-di-soggiorno-affitti-brevi","alloggiati-web-comunicazione-ospiti","contratto-locazione-breve","terzo-immobile-partita-iva-affitti-brevi","affitti-brevi-e-condominio","assicurazione-affitti-brevi","comunicazione-istat-affitti-brevi"]),
+ ("Decidere e valutare","Capire se conviene, con quale formula partire e quanto può rendere.",["come-iniziare-affitti-brevi-guida","affitto-breve-o-lungo-cosa-conviene","conviene-comprare-casa-per-affitto-breve","casa-vacanze-o-affitto-breve-differenze","come-calcolare-rendita-affitto-breve","quanto-si-guadagna-affitti-brevi-italia","quanto-tempo-serve-gestire-affitto-breve"]),
+ ("Regole, fisco e burocrazia","CIN, tasse e adempimenti spiegati semplici, senza sorprese.",["cin-affitti-brevi-come-ottenerlo","cedolare-secca-affitti-brevi","imposta-di-soggiorno-affitti-brevi","alloggiati-web-comunicazione-ospiti","contratto-locazione-breve","terzo-immobile-partita-iva-affitti-brevi","affitti-brevi-e-condominio","assicurazione-affitti-brevi","comunicazione-istat-affitti-brevi","tasse-affitti-brevi-quanto-si-paga","adempimenti-affitti-brevi-checklist","regole-affitti-brevi-emilia-romagna","quando-serve-commercialista-affitti-brevi"]),
  ("Preparare l'immobile","Rendere la casa pronta, sicura e desiderabile per gli ospiti.",["arredare-casa-per-affitti-brevi","kit-di-benvenuto-affitti-brevi","smart-home-affitti-brevi","foto-professionali-affitti-brevi","dotazioni-must-have-affitti-brevi","aumentare-posti-letto-affitto-breve","scorte-e-consumabili-affitti-brevi","wifi-e-internet-affitti-brevi","sicurezza-alloggio-affitti-brevi","checklist-primo-ospite-affitti-brevi","home-staging-affitti-brevi","serratura-smart-affitti-brevi"]),
- ("Pubblicare e prezzare","Annuncio, portali giusti e prezzo che riempie il calendario.",["come-funziona-airbnb-host","airbnb-o-booking","annuncio-perfetto-airbnb","prezzi-dinamici-affitti-brevi","commissioni-airbnb-quanto-trattiene","channel-manager-affitti-brevi","crea-account-host-airbnb","come-creare-annuncio-airbnb","griglia-foto-annuncio-airbnb","usare-ai-per-annuncio-airbnb","pubblicare-casa-su-booking","programma-genius-booking","politica-cancellazione-airbnb","promozioni-e-sconti-airbnb","come-e-quando-paga-airbnb","aumentare-tariffa-media-affitti-brevi"]),
- ("Gestire gli ospiti","Check-in, pulizie, recensioni e assistenza, anche a distanza.",["check-in-check-out-affitti-brevi","self-check-in-affitti-brevi","pulizie-e-biancheria-affitti-brevi","recensioni-5-stelle-affitti-brevi","come-gestire-recensioni-negative-affitti-brevi","cauzione-e-danni-affitti-brevi","gestione-affitti-brevi-a-distanza","messaggi-automatici-ospiti-airbnb","regole-della-casa-affitti-brevi","guida-di-benvenuto-ospiti"]),
+ ("Pubblicare e prezzare","Annuncio, portali giusti e prezzo che riempie il calendario.",["come-funziona-airbnb-host","airbnb-o-booking","annuncio-perfetto-airbnb","prezzi-dinamici-affitti-brevi","commissioni-airbnb-quanto-trattiene","channel-manager-affitti-brevi","crea-account-host-airbnb","come-creare-annuncio-airbnb","griglia-foto-annuncio-airbnb","usare-ai-per-annuncio-airbnb","pubblicare-casa-su-booking","programma-genius-booking","politica-cancellazione-airbnb","promozioni-e-sconti-airbnb","come-e-quando-paga-airbnb","aumentare-tariffa-media-affitti-brevi","ranking-airbnb-come-farsi-trovare"]),
+ ("Gestire gli ospiti","Check-in, pulizie, recensioni e assistenza, anche a distanza.",["check-in-check-out-affitti-brevi","self-check-in-affitti-brevi","pulizie-e-biancheria-affitti-brevi","recensioni-5-stelle-affitti-brevi","come-gestire-recensioni-negative-affitti-brevi","cauzione-e-danni-affitti-brevi","gestione-affitti-brevi-a-distanza","messaggi-automatici-ospiti-airbnb","regole-della-casa-affitti-brevi","guida-di-benvenuto-ospiti","manutenzione-affitti-brevi"]),
  ("Crescere e ottimizzare","Alzare rendita, occupazione e reputazione. O delegare tutto.",["come-diventare-superhost","come-aumentare-prenotazioni-airbnb","come-destagionalizzare-affitti-brevi","errori-affitti-brevi-da-evitare","gestione-affitti-brevi-fai-da-te-o-agenzia","quanto-costa-property-manager-affitti-brevi","property-manager-affitti-brevi","nicchie-affitti-brevi","affidare-casa-a-gestore-domande"]),
 ]
 def render_guida():
