@@ -1,6 +1,6 @@
 :root{
   --ivory:#F6F2E9; --paper:#FBF9F3; --charcoal:#16140F; --charcoal-2:#211E17;
-  --gold:#B0894E; --gold-2:#C9A24B; --muted:#7d7466; --line:rgba(22,20,15,.12);
+  --gold:#B0894E; --gold-2:#C9A24B; --muted:#5f574a; --line:rgba(22,20,15,.12);
   --serif:'Cormorant Garamond',Georgia,serif; --sans:'Jost',system-ui,sans-serif;
 }
 *{box-sizing:border-box;margin:0;padding:0}
