@@ -250,13 +250,13 @@ export default function App() {
         </div>
       </section>
 
-      {/* BLOG */}
-      <section id="blog-promo" className="blog-promo">
+      {/* BLOG / SECONDA CASA */}
+      <section id="seconda-casa" className="blog-promo">
         <div className="wrap">
           <div className="sec-head reveal">
-            <span className="eyebrow">{lang === 'it' ? 'Il blog' : 'The blog'}</span>
-            <h2>{lang === 'it' ? 'Oltre 100 guide sugli affitti brevi' : '100+ guides on short lets'}</h2>
-            <p>{lang === 'it' ? 'Città per città, quanto rende, regole e fisco, Airbnb e Booking, gestione: oltre 100 guide pratiche scritte da chi gestisce case vere ogni giorno. Aggiornate e senza giri di parole.' : 'City by city, yields, rules and tax, Airbnb and Booking, management: 100+ practical guides written by people who run real homes every day.'}</p>
+            <span className="eyebrow">{lang === 'it' ? 'Hai una seconda casa?' : 'Got a second home?'}</span>
+            <h2>{lang === 'it' ? 'Trasformala in un secondo stipendio' : 'Turn it into a second income'}</h2>
+            <p>{lang === 'it' ? 'Con circa 30 minuti al giorno puoi mettere a reddito il tuo appartamento con gli affitti brevi. La nostra Guida del proprietario ti accompagna passo dopo passo, con oltre 100 articoli pratici. E se non hai tempo o voglia, la costruiamo noi a costo iniziale zero — poi il business resta tuo.' : 'In about 30 minutes a day you can turn your apartment into short-let income. Our owner guide walks you through it step by step, with 100+ practical articles. And if you have no time, we build it for you at zero upfront cost.'}</p>
           </div>
           <div className="blogp-links reveal">
             <a href="/blog/quanto-rende-affitto-breve-milano/">Quanto rende a Milano</a>
@@ -265,7 +265,10 @@ export default function App() {
             <a href="/blog/cedolare-secca-affitti-brevi/">Cedolare secca</a>
             <a href="/blog/come-iniziare-affitti-brevi-guida/">{lang === 'it' ? 'Come iniziare' : 'Getting started'}</a>
           </div>
-          <div className="ag-cta reveal"><a href="/blog/" className="btn btn-gold">{lang === 'it' ? 'Sfoglia il blog →' : 'Browse the blog →'}</a></div>
+          <div className="ag-cta reveal">
+            <a href="/blog/guida-proprietario/" className="btn btn-gold">{lang === 'it' ? 'Apri la Guida del proprietario →' : 'Open the owner guide →'}</a>
+            <div style={{ marginTop: '16px' }}><a href="/blog/" style={{ color: 'var(--gold)', fontSize: '14px', letterSpacing: '.02em' }}>{lang === 'it' ? 'oppure sfoglia tutte le guide del blog →' : 'or browse all blog guides →'}</a></div>
+          </div>
         </div>
       </section>
 

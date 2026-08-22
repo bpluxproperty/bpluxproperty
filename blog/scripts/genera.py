@@ -138,7 +138,7 @@ def side_bar(a):
     return f'''<aside class="side">
   <div class="side-card side-val">
     <span class="sv-k">Valutazione gratuita</span>
-    <p>Scopri quanto puo rendere il tuo immobile come affitto breve. La calcoliamo noi, sui numeri reali.</p>
+    <p>Scopri quanto può rendere il tuo immobile come affitto breve. La calcoliamo noi, sui numeri reali.</p>
     <a class="btn btn-gold" href="#contatti-blog">Richiedi la valutazione</a>
   </div>
   {calc_card()}
@@ -182,7 +182,7 @@ def calc_card():
     return '''<a class="side-card side-calc" href="/blog/calcolatore-rendita/">
   <span class="sd-k">Strumento gratuito</span>
   <strong>Calcolatore di rendita</strong>
-  <span class="sc-go">Stima quanto puo rendere il tuo immobile &rarr;</span>
+  <span class="sc-go">Stima quanto può rendere il tuo immobile &rarr;</span>
 </a>'''
 def newsletter_box():
     return '''<div class="side-card side-news">
@@ -211,7 +211,7 @@ def cta_block(cid=""):
       <input name="nome" required placeholder="Nome e cognome" aria-label="Nome e cognome">
       <input name="email" type="email" required placeholder="Email" aria-label="Email">
       <input name="telefono" placeholder="Telefono / WhatsApp" aria-label="Telefono o WhatsApp">
-      <input name="citta" placeholder="Citta dell'immobile" aria-label="Citta dell'immobile">
+      <input name="citta" placeholder="Città dell'immobile" aria-label="Città dell'immobile">
       <button type="submit" class="btn btn-gold">{esc(ent["cta"]["bottone"])}</button>
       <a class="wa" href="https://wa.me/{WA}?text={esc(WA_PREFILL).replace(' ','%20')}" target="_blank" rel="noopener">&#128241; {esc(ent["cta"]["whatsappTesto"])} ({esc(S["whatsappDisplay"])})</a>
     </form>
@@ -228,7 +228,7 @@ def header():
 def footer():
     cols="".join(f'<a href="/blog/categoria/{c}/">{esc(CATS[c]["name"])}</a>' for c in CAT_ORDER)
     return f'''<section class="foot-news"><div class="wrap foot-news-in">
-  <div class="fn-txt"><span class="fn-k">Iscriviti alla newsletter</span><p>Consigli sugli affitti brevi e novita dal blog, ogni tanto. Niente spam.</p></div>
+  <div class="fn-txt"><span class="fn-k">Iscriviti alla newsletter</span><p>Consigli sugli affitti brevi e novità dal blog, ogni tanto. Niente spam.</p></div>
   <form class="news-form" onsubmit="return bpNews(event)"><input name="email" type="email" required placeholder="La tua email" aria-label="Email"><button class="btn btn-gold" type="submit">Iscriviti</button></form>
 </div></section>
 <footer class="foot"><div class="wrap foot-in">
@@ -384,7 +384,7 @@ def render_hub():
 </div></section>
 <section class="intro-band"><p>{esc(ent["blogHubIntro"])}</p></section>
 <section class="calc-hl"><div class="wrap calc-hl-in">
-  <div><span class="kick">Strumento gratuito</span><h2>Quanto puo rendere il tuo immobile?</h2><p>Fai una stima in trenta secondi con il nostro calcolatore. Poi, se vuoi, ti prepariamo l'analisi precisa e gratuita.</p></div>
+  <div><span class="kick">Strumento gratuito</span><h2>Quanto può rendere il tuo immobile?</h2><p>Fai una stima in trenta secondi con il nostro calcolatore. Poi, se vuoi, ti prepariamo l'analisi precisa e gratuita.</p></div>
   <a class="btn btn-gold" href="/blog/calcolatore-rendita/">Prova il calcolatore &rarr;</a>
 </div></section>
 <section class="cat-block"><div class="cat-head"><h2>In evidenza</h2></div><div class="cards">{feat_html}</div></section>
@@ -400,11 +400,11 @@ def render_hub():
 # ---------------- GUIDA DEL PROPRIETARIO (pilastro) ----------------
 GUIDE_PHASES=[
  ("Decidere e valutare","Capire se conviene, con quale formula partire e quanto può rendere.",["come-iniziare-affitti-brevi-guida","affitto-breve-o-lungo-cosa-conviene","conviene-comprare-casa-per-affitto-breve","casa-vacanze-o-affitto-breve-differenze"]),
- ("Regole, fisco e burocrazia","CIN, tasse e adempimenti spiegati semplici, senza sorprese.",["cin-affitti-brevi-come-ottenerlo","cedolare-secca-affitti-brevi","imposta-di-soggiorno-affitti-brevi","alloggiati-web-comunicazione-ospiti","contratto-locazione-breve","terzo-immobile-partita-iva-affitti-brevi","affitti-brevi-e-condominio","assicurazione-affitti-brevi"]),
- ("Preparare l'immobile","Rendere la casa pronta, sicura e desiderabile per gli ospiti.",["arredare-casa-per-affitti-brevi","kit-di-benvenuto-affitti-brevi","smart-home-affitti-brevi","foto-professionali-affitti-brevi"]),
- ("Pubblicare e prezzare","Annuncio, portali giusti e prezzo che riempie il calendario.",["come-funziona-airbnb-host","airbnb-o-booking","annuncio-perfetto-airbnb","prezzi-dinamici-affitti-brevi","commissioni-airbnb-quanto-trattiene","channel-manager-affitti-brevi"]),
- ("Gestire gli ospiti","Check-in, pulizie, recensioni e assistenza, anche a distanza.",["check-in-check-out-affitti-brevi","self-check-in-affitti-brevi","pulizie-e-biancheria-affitti-brevi","recensioni-5-stelle-affitti-brevi","come-gestire-recensioni-negative-affitti-brevi","cauzione-e-danni-affitti-brevi","gestione-affitti-brevi-a-distanza"]),
- ("Crescere e ottimizzare","Alzare rendita, occupazione e reputazione. O delegare tutto.",["come-diventare-superhost","come-aumentare-prenotazioni-airbnb","come-destagionalizzare-affitti-brevi","errori-affitti-brevi-da-evitare","gestione-affitti-brevi-fai-da-te-o-agenzia","quanto-costa-property-manager-affitti-brevi","property-manager-affitti-brevi"]),
+ ("Regole, fisco e burocrazia","CIN, tasse e adempimenti spiegati semplici, senza sorprese.",["cin-affitti-brevi-come-ottenerlo","cedolare-secca-affitti-brevi","imposta-di-soggiorno-affitti-brevi","alloggiati-web-comunicazione-ospiti","contratto-locazione-breve","terzo-immobile-partita-iva-affitti-brevi","affitti-brevi-e-condominio","assicurazione-affitti-brevi","comunicazione-istat-affitti-brevi"]),
+ ("Preparare l'immobile","Rendere la casa pronta, sicura e desiderabile per gli ospiti.",["arredare-casa-per-affitti-brevi","kit-di-benvenuto-affitti-brevi","smart-home-affitti-brevi","foto-professionali-affitti-brevi","dotazioni-must-have-affitti-brevi","aumentare-posti-letto-affitto-breve","scorte-e-consumabili-affitti-brevi","wifi-e-internet-affitti-brevi","sicurezza-alloggio-affitti-brevi","checklist-primo-ospite-affitti-brevi"]),
+ ("Pubblicare e prezzare","Annuncio, portali giusti e prezzo che riempie il calendario.",["come-funziona-airbnb-host","airbnb-o-booking","annuncio-perfetto-airbnb","prezzi-dinamici-affitti-brevi","commissioni-airbnb-quanto-trattiene","channel-manager-affitti-brevi","crea-account-host-airbnb","come-creare-annuncio-airbnb","griglia-foto-annuncio-airbnb","usare-ai-per-annuncio-airbnb","pubblicare-casa-su-booking","programma-genius-booking","politica-cancellazione-airbnb","promozioni-e-sconti-airbnb","come-e-quando-paga-airbnb"]),
+ ("Gestire gli ospiti","Check-in, pulizie, recensioni e assistenza, anche a distanza.",["check-in-check-out-affitti-brevi","self-check-in-affitti-brevi","pulizie-e-biancheria-affitti-brevi","recensioni-5-stelle-affitti-brevi","come-gestire-recensioni-negative-affitti-brevi","cauzione-e-danni-affitti-brevi","gestione-affitti-brevi-a-distanza","messaggi-automatici-ospiti-airbnb","regole-della-casa-affitti-brevi","guida-di-benvenuto-ospiti"]),
+ ("Crescere e ottimizzare","Alzare rendita, occupazione e reputazione. O delegare tutto.",["come-diventare-superhost","come-aumentare-prenotazioni-airbnb","come-destagionalizzare-affitti-brevi","errori-affitti-brevi-da-evitare","gestione-affitti-brevi-fai-da-te-o-agenzia","quanto-costa-property-manager-affitti-brevi","property-manager-affitti-brevi","nicchie-affitti-brevi"]),
 ]
 def render_guida():
     steps=""; n=0
@@ -446,7 +446,7 @@ def sitemap():
 CALC_CITIES=[("Milano","A"),("Venezia","A"),("Firenze","A"),("Como","A"),("Sorrento","A"),
  ("Roma","B"),("Bologna","B"),("Verona","B"),("Napoli","B"),("Matera","B"),("Siena","B"),("Bolzano","B"),("La Spezia / Cinque Terre","B"),
  ("Torino","C"),("Genova","C"),("Rimini","C"),("Bergamo","C"),("Padova","C"),("Trento","C"),("Bari","C"),("Lecce","C"),("Palermo","C"),("Catania","C"),("Cagliari","C"),("Salerno","C"),("Pisa","C"),("Perugia","C"),
- ("Altra citta / provincia","D")]
+ ("Altra città / provincia","D")]
 CALC_SCRIPT='''<script>
 (function(){
  var ADR={A:[110,175],B:[85,130],C:[65,100],D:[50,80]};
@@ -477,7 +477,7 @@ def render_calculator():
 <div class="calc wrap">
   <div class="calc-card">
     <div class="calc-form">
-      <label>Citta / provincia<select id="cCitta">__OPTS__</select></label>
+      <label>Città / provincia<select id="cCitta">__OPTS__</select></label>
       <label>Posti letto<select id="cBeds"><option value="2">1-2</option><option value="4">3-4</option><option value="6">5-6</option><option value="8">7+</option></select></label>
       <label>Posizione<select id="cPos"><option value="centro">In centro</option><option value="semicentro">Semicentro</option><option value="fuori">Fuori / periferia</option><option value="turistica">Localita turistica (mare/montagna)</option></select></label>
       <button class="btn btn-gold" id="cGo" type="button">Calcola la stima</button>
@@ -486,7 +486,7 @@ def render_calculator():
       <span class="co-k">Stima ricavo lordo annuo</span>
       <div class="co-range" id="cRange">&mdash;</div>
       <div class="co-sub" id="cSub"></div>
-      <p class="co-note">Stima indicativa basata su medie di mercato per citta, tipologia e zona: <strong>non e un preventivo</strong>. Il dato reale dipende dal singolo immobile.</p>
+      <p class="co-note">Stima indicativa basata su medie di mercato per città, tipologia e zona: <strong>non è un preventivo</strong>. Il dato reale dipende dal singolo immobile.</p>
       <div class="co-lead">
         <strong>Vuoi il numero preciso sul tuo immobile?</strong>
         <p>Te lo calcoliamo gratis, con i dati reali della tua zona e della tua casa. Lasciaci un recapito:</p>
@@ -494,14 +494,14 @@ def render_calculator():
           <input name="nome" required placeholder="Nome e cognome" aria-label="Nome e cognome">
           <input name="email" type="email" required placeholder="Email" aria-label="Email">
           <input name="telefono" placeholder="Telefono / WhatsApp" aria-label="Telefono">
-          <input name="citta" placeholder="Citta e zona dell'immobile" aria-label="Citta immobile">
+          <input name="citta" placeholder="Città e zona dell'immobile" aria-label="Città immobile">
           <button class="btn btn-gold" type="submit">Richiedi l'analisi gratuita</button>
           <a class="wa" href="__WA__" target="_blank" rel="noopener">Oppure scrivici su WhatsApp</a>
         </form>
       </div>
     </div>
   </div>
-  <p class="calc-disc">I valori sono stime indicative a scopo informativo, non un'offerta contrattuale. La rendita reale dipende da stagionalita, qualita dell'immobile, gestione e concorrenza locale.</p>
+  <p class="calc-disc">I valori sono stime indicative a scopo informativo, non un'offerta contrattuale. La rendita reale dipende da stagionalità, qualità dell'immobile, gestione e concorrenza locale.</p>
 </div>
 '''
     tail='<section class="related wrap"><h2>Approfondisci</h2><div class="cards">'+ "".join(card(BY[s]) for s in ["quanto-rende-affitto-breve-bologna","property-manager-affitti-brevi","affitto-breve-o-lungo-cosa-conviene"] if s in BY) +'</div></section></main>'
@@ -509,7 +509,7 @@ def render_calculator():
     ld=[{"@context":"https://schema.org","@type":"WebApplication","name":"Calcolatore di rendita affitti brevi","applicationCategory":"FinanceApplication","operatingSystem":"Web","offers":{"@type":"Offer","price":"0","priceCurrency":"EUR"}},
         {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Blog","item":S["url"]+"/blog/"},{"@type":"ListItem","position":2,"name":"Calcolatore di rendita","item":S["url"]+"/blog/calcolatore-rendita/"}]}]
     out=os.path.join(OUT,"calcolatore-rendita","index.html"); os.makedirs(os.path.dirname(out),exist_ok=True)
-    open(out,"w",encoding="utf-8").write(page("Calcolatore rendita affitti brevi | B&P Lux Property","Calcola una stima gratuita di quanto puo rendere il tuo immobile come affitto breve per citta, posti letto e posizione. Poi l'analisi precisa e gratuita.",S["url"]+"/blog/calcolatore-rendita/",body,ld,og_image=S["url"]+"/blog/og/_calcolatore.png"))
+    open(out,"w",encoding="utf-8").write(page("Calcolatore rendita affitti brevi | B&P Lux Property","Calcola una stima gratuita di quanto può rendere il tuo immobile come affitto breve per città, posti letto e posizione. Poi l'analisi precisa e gratuita.",S["url"]+"/blog/calcolatore-rendita/",body,ld,og_image=S["url"]+"/blog/og/_calcolatore.png"))
 
 # ---------------- OG IMAGES ----------------
 def make_og():
@@ -841,7 +841,7 @@ BLOG_JS='''(function(){
   };
   function waFallback(d){
     var t="Ciao B&P! Richiesta dal blog.%0A"+
-      "Nome: "+enc(d.nome)+"%0AEmail: "+enc(d.email||"-")+"%0ATelefono: "+enc(d.telefono||"-")+"%0ACitta: "+enc(d.citta||"-")+"%0APagina: "+enc(location.pathname);
+      "Nome: "+enc(d.nome)+"%0AEmail: "+enc(d.email||"-")+"%0ATelefono: "+enc(d.telefono||"-")+"%0ACittà: "+enc(d.citta||"-")+"%0APagina: "+enc(location.pathname);
     window.open("https://wa.me/"+WA+"?text="+t,"_blank");
   }
   function enc(s){return encodeURIComponent(s||"");}

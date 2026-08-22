@@ -14,7 +14,7 @@
   };
   function waFallback(d){
     var t="Ciao B&P! Richiesta dal blog.%0A"+
-      "Nome: "+enc(d.nome)+"%0AEmail: "+enc(d.email||"-")+"%0ATelefono: "+enc(d.telefono||"-")+"%0ACitta: "+enc(d.citta||"-")+"%0APagina: "+enc(location.pathname);
+      "Nome: "+enc(d.nome)+"%0AEmail: "+enc(d.email||"-")+"%0ATelefono: "+enc(d.telefono||"-")+"%0ACittà: "+enc(d.citta||"-")+"%0APagina: "+enc(location.pathname);
     window.open("https://wa.me/"+WA+"?text="+t,"_blank");
   }
   function enc(s){return encodeURIComponent(s||"");}

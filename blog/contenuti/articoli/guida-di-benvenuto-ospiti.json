@@ -1,0 +1,174 @@
+{
+  "slug": "guida-di-benvenuto-ospiti",
+  "keyword": "guida di benvenuto casa vacanze",
+  "category": "gestione",
+  "title": "Guida di benvenuto casa vacanze: cosa scrivere",
+  "metaDescription": "La guida di benvenuto della casa vacanze raccoglie accesso, Wi-Fi, elettrodomestici, regole e consigli locali: riduce i messaggi e alza le recensioni.",
+  "h1": "Come preparare una guida di benvenuto per i tuoi ospiti",
+  "excerpt": "Cos'è la guida di benvenuto, cosa scrivere sezione per sezione, come spiegare accesso, Wi-Fi ed elettrodomestici e i consigli locali che fanno la differenza. Cartacea e digitale, dall'esperienza di chi è Superhost.",
+  "opening": "La guida di benvenuto è il documento, cartaceo in casa o digitale, che raccoglie tutto quello che serve all'ospite durante il soggiorno: come entrare, la password del Wi-Fi, come funzionano gli elettrodomestici, le regole della casa e i consigli sul territorio. Ben fatta, risponde alle domande prima che l'ospite le faccia e rende il soggiorno semplice fin dal primo minuto.",
+  "publishedAt": "2026-08-12",
+  "updatedAt": "2026-08-12",
+  "heroKicker": "GESTIONE",
+  "sections": [
+    {
+      "h2": "A cosa serve la guida di benvenuto",
+      "paragraphs": [
+        "La guida di benvenuto, o house manual, è il manuale della casa: raccoglie in un solo posto tutto ciò che l'ospite deve sapere per vivere l'appartamento senza intoppi. Non è un dettaglio estetico, è lo strumento che tiene in ordine il soggiorno.",
+        "Il suo lavoro è silenzioso ma concreto: risponde alle domande prima che arrivino. Come si accende il climatizzatore, dov'è il bidone della carta, a che ora si lascia la casa. Ogni risposta già scritta è un messaggio che non ricevi a cena e un ospite che si sente sicuro.",
+        "È anche uno dei motivi per cui gli ospiti lasciano recensioni entusiaste. Nelle case che gestiamo da Superhost lo vediamo bene: dove la guida è completa, i messaggi durante il soggiorno si riducono e il punteggio ne guadagna. Una casa che si spiega da sola trasmette cura, ed è proprio la cura che chi prenota ricorda."
+      ]
+    },
+    {
+      "h2": "Cosa includere, sezione per sezione",
+      "paragraphs": [
+        "Una buona guida è ordinata: sezioni chiare, titoli visibili, niente muri di testo. L'ospite deve trovare la risposta in pochi secondi, non leggere un romanzo. Meglio elenchi brevi e un titolo per ogni argomento.",
+        "Questa è la struttura che usiamo come base su ogni casa. Ogni riga è una sezione della guida, con quello che non dovrebbe mai mancare."
+      ],
+      "table": {
+        "headers": [
+          "Sezione della guida",
+          "Cosa mettere"
+        ],
+        "rows": [
+          [
+            "Come entrare",
+            "Indirizzo esatto, istruzioni di self check-in, dove trovare chiave o codice, foto del portone."
+          ],
+          [
+            "Wi-Fi",
+            "Nome della rete e password scritti in chiaro e ben visibili, vicino al router o all'ingresso."
+          ],
+          [
+            "Elettrodomestici",
+            "Come usare climatizzatore, lavatrice, piano cottura, forno e TV, in poche righe per ciascuno."
+          ],
+          [
+            "Regole della casa",
+            "Orari del silenzio, se sono ammessi animali o fumo, numero massimo di ospiti."
+          ],
+          [
+            "Rifiuti",
+            "Come funziona la differenziata, quali bidoni usare e i giorni di raccolta."
+          ],
+          [
+            "Numeri utili ed emergenze",
+            "Il tuo contatto, il numero unico 112, farmacia e pronto soccorso più vicini."
+          ],
+          [
+            "Check-out",
+            "Orario di uscita, cosa fare con chiavi e rifiuti, dove lasciare tutto."
+          ],
+          [
+            "Consigli locali",
+            "Dove mangiare, cosa vedere, supermercati e come muoversi in zona."
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Accesso e Wi-Fi: quello che l'ospite cerca per primo",
+      "paragraphs": [
+        "Le prime due cose che un ospite cerca, appena arrivato, sono come entrare e come collegarsi. Se le trova subito, il soggiorno parte con il piede giusto. Se le deve chiedere, hai già perso il primo punto.",
+        "Per l'accesso, spiega il self check-in passo passo: dove si trova la casa, come aprire il portone, dov'è la chiave o qual è il codice. Foto e un video breve valgono più di mille parole.",
+        "Per il Wi-Fi la regola è una sola: password ben visibile. Scritta in chiaro, vicino al router o all'ingresso, senza errori di battitura. È la prima cosa che l'ospite prova, e una password sbagliata è spesso il primo messaggio che ricevi."
+      ],
+      "list": [
+        "Indirizzo preciso e indicazioni per arrivare, con foto del portone.",
+        "Come aprire: codice, chiave in cassetta o serratura smart, spiegato passo passo.",
+        "Nome della rete Wi-Fi e password scritti in chiaro, senza caratteri ambigui.",
+        "Un contatto sempre raggiungibile per l'imprevisto della prima ora."
+      ]
+    },
+    {
+      "h2": "Elettrodomestici: spiegali una volta e basta",
+      "paragraphs": [
+        "Gli elettrodomestici sono la fonte numero uno di domande durante il soggiorno. Il climatizzatore che non parte, la lavatrice con venti programmi, il piano a induzione che l'ospite non ha mai visto. Bastano poche righe per ciascuno per azzerare i dubbi.",
+        "Non serve il libretto tecnico: serve la spiegazione pratica. Quale tasto premere, quale programma usare, cosa evitare. Se un elettrodomestico ha un piccolo trucco, scrivilo: è lì che nascono le chiamate."
+      ],
+      "list": [
+        "Climatizzatore: come accenderlo, come passare da caldo a freddo, dov'è il telecomando.",
+        "Lavatrice: il programma da usare tutti i giorni e dove va il detersivo.",
+        "Piano cottura: se è a gas, elettrico o a induzione, e come si accende.",
+        "Forno e microonde: le funzioni base, senza entrare nei dettagli.",
+        "TV e streaming: come si accende, quale telecomando, se ci sono account già pronti."
+      ]
+    },
+    {
+      "h2": "Regole, rifiuti, numeri utili e check-out",
+      "paragraphs": [
+        "C'è poi la parte pratica che tiene la casa in ordine e l'ospite tranquillo: le regole, i rifiuti, i numeri utili e le istruzioni per la partenza. Va scritta con gentilezza, non come un regolamento.",
+        "Le regole della casa stanno in poche righe: orari del silenzio, se sono ammessi animali o fumo, quante persone possono soggiornare. La differenziata spesso spiazza chi arriva da fuori: indica i bidoni giusti e i giorni di raccolta, così eviti errori e lamentele dei vicini.",
+        "I numeri utili danno sicurezza: il tuo contatto, il numero unico di emergenza 112, la farmacia e il pronto soccorso più vicini. Il check-out, infine, chiude il cerchio: orario di uscita, cosa fare con chiavi e rifiuti, dove lasciare tutto."
+      ],
+      "list": [
+        "Regole della casa: orari del silenzio, animali, fumo, numero massimo di ospiti.",
+        "Differenziata: quali bidoni usare, dove si trovano e i giorni di raccolta.",
+        "Numeri utili: il tuo contatto, il 112, farmacia e pronto soccorso vicini.",
+        "Check-out: orario di uscita, dove lasciare le chiavi, cosa fare con i rifiuti."
+      ]
+    },
+    {
+      "h2": "I consigli locali che l'ospite ricorda",
+      "paragraphs": [
+        "Fin qui la parte funzionale. I consigli locali sono quella che trasforma un alloggio in un'esperienza: dove mangiare bene lontano dalle trappole per turisti, cosa vedere senza le file, il supermercato più vicino, come muoversi con i mezzi. Sono le informazioni che l'ospite non trova su una guida generica.",
+        "Il segreto è il consiglio personale, non la lista copiata da internet. La trattoria dove vai davvero, il bar del quartiere, il punto panoramico che conoscono in pochi. Poche righe con il tuo nome dietro valgono più di venti indirizzi anonimi.",
+        "È l'osservazione che facciamo più spesso da Superhost: i consigli locali sono ciò che gli ospiti ricordano. Nelle nostre case, come quella di Dozza, quando lasciamo indicazioni sulle osterie giuste e sulle cantine del territorio, gli ospiti le citano per nome nelle recensioni. La casa a volte la dimenticano, quel consiglio no."
+      ],
+      "list": [
+        "Dove mangiare: due o tre indirizzi provati davvero, non l'elenco del quartiere.",
+        "Cosa vedere: le tappe che valgono la pena, con un'idea dei tempi.",
+        "Trasporti: come arrivare in centro, dove sostare, l'app dei mezzi.",
+        "Spesa quotidiana: supermercato, panetteria e mercato più vicini."
+      ]
+    },
+    {
+      "h2": "Cartacea e digitale: come presentarla",
+      "paragraphs": [
+        "La guida funziona meglio in due formati. Una copia cartacea in casa, ordinata e bella da vedere, che l'ospite trova appena entra. E una versione digitale, raggiungibile da un link o da un QR code, comoda da consultare dal telefono e facile da aggiornare.",
+        "Il cartaceo dà il tocco di cura e non dipende dalla connessione; il digitale si aggiorna in un minuto quando cambia un orario o un consiglio. Averli entrambi copre ogni ospite, anche chi con la tecnologia va poco d'accordo.",
+        "Un'ultima regola: tienila aggiornata. Una guida con la vecchia password del Wi-Fi o il ristorante che ha chiuso fa più danni del non averla. Rileggila ogni tanto, come se fossi tu l'ospite che arriva per la prima volta."
+      ],
+      "list": [
+        "Cartacea: un raccoglitore o un cartoncino curato, lasciato bene in vista.",
+        "Digitale: un link o un QR code, con la guida leggibile dal telefono.",
+        "Titoli chiari e sezioni brevi, così l'ospite trova subito quello che cerca.",
+        "Aggiornala a ogni cambiamento: password, orari, consigli e contatti."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Cos'è la guida di benvenuto di una casa vacanze?",
+      "a": "È il documento che raccoglie tutto ciò che serve all'ospite durante il soggiorno: come entrare, la password del Wi-Fi, come funzionano gli elettrodomestici, le regole della casa, i numeri utili e i consigli locali. Può essere cartacea in casa, digitale tramite link o QR code, o entrambe."
+    },
+    {
+      "q": "Cosa scrivere nella guida di benvenuto?",
+      "a": "Le informazioni pratiche e i consigli: accesso e self check-in, Wi-Fi ben visibile, uso degli elettrodomestici, regole della casa, differenziata, numeri utili ed emergenze, istruzioni di check-out e i consigli sul territorio. Ogni sezione con un titolo chiaro e poche righe."
+    },
+    {
+      "q": "La guida di benvenuto va fatta cartacea o digitale?",
+      "a": "Meglio entrambe. Una copia cartacea in casa dà il tocco di cura e non dipende dalla connessione; la versione digitale, raggiungibile da link o QR code, è comoda da consultare e facile da aggiornare. Insieme coprono ogni tipo di ospite."
+    },
+    {
+      "q": "La guida di benvenuto serve davvero?",
+      "a": "Sì, ed è tra gli strumenti più utili per un host. Risponde alle domande prima che l'ospite le faccia, riduce i messaggi durante il soggiorno e trasmette cura. Nelle case che gestiamo è uno dei motivi per cui i punteggi restano alti."
+    },
+    {
+      "q": "Cosa non deve mancare in una guida di benvenuto?",
+      "a": "La password del Wi-Fi ben visibile, le istruzioni di accesso, l'uso degli elettrodomestici, un contatto sempre raggiungibile e le istruzioni di check-out. Sono le informazioni che l'ospite cerca per prime e la cui assenza genera più messaggi."
+    },
+    {
+      "q": "I consigli locali vanno messi nella guida di benvenuto?",
+      "a": "Sì, e sono la parte che gli ospiti ricordano di più. Dove mangiare, cosa vedere, come muoversi e dove fare la spesa: pochi indirizzi provati davvero valgono più di una lista anonima. È il dettaglio che spesso finisce citato nelle recensioni."
+    }
+  ],
+  "related": [
+    "kit-di-benvenuto-affitti-brevi",
+    "self-check-in-affitti-brevi",
+    "recensioni-5-stelle-affitti-brevi"
+  ],
+  "sources": [],
+  "disclaimer": false,
+  "note": ""
+}
