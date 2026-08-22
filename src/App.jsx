@@ -42,12 +42,19 @@ export default function App() {
     e.preventDefault()
     setFormErr(false); setSending(true)
     const payload = Object.fromEntries(new FormData(e.target).entries())
-    payload.source = 'sito-home'; payload.lang = lang
-    try {
-      const r = await fetch('/api/lead', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(payload) })
-      if (!r.ok) throw new Error('bad')
+    payload.source = 'sito-home'; payload.lang = lang; payload.fonte = 'sito principale ' + location.pathname
+    const HOOK = 'https://services.leadconnectorhq.com/hooks/dBDJJALoNI6Gps2GwMqb/webhook-trigger/f15d46f8-6ee2-4317-93bf-14950f14fe0e'
+    const body = JSON.stringify(payload)
+    let ok = false
+    try { ok = navigator.sendBeacon(HOOK, new Blob([body], { type: 'application/json' })) } catch (_) {}
+    if (!ok) { try { await fetch(HOOK, { method: 'POST', mode: 'no-cors', headers: { 'Content-Type': 'application/json' }, body }); ok = true } catch (_) {} }
+    if (ok) { setSent(true) }
+    else {
+      const lines = ['Ciao B&P! Richiesta valutazione dal sito.', 'Nome: ' + (payload.name || '-'), 'Email: ' + (payload.email || '-'), 'Telefono: ' + (payload.phone || '-'), 'Immobile: ' + (payload.address || '-')]
+      window.open('https://wa.me/393467259098?text=' + encodeURIComponent(lines.join('\n')), '_blank')
       setSent(true)
-    } catch (_) { setFormErr(true) } finally { setSending(false) }
+    }
+    setSending(false)
   }
 
   return (
