@@ -123,8 +123,8 @@ def reading_time(a):
     return max(3,round(w/200))
 def cta_inline():
     return f'''<div class="cta-inline">
-  <div><strong>Quanto puo rendere il tuo immobile?</strong><span>Valutazione gratuita, numeri reali, senza impegno.</span></div>
-  <div class="ci-btns"><a class="btn btn-gold" href="#contatti-blog">Valutazione gratuita</a><a class="btn btn-wa" href="{WA_LINK}" target="_blank" rel="noopener">WhatsApp</a></div>
+  <div><strong>Non hai tempo di gestirlo? Lo facciamo noi.</strong><span>A costo iniziale zero: siamo a percentuale. Ti costruiamo la rendita, poi resta tua.</span></div>
+  <div class="ci-btns"><a class="btn btn-gold" href="#contatti-blog">Parlaci del tuo immobile</a><a class="btn btn-wa" href="{WA_LINK}" target="_blank" rel="noopener">WhatsApp</a></div>
 </div>'''
 def side_bar(a):
     seen={a["slug"]}; links=[]
@@ -222,7 +222,7 @@ def header():
     links="".join(f'<a href="/blog/categoria/{c}/">{esc(CATS[c]["name"])}</a>' for c in CAT_ORDER[:4])
     return f'''<header class="top"><div class="wrap top-in">
   <a class="brand" href="/blog/"><span class="bt">B&amp;P<small>Lux Property</small></span></a>
-  <nav class="topnav">{links}<a class="nav-calc" href="/blog/calcolatore-rendita/">Calcolatore rendita</a><a class="btn btn-ghost" href="/">Sito &rarr;</a></nav>
+  <nav class="topnav">{links}<a class="nav-guida" href="/blog/guida-proprietario/">Guida proprietario</a><a class="nav-calc" href="/blog/calcolatore-rendita/">Calcolatore</a><a class="btn btn-ghost" href="/">Sito &rarr;</a></nav>
 </div></header>'''
 
 def footer():
@@ -378,6 +378,10 @@ def render_hub():
   <h1>Affitti brevi, senza giri di parole.</h1>
   <p class="lead">Guide pratiche su rendita, regole, Airbnb, Booking e gestione &mdash; scritte da chi gestisce case vere ogni giorno.</p></div>
 {trust_strip()}
+<section class="guida-band"><div class="wrap gb-in">
+  <div><span class="kick gold">Guida del proprietario</span><h2>Hai una seconda casa? Falla diventare un secondo stipendio.</h2><p>Il percorso completo, passo dopo passo, per metterla a reddito &mdash; oppure la gestiamo noi a costo iniziale zero.</p></div>
+  <a class="btn btn-gold" href="/blog/guida-proprietario/">Apri la guida &rarr;</a>
+</div></section>
 <section class="intro-band"><p>{esc(ent["blogHubIntro"])}</p></section>
 <section class="calc-hl"><div class="wrap calc-hl-in">
   <div><span class="kick">Strumento gratuito</span><h2>Quanto puo rendere il tuo immobile?</h2><p>Fai una stima in trenta secondi con il nostro calcolatore. Poi, se vuoi, ti prepariamo l'analisi precisa e gratuita.</p></div>
@@ -393,6 +397,39 @@ def render_hub():
     open(os.path.join(OUT,"index.html"),"w",encoding="utf-8").write(
         page("Blog affitti brevi | B&P Lux Property","Guide pratiche sugli affitti brevi: quanto rende, regole e fisco, Airbnb e Booking, gestione. Da un property manager Superhost.",f'{S["url"]}/blog/',body,ld))
 
+# ---------------- GUIDA DEL PROPRIETARIO (pilastro) ----------------
+GUIDE_PHASES=[
+ ("Decidere e valutare","Capire se conviene, con quale formula partire e quanto può rendere.",["come-iniziare-affitti-brevi-guida","affitto-breve-o-lungo-cosa-conviene","conviene-comprare-casa-per-affitto-breve","casa-vacanze-o-affitto-breve-differenze"]),
+ ("Regole, fisco e burocrazia","CIN, tasse e adempimenti spiegati semplici, senza sorprese.",["cin-affitti-brevi-come-ottenerlo","cedolare-secca-affitti-brevi","imposta-di-soggiorno-affitti-brevi","alloggiati-web-comunicazione-ospiti","contratto-locazione-breve","terzo-immobile-partita-iva-affitti-brevi","affitti-brevi-e-condominio","assicurazione-affitti-brevi"]),
+ ("Preparare l'immobile","Rendere la casa pronta, sicura e desiderabile per gli ospiti.",["arredare-casa-per-affitti-brevi","kit-di-benvenuto-affitti-brevi","smart-home-affitti-brevi","foto-professionali-affitti-brevi"]),
+ ("Pubblicare e prezzare","Annuncio, portali giusti e prezzo che riempie il calendario.",["come-funziona-airbnb-host","airbnb-o-booking","annuncio-perfetto-airbnb","prezzi-dinamici-affitti-brevi","commissioni-airbnb-quanto-trattiene","channel-manager-affitti-brevi"]),
+ ("Gestire gli ospiti","Check-in, pulizie, recensioni e assistenza, anche a distanza.",["check-in-check-out-affitti-brevi","self-check-in-affitti-brevi","pulizie-e-biancheria-affitti-brevi","recensioni-5-stelle-affitti-brevi","come-gestire-recensioni-negative-affitti-brevi","cauzione-e-danni-affitti-brevi","gestione-affitti-brevi-a-distanza"]),
+ ("Crescere e ottimizzare","Alzare rendita, occupazione e reputazione. O delegare tutto.",["come-diventare-superhost","come-aumentare-prenotazioni-airbnb","come-destagionalizzare-affitti-brevi","errori-affitti-brevi-da-evitare","gestione-affitti-brevi-fai-da-te-o-agenzia","quanto-costa-property-manager-affitti-brevi","property-manager-affitti-brevi"]),
+]
+def render_guida():
+    steps=""; n=0
+    for i,(titolo,intro,slugs) in enumerate(GUIDE_PHASES):
+        arts=[BY[s] for s in slugs if s in BY]
+        if not arts: continue
+        n+=len(arts)
+        cards="".join(card(a) for a in arts)
+        steps+=f'''<section class="guide-phase" id="fase-{i+1}"><div class="gp-head"><span class="gp-num">{i+1}</span><div><h2>{esc(titolo)}</h2><p>{esc(intro)}</p></div></div><div class="cards">{cards}</div></section>'''
+    body=f'''<main class="hub guida">
+<nav class="crumb wrap"><a href="/blog/">Blog</a> / <span>Guida del proprietario</span></nav>
+<div class="guida-hero"><div class="wrap">
+  <span class="kick">Guida del proprietario</span>
+  <h1>Hai una seconda casa? Trasformala in un secondo stipendio.</h1>
+  <p class="lead">Il percorso completo, passo dopo passo, per mettere a reddito il tuo appartamento con gli affitti brevi: dalle regole alla gestione, {n} guide pratiche. E se non hai tempo, la costruiamo noi a costo iniziale zero.</p>
+  <div class="gh-btns"><a class="btn btn-gold" href="#contatti-blog">Fatti aiutare da noi</a><a class="btn btn-ghost-d" href="#fase-1">Inizia la guida &darr;</a></div>
+</div></div>
+{steps}
+{cta_block("contatti-blog")}
+</main>'''
+    ld=[{"@context":"https://schema.org","@type":"CollectionPage","name":"Guida del proprietario per gli affitti brevi","description":"Guida passo dopo passo per mettere a reddito la tua seconda casa con gli affitti brevi."},
+        {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Blog","item":S["url"]+"/blog/"},{"@type":"ListItem","position":2,"name":"Guida del proprietario","item":S["url"]+"/blog/guida-proprietario/"}]}]
+    out=os.path.join(OUT,"guida-proprietario","index.html"); os.makedirs(os.path.dirname(out),exist_ok=True)
+    open(out,"w",encoding="utf-8").write(page("Guida del proprietario: mettere a reddito casa | B&P Lux Property","Guida completa passo dopo passo per mettere a reddito la tua seconda casa con gli affitti brevi: regole, fisco, preparazione, gestione. O la gestiamo noi a costo iniziale zero.",S["url"]+"/blog/guida-proprietario/",body,ld))
+
 # ---------------- SITEMAP ----------------
 def sitemap():
     urls=[f'{S["url"]}/blog/']+[f'{S["url"]}/blog/categoria/{c}/' for c in CAT_ORDER if any(a["category"]==c for a in articles)]+[art_url(a["slug"])+"/" for a in articles]
@@ -400,7 +437,7 @@ def sitemap():
     body='<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
     for a in articles:
         body+=f'<url><loc>{art_url(a["slug"])}/</loc><lastmod>{a.get("updatedAt",now)}</lastmod></url>\n'
-    for u in [f'{S["url"]}/blog/',f'{S["url"]}/blog/calcolatore-rendita/']+[f'{S["url"]}/blog/categoria/{c}/' for c in CAT_ORDER if any(a["category"]==c for a in articles)]:
+    for u in [f'{S["url"]}/blog/',f'{S["url"]}/blog/guida-proprietario/',f'{S["url"]}/blog/calcolatore-rendita/']+[f'{S["url"]}/blog/categoria/{c}/' for c in CAT_ORDER if any(a["category"]==c for a in articles)]:
         body+=f'<url><loc>{u}</loc><lastmod>{now}</lastmod></url>\n'
     body+='</urlset>\n'
     open(os.path.join(OUT,"sitemap.xml"),"w",encoding="utf-8").write(body)
@@ -699,6 +736,32 @@ h1,h2,h3{font-family:var(--serif);font-weight:600;line-height:1.12;color:var(--c
 .calc-hl-in p{color:#d9d3c6;font-size:15px;max-width:560px;margin:0}
 .nav-calc{color:var(--gold);font-weight:500}
 .nav-calc:hover{color:var(--charcoal)}
+.nav-guida{color:var(--gold);font-weight:600}
+.nav-guida:hover{color:var(--charcoal)}
+/* separazioni hub: divisori tra le sezioni */
+.hub .cat-block{margin-top:54px;padding-top:40px;border-top:1px solid var(--line)}
+/* banda guida in hub */
+.guida-band{max-width:var(--maxw);margin:36px auto 0;padding:0 var(--pad)}
+.gb-in{display:flex;align-items:center;justify-content:space-between;gap:24px;flex-wrap:wrap;background:linear-gradient(135deg,#2a2015,var(--charcoal));color:var(--ivory);border:1px solid rgba(201,162,75,.35);border-radius:8px;padding:28px 32px}
+.gb-in .kick{color:var(--gold2)}
+.gb-in h2{color:#fff;font-size:clamp(22px,2.6vw,27px);margin:4px 0}
+.gb-in p{color:#d9d3c6;font-size:15px;max-width:640px;margin:0}
+/* pagina Guida del proprietario */
+.guida-hero{background:linear-gradient(135deg,var(--charcoal),var(--charcoal2));color:var(--ivory);margin-top:8px}
+.guida-hero .wrap{padding:clamp(44px,6vw,66px) var(--pad) clamp(38px,5vw,54px)}
+.guida-hero .kick{color:var(--gold2)}
+.guida-hero h1{color:#fff;font-size:clamp(30px,4.6vw,50px);max-width:18ch;margin-bottom:12px}
+.guida-hero .lead{color:#d9d3c6;max-width:660px}
+.gh-btns{display:flex;gap:12px;flex-wrap:wrap;margin-top:26px}
+.btn-ghost-d{background:transparent;color:var(--ivory);border-color:rgba(255,255,255,.55)}
+.btn-ghost-d:hover{background:#fff;color:var(--charcoal)}
+.guida .guide-phase{padding:46px 0 6px;border-top:1px solid var(--line)}
+.guida .guide-phase:first-of-type{border-top:0;padding-top:38px}
+.gp-head{display:flex;align-items:flex-start;gap:18px;max-width:var(--maxw);margin:0 auto 22px;padding:0 var(--pad)}
+.gp-num{flex:none;width:44px;height:44px;border-radius:50%;background:var(--gold);color:#fff;font-family:var(--serif);font-weight:700;font-size:22px;display:flex;align-items:center;justify-content:center}
+.gp-head h2{font-size:26px;margin:0}
+.gp-head p{color:var(--muted);font-size:15px;margin-top:3px}
+.guida .guide-phase .cards{max-width:var(--maxw);margin:0 auto;padding:0 var(--pad)}
 /* newsletter */
 .foot-news{background:var(--charcoal2);color:var(--ivory);border-top:1px solid rgba(255,255,255,.08)}
 .foot-news-in{display:flex;align-items:center;justify-content:space-between;gap:24px;flex-wrap:wrap;padding:26px 22px}
@@ -804,7 +867,7 @@ def main():
     make_og()
     for a in articles: render_article(a)
     for cid in CAT_ORDER: render_category(cid)
-    render_hub(); render_calculator(); sitemap()
+    render_hub(); render_calculator(); render_guida(); sitemap()
     print(f"Generati: {len(articles)} articoli + {len(CAT_ORDER)} categorie + hub + sitemap")
     if warn:
         print("\n== AVVISI cancello contenuto (%d) =="%len(warn))
