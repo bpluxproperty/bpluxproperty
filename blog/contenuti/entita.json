@@ -17,10 +17,30 @@
     "booking": "https://www.booking.com/hotel/it/loft-elegante-nel-centro-di-dozza-citta-d-arte.it.html",
     "cin": "IT037025C1838LH355",
     "rating": "4,97",
-    "recensioni": 31,
+    "recensioni": 33,
     "ospiti": 2,
     "camere": 1,
-    "bagni": 1
+    "bagni": 1,
+    "indirizzo": "Via XX Settembre, 26",
+    "cap": "40060",
+    "citta": "Dozza",
+    "provincia": "BO",
+    "mq": 50,
+    "checkin": "dalle 14:00",
+    "checkout": "alle 11:00",
+    "note_dati": "Dati rilevati dagli annunci pubblici Airbnb e Booking il 23 agosto 2026. Vanno riverificati sugli annunci prima di aggiornare le pagine."
+  },
+  "reputazione": {
+    "airbnb": { "rating": "4,97", "su": 5, "recensioni": 33, "badge": ["Superhost", "Amato dagli ospiti"], "nota": "Pulizia impeccabile: gli ospiti trovano questo alloggio molto pulito." },
+    "booking": { "rating": "9,2", "su": 10, "recensioni": 6, "giudizio": "Eccellente",
+      "categorie": [["Staff", "10"], ["Servizi", "10"], ["Posizione", "10"], ["Rapporto qualità-prezzo", "9,6"], ["Comfort", "8,8"], ["Pulizia", "8,7"]] },
+    "citazioni": [
+      { "testo": "Soggiorno davvero piacevole, siamo stati benissimo! Torneremo sicuramente.", "autore": "Guerra", "paese": "Italia", "fonte": "Booking.com" },
+      { "testo": "Location molto carina, curata e completa di tutto ciò che occorre.. anche di più. Letto molto comodo.", "autore": "Cinzia", "paese": "Italia", "fonte": "Booking.com" },
+      { "testo": "La posizione del loft è sicuramente il suo punto di forza: zona centrale, comoda per muoversi e raggiungere tutto a piedi. Anche l'accoglienza della padrona di casa è stata molto cordiale e disponibile fin dall'arrivo.", "autore": "Alessia", "paese": "Italia", "fonte": "Booking.com" },
+      { "testo": "Dimora incantevole, pulita e dotata di tutto. Ottima per visitare il centro storico di Dozza, essendo su a una delle due vie principali. La comunicazione via messaggi è stata efficace.", "autore": "Giuseppe", "paese": "Italia", "fonte": "Booking.com" }
+    ],
+    "note_citazioni": "Recensioni pubbliche reali, riportate testualmente dagli annunci. NON aggiungere citazioni non verificabili."
   },
   "author": {
     "id": "b-and-p",

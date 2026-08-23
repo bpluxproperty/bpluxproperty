@@ -241,11 +241,15 @@ export default function App() {
       {/* REVIEWS */}
       <section id="recensioni">
         <div className="wrap">
-          <div className="sec-head reveal"><span className="eyebrow">{t.reviews.eyebrow}</span><h2>{t.reviews.title}</h2></div>
+          <div className="sec-head reveal"><span className="eyebrow">{t.reviews.eyebrow}</span><h2>{t.reviews.title}</h2><p>{t.reviews.sub}</p></div>
           <div className="tgrid">
             {t.reviews.items.map((r, i) => (
               <div className="quote reveal" key={i}><p>“{r.q}”</p><div className="who">{r.w}</div></div>
             ))}
+          </div>
+          <div className="rev-links reveal">
+            <a href="/blog/recensioni-appartamenti/">{t.reviews.linkAll}</a>
+            <a href="/blog/recensioni-b-p-lux-property/">{t.reviews.linkRep}</a>
           </div>
         </div>
       </section>
@@ -267,7 +271,7 @@ export default function App() {
           </div>
           <div className="ag-cta reveal">
             <a href="/blog/guida-proprietario/" className="btn btn-gold">{lang === 'it' ? 'Apri la Guida del proprietario →' : 'Open the owner guide →'}</a>
-            <div style={{ marginTop: '16px' }}><a href="/blog/" style={{ color: 'var(--gold)', fontSize: '14px', letterSpacing: '.02em' }}>{lang === 'it' ? 'oppure sfoglia tutte le guide del blog →' : 'or browse all blog guides →'}</a></div>
+            <div style={{ marginTop: '16px' }}><a href="/blog/" style={{ color: 'var(--gold-ink)', fontSize: '14px', letterSpacing: '.02em' }}>{lang === 'it' ? 'oppure sfoglia tutte le guide del blog →' : 'or browse all blog guides →'}</a></div>
           </div>
         </div>
       </section>

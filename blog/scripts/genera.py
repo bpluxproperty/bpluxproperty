@@ -240,7 +240,7 @@ def header():
     links="".join(f'<a href="/blog/categoria/{c}/">{esc(CATS[c]["name"])}</a>' for c in CAT_ORDER[:4])
     return f'''<header class="top"><div class="wrap top-in">
   <a class="brand" href="/blog/"><span class="bt">B&amp;P<small>Lux Property</small></span></a>
-  <nav class="topnav">{links}<a class="nav-guida" href="/blog/guida-proprietario/">Guida proprietario</a><a class="nav-calc" href="/blog/calcolatore-rendita/">Calcolatore</a><a class="btn btn-ghost" href="/">Sito &rarr;</a></nav>
+  <nav class="topnav">{links}<a class="nav-guida" href="/blog/guida-proprietario/">Guida proprietario</a><a class="nav-rec" href="/blog/recensioni-b-p-lux-property/">Recensioni</a><a class="nav-calc" href="/blog/calcolatore-rendita/">Calcolatore</a><a class="btn btn-ghost" href="/">Sito &rarr;</a></nav>
 </div></header>'''
 
 def footer():
@@ -449,6 +449,108 @@ def render_guida():
     out=os.path.join(OUT,"guida-proprietario","index.html"); os.makedirs(os.path.dirname(out),exist_ok=True)
     open(out,"w",encoding="utf-8").write(page("Guida del proprietario: mettere a reddito casa | B&P Lux Property","Guida completa passo dopo passo per mettere a reddito la tua seconda casa con gli affitti brevi: regole, fisco, preparazione, gestione. O la gestiamo noi a costo iniziale zero.",S["url"]+"/blog/guida-proprietario/",body,ld))
 
+# ---------------- RECENSIONI / REPUTAZIONE ----------------
+REP=ent.get("reputazione",{})
+DZ=ent["dozza"]
+def _quotes(limit=None):
+    qs=REP.get("citazioni",[])[:limit] if limit else REP.get("citazioni",[])
+    return "".join(f'''<figure class="rv-card"><blockquote><p>&laquo;{esc(q["testo"])}&raquo;</p></blockquote><figcaption><strong>{esc(q["autore"])}</strong><span>{esc(q.get("paese",""))} &middot; recensione verificata su {esc(q["fonte"])}</span></figcaption></figure>''' for q in qs)
+def _scores():
+    ab=REP.get("airbnb",{}); bk=REP.get("booking",{})
+    cats="".join(f'<div class="score"><span class="score-n">{esc(v)}</span><span class="score-l">{esc(k)}</span></div>' for k,v in bk.get("categorie",[]))
+    badges="".join(f'<span class="rv-badge">{esc(b)}</span>' for b in ab.get("badge",[]))
+    return f'''<div class="plat-grid">
+  <div class="plat"><span class="plat-k">Airbnb</span><span class="plat-v">{esc(ab.get("rating",""))}<small>/{ab.get("su",5)}</small></span><span class="plat-n">{ab.get("recensioni",0)} recensioni</span><div class="rv-badges">{badges}</div></div>
+  <div class="plat"><span class="plat-k">Booking.com</span><span class="plat-v">{esc(bk.get("rating",""))}<small>/{bk.get("su",10)}</small></span><span class="plat-n">{bk.get("recensioni",0)} recensioni &middot; {esc(bk.get("giudizio",""))}</span></div>
+</div>
+<div class="score-grid">{cats}</div>
+<p class="rv-note">Punteggi per categoria rilevati dall'annuncio pubblico su Booking.com. Le valutazioni cambiano nel tempo: puoi verificarle in qualsiasi momento direttamente sugli annunci.</p>'''
+
+def render_recensioni():
+    ab=REP.get("airbnb",{}); bk=REP.get("booking",{})
+    body=f'''<main class="hub guida cat-dozza-emilia-romagna">
+<nav class="crumb wrap"><a href="/blog/">Blog</a> / <span>Recensioni degli appartamenti</span></nav>
+<div class="guida-hero"><div class="wrap">
+  <span class="kick">Recensioni verificate</span>
+  <h1>Cosa dicono gli ospiti degli appartamenti che gestiamo</h1>
+  <p class="lead">Non chiediamo di fiderti sulla parola: i punteggi qui sotto sono quelli pubblici dei nostri annunci su Airbnb e Booking, e le recensioni sono scritte dagli ospiti dopo il soggiorno. Puoi controllarle tu, in due clic.</p>
+  <div class="gh-btns"><a class="btn btn-gold" href="{DZ["airbnb"]}" target="_blank" rel="noopener">Verifica su Airbnb</a><a class="btn btn-ghost-d" href="{DZ["booking"]}" target="_blank" rel="noopener">Verifica su Booking</a></div>
+</div></div>
+<section class="guide-phase wrap"><div class="gp-head"><span class="gp-num">1</span><div><h2>I punteggi, piattaforma per piattaforma</h2><p>Media reale sugli annunci del {esc(DZ["nome"])}, il nostro appartamento nel centro storico.</p></div></div>
+{_scores()}
+</section>
+<section class="guide-phase wrap"><div class="gp-head"><span class="gp-num">2</span><div><h2>Le parole degli ospiti</h2><p>Recensioni pubbliche, riportate testualmente. Nessuna raccolta a pagamento, nessun testo modificato.</p></div></div>
+<div class="rv-grid">{_quotes()}</div>
+</section>
+<section class="guide-phase wrap"><div class="gp-head"><span class="gp-num">3</span><div><h2>Perché queste recensioni contano per te</h2><p>Se stai valutando di affidarci la tua casa, questo è il metro di giudizio più onesto.</p></div></div>
+<div class="tldr"><p>Un punteggio alto e costante non nasce dal caso: nasce da pulizia curata, risposte rapide, istruzioni chiare e una casa che mantiene le promesse dell'annuncio. Sono esattamente le cose che facciamo ogni giorno sugli immobili che gestiamo — e sono le stesse che, applicate al tuo, alzano tariffa e occupazione.</p></div>
+<p>Nota di trasparenza: le recensioni in questa pagina riguardano gli <strong>alloggi che gestiamo</strong> e sono scritte dagli ospiti che ci hanno soggiornato. I punteggi sono quelli mostrati pubblicamente da Airbnb e Booking alla data indicata e possono cambiare con i soggiorni successivi.</p>
+<p>Se invece cerchi opinioni sul nostro lavoro come property manager, le trovi nella pagina dedicata: <a href="/blog/recensioni-b-p-lux-property/">recensioni e reputazione di B&amp;P Lux Property</a>.</p>
+{cta_block("contatti-blog")}
+</main>'''
+    ld=[{"@context":"https://schema.org","@type":"LodgingBusiness","name":DZ["nome"],
+         "address":{"@type":"PostalAddress","streetAddress":DZ.get("indirizzo",""),"postalCode":DZ.get("cap",""),"addressLocality":DZ.get("citta",""),"addressRegion":"Emilia-Romagna","addressCountry":"IT"},
+         "url":S["url"]+"/blog/recensioni-appartamenti/","sameAs":[DZ["airbnb"],DZ["booking"]],
+         "aggregateRating":{"@type":"AggregateRating","ratingValue":ab.get("rating","").replace(",","."),"bestRating":"5","reviewCount":ab.get("recensioni",0)}},
+        {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Blog","item":S["url"]+"/blog/"},{"@type":"ListItem","position":2,"name":"Recensioni degli appartamenti","item":S["url"]+"/blog/recensioni-appartamenti/"}]}]
+    out=os.path.join(OUT,"recensioni-appartamenti","index.html"); os.makedirs(os.path.dirname(out),exist_ok=True)
+    open(out,"w",encoding="utf-8").write(page(f'Recensioni dei nostri appartamenti: {ab.get("rating","")}/5 su Airbnb',f'Le recensioni verificate degli ospiti sugli appartamenti che gestiamo: {ab.get("rating","")}/5 su Airbnb ({ab.get("recensioni",0)} recensioni) e {bk.get("rating","")}/10 su Booking. Verificabili sugli annunci.',S["url"]+"/blog/recensioni-appartamenti/",body,ld))
+
+FAQ_REP=[("B&P Lux Property è affidabile?","Sì, ed è verificabile: gli appartamenti che gestiamo hanno lo status Superhost su Airbnb, il badge «{}» e una media di {} su 5 in {} recensioni pubbliche, oltre a {} su 10 su Booking.com. Non sono numeri dichiarati da noi: sono quelli mostrati dalle piattaforme sui nostri annunci, che puoi aprire e controllare in qualsiasi momento."),
+ ("Che recensioni ha B&P Lux Property?","Le recensioni riguardano gli alloggi che gestiamo e le scrivono gli ospiti dopo il soggiorno. Su Booking i punteggi per categoria migliori sono Staff, Servizi e Posizione (10/10), con un rapporto qualità-prezzo di 9,6. Su Airbnb la media è {} su 5 in {} recensioni."),
+ ("Cosa fa esattamente B&P Lux Property?","Gestiamo affitti brevi per conto dei proprietari, a 360 gradi: annuncio e foto, prezzi dinamici, comunicazione con gli ospiti, check-in, pulizie e biancheria, adempimenti e recensioni. Il proprietario resta proprietario: noi facciamo funzionare la casa come struttura ricettiva."),
+ ("Quanto costa affidare la casa a B&P Lux Property?","A costo iniziale zero: lavoriamo a percentuale sugli incassi, quindi guadagniamo solo se guadagni tu. Non chiediamo canoni fissi di attivazione e, quando vuoi, con una fee di uscita ti lasciamo il business già avviato: da quel momento la rendita è tua."),
+ ("Dove operate?","Il nostro immobile di riferimento è a Dozza, nel cuore dell'Emilia-Romagna tra Imola e Bologna, e lavoriamo in questa zona e in Italia. Se hai una casa altrove, scrivici: valutiamo l'immobile e ti diciamo onestamente se possiamo seguirla bene."),
+ ("Le recensioni che pubblicate sono vere?","Sì. Sono recensioni pubbliche degli ospiti, riportate testualmente e con la fonte indicata, e i punteggi sono quelli che vedi sugli annunci Airbnb e Booking. In fondo a ogni pagina trovi i link diretti agli annunci per verificarle da solo: non pubblichiamo testimonianze che non siano verificabili.")]
+def render_reputazione():
+    ab=REP.get("airbnb",{}); bk=REP.get("booking",{})
+    badge=(ab.get("badge") or ["Superhost"])[-1]
+    fq=[]
+    fq.append((FAQ_REP[0][0],FAQ_REP[0][1].format(badge,ab.get("rating",""),ab.get("recensioni",0),bk.get("rating",""))))
+    fq.append((FAQ_REP[1][0],FAQ_REP[1][1].format(ab.get("rating",""),ab.get("recensioni",0))))
+    for q,a in FAQ_REP[2:]: fq.append((q,a))
+    faq_html="".join(f'<details class="faq-i"><summary>{esc(q)}</summary><div><p>{esc(a)}</p></div></details>' for q,a in fq)
+    body=f'''<main class="hub guida cat-gestione">
+<nav class="crumb wrap"><a href="/blog/">Blog</a> / <span>Recensioni e reputazione</span></nav>
+<div class="guida-hero"><div class="wrap">
+  <span class="kick">Recensioni e reputazione</span>
+  <h1>B&amp;P Lux Property: recensioni, opinioni e reputazione</h1>
+  <p class="lead">Stai valutando se affidarci la tua casa e vuoi capire con chi hai a che fare. Giusto. Qui trovi chi siamo, cosa facciamo e — soprattutto — le prove verificabili del nostro lavoro, con i link per controllarle da solo.</p>
+  <div class="gh-btns"><a class="btn btn-gold" href="#contatti-blog">Parlaci del tuo immobile</a><a class="btn btn-ghost-d" href="/blog/recensioni-appartamenti/">Vedi le recensioni degli ospiti</a></div>
+</div></div>
+<section class="guide-phase wrap"><div class="gp-head"><span class="gp-num">1</span><div><h2>Chi siamo, in breve</h2><p>Un property manager, non un portale.</p></div></div>
+<p>B&amp;P Lux Property gestisce <strong>affitti brevi</strong> per conto dei proprietari. Ci occupiamo dell'immobile a 360 gradi — annuncio, foto, prezzi, ospiti, pulizie, biancheria, adempimenti e recensioni — mentre la casa resta tua. Siamo <strong>Superhost</strong> su Airbnb e gestiamo un appartamento nel centro storico di {esc(DZ.get("citta","Dozza"))}, in Emilia-Romagna, che è anche il nostro banco di prova quotidiano.</p>
+<p>Il modello è semplice e senza sorprese: <strong>costo iniziale zero</strong>, lavoriamo a percentuale sugli incassi. Guadagniamo solo se guadagni tu e, quando vuoi, con una fee di uscita ti lasciamo il business già avviato.</p>
+</section>
+<section class="guide-phase wrap"><div class="gp-head"><span class="gp-num">2</span><div><h2>Le prove, non le promesse</h2><p>Questi numeri sono pubblici sugli annunci che gestiamo: aprili e controllali.</p></div></div>
+{_scores()}
+</section>
+<section class="guide-phase wrap"><div class="gp-head"><span class="gp-num">3</span><div><h2>Cosa dicono gli ospiti</h2><p>Recensioni pubbliche reali, riportate testualmente e con la fonte.</p></div></div>
+<div class="rv-grid">{_quotes(3)}</div>
+<p><a href="/blog/recensioni-appartamenti/">Leggi tutte le recensioni degli appartamenti &rarr;</a></p>
+</section>
+<section class="guide-phase wrap"><div class="gp-head"><span class="gp-num">4</span><div><h2>Come verificare tutto in due minuti</h2><p>La reputazione si controlla, non si crede.</p></div></div>
+<ul>
+<li><strong>Apri l'annuncio su Airbnb</strong>: trovi media, numero di recensioni, badge Superhost e i testi degli ospiti. <a href="{DZ["airbnb"]}" target="_blank" rel="noopener">Vai all'annuncio</a>.</li>
+<li><strong>Apri l'annuncio su Booking</strong>: trovi il punteggio complessivo e quello per categoria. <a href="{DZ["booking"]}" target="_blank" rel="noopener">Vai all'annuncio</a>.</li>
+<li><strong>Controlla il codice identificativo</strong>: l'alloggio è registrato con CIN <strong>{esc(DZ["cin"])}</strong>, indicato anche sugli annunci.</li>
+<li><strong>Guarda come lavoriamo</strong>: le {len(articles)} guide di questo blog raccontano il metodo, non slogan.</li>
+</ul>
+<div class="tldr"><p>Per trasparenza: le recensioni pubblicate qui sono degli <strong>ospiti</strong> sugli alloggi che gestiamo, non testimonianze di proprietari. Stiamo raccogliendo anche quelle dei proprietari che seguiamo e le pubblicheremo con nome e riferimento verificabile, come facciamo con tutto il resto.</p></div>
+</section>
+<section class="guide-phase wrap"><div class="gp-head"><span class="gp-num">5</span><div><h2>Domande frequenti su di noi</h2><p>Le risposte che cerchi prima di affidare una casa a qualcuno.</p></div></div>
+<div class="faq">{faq_html}</div>
+</section>
+{cta_block("contatti-blog")}
+</main>'''
+    ld=[{"@context":"https://schema.org","@type":"Organization","name":S["name"],"url":S["url"],"email":S["email"],"telephone":"+"+WA,
+         "description":ent["author"]["bio"],"areaServed":"IT","sameAs":[DZ["airbnb"],DZ["booking"]],
+         "address":{"@type":"PostalAddress","addressLocality":DZ.get("citta",""),"addressRegion":"Emilia-Romagna","addressCountry":"IT"}},
+        {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":q,"acceptedAnswer":{"@type":"Answer","text":a}} for q,a in fq]},
+        {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Blog","item":S["url"]+"/blog/"},{"@type":"ListItem","position":2,"name":"Recensioni e reputazione","item":S["url"]+"/blog/recensioni-b-p-lux-property/"}]}]
+    out=os.path.join(OUT,"recensioni-b-p-lux-property","index.html"); os.makedirs(os.path.dirname(out),exist_ok=True)
+    open(out,"w",encoding="utf-8").write(page("B&P Lux Property: recensioni, opinioni e reputazione","Recensioni e opinioni su B&P Lux Property: chi siamo, cosa facciamo e le prove verificabili del nostro lavoro (Superhost, "+str(ab.get("rating",""))+"/5 su Airbnb, "+str(bk.get("rating",""))+"/10 su Booking).",S["url"]+"/blog/recensioni-b-p-lux-property/",body,ld))
+
 # ---------------- SITEMAP ----------------
 def sitemap():
     urls=[f'{S["url"]}/blog/']+[f'{S["url"]}/blog/categoria/{c}/' for c in CAT_ORDER if any(a["category"]==c for a in articles)]+[art_url(a["slug"])+"/" for a in articles]
@@ -456,7 +558,7 @@ def sitemap():
     body='<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
     for a in articles:
         body+=f'<url><loc>{art_url(a["slug"])}/</loc><lastmod>{a.get("updatedAt",now)}</lastmod></url>\n'
-    for u in [f'{S["url"]}/blog/',f'{S["url"]}/blog/guida-proprietario/',f'{S["url"]}/blog/calcolatore-rendita/']+[f'{S["url"]}/blog/categoria/{c}/' for c in CAT_ORDER if any(a["category"]==c for a in articles)]:
+    for u in [f'{S["url"]}/blog/',f'{S["url"]}/blog/guida-proprietario/',f'{S["url"]}/blog/calcolatore-rendita/',f'{S["url"]}/blog/recensioni-appartamenti/',f'{S["url"]}/blog/recensioni-b-p-lux-property/']+[f'{S["url"]}/blog/categoria/{c}/' for c in CAT_ORDER if any(a["category"]==c for a in articles)]:
         body+=f'<url><loc>{u}</loc><lastmod>{now}</lastmod></url>\n'
     body+='</urlset>\n'
     open(os.path.join(OUT,"sitemap.xml"),"w",encoding="utf-8").write(body)
@@ -760,6 +862,27 @@ h1,h2,h3{font-family:var(--serif);font-weight:600;line-height:1.12;color:var(--c
 /* separazioni hub: divisori tra le sezioni */
 .hub .cat-block{margin-top:54px;padding-top:40px;border-top:1px solid var(--line)}
 /* banda guida in hub */
+.guida .guide-phase.wrap{padding-left:var(--pad);padding-right:var(--pad)}
+.plat-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,240px),1fr));gap:16px;margin:8px 0 18px}
+.plat{background:var(--paper);border:1px solid var(--line);border-top:3px solid var(--gold);border-radius:6px;padding:18px 20px;display:flex;flex-direction:column;gap:4px}
+.plat-k{font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+.plat-v{font-family:'Cormorant Garamond',Georgia,serif;font-size:40px;line-height:1;color:var(--charcoal)}
+.plat-v small{font-size:17px;color:var(--muted)}
+.plat-n{font-size:14px;color:var(--muted)}
+.rv-badges{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+.rv-badge{font-size:11.5px;letter-spacing:.08em;text-transform:uppercase;border:1px solid var(--gold);color:var(--gold);border-radius:20px;padding:3px 10px}
+.score-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,120px),1fr));gap:10px;margin:0 0 14px}
+.score{background:#fff;border:1px solid var(--line);border-radius:6px;padding:12px 10px;text-align:center}
+.score-n{display:block;font-family:'Cormorant Garamond',Georgia,serif;font-size:28px;font-weight:600;color:var(--charcoal)}
+.score-l{display:block;font-size:12.5px;color:var(--muted);margin-top:2px}
+.rv-note{font-size:13.5px;color:var(--muted)}
+.rv-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,290px),1fr));gap:18px;margin:8px 0 6px}
+.rv-card{margin:0;background:var(--paper);border:1px solid var(--line);border-left:4px solid var(--gold);border-radius:0 6px 6px 0;padding:20px 22px;display:flex;flex-direction:column;gap:12px}
+.rv-card blockquote{margin:0}
+.rv-card blockquote p{font-family:'Cormorant Garamond',Georgia,serif;font-size:19px;line-height:1.5;color:var(--charcoal);margin:0}
+.rv-card figcaption{display:flex;flex-direction:column;gap:2px;font-size:13px}
+.rv-card figcaption strong{color:var(--charcoal);font-weight:500}
+.rv-card figcaption span{color:var(--muted)}
 .guida-band{max-width:var(--maxw);margin:36px auto 0;padding:0 var(--pad)}
 .gb-in{display:flex;align-items:center;justify-content:space-between;gap:24px;flex-wrap:wrap;background:linear-gradient(135deg,#2a2015,var(--charcoal));color:var(--ivory);border:1px solid rgba(201,162,75,.35);border-radius:8px;padding:28px 32px}
 .gb-in .kick{color:var(--gold2)}
@@ -886,8 +1009,8 @@ def main():
     make_og()
     for a in articles: render_article(a)
     for cid in CAT_ORDER: render_category(cid)
-    render_hub(); render_calculator(); render_guida(); sitemap()
-    print(f"Generati: {len(articles)} articoli + {len(CAT_ORDER)} categorie + hub + sitemap")
+    render_hub(); render_calculator(); render_guida(); render_recensioni(); render_reputazione(); sitemap()
+    print(f"Generati: {len(articles)} articoli + {len(CAT_ORDER)} categorie + hub + guida + 2 pagine recensioni + sitemap")
     if warn:
         print("\n== AVVISI cancello contenuto (%d) =="%len(warn))
         for w in warn: print("  -",w)
