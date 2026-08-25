@@ -6,7 +6,7 @@
   "metaDescription": "Affitti brevi a Sorrento: zone, stagionalità e una clientela internazionale esigente. CIN e imposta di soggiorno, spiegati da un property manager.",
   "h1": "Affitti brevi a Sorrento: stagionalità, zone e clientela premium",
   "excerpt": "Sorrento rende, ma chiede standard alti e una gestione attenta della stagionalità. Zone e loro vocazione, clientela internazionale, CIN e imposta di soggiorno: la guida di chi gestisce case di pregio.",
-  "opening": "Sorrento non è una meta qualsiasi. È una destinazione internazionale, con ospiti che spendono e pretendono standard alti. Qui l'affitto breve rende bene, ma solo con un servizio impeccabile e una stagionalità gestita con testa. In questa guida trovi le zone, i ritmi dell'anno, il tipo di clientela e le regole da conoscere, senza promesse gonfiate.",
+  "opening": "Sorrento non è una meta qualsiasi. È una destinazione internazionale, con ospiti che spendono e pretendono standard alti. Qui l'affitto breve rende bene, ma solo con un servizio impeccabile e una stagionalità gestita con testa. Nelle prossime righe: dove affittare, a chi, quando e con quali obblighi.",
   "publishedAt": "2026-08-11",
   "updatedAt": "2026-08-11",
   "heroKicker": "SORRENTO",
@@ -33,11 +33,27 @@
         "Ecco una mappa rapida per orientarti tra il centro, la fascia panoramica e i comuni vicini."
       ],
       "table": {
-        "headers": ["Zona", "Vocazione", "Ospite tipo"],
+        "headers": [
+          "Zona",
+          "Vocazione",
+          "Ospite tipo"
+        ],
         "rows": [
-          ["Centro (piazza Tasso)", "Tutto a piedi: ristoranti, negozi, vita serale", "Coppie, primo viaggio a Sorrento"],
-          ["Fascia panoramica sul golfo", "Vista mare e quiete, alto di gamma", "Clientela premium, soggiorni curati"],
-          ["Sant'Agnello / Meta / Piano di Sorrento", "Più accessibile e comoda ai collegamenti", "Famiglie e chi cerca valore"]
+          [
+            "Centro (piazza Tasso)",
+            "Tutto a piedi: ristoranti, negozi, vita serale",
+            "Coppie, primo viaggio a Sorrento"
+          ],
+          [
+            "Fascia panoramica sul golfo",
+            "Vista mare e quiete, alto di gamma",
+            "Clientela premium, soggiorni curati"
+          ],
+          [
+            "Sant'Agnello / Meta / Piano di Sorrento",
+            "Più accessibile e comoda ai collegamenti",
+            "Famiglie e chi cerca valore"
+          ]
         ]
       }
     },
@@ -124,10 +140,24 @@
       "a": "Ha senso quando non puoi garantire presenza e standard elevati tutto l'anno. Con clientela internazionale esigente e forte stagionalità, una gestione professionale protegge sia la rendita sia le recensioni."
     }
   ],
-  "related": ["affitti-brevi-napoli-guida", "property-manager-affitti-brevi", "cin-affitti-brevi-come-ottenerlo"],
+  "related": [
+    "affitti-brevi-napoli-guida",
+    "property-manager-affitti-brevi",
+    "cin-affitti-brevi-come-ottenerlo"
+  ],
   "sources": [
-    {"label": "Imposta di soggiorno e regole per gli affitti brevi", "ente": "Comune di Sorrento", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Imposta di soggiorno e regole per gli affitti brevi",
+      "ente": "Comune di Sorrento",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

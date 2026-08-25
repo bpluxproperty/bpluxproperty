@@ -32,12 +32,32 @@
         "Ecco una mappa rapida delle zone principali, con la loro vocazione e le note pratiche da tenere a mente prima di acquistare o mettere a reddito un immobile. A Matera, più che altrove, il tipo di immobile e la sua accessibilità pesano quanto la posizione."
       ],
       "table": {
-        "headers": ["Zona", "Vocazione", "Note pratiche"],
+        "headers": [
+          "Zona",
+          "Vocazione",
+          "Note pratiche"
+        ],
         "rows": [
-          ["Sasso Barisano", "Alloggi nei Sassi, l'esperienza più richiesta, il rione più curato e turistico", "Accessi a piedi e scale, immobili spesso vincolati: verifica sempre i vincoli"],
-          ["Sasso Caveoso", "Il più suggestivo e scenografico, con affacci spettacolari", "Molto caratteristico ma più impervio: scale e accessi da valutare con attenzione"],
-          ["Piano (città moderna)", "Comodità e accessibilità, a due passi dal centro storico", "Più adatto a famiglie, soggiorni lunghi e chi arriva in auto"],
-          ["Centro / Piazza Vittorio Veneto", "Cerniera tra Piano e Sassi, servizi a portata di mano", "Buon compromesso tra comodità e vicinanza all'esperienza dei Sassi"]
+          [
+            "Sasso Barisano",
+            "Alloggi nei Sassi, l'esperienza più richiesta, il rione più curato e turistico",
+            "Accessi a piedi e scale, immobili spesso vincolati: verifica sempre i vincoli"
+          ],
+          [
+            "Sasso Caveoso",
+            "Il più suggestivo e scenografico, con affacci spettacolari",
+            "Molto caratteristico ma più impervio: scale e accessi da valutare con attenzione"
+          ],
+          [
+            "Piano (città moderna)",
+            "Comodità e accessibilità, a due passi dal centro storico",
+            "Più adatto a famiglie, soggiorni lunghi e chi arriva in auto"
+          ],
+          [
+            "Centro / Piazza Vittorio Veneto",
+            "Cerniera tra Piano e Sassi, servizi a portata di mano",
+            "Buon compromesso tra comodità e vicinanza all'esperienza dei Sassi"
+          ]
         ]
       }
     },
@@ -86,7 +106,7 @@
     {
       "h2": "L'esperienza B&P: a Matera si affitta un'esperienza, non solo una casa",
       "paragraphs": [
-        "Noi di B&P Lux Property gestiamo affitti brevi come property manager e siamo Superhost. La nostra base operativa è in Emilia-Romagna, ma il metodo che fa rendere una casa è lo stesso ovunque, Matera compresa.",
+        "Nel nostro lavoro quotidiano da Superhost c'è un dettaglio che pesa più degli altri. Operiamo dall'Emilia-Romagna: cambia il contesto, non i principi che riempiono un calendario.",
         "Su una destinazione così esperienziale abbiamo imparato una cosa che vale più che altrove: la distanza tra il sogno e la realtà è il primo motivo di recensioni tiepide. L'ospite prenota immaginando la foto della casa-grotta e la vista sui Sassi; poi arriva con le valigie e trova scale, vicoli e l'auto lontana. Se l'annuncio non lo ha preparato, la delusione è dietro l'angolo, anche in una casa bellissima.",
         "Per questo, in mete come Matera, la gestione conta doppio: foto oneste che valorizzano la pietra, una descrizione chiara di accessi e scale, e istruzioni d'arrivo precise inviate prima del check-in. Prima l'esperienza e l'ospite, poi i numeri. È ciò che trasforma un immobile pieno di fascino in un immobile pieno di prenotazioni e recensioni alte."
       ]
@@ -118,10 +138,24 @@
       "a": "Con trasparenza e cura dei dettagli. Foto oneste che mettono in risalto pietra, volte e affacci, una descrizione chiara di scale e accessi, e istruzioni d'arrivo precise prima del check-in. In una destinazione esperienziale come Matera, preparare bene l'ospite è ciò che evita recensioni deluse e alimenta quelle alte."
     }
   ],
-  "related": ["affitti-brevi-bari-guida", "property-manager-affitti-brevi", "cin-affitti-brevi-come-ottenerlo"],
+  "related": [
+    "affitti-brevi-bari-guida",
+    "property-manager-affitti-brevi",
+    "cin-affitti-brevi-come-ottenerlo"
+  ],
   "sources": [
-    {"label": "Imposta di soggiorno e regole per gli affitti brevi a Matera", "ente": "Comune di Matera", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Imposta di soggiorno e regole per gli affitti brevi a Matera",
+      "ente": "Comune di Matera",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

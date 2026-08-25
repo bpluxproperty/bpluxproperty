@@ -6,7 +6,7 @@
   "metaDescription": "Affitti brevi in Costa Smeralda: Porto Cervo, clientela di lusso e stagione corta. CIN e imposta di soggiorno, spiegati da un property manager Superhost.",
   "h1": "Affitti brevi in Costa Smeralda: lusso internazionale e una stagione brevissima",
   "excerpt": "La Costa Smeralda rende come poche mete in Europa, ma vive di poche settimane d'estate e di una clientela esigente. Zone e loro vocazione, stagione brevissima, ospiti di lusso e regole locali tra Arzachena e Olbia: la guida di un property manager Superhost.",
-  "opening": "La Costa Smeralda è il lusso della Sardegna: Porto Cervo, gli yacht e un mare turchese che nel mondo vende da solo. Qui l'affitto breve raggiunge tariffe tra le più alte d'Europa, ma la stagione è brevissima e la clientela è esigente. Prima di sognare i numeri conviene capire le zone e l'ospite. In questa guida trovi tutto, senza promesse gonfiate.",
+  "opening": "La Costa Smeralda è il lusso della Sardegna: Porto Cervo, gli yacht e un mare turchese che nel mondo vende da solo. Qui l'affitto breve raggiunge tariffe tra le più alte d'Europa, ma la stagione è brevissima e la clientela è esigente. Prima di sognare i numeri conviene capire le zone e l'ospite. Qui trovi le zone che rendono, gli ospiti tipici e gli adempimenti da mettere in regola.",
   "publishedAt": "2026-08-12",
   "updatedAt": "2026-08-12",
   "heroKicker": "COSTA SMERALDA",
@@ -34,13 +34,37 @@
         "Ecco una mappa rapida per orientarti, con una premessa onesta: molti ospiti scelgono di dormire fuori dalla costa più esclusiva, a Olbia o nei suoi dintorni, dove i prezzi sono più umani, e vivono le spiagge in giornata."
       ],
       "table": {
-        "headers": ["Zona", "Vocazione", "Ospite tipo"],
+        "headers": [
+          "Zona",
+          "Vocazione",
+          "Ospite tipo"
+        ],
         "rows": [
-          ["Porto Cervo", "Il top del lusso: yacht, boutique e vita notturna, tariffe ai massimi", "Clientela premium internazionale, chi cerca esclusività"],
-          ["Porto Rotondo", "Elegante ma più raccolta e familiare, piazzette e porto turistico", "Famiglie facoltose, coppie, chi ama il lusso discreto"],
-          ["San Pantaleo e l'entroterra", "Borghi di granito e autenticità gallurese, a due passi dal mare", "Chi cerca charme e quiete senza rinunciare alle spiagge"],
-          ["Baja Sardinia e Cannigione", "Più vivibili e vicine alle spiagge, atmosfera da vacanza", "Famiglie e soggiorni balneari, budget più equilibrati"],
-          ["Base a Olbia e dintorni", "Più accessibile e con stagione più lunga, costa in giornata", "Chi vuole spendere meno e muoversi con facilità"]
+          [
+            "Porto Cervo",
+            "Il top del lusso: yacht, boutique e vita notturna, tariffe ai massimi",
+            "Clientela premium internazionale, chi cerca esclusività"
+          ],
+          [
+            "Porto Rotondo",
+            "Elegante ma più raccolta e familiare, piazzette e porto turistico",
+            "Famiglie facoltose, coppie, chi ama il lusso discreto"
+          ],
+          [
+            "San Pantaleo e l'entroterra",
+            "Borghi di granito e autenticità gallurese, a due passi dal mare",
+            "Chi cerca charme e quiete senza rinunciare alle spiagge"
+          ],
+          [
+            "Baja Sardinia e Cannigione",
+            "Più vivibili e vicine alle spiagge, atmosfera da vacanza",
+            "Famiglie e soggiorni balneari, budget più equilibrati"
+          ],
+          [
+            "Base a Olbia e dintorni",
+            "Più accessibile e con stagione più lunga, costa in giornata",
+            "Chi vuole spendere meno e muoversi con facilità"
+          ]
         ]
       }
     },
@@ -62,7 +86,7 @@
       "h2": "Che ospiti aspettarti in Costa Smeralda",
       "paragraphs": [
         "La Costa Smeralda attira un pubblico internazionale e di fascia molto alta. Molti ospiti arrivano dall'estero per un'occasione speciale o per la classica vacanza esclusiva, e hanno standard da hotel a cinque stelle. Hanno budget, ma pretendono un'esperienza all'altezza del nome.",
-        "Si aspettano privacy, servizi curati, comunicazione rapida in inglese e una casa identica alle foto. Ecco i profili che vedrai più spesso durante la stagione."
+        "Si aspettano privacy, servizi curati, comunicazione rapida in inglese e una casa identica alle foto. Gli ospiti tipici sono questi."
       ],
       "list": [
         "Clientela di lusso internazionale: cerca esclusività, privacy e vista mare, senza badare troppo al prezzo.",
@@ -103,9 +127,9 @@
     {
       "h2": "L'esperienza B&P: qui si vende il picco, non i dodici mesi",
       "paragraphs": [
-        "Noi di B&P Lux Property gestiamo affitti brevi come property manager e siamo Superhost. La nostra base operativa è in Emilia-Romagna, ma il metodo che fa rendere una casa è lo stesso ovunque, Costa Smeralda compresa.",
+        "Da property manager Superhost, il punto su cui insistiamo con i proprietari è sempre lo stesso. Lavoriamo dall'Emilia-Romagna, ma le leve che fanno rendere una casa sono le stesse in ogni mercato.",
         "Su una piazza così vediamo sempre lo stesso errore: ragionare come se la stagione durasse mesi. In Costa Smeralda la domanda vera è concentrata in poche settimane di piena estate, quando le tariffe salgono tra le più alte d'Europa, e per il resto dell'anno molte case restano quasi ferme. Chi compra qui pensando a una rendita distribuita su dodici mesi si illude: la partita si vince massimizzando il picco e proteggendo le date più richieste, prenotate con largo anticipo.",
-        "C'è poi un tema di standard. L'ospite della Costa Smeralda paga cifre importanti e pretende un'esperienza da hotel di lusso: privacy, servizi curati, una casa identica alle foto e una vista che giustifichi il prezzo. Non tutti gli immobili reggono questo confronto, ed è per questo che molti proprietari scelgono una base più accessibile a Olbia o nei dintorni, dove la stagione è più lunga e la gestione meno estrema. Il principio resta quello di sempre: prima la posizione e l'ospite, poi i numeri, infine la gestione."
+        "C'è poi un tema di standard. L'ospite della Costa Smeralda paga cifre importanti e pretende un'esperienza da hotel di lusso: privacy, servizi curati, una casa identica alle foto e una vista che giustifichi il prezzo. Non tutti gli immobili reggono questo confronto, ed è per questo che molti proprietari scelgono una base più accessibile a Olbia o nei dintorni, dove la stagione è più lunga e la gestione meno estrema. Prima si sceglie il target, poi si costruisce l'offerta e infine si imposta il prezzo."
       ]
     }
   ],
@@ -135,10 +159,24 @@
       "a": "È un tributo comunale a carico dell'ospite, che l'host raccoglie e versa al Comune. Il territorio della Costa Smeralda ricade in Comuni diversi, soprattutto Arzachena, con Olbia poco distante: gli importi e le modalità cambiano da un Comune all'altro. Verifica sempre i dati aggiornati presso il Comune esatto in cui si trova la casa."
     }
   ],
-  "related": ["affitti-brevi-alghero-guida", "affitti-brevi-cagliari-guida", "property-manager-affitti-brevi"],
+  "related": [
+    "affitti-brevi-alghero-guida",
+    "affitti-brevi-cagliari-guida",
+    "property-manager-affitti-brevi"
+  ],
   "sources": [
-    {"label": "Imposta di soggiorno e regole per gli affitti brevi in Gallura", "ente": "Comuni della Gallura (Arzachena, Olbia)", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Imposta di soggiorno e regole per gli affitti brevi in Gallura",
+      "ente": "Comuni della Gallura (Arzachena, Olbia)",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

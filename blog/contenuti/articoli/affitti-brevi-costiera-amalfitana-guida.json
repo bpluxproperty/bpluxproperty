@@ -6,7 +6,7 @@
   "metaDescription": "Affitti brevi in Costiera Amalfitana: borghi, accessi difficili e clientela di lusso. CIN e imposta di soggiorno, spiegati da un property manager Superhost.",
   "h1": "Affitti brevi in Costiera Amalfitana: borghi, accessi e clientela di lusso",
   "excerpt": "La Costiera Amalfitana rende come poche mete in Italia, ma chiede standard di lusso e punisce la logistica improvvisata. Borghi e loro vocazione, accessi difficili, stagione corta, clientela internazionale e regole locali: la guida di un property manager Superhost.",
-  "opening": "La Costiera Amalfitana è tra le coste più celebri al mondo, patrimonio UNESCO e sinonimo di lusso. Qui l'affitto breve raggiunge tariffe tra le più alte d'Italia, ma la stagione è corta e la logistica è dura. Prima di sognare i numeri conviene capire i borghi, gli accessi e il tipo di ospite. In questa guida trovi tutto, senza promesse gonfiate.",
+  "opening": "La Costiera Amalfitana è tra le coste più celebri al mondo, patrimonio UNESCO e sinonimo di lusso. Qui l'affitto breve raggiunge tariffe tra le più alte d'Italia, ma la stagione è corta e la logistica è dura. Prima di sognare i numeri conviene capire i borghi, gli accessi e il tipo di ospite. Andiamo per ordine: zone, calendario, ospiti e regole da rispettare.",
   "publishedAt": "2026-08-12",
   "updatedAt": "2026-08-12",
   "heroKicker": "COSTIERA AMALFITANA",
@@ -33,14 +33,42 @@
         "Ecco una mappa rapida dei borghi principali, con una premessa onesta: molti ospiti scelgono di dormire a Salerno o Sorrento, più economiche e comode, e vivono la costiera in giornata."
       ],
       "table": {
-        "headers": ["Borgo o base", "Vocazione", "Ospite tipo"],
+        "headers": [
+          "Borgo o base",
+          "Vocazione",
+          "Ospite tipo"
+        ],
         "rows": [
-          ["Positano", "Icona del lusso, verticale e scenografica, tariffe al top", "Clientela premium, coppie, luna di miele"],
-          ["Amalfi", "Borgo centrale e ben collegato, cuore dei traghetti", "Primo viaggio in costiera, chi vuole tutto a portata"],
-          ["Ravello", "Panorami dall'alto e festival musicali, quiete elegante", "Soggiorni curati, cultura, chi cerca la vista"],
-          ["Praiano e Furore", "Più tranquilli e defilati, tra i due poli principali", "Chi cerca quiete senza rinunciare alla costiera"],
-          ["Minori, Maiori e Cetara", "Più accessibili e autentici, spiagge e vita di paese", "Famiglie, chi cerca valore e atmosfera vera"],
-          ["Base a Salerno o Sorrento", "Più economiche e comode, costiera in giornata", "Chi vuole risparmiare e muoversi con facilità"]
+          [
+            "Positano",
+            "Icona del lusso, verticale e scenografica, tariffe al top",
+            "Clientela premium, coppie, luna di miele"
+          ],
+          [
+            "Amalfi",
+            "Borgo centrale e ben collegato, cuore dei traghetti",
+            "Primo viaggio in costiera, chi vuole tutto a portata"
+          ],
+          [
+            "Ravello",
+            "Panorami dall'alto e festival musicali, quiete elegante",
+            "Soggiorni curati, cultura, chi cerca la vista"
+          ],
+          [
+            "Praiano e Furore",
+            "Più tranquilli e defilati, tra i due poli principali",
+            "Chi cerca quiete senza rinunciare alla costiera"
+          ],
+          [
+            "Minori, Maiori e Cetara",
+            "Più accessibili e autentici, spiagge e vita di paese",
+            "Famiglie, chi cerca valore e atmosfera vera"
+          ],
+          [
+            "Base a Salerno o Sorrento",
+            "Più economiche e comode, costiera in giornata",
+            "Chi vuole risparmiare e muoversi con facilità"
+          ]
         ]
       }
     },
@@ -77,7 +105,7 @@
       "h2": "Che ospiti aspettarti in Costiera Amalfitana",
       "paragraphs": [
         "La Costiera attira un pubblico internazionale e di fascia alta. Molti ospiti arrivano dall'estero, spesso da Stati Uniti, Regno Unito e Nord Europa, e scelgono la costiera per un'occasione speciale. Hanno budget, ma anche standard elevati.",
-        "Si aspettano comunicazione rapida in inglese, una casa identica alle foto e consigli veri sul territorio. Ecco i profili che vedrai più spesso, spesso mescolati nello stesso periodo."
+        "Si aspettano comunicazione rapida in inglese, una casa identica alle foto e consigli veri sul territorio. In pratica chi prenota rientra quasi sempre in queste categorie."
       ],
       "list": [
         "Coppie e viaggi romantici: la Costiera è una classica meta da luna di miele e anniversario.",
@@ -103,9 +131,9 @@
     {
       "h2": "L'esperienza B&P: in Costiera si vende l'accesso, non solo la vista",
       "paragraphs": [
-        "Noi di B&P Lux Property gestiamo affitti brevi come property manager e siamo Superhost. La nostra base operativa è in Emilia-Romagna, ma il metodo che fa rendere una casa è lo stesso ovunque, Costiera Amalfitana compresa.",
+        "Come Superhost che gestiscono case altrui, mettiamo in guardia su una cosa. La sede è in Emilia-Romagna, però le regole del gioco cambiano poco da una meta all'altra.",
         "Su una destinazione così vediamo sempre lo stesso errore: annunci che raccontano solo la vista e nascondono la fatica per arrivarci. In Costiera è il modo più rapido per rovinare la reputazione. L'ospite internazionale, che qui spende di più, non perdona la sorpresa dei gradini o del parcheggio introvabile. Chi vende una terrazza sul mare deve spiegare, con la stessa cura, come ci si arriva e come si vive quel posto.",
-        "Il principio resta quello di sempre: prima la posizione e l'ospite, poi i numeri, infine la gestione. In Costiera vince chi è onesto sugli accessi, sceglie con chiarezza il proprio pubblico e tiene standard da hotel. Il resto, tariffe altissime comprese, arriva di conseguenza."
+        "Si parte da dove si trova la casa e da chi ci arriva; il resto sono conseguenze. In Costiera vince chi è onesto sugli accessi, sceglie con chiarezza il proprio pubblico e tiene standard da hotel. Il resto, tariffe altissime comprese, arriva di conseguenza."
       ]
     }
   ],
@@ -135,10 +163,24 @@
       "a": "È un tributo comunale a carico dell'ospite, che l'host raccoglie e versa al Comune. In Costiera cambia da borgo a borgo, perché Amalfi, Positano, Ravello e gli altri paesi sono Comuni distinti. Verifica sempre importi e modalità aggiornati presso il Comune esatto in cui si trova la casa."
     }
   ],
-  "related": ["affitti-brevi-sorrento-guida", "affitti-brevi-salerno-guida", "property-manager-affitti-brevi"],
+  "related": [
+    "affitti-brevi-sorrento-guida",
+    "affitti-brevi-salerno-guida",
+    "property-manager-affitti-brevi"
+  ],
   "sources": [
-    {"label": "Imposta di soggiorno e regole per gli affitti brevi", "ente": "Comuni della Costiera Amalfitana", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Imposta di soggiorno e regole per gli affitti brevi",
+      "ente": "Comuni della Costiera Amalfitana",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

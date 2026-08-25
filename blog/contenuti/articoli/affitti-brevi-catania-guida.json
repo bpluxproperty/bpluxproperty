@@ -33,12 +33,32 @@
         "Ecco una mappa rapida per orientarti, prima di comprare o mettere a reddito un appartamento. Con una premessa onesta: a Catania la via e il palazzo contano quanto il nome del quartiere."
       ],
       "table": {
-        "headers": ["Zona", "Vocazione", "Ospiti tipici"],
+        "headers": [
+          "Zona",
+          "Vocazione",
+          "Ospiti tipici"
+        ],
         "rows": [
-          ["Centro storico (via Etnea, Duomo, pescheria)", "Cuore barocco della città, a piedi ovunque", "Coppie, turismo culturale, primo viaggio a Catania"],
-          ["Porto e Ognina", "Fascia sul mare, atmosfera vivace", "Coppie, soggiorni estivi, chi cerca la vista mare"],
-          ["Vicino aeroporto e stazione", "Massima comodità per arrivi e partenze", "Viaggiatori in transito, base per gite in Sicilia"],
-          ["Zona universitaria", "Vivace e servita, richiesta anche fuori stagione", "Studenti, visite accademiche, soggiorni lunghi"]
+          [
+            "Centro storico (via Etnea, Duomo, pescheria)",
+            "Cuore barocco della città, a piedi ovunque",
+            "Coppie, turismo culturale, primo viaggio a Catania"
+          ],
+          [
+            "Porto e Ognina",
+            "Fascia sul mare, atmosfera vivace",
+            "Coppie, soggiorni estivi, chi cerca la vista mare"
+          ],
+          [
+            "Vicino aeroporto e stazione",
+            "Massima comodità per arrivi e partenze",
+            "Viaggiatori in transito, base per gite in Sicilia"
+          ],
+          [
+            "Zona universitaria",
+            "Vivace e servita, richiesta anche fuori stagione",
+            "Studenti, visite accademiche, soggiorni lunghi"
+          ]
         ]
       }
     },
@@ -46,7 +66,7 @@
       "h2": "Che ospiti aspettarti a Catania",
       "paragraphs": [
         "Catania attira un pubblico ampio e sempre più internazionale, che l'aeroporto porta in città in ogni stagione. Le richieste non dipendono da un solo motivo di viaggio, e questo distribuisce il rischio per chi affitta.",
-        "Ecco i profili che vedrai più spesso, spesso mescolati nello stesso periodo."
+        "Questi sono i profili più frequenti."
       ],
       "list": [
         "Turisti culturali: barocco, chiese, teatri e mercati richiamano visitatori gran parte dell'anno.",
@@ -94,9 +114,9 @@
     {
       "h2": "L'esperienza B&P: due prodotti diversi nella stessa città",
       "paragraphs": [
-        "Noi di B&P Lux Property gestiamo affitti brevi come property manager e siamo Superhost. La nostra base operativa è in Emilia-Romagna, ma il metodo che fa rendere una casa è lo stesso ovunque, Catania compresa.",
+        "La nostra esperienza da property manager Superhost porta a una conclusione precisa. La sede è in Emilia-Romagna, però le regole del gioco cambiano poco da una meta all'altra.",
         "Su una piazza come Catania vediamo spesso lo stesso errore: trattare tutti gli immobili allo stesso modo. In realtà qui convivono due prodotti diversi. Chi affitta in pieno centro vende il barocco a piedi e la vita cittadina; chi affitta in periferia o vicino all'aeroporto vende comodità e una base con parcheggio per l'Etna, Taormina e Siracusa. Arredo, foto e annuncio vanno costruiti su quale dei due ospiti vuoi attrarre.",
-        "Il principio resta quello di sempre: prima la posizione e l'ospite, poi i numeri, infine la gestione. In una città viva tutto l'anno come Catania, scegliere con chiarezza il proprio ospite e restare in regola è ciò che separa un immobile pieno da uno mezzo vuoto."
+        "Prima si sceglie il target, poi si costruisce l'offerta e infine si imposta il prezzo. In una città viva tutto l'anno come Catania, scegliere con chiarezza il proprio ospite e restare in regola è ciò che separa un immobile pieno da uno mezzo vuoto."
       ]
     }
   ],
@@ -126,10 +146,24 @@
       "a": "È un tributo comunale a carico dell'ospite. L'host la raccoglie durante il soggiorno e la versa al Comune di Catania secondo le sue regole. Verifica sempre importi e modalità aggiornati presso le fonti ufficiali del Comune."
     }
   ],
-  "related": ["affitti-brevi-palermo-guida", "property-manager-affitti-brevi", "cin-affitti-brevi-come-ottenerlo"],
+  "related": [
+    "affitti-brevi-palermo-guida",
+    "property-manager-affitti-brevi",
+    "cin-affitti-brevi-come-ottenerlo"
+  ],
   "sources": [
-    {"label": "Imposta di soggiorno e regole per gli affitti brevi a Catania", "ente": "Comune di Catania", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Imposta di soggiorno e regole per gli affitti brevi a Catania",
+      "ente": "Comune di Catania",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

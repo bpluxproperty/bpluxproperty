@@ -47,12 +47,32 @@
         "Ecco una mappa sintetica per orientarti prima di comprare o mettere a reddito un appartamento. Con una premessa onesta: nella Pigna, fatta di vicoli e scalinate, contano il piano, la luce e la comodità di arrivare con i bagagli quanto il nome della zona."
       ],
       "table": {
-        "headers": ["Zona", "Vocazione", "Ospiti tipici"],
+        "headers": [
+          "Zona",
+          "Vocazione",
+          "Ospiti tipici"
+        ],
         "rows": [
-          ["Centro, Casinò e Ariston", "Cuore degli eventi e della vita cittadina, tutto a piedi", "Pubblico del Festival, coppie, city break"],
-          ["La Pigna (centro storico)", "Borgo medievale di carattere, tra vicoli e scalinate", "Viaggiatori curiosi e coppie (valuta piano e accesso)"],
-          ["Lungomare e pista ciclabile", "Fronte mare, passeggiate e sport all'aperto", "Famiglie, coppie, soggiorni panoramici"],
-          ["Verso Ospedaletti e Portosole", "Zona più tranquilla e residenziale, vicino al mare", "Soggiorni lunghi, relax, viaggiatori di ritorno"]
+          [
+            "Centro, Casinò e Ariston",
+            "Cuore degli eventi e della vita cittadina, tutto a piedi",
+            "Pubblico del Festival, coppie, city break"
+          ],
+          [
+            "La Pigna (centro storico)",
+            "Borgo medievale di carattere, tra vicoli e scalinate",
+            "Viaggiatori curiosi e coppie (valuta piano e accesso)"
+          ],
+          [
+            "Lungomare e pista ciclabile",
+            "Fronte mare, passeggiate e sport all'aperto",
+            "Famiglie, coppie, soggiorni panoramici"
+          ],
+          [
+            "Verso Ospedaletti e Portosole",
+            "Zona più tranquilla e residenziale, vicino al mare",
+            "Soggiorni lunghi, relax, viaggiatori di ritorno"
+          ]
         ]
       }
     },
@@ -100,9 +120,9 @@
     {
       "h2": "L'esperienza B&P: a Sanremo il calendario si gioca sugli eventi",
       "paragraphs": [
-        "Noi di B&P Lux Property gestiamo affitti brevi come property manager e siamo Superhost. La nostra base operativa è in Emilia-Romagna, ma il metodo che fa rendere una casa è lo stesso ovunque, Sanremo compresa. E qui un principio torna più spesso che altrove.",
+        "Dopo anni passati a gestire immobili per i proprietari, il punto è questo. Lavoriamo dall'Emilia-Romagna, ma le leve che fanno rendere una casa sono le stesse in ogni mercato. E qui un principio torna più spesso che altrove.",
         "La differenza la fa il calendario. In una città come Sanremo, dove la domanda è meno stagionale ma concentra il suo valore in poche settimane di eventi, chi lascia le tariffe ferme rende molto meno del possibile. Prezzi dinamici, soggiorni minimi e date aperte per tempo valgono più di qualsiasi arredo.",
-        "Il principio resta quello di sempre: prima la posizione e l'ospite, poi i numeri, infine la gestione. A Sanremo questo significa vendere una città che vive tutto l'anno e farsi trovare pronti quando arrivano le settimane che contano davvero."
+        "Il punto di partenza è sempre lo stesso: che ospite può venire qui, e cosa cerca. A Sanremo questo significa vendere una città che vive tutto l'anno e farsi trovare pronti quando arrivano le settimane che contano davvero."
       ]
     }
   ],
@@ -132,10 +152,24 @@
       "a": "È un tributo comunale a carico dell'ospite. L'host la raccoglie durante il soggiorno e la versa al Comune di Sanremo secondo le sue regole. Importi e modalità possono cambiare nel tempo, quindi verifica sempre i dettagli aggiornati presso le fonti ufficiali del Comune prima di iniziare."
     }
   ],
-  "related": ["affitti-brevi-genova-guida", "affitti-brevi-la-spezia-cinque-terre-guida", "property-manager-affitti-brevi"],
+  "related": [
+    "affitti-brevi-genova-guida",
+    "affitti-brevi-la-spezia-cinque-terre-guida",
+    "property-manager-affitti-brevi"
+  ],
   "sources": [
-    {"label": "Imposta di soggiorno e regole per gli affitti brevi a Sanremo", "ente": "Comune di Sanremo", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Imposta di soggiorno e regole per gli affitti brevi a Sanremo",
+      "ente": "Comune di Sanremo",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

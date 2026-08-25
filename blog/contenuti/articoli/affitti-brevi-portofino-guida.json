@@ -47,12 +47,32 @@
         "Santa Margherita Ligure è la base elegante per eccellenza, a pochi minuti dal borgo. Rapallo e Camogli aggiungono charme e prezzi più umani, mentre le alture custodiscono ville riservate con vista. Ecco una mappa sintetica per orientarti prima di comprare o mettere a reddito un immobile."
       ],
       "table": {
-        "headers": ["Zona", "Vocazione", "Ospiti tipici"],
+        "headers": [
+          "Zona",
+          "Vocazione",
+          "Ospiti tipici"
+        ],
         "rows": [
-          ["Borgo di Portofino", "Cuore ultra-luxury: piazzetta, porticciolo e boutique", "Clientela facoltosa e internazionale, soggiorni esclusivi"],
-          ["Santa Margherita Ligure", "Base elegante e più accessibile, a pochi minuti dal borgo", "Coppie e famiglie di fascia alta, soggiorni più lunghi"],
-          ["Camogli, Rapallo e Tigullio", "Borghi marinari di charme lungo la costa", "Viaggiatori che cercano atmosfera e prezzi più umani"],
-          ["Alture e ville nel verde", "Dimore riservate con vista nel Parco di Portofino", "Clientela premium in cerca di privacy e panorami"]
+          [
+            "Borgo di Portofino",
+            "Cuore ultra-luxury: piazzetta, porticciolo e boutique",
+            "Clientela facoltosa e internazionale, soggiorni esclusivi"
+          ],
+          [
+            "Santa Margherita Ligure",
+            "Base elegante e più accessibile, a pochi minuti dal borgo",
+            "Coppie e famiglie di fascia alta, soggiorni più lunghi"
+          ],
+          [
+            "Camogli, Rapallo e Tigullio",
+            "Borghi marinari di charme lungo la costa",
+            "Viaggiatori che cercano atmosfera e prezzi più umani"
+          ],
+          [
+            "Alture e ville nel verde",
+            "Dimore riservate con vista nel Parco di Portofino",
+            "Clientela premium in cerca di privacy e panorami"
+          ]
         ]
       }
     },
@@ -100,9 +120,9 @@
     {
       "h2": "L'esperienza B&P: nel lusso vincono discrezione e dettagli",
       "paragraphs": [
-        "Noi di B&P Lux Property gestiamo affitti brevi come property manager e siamo Superhost. La nostra base operativa è in Emilia-Romagna, ma il metodo che fa rendere una casa è lo stesso ovunque, Portofino compresa. E in un mercato di lusso un principio conta più di ogni altro.",
+        "Gestendo case per conto di altri, una cosa l'abbiamo vista ripetersi in ogni mercato. Siamo basati in Emilia-Romagna, ma i meccanismi che alzano occupazione e tariffa si somigliano ovunque. E in un mercato di lusso un principio conta più di ogni altro.",
         "Nel segmento premium non basta un bell'immobile: vince la cura dei dettagli e la discrezione. Un ospite facoltoso nota tutto, dalla qualità della biancheria alla rapidità delle risposte, dalla pulizia impeccabile alla riservatezza. Sono queste piccole cose, invisibili quando ci sono e clamorose quando mancano, a costruire recensioni e prezzo.",
-        "Il principio resta quello di sempre: prima la posizione e l'ospite, poi i numeri, infine la gestione. A Portofino questo significa valorizzare la rarità dell'immobile, gestire con attenzione gli accessi e offrire un'esperienza all'altezza di uno dei nomi più esclusivi al mondo."
+        "Si parte da dove si trova la casa e da chi ci arriva; il resto sono conseguenze. A Portofino questo significa valorizzare la rarità dell'immobile, gestire con attenzione gli accessi e offrire un'esperienza all'altezza di uno dei nomi più esclusivi al mondo."
       ]
     }
   ],
@@ -132,10 +152,24 @@
       "a": "Un pubblico facoltoso e internazionale, abituato al lusso. Diportisti e ospiti di yacht, coppie in cerca di esclusività e famiglie di fascia alta, spesso di ritorno di anno in anno. Cercano qualità, privacy e un servizio impeccabile, con la stagione più forte tra la primavera e l'autunno."
     }
   ],
-  "related": ["affitti-brevi-genova-guida", "affitti-brevi-la-spezia-cinque-terre-guida", "property-manager-affitti-brevi"],
+  "related": [
+    "affitti-brevi-genova-guida",
+    "affitti-brevi-la-spezia-cinque-terre-guida",
+    "property-manager-affitti-brevi"
+  ],
   "sources": [
-    {"label": "Imposta di soggiorno e regole per gli affitti brevi a Portofino", "ente": "Comune di Portofino", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Imposta di soggiorno e regole per gli affitti brevi a Portofino",
+      "ente": "Comune di Portofino",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

@@ -33,12 +33,32 @@
         "Ecco una mappa rapida per orientarti, con una premessa onesta: nel centro storico il contesto della singola via e la vicinanza al mare contano quanto il nome della zona. Pochi metri e una scalinata in più cambiano il valore di un appartamento."
       ],
       "table": {
-        "headers": ["Zona", "Vocazione", "Ospiti tipici"],
+        "headers": [
+          "Zona",
+          "Vocazione",
+          "Ospiti tipici"
+        ],
         "rows": [
-          ["Centro storico sul mare", "Cuore medievale tutto a piedi, tra Duomo, vicoli e scorci sul mare", "Coppie, turismo culturale, primo viaggio a Cefalù"],
-          ["Vicino alla spiaggia e al lungomare", "Fascia balneare, mare e passeggiata a pochi passi", "Famiglie e coppie, soggiorni estivi, chi cerca la spiaggia"],
-          ["Fuori dal centro, comoda in auto", "Più spazio e parcheggio, lontano dai vicoli e dalla ZTL", "Famiglie, gruppi, chi arriva in auto e vuole comodità"],
-          ["Verso l'interno e le Madonie", "Base tranquilla tra mare, borghi e montagna", "Viaggiatori che esplorano le Madonie e la Sicilia settentrionale"]
+          [
+            "Centro storico sul mare",
+            "Cuore medievale tutto a piedi, tra Duomo, vicoli e scorci sul mare",
+            "Coppie, turismo culturale, primo viaggio a Cefalù"
+          ],
+          [
+            "Vicino alla spiaggia e al lungomare",
+            "Fascia balneare, mare e passeggiata a pochi passi",
+            "Famiglie e coppie, soggiorni estivi, chi cerca la spiaggia"
+          ],
+          [
+            "Fuori dal centro, comoda in auto",
+            "Più spazio e parcheggio, lontano dai vicoli e dalla ZTL",
+            "Famiglie, gruppi, chi arriva in auto e vuole comodità"
+          ],
+          [
+            "Verso l'interno e le Madonie",
+            "Base tranquilla tra mare, borghi e montagna",
+            "Viaggiatori che esplorano le Madonie e la Sicilia settentrionale"
+          ]
         ]
       }
     },
@@ -46,7 +66,7 @@
       "h2": "Che ospiti aspettarti a Cefalù",
       "paragraphs": [
         "Cefalù attira un pubblico ampio, italiano e internazionale. Molti arrivano per il mare, ma il borgo e l'arte allungano i motivi del viaggio e la durata dei soggiorni. Questo distribuisce la domanda su più profili.",
-        "Ecco i profili che vedrai più spesso, spesso mescolati nello stesso periodo."
+        "Questi sono i profili più frequenti."
       ],
       "list": [
         "Famiglie in vacanza: cercano la spiaggia in paese, spazio e comodità, soprattutto d'estate.",
@@ -95,10 +115,10 @@
     {
       "h2": "L'esperienza B&P: a Cefalù il centro storico è bellissimo ma va spiegato",
       "paragraphs": [
-        "Noi di B&P Lux Property gestiamo affitti brevi come property manager e siamo Superhost. La nostra base operativa è in Emilia-Romagna, ma il metodo che fa rendere una casa è lo stesso ovunque, Cefalù compresa.",
+        "Chi gestisce appartamenti tutti i giorni impara presto una lezione poco intuitiva. La sede è in Emilia-Romagna, però le regole del gioco cambiano poco da una meta all'altra.",
         "Su un borgo come Cefalù vediamo spesso lo stesso errore: dare per scontato l'arrivo. Il centro storico è un intreccio di vicoli, scalinate e zone a traffico limitato, dove l'auto non entra e il navigatore si perde. Senza istruzioni chiare, l'ospite arriva stanco e la vacanza parte male. Un self check-in ben spiegato, con indicazioni precise su dove parcheggiare e come raggiungere la porta a piedi, vale quanto l'arredo.",
         "C'è poi la scelta del prodotto. Una casa con vista sul mare o a due passi dalla spiaggia lavora sull'estate e sul balneare; un appartamento nel cuore del centro storico può puntare anche su cultura e weekend fuori stagione. Sono annunci diversi, con foto, prezzo e stagionalità diverse: raccontarli con chiarezza riempie il calendario, mescolarli confonde l'ospite.",
-        "Il principio resta quello di sempre: prima la posizione e l'ospite, poi i numeri, infine la gestione. A Cefalù, dove il fascino del borgo fa già metà del lavoro, curare arrivo e comunicazione è ciò che separa un immobile pieno da uno che lavora solo ad agosto."
+        "Prima si sceglie il target, poi si costruisce l'offerta e infine si imposta il prezzo. A Cefalù, dove il fascino del borgo fa già metà del lavoro, curare arrivo e comunicazione è ciò che separa un immobile pieno da uno che lavora solo ad agosto."
       ]
     }
   ],
@@ -128,10 +148,24 @@
       "a": "È un tributo comunale a carico dell'ospite. L'host la raccoglie durante il soggiorno e la versa al Comune di Cefalù secondo le sue regole. Verifica sempre importi e modalità aggiornati presso le fonti ufficiali del Comune."
     }
   ],
-  "related": ["affitti-brevi-palermo-guida", "affitti-brevi-catania-guida", "cin-affitti-brevi-come-ottenerlo"],
+  "related": [
+    "affitti-brevi-palermo-guida",
+    "affitti-brevi-catania-guida",
+    "cin-affitti-brevi-come-ottenerlo"
+  ],
   "sources": [
-    {"label": "Imposta di soggiorno e regole per le locazioni turistiche a Cefalù", "ente": "Comune di Cefalù", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Imposta di soggiorno e regole per le locazioni turistiche a Cefalù",
+      "ente": "Comune di Cefalù",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

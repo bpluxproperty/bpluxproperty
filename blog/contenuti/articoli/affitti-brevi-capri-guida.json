@@ -6,7 +6,7 @@
   "metaDescription": "Affitti brevi a Capri: zone, stagionalità e clientela del lusso. Accessi via mare, logistica, CIN e imposta di soggiorno, spiegati da un property manager.",
   "h1": "Affitti brevi a Capri: zone, logistica e clientela del lusso",
   "excerpt": "Capri rende come poche mete in Italia, ma chiede standard altissimi e una logistica impeccabile. Zone e loro vocazione, accessi via mare, clientela del lusso, CIN e imposta di soggiorno: la guida di chi gestisce case di pregio.",
-  "opening": "Capri non è una destinazione qualsiasi. È un'icona del lusso internazionale, dove vista, posizione e discrezione decidono il prezzo. Qui l'affitto breve rende, ma chiede standard altissimi e una logistica gestita nei dettagli. In questa guida trovi le zone, i ritmi della stagione, il tipo di ospite e le regole da conoscere, senza promesse gonfiate.",
+  "opening": "Capri non è una destinazione qualsiasi. È un'icona del lusso internazionale, dove vista, posizione e discrezione decidono il prezzo. Qui l'affitto breve rende, ma chiede standard altissimi e una logistica gestita nei dettagli. Di seguito le zone, il tipo di ospite e la burocrazia, spiegati in modo diretto.",
   "publishedAt": "2026-08-12",
   "updatedAt": "2026-08-12",
   "heroKicker": "CAPRI",
@@ -48,11 +48,27 @@
         "Ecco una mappa rapida per orientarti tra il centro, Anacapri e Marina Grande."
       ],
       "table": {
-        "headers": ["Zona", "Vocazione", "Ospite tipo"],
+        "headers": [
+          "Zona",
+          "Vocazione",
+          "Ospite tipo"
+        ],
         "rows": [
-          ["Capri centro / Piazzetta", "Cuore mondano, tutto a piedi: il top e il più caro", "Clientela del lusso, coppie, soggiorni ad alto budget"],
-          ["Anacapri", "Più tranquilla e panoramica, vicino al Monte Solaro", "Chi cerca quiete, viste e soggiorni più lunghi"],
-          ["Marina Grande", "Vicino all'arrivo via mare, comoda e pratica", "Chi vuole ridurre spostamenti e bagagli"]
+          [
+            "Capri centro / Piazzetta",
+            "Cuore mondano, tutto a piedi: il top e il più caro",
+            "Clientela del lusso, coppie, soggiorni ad alto budget"
+          ],
+          [
+            "Anacapri",
+            "Più tranquilla e panoramica, vicino al Monte Solaro",
+            "Chi cerca quiete, viste e soggiorni più lunghi"
+          ],
+          [
+            "Marina Grande",
+            "Vicino all'arrivo via mare, comoda e pratica",
+            "Chi vuole ridurre spostamenti e bagagli"
+          ]
         ]
       }
     },
@@ -140,10 +156,24 @@
       "a": "Ha senso quando non puoi garantire presenza e standard da lusso per tutta l'alta stagione. Con una clientela internazionale esigente e una logistica complessa, una gestione professionale locale protegge sia la rendita sia le recensioni."
     }
   ],
-  "related": ["affitti-brevi-sorrento-guida", "affitti-brevi-costiera-amalfitana-guida", "property-manager-affitti-brevi"],
+  "related": [
+    "affitti-brevi-sorrento-guida",
+    "affitti-brevi-costiera-amalfitana-guida",
+    "property-manager-affitti-brevi"
+  ],
   "sources": [
-    {"label": "Imposta di soggiorno e regole per gli affitti brevi", "ente": "Comune di Capri", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Imposta di soggiorno e regole per gli affitti brevi",
+      "ente": "Comune di Capri",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

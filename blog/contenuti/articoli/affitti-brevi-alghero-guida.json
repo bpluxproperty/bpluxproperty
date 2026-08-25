@@ -33,13 +33,37 @@
         "Ecco una mappa rapida per orientarti, prima di comprare o mettere a reddito un appartamento. Con una premessa onesta: ad Alghero quasi tutto ruota intorno all'estate, e la zona incide su quanto l'immobile riesce a lavorare anche negli altri mesi."
       ],
       "table": {
-        "headers": ["Zona", "Vocazione", "Stagione di punta"],
+        "headers": [
+          "Zona",
+          "Vocazione",
+          "Stagione di punta"
+        ],
         "rows": [
-          ["Centro storico dentro le mura", "Vicoli, bastioni sul mare, ristoranti e vita serale: la cartolina di Alghero", "Primavera, estate e autunno; richiesto gran parte dell'anno"],
-          ["Lungomare e bastioni", "Passeggiata sul mare a ridosso del centro, tra tramonti e locali", "Estate e stagioni miti"],
-          ["Vicino alle spiagge (Lido, Maria Pia, Fertilia)", "Comoda per il mare, ideale per famiglie e soggiorni balneari", "Fortemente estiva"],
-          ["Riviera del Corallo e Porto Conte", "Case e ville verso Capo Caccia, tra natura e calette", "Estiva, tra coppie e amanti della natura"],
-          ["Vicino all'aeroporto di Fertilia", "Pratica per arrivi, partenze e transiti veloci", "Estiva e legata ai voli"]
+          [
+            "Centro storico dentro le mura",
+            "Vicoli, bastioni sul mare, ristoranti e vita serale: la cartolina di Alghero",
+            "Primavera, estate e autunno; richiesto gran parte dell'anno"
+          ],
+          [
+            "Lungomare e bastioni",
+            "Passeggiata sul mare a ridosso del centro, tra tramonti e locali",
+            "Estate e stagioni miti"
+          ],
+          [
+            "Vicino alle spiagge (Lido, Maria Pia, Fertilia)",
+            "Comoda per il mare, ideale per famiglie e soggiorni balneari",
+            "Fortemente estiva"
+          ],
+          [
+            "Riviera del Corallo e Porto Conte",
+            "Case e ville verso Capo Caccia, tra natura e calette",
+            "Estiva, tra coppie e amanti della natura"
+          ],
+          [
+            "Vicino all'aeroporto di Fertilia",
+            "Pratica per arrivi, partenze e transiti veloci",
+            "Estiva e legata ai voli"
+          ]
         ]
       }
     },
@@ -102,9 +126,9 @@
     {
       "h2": "L'esperienza B&P: ad Alghero la partita si gioca sulla stagione",
       "paragraphs": [
-        "Noi di B&P Lux Property gestiamo affitti brevi come property manager e siamo Superhost. La nostra base operativa è in Emilia-Romagna, ma il metodo che fa rendere una casa è lo stesso ovunque, Alghero compresa.",
+        "Chi gestisce appartamenti tutti i giorni impara presto una lezione poco intuitiva. Siamo basati in Emilia-Romagna, ma i meccanismi che alzano occupazione e tariffa si somigliano ovunque.",
         "Su una piazza come Alghero l'errore più comune è ragionare come se l'estate fosse infinita. Alghero non è un capoluogo di regione con domanda business tutto l'anno: è una città turistica, molto stagionale e molto internazionale. Questo cambia le priorità. Il prezzo va spinto nei mesi caldi, quando la richiesta è forte, ma la partita vera si vince recuperando le stagioni miti con l'altra anima della città: quella di città d'arte catalana, con le Grotte di Nettuno, i bastioni al tramonto e il clima gradevole di primavera e autunno.",
-        "C'è poi un tema pratico sul centro storico dentro le mura: è bellissimo, ma è una ZTL fatta di vicoli, con parcheggio complicato e, spesso, scale. Un ospite internazionale che arriva da Fertilia con le valigie va guidato passo passo, con indicazioni chiare su dove lasciare l'auto e un check-in semplice. Il principio resta quello di sempre: prima la posizione e l'ospite, poi i numeri, infine la gestione."
+        "C'è poi un tema pratico sul centro storico dentro le mura: è bellissimo, ma è una ZTL fatta di vicoli, con parcheggio complicato e, spesso, scale. Un ospite internazionale che arriva da Fertilia con le valigie va guidato passo passo, con indicazioni chiare su dove lasciare l'auto e un check-in semplice. Zona e tipo di ospite vengono prima di qualunque calcolo di redditività."
       ]
     }
   ],
@@ -134,10 +158,24 @@
       "a": "Può rendere molto, ma va valutato caso per caso. È la zona più scenografica e richiesta, ma è una ZTL di vicoli, con parcheggio complicato e spesso scale. Prima di comprare o affittare, valuta accesso, piano e facilità di check-in, non solo la vista sui bastioni."
     }
   ],
-  "related": ["affitti-brevi-cagliari-guida", "property-manager-affitti-brevi", "cin-affitti-brevi-come-ottenerlo"],
+  "related": [
+    "affitti-brevi-cagliari-guida",
+    "property-manager-affitti-brevi",
+    "cin-affitti-brevi-come-ottenerlo"
+  ],
   "sources": [
-    {"label": "Imposta di soggiorno e regole per le locazioni turistiche ad Alghero", "ente": "Comune di Alghero", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Imposta di soggiorno e regole per le locazioni turistiche ad Alghero",
+      "ente": "Comune di Alghero",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

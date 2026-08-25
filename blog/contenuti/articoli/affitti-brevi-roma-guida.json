@@ -18,15 +18,47 @@
         "Ecco una mappa rapida per orientarti, prima di comprare o mettere a reddito un appartamento nella Capitale."
       ],
       "table": {
-        "headers": ["Zona", "Vocazione", "Ospiti tipici"],
+        "headers": [
+          "Zona",
+          "Vocazione",
+          "Ospiti tipici"
+        ],
         "rows": [
-          ["Centro storico (Pantheon, Piazza Navona)", "Cuore monumentale, richiesto tutto l'anno", "Coppie, city break, primo viaggio a Roma"],
-          ["Trastevere", "Atmosfera, ristoranti e vita serale", "Coppie giovani, gruppi di amici, viaggiatori esperienziali"],
-          ["Monti", "Quartiere di charme a due passi da Colosseo e Fori", "Coppie e viaggiatori attenti allo stile"],
-          ["Prati", "Ordine ed eleganza, vicino a Vaticano e Musei Vaticani", "Famiglie, turismo religioso e culturale, soggiorni curati"],
-          ["Testaccio", "Roma autentica e gastronomica", "Food lover e viaggiatori di ritorno"],
-          ["Zona Termini", "Massima comodità per arrivi e trasporti", "Viaggiatori di passaggio e attenti al prezzo (valuta bene via e palazzo)"],
-          ["San Giovanni", "Residenziale e ben collegato, vicino alla basilica", "Famiglie e soggiorni più lunghi, buon rapporto qualità-prezzo"]
+          [
+            "Centro storico (Pantheon, Piazza Navona)",
+            "Cuore monumentale, richiesto tutto l'anno",
+            "Coppie, city break, primo viaggio a Roma"
+          ],
+          [
+            "Trastevere",
+            "Atmosfera, ristoranti e vita serale",
+            "Coppie giovani, gruppi di amici, viaggiatori esperienziali"
+          ],
+          [
+            "Monti",
+            "Quartiere di charme a due passi da Colosseo e Fori",
+            "Coppie e viaggiatori attenti allo stile"
+          ],
+          [
+            "Prati",
+            "Ordine ed eleganza, vicino a Vaticano e Musei Vaticani",
+            "Famiglie, turismo religioso e culturale, soggiorni curati"
+          ],
+          [
+            "Testaccio",
+            "Roma autentica e gastronomica",
+            "Food lover e viaggiatori di ritorno"
+          ],
+          [
+            "Zona Termini",
+            "Massima comodità per arrivi e trasporti",
+            "Viaggiatori di passaggio e attenti al prezzo (valuta bene via e palazzo)"
+          ],
+          [
+            "San Giovanni",
+            "Residenziale e ben collegato, vicino alla basilica",
+            "Famiglie e soggiorni più lunghi, buon rapporto qualità-prezzo"
+          ]
         ]
       }
     },
@@ -90,9 +122,9 @@
     {
       "h2": "L'esperienza B&P: il metodo conta più della città",
       "paragraphs": [
-        "Noi di B&P Lux Property gestiamo affitti brevi come property manager e siamo Superhost. La nostra base operativa è nel centro dell'Emilia-Romagna, ma il metodo che fa rendere una casa è lo stesso ovunque, Roma compresa.",
+        "Come Superhost che gestiscono case altrui, mettiamo in guardia su una cosa. La sede è in Emilia-Romagna, però le regole del gioco cambiano poco da una meta all'altra.",
         "Quello che vediamo ogni giorno vale anche nella Capitale: prezzi dinamici, annunci curati, ospiti seguiti bene e burocrazia in ordine fanno la differenza tra un immobile pieno e uno vuoto metà anno. In un mercato competitivo come Roma questa differenza pesa ancora di più.",
-        "Se stai valutando un immobile a Roma, ragiona come un professionista: prima la posizione e l'ospite, poi i numeri, infine la gestione."
+        "Il punto di partenza è sempre lo stesso: che ospite può venire qui, e cosa cerca."
       ]
     }
   ],
@@ -122,10 +154,24 @@
       "a": "È un tributo comunale a carico dell'ospite. L'host la raccoglie durante il soggiorno e la versa a Roma Capitale secondo le regole del Comune. Verifica sempre importi e modalità aggiornati sulle fonti ufficiali."
     }
   ],
-  "related": ["property-manager-affitti-brevi", "cin-affitti-brevi-come-ottenerlo", "affitti-brevi-milano-guida"],
+  "related": [
+    "property-manager-affitti-brevi",
+    "cin-affitti-brevi-come-ottenerlo",
+    "affitti-brevi-milano-guida"
+  ],
   "sources": [
-    {"label": "Imposta di soggiorno e regole per gli affitti brevi a Roma", "ente": "Roma Capitale", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Imposta di soggiorno e regole per gli affitti brevi a Roma",
+      "ente": "Roma Capitale",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

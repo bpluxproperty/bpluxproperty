@@ -68,22 +68,54 @@
         "Le referenze, infine, valgono più di qualsiasi promessa. Chiedi di parlare con due o tre proprietari già gestiti e controlla le recensioni pubbliche degli immobili in portafoglio. La tabella qui sotto riassume le domande chiave, il motivo per cui contano e cosa dovrebbe risponderti chi lavora bene."
       ],
       "table": {
-        "headers": ["Domanda", "Perché conta", "Cosa deve rispondere un buon gestore"],
+        "headers": [
+          "Domanda",
+          "Perché conta",
+          "Cosa deve rispondere un buon gestore"
+        ],
         "rows": [
-          ["Come mi paghi?", "Definisce rischio e allineamento di interessi", "Modello chiaro, di solito a percentuale, spiegato per iscritto"],
-          ["Cosa comprende e cosa è extra?", "Evita sorprese e costi nascosti", "Elenco dettagliato di servizi inclusi e voci a parte"],
-          ["Come rendiconti gli incassi?", "Misura la trasparenza reale", "Report periodico con prenotazioni reali e netto per te"],
-          ["Chi risponde agli ospiti?", "Incide su recensioni e occupazione", "Disponibilità definita e tempi di risposta rapidi"],
-          ["Quale assicurazione?", "Protegge la casa quando serve", "Coperture chiare per danni, furti e responsabilità civile"],
-          ["Prevede esclusiva e come esco?", "Tutela la tua libertà di scelta", "Durata trasparente e uscita con preavviso ragionevole"],
-          ["Posso avere referenze?", "Verifica i fatti, non le promesse", "Contatti di proprietari e recensioni pubbliche"]
+          [
+            "Come mi paghi?",
+            "Definisce rischio e allineamento di interessi",
+            "Modello chiaro, di solito a percentuale, spiegato per iscritto"
+          ],
+          [
+            "Cosa comprende e cosa è extra?",
+            "Evita sorprese e costi nascosti",
+            "Elenco dettagliato di servizi inclusi e voci a parte"
+          ],
+          [
+            "Come rendiconti gli incassi?",
+            "Misura la trasparenza reale",
+            "Report periodico con prenotazioni reali e netto per te"
+          ],
+          [
+            "Chi risponde agli ospiti?",
+            "Incide su recensioni e occupazione",
+            "Disponibilità definita e tempi di risposta rapidi"
+          ],
+          [
+            "Quale assicurazione?",
+            "Protegge la casa quando serve",
+            "Coperture chiare per danni, furti e responsabilità civile"
+          ],
+          [
+            "Prevede esclusiva e come esco?",
+            "Tutela la tua libertà di scelta",
+            "Durata trasparente e uscita con preavviso ragionevole"
+          ],
+          [
+            "Posso avere referenze?",
+            "Verifica i fatti, non le promesse",
+            "Contatti di proprietari e recensioni pubbliche"
+          ]
         ]
       }
     },
     {
       "h2": "I segnali di un gestore di cui fidarsi",
       "paragraphs": [
-        "Dopo aver fatto le domande giuste, le risposte parlano da sole. Nella nostra esperienza, i gestori più affidabili sono trasparenti prima ancora che tu lo chieda: ti spiegano con chiarezza cosa comprende il servizio e cosa resta a parte, senza costi nascosti e senza promesse gonfiate sugli incassi.",
+        "Dopo aver fatto le domande giuste, le risposte parlano da sole. Di seguito le zone, il tipo di ospite e la burocrazia, spiegati in modo diretto.",
         "Gli altri segnali positivi: rendicontazione chiara e regolare degli incassi, un contratto che mette nero su bianco durata, uscita e coperture, e la disponibilità a darti referenze di proprietari già seguiti. Un buon gestore ti dice anche quando delegare non conviene: se qualcuno punta solo a farti firmare in fretta, senza analizzare prima l'immobile, è il segnale per fermarti."
       ]
     }
@@ -114,10 +146,24 @@
       "a": "Perché le referenze verificano i fatti, non le promesse. Chiedi di parlare con due o tre proprietari già gestiti e controlla le recensioni pubbliche degli immobili in portafoglio. Un buon gestore te le fornisce senza esitare; chi si sottrae, ti sta dicendo qualcosa."
     }
   ],
-  "related": ["quanto-costa-property-manager-affitti-brevi", "gestione-affitti-brevi-fai-da-te-o-agenzia", "property-manager-affitti-brevi"],
+  "related": [
+    "quanto-costa-property-manager-affitti-brevi",
+    "gestione-affitti-brevi-fai-da-te-o-agenzia",
+    "property-manager-affitti-brevi"
+  ],
   "sources": [
-    { "label": "Buone pratiche e standard per la gestione professionale degli affitti brevi", "ente": "AIGAB - Associazione Italiana Gestori Affitti Brevi", "data": "", "url": "" },
-    { "label": "Adempimenti per le locazioni brevi e Codice Identificativo Nazionale", "ente": "Ministero del Turismo", "data": "", "url": "" }
+    {
+      "label": "Buone pratiche e standard per la gestione professionale degli affitti brevi",
+      "ente": "AIGAB - Associazione Italiana Gestori Affitti Brevi",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Adempimenti per le locazioni brevi e Codice Identificativo Nazionale",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

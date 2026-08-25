@@ -77,10 +77,10 @@ def auto_bold_raw(t):
             _BOLD["n"]+=1; _BOLD["done"].add(term)
     for i,orig in enumerate(masks): t=t.replace(f"\x00{i}\x00",orig)
     return t
-LINK_MAP=[("property manager","property-manager-affitti-brevi"),("cedolare secca","cedolare-secca-affitti-brevi"),("imposta di soggiorno","imposta-di-soggiorno-affitti-brevi"),("Alloggiati Web","alloggiati-web-comunicazione-ospiti"),("prezzi dinamici","prezzi-dinamici-affitti-brevi"),("self check-in","self-check-in-affitti-brevi"),("channel manager","channel-manager-affitti-brevi"),("home staging","home-staging-affitti-brevi"),("foto professionali","foto-professionali-affitti-brevi"),("Superhost","come-diventare-superhost"),("CIN","cin-affitti-brevi-come-ottenerlo")]
+LINK_MAP=[("property manager","property-manager-affitti-brevi"),("CIN","cin-affitti-brevi-come-ottenerlo"),("cedolare secca","cedolare-secca-affitti-brevi"),("imposta di soggiorno","imposta-di-soggiorno-affitti-brevi"),("Alloggiati Web","alloggiati-web-comunicazione-ospiti"),("prezzi dinamici","prezzi-dinamici-affitti-brevi"),("self check-in","self-check-in-affitti-brevi"),("channel manager","channel-manager-affitti-brevi"),("home staging","home-staging-affitti-brevi"),("foto professionali","foto-professionali-affitti-brevi"),("Superhost","come-diventare-superhost")]
 _LINK={"n":0,"done":set()}
 _SELF={"slug":""}
-MAXLINK=3
+MAXLINK=4
 def auto_link_raw(t):
     if not t or _LINK["n"]>=MAXLINK: return t
     masks=[]
@@ -98,8 +98,15 @@ def auto_link_raw(t):
 def pullquote_for(a):
     pat=re.compile(r"[^.!?]*\b(nostra esperienza|Nella nostra|da property manager|Superhost|lo vediamo di continuo|nel nostro lavoro|abbiamo (?:visto|imparato))\b[^.!?]*[.!?]",re.I)
     for sec in a.get("sections",[]):
-        for p in sec.get("paragraphs",[]):
-            m=pat.search(p)
+        for i,p in enumerate(sec.get("paragraphs",[])):
+            hay=p
+            if i==0:
+                # salta la prima frase della sezione: se la citassimo, il lettore
+                # la ritroverebbe identica subito sotto il blockquote
+                m0=re.search(r"[.!?]\s+",p)
+                if not m0: continue
+                hay=p[m0.end():]
+            m=pat.search(hay)
             if m:
                 s=m.group(0).strip()
                 if 45<=len(s)<=210: return f'<blockquote class="pull"><p>{inline(s)}</p></blockquote>'

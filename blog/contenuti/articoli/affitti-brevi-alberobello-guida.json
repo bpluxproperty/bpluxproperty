@@ -32,12 +32,32 @@
         "Ecco una mappa rapida delle zone, con la loro vocazione e gli ospiti che attirano, da tenere a mente prima di comprare o mettere a reddito un trullo. Ad Alberobello, più del nome del quartiere, contano il tipo di immobile e ciò che racconta all'ospite."
       ],
       "table": {
-        "headers": ["Zona", "Vocazione", "Ospiti tipici"],
+        "headers": [
+          "Zona",
+          "Vocazione",
+          "Ospiti tipici"
+        ],
         "rows": [
-          ["Rione Monti", "Il cuore turistico e scenografico, tra trulli-negozio e alloggi", "Coppie, turisti internazionali, primo viaggio ad Alberobello"],
-          ["Aia Piccola", "Più residenziale e autentico, atmosfera raccolta", "Viaggiatori esperienziali, chi cerca quiete e autenticità"],
-          ["Fuori dal centro storico", "Trulli e ville con spazi esterni, a volte piscina e parcheggio", "Famiglie, gruppi, soggiorni lunghi in auto"],
-          ["Alberobello come base", "Punto d'appoggio per la Valle d'Itria e il Salento", "Chi esplora la zona e allunga il soggiorno"]
+          [
+            "Rione Monti",
+            "Il cuore turistico e scenografico, tra trulli-negozio e alloggi",
+            "Coppie, turisti internazionali, primo viaggio ad Alberobello"
+          ],
+          [
+            "Aia Piccola",
+            "Più residenziale e autentico, atmosfera raccolta",
+            "Viaggiatori esperienziali, chi cerca quiete e autenticità"
+          ],
+          [
+            "Fuori dal centro storico",
+            "Trulli e ville con spazi esterni, a volte piscina e parcheggio",
+            "Famiglie, gruppi, soggiorni lunghi in auto"
+          ],
+          [
+            "Alberobello come base",
+            "Punto d'appoggio per la Valle d'Itria e il Salento",
+            "Chi esplora la zona e allunga il soggiorno"
+          ]
         ]
       }
     },
@@ -100,7 +120,7 @@
     {
       "h2": "L'esperienza B&P: ad Alberobello si affitta un trullo, non una stanza",
       "paragraphs": [
-        "Noi di B&P Lux Property gestiamo affitti brevi come property manager e siamo Superhost. La nostra base operativa è in Emilia-Romagna, ma il metodo che fa rendere una casa è lo stesso ovunque, Alberobello compresa.",
+        "Come Superhost che gestiscono case altrui, mettiamo in guardia su una cosa. La nostra base è in Emilia-Romagna e quello che funziona qui funziona anche altrove, con i dovuti aggiustamenti.",
         "Su una destinazione così esperienziale abbiamo imparato una cosa che vale più che altrove: l'ospite prenota un sogno e va accompagnato nella realtà. Chi sceglie un trullo immagina la foto del cono in pietra e l'atmosfera del borgo; poi arriva con le valigie e trova vicoli, magari qualche gradino e spazi disegnati dalla forma del cono. Se l'annuncio non lo ha preparato, anche un trullo bellissimo rischia una recensione tiepida.",
         "Per questo, in mete come Alberobello, la gestione conta doppio: foto oneste che valorizzano pietra e coni, una descrizione chiara di spazi e accessi, e istruzioni d'arrivo precise prima del check-in. Prima l'esperienza e l'ospite, poi i numeri. È ciò che trasforma un trullo pieno di fascino in un trullo pieno di prenotazioni e recensioni alte."
       ]
@@ -132,10 +152,24 @@
       "a": "Soprattutto coppie e turisti internazionali che scelgono il trullo come parte del viaggio. Si aggiungono famiglie e piccoli gruppi, spesso meglio serviti dai trulli fuori dal centro con spazi esterni, e i viaggiatori on the road che usano la città come base per la Valle d'Itria. È una domanda di viaggio, non business."
     }
   ],
-  "related": ["affitti-brevi-bari-guida", "affitti-brevi-lecce-guida", "property-manager-affitti-brevi"],
+  "related": [
+    "affitti-brevi-bari-guida",
+    "affitti-brevi-lecce-guida",
+    "property-manager-affitti-brevi"
+  ],
   "sources": [
-    {"label": "Imposta di soggiorno e regole per gli affitti brevi ad Alberobello", "ente": "Comune di Alberobello", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Imposta di soggiorno e regole per gli affitti brevi ad Alberobello",
+      "ente": "Comune di Alberobello",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""
