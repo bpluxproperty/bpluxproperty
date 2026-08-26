@@ -51,17 +51,57 @@
         "Questa tabella mette in fila le regole che contano, il motivo per cui esistono e un modo gentile per comunicarle."
       ],
       "table": {
-        "headers": ["Regola", "Perché serve", "Come dirla bene"],
+        "headers": [
+          "Regola",
+          "Perché serve",
+          "Come dirla bene"
+        ],
         "rows": [
-          ["Numero massimo di ospiti", "Rispetta la capienza dichiarata e protegge l'immobile", "«La casa è pensata per X persone: ci aiuta a tenerla in ordine per tutti»"],
-          ["Niente feste o party", "Tutela vicini, arredo e rapporto con il condominio", "«Puoi sentirti a casa, ma niente feste: i vicini ti ringrazieranno»"],
-          ["Orari di check-in e check-out", "Danno il tempo per pulizie e turnover tra un ospite e l'altro", "«Check-in dal pomeriggio, check-out in tarda mattinata, così troviamo la casa perfetta per te»"],
-          ["Silenzio e rispetto dei vicini", "Evita lamentele e attriti con il condominio", "«Dopo una certa ora teniamo un tono basso: è un palazzo abitato da famiglie»"],
-          ["Non fumare in casa", "L'odore è difficile da eliminare e rovina il soggiorno successivo", "«Per il comfort di chi arriva dopo, si fuma solo all'aperto»"],
-          ["Animali: sì o no e condizioni", "Previene allergie del prossimo ospite e possibili danni", "«Gli amici a quattro zampe sono benvenuti, con qualche piccola accortezza»"],
-          ["Ospiti extra non registrati", "Chi pernotta va sempre identificato: tutela sicurezza e assicurazione", "«Facci sapere se cambia il numero di ospiti: dobbiamo registrarli tutti»"],
-          ["Rifiuti e differenziata", "Il comune la richiede ed evita multe e lamentele", "«Ti lasciamo una guida semplice per la differenziata, grazie dell'aiuto»"],
-          ["Cosa fare in uscita", "Rende il turnover fluido e la casa pronta per il prossimo", "«Poche cose all'uscita: chiavi qui, finestre chiuse, luci spente»"]
+          [
+            "Numero massimo di ospiti",
+            "Rispetta la capienza dichiarata e protegge l'immobile",
+            "«La casa è pensata per X persone: ci aiuta a tenerla in ordine per tutti»"
+          ],
+          [
+            "Niente feste o party",
+            "Tutela vicini, arredo e rapporto con il condominio",
+            "«Puoi sentirti a casa, ma niente feste: i vicini ti ringrazieranno»"
+          ],
+          [
+            "Orari di check-in e check-out",
+            "Danno il tempo per pulizie e turnover tra un ospite e l'altro",
+            "«Check-in dal pomeriggio, check-out in tarda mattinata, così troviamo la casa perfetta per te»"
+          ],
+          [
+            "Silenzio e rispetto dei vicini",
+            "Evita lamentele e attriti con il condominio",
+            "«Dopo una certa ora teniamo un tono basso: è un palazzo abitato da famiglie»"
+          ],
+          [
+            "Non fumare in casa",
+            "L'odore è difficile da eliminare e rovina il soggiorno successivo",
+            "«Per il comfort di chi arriva dopo, si fuma solo all'aperto»"
+          ],
+          [
+            "Animali: sì o no e condizioni",
+            "Previene allergie del prossimo ospite e possibili danni",
+            "«Gli amici a quattro zampe sono benvenuti, con qualche piccola accortezza»"
+          ],
+          [
+            "Ospiti extra non registrati",
+            "Chi pernotta va sempre identificato: tutela sicurezza e assicurazione",
+            "«Facci sapere se cambia il numero di ospiti: dobbiamo registrarli tutti»"
+          ],
+          [
+            "Rifiuti e differenziata",
+            "Il comune la richiede ed evita multe e lamentele",
+            "«Ti lasciamo una guida semplice per la differenziata, grazie dell'aiuto»"
+          ],
+          [
+            "Cosa fare in uscita",
+            "Rende il turnover fluido e la casa pronta per il prossimo",
+            "«Poche cose all'uscita: chiavi qui, finestre chiuse, luci spente»"
+          ]
         ]
       }
     },
@@ -103,7 +143,7 @@
       ]
     },
     {
-      "h2": "L'esperienza B&P: le regole chiare filtrano gli ospiti sbagliati",
+      "h2": "Un'osservazione dal campo: le regole chiare filtrano gli ospiti sbagliati",
       "paragraphs": [
         "Nella nostra gestione come Superhost abbiamo imparato una cosa che all'inizio sembra controintuitiva: regole chiare non allontanano gli ospiti, allontanano quelli sbagliati. Chi ha buone intenzioni le legge e prenota tranquillo; chi cercava un posto dove fare festa, davanti a regole nette, cambia casa. Ed è esattamente quello che vogliamo.",
         "L'altra lezione è che quasi tutti i problemi si prevengono a monte, con la comunicazione, non si rincorrono a valle. Una regola spiegata bene, con il suo perché, evita il malinteso prima che accada. Quando invece un problema arriva, quasi sempre è perché qualcosa non era stato detto con chiarezza.",
@@ -137,7 +177,11 @@
       "a": "Sì, se la casa è in condominio le regole della casa dovrebbero riflettere il regolamento del palazzo, non contraddirlo. Verifica cosa prevede su rumori, orari, spazi comuni ed eventualmente animali, e traduci i punti che riguardano l'ospite in indicazioni chiare. Così eviti attriti con i vicini."
     }
   ],
-  "related": ["check-in-check-out-affitti-brevi", "come-gestire-recensioni-negative-affitti-brevi", "property-manager-affitti-brevi"],
+  "related": [
+    "check-in-check-out-affitti-brevi",
+    "come-gestire-recensioni-negative-affitti-brevi",
+    "property-manager-affitti-brevi"
+  ],
   "sources": [],
   "disclaimer": false,
   "note": ""

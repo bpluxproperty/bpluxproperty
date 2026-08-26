@@ -32,14 +32,42 @@
         "Nessuno dei due è migliore in assoluto: dipende dall'immobile e da come lavori. Il self check-in dà libertà sugli orari ed è l'unico modo realistico per gestire più case o a distanza. L'accoglienza di persona diventa un valore quando la casa è di fascia alta o quando ci sono impianti e dettagli da spiegare. Spesso la soluzione migliore è mista: di persona quando aggiunge esperienza, self check-in quando aggiunge comodità."
       ],
       "table": {
-        "headers": ["Aspetto", "Self check-in", "Accoglienza di persona"],
+        "headers": [
+          "Aspetto",
+          "Self check-in",
+          "Accoglienza di persona"
+        ],
         "rows": [
-          ["Flessibilità orari", "Massima, l'ospite arriva quando vuole", "Legata alla disponibilità di chi accoglie"],
-          ["Prima impressione", "Ordinata, se le istruzioni sono chiare", "Calorosa e personale"],
-          ["Impegno per l'host", "Minimo, tutto a distanza", "Presenza fisica a ogni arrivo"],
-          ["Casa di fascia alta", "Rischia di sembrare impersonale", "Valorizza il servizio"],
-          ["Più immobili o gestione a distanza", "Ideale", "Difficile da scalare"],
-          ["Quando conviene", "Arrivi flessibili, città diverse, tanti immobili", "Immobili premium, impianti da spiegare, tocco umano"]
+          [
+            "Flessibilità orari",
+            "Massima, l'ospite arriva quando vuole",
+            "Legata alla disponibilità di chi accoglie"
+          ],
+          [
+            "Prima impressione",
+            "Ordinata, se le istruzioni sono chiare",
+            "Calorosa e personale"
+          ],
+          [
+            "Impegno per l'host",
+            "Minimo, tutto a distanza",
+            "Presenza fisica a ogni arrivo"
+          ],
+          [
+            "Casa di fascia alta",
+            "Rischia di sembrare impersonale",
+            "Valorizza il servizio"
+          ],
+          [
+            "Più immobili o gestione a distanza",
+            "Ideale",
+            "Difficile da scalare"
+          ],
+          [
+            "Quando conviene",
+            "Arrivi flessibili, città diverse, tanti immobili",
+            "Immobili premium, impianti da spiegare, tocco umano"
+          ]
         ]
       }
     },
@@ -98,7 +126,7 @@
       ]
     },
     {
-      "h2": "L'esperienza B&P: un arrivo senza intoppi vale più di mille scuse",
+      "h2": "Un'osservazione dal campo: un arrivo senza intoppi vale più di mille scuse",
       "paragraphs": [
         "Nella nostra gestione come Superhost, il check-in è costantemente tra i punteggi più alti che riceviamo. Non è un caso: un ospite accolto bene, che entra senza intoppi e trova tutto chiaro, parte con un giudizio positivo che poi si riflette su tutta la recensione.",
         "La lezione più utile che abbiamo imparato è semplice: un arrivo che fila liscio vale più di mille scuse date dopo. Prevenire un problema al check-in costa molto meno che rimediare a un ospite già contrariato. Per questo curiamo il messaggio pre-arrivo nei dettagli e proviamo il percorso di accesso come se fossimo noi l'ospite.",
@@ -132,7 +160,11 @@
       "a": "Poche cose ragionevoli che aiutano il turnover: lasciare le chiavi nel punto concordato, gettare i rifiuti se richiesto, radunare gli asciugamani usati, spegnere luci ed elettrodomestici e rispettare l'orario di uscita. Non serve caricarlo di compiti da pulizie: bastano semplici accortezze."
     }
   ],
-  "related": ["self-check-in-affitti-brevi", "pulizie-e-biancheria-affitti-brevi", "property-manager-affitti-brevi"],
+  "related": [
+    "self-check-in-affitti-brevi",
+    "pulizie-e-biancheria-affitti-brevi",
+    "property-manager-affitti-brevi"
+  ],
   "sources": [],
   "disclaimer": false,
   "note": ""

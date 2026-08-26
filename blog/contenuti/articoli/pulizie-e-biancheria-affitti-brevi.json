@@ -56,14 +56,42 @@
         "La seconda è appoggiarsi a una lavanderia industriale o a un servizio di noleggio. Qui la biancheria arriva pulita, stirata e con uno standard costante, e il capo usurato viene sostituito senza pensieri. Si paga un costo a cambio, ma si comprano prevedibilità e qualità uniforme, che sugli affitti brevi valgono molto."
       ],
       "table": {
-        "headers": ["Aspetto", "Acquisto e lavaggio in proprio", "Noleggio / lavanderia industriale"],
+        "headers": [
+          "Aspetto",
+          "Acquisto e lavaggio in proprio",
+          "Noleggio / lavanderia industriale"
+        ],
         "rows": [
-          ["Costo", "Più basso sul singolo ciclo", "Costo ricorrente a ogni cambio"],
-          ["Standard qualità", "Dipende da chi lava e stira", "Costante e professionale"],
-          ["Logistica", "Pesante: scorte, lavaggio, stiratura", "Leggera: ritiro e consegna"],
-          ["Gestione macchie e usura", "A tuo carico", "Inclusa, capi sostituiti"],
-          ["Scorte necessarie", "Più set di ricambio per immobile", "Ridotte, il ricambio arriva pronto"],
-          ["Ideale per", "Un immobile vicino, con tempo dedicato", "Più immobili o gestione a distanza"]
+          [
+            "Costo",
+            "Più basso sul singolo ciclo",
+            "Costo ricorrente a ogni cambio"
+          ],
+          [
+            "Standard qualità",
+            "Dipende da chi lava e stira",
+            "Costante e professionale"
+          ],
+          [
+            "Logistica",
+            "Pesante: scorte, lavaggio, stiratura",
+            "Leggera: ritiro e consegna"
+          ],
+          [
+            "Gestione macchie e usura",
+            "A tuo carico",
+            "Inclusa, capi sostituiti"
+          ],
+          [
+            "Scorte necessarie",
+            "Più set di ricambio per immobile",
+            "Ridotte, il ricambio arriva pronto"
+          ],
+          [
+            "Ideale per",
+            "Un immobile vicino, con tempo dedicato",
+            "Più immobili o gestione a distanza"
+          ]
         ]
       }
     },
@@ -93,7 +121,7 @@
       ]
     },
     {
-      "h2": "L'esperienza B&P: la costanza vale più del singolo eroismo",
+      "h2": "Quello che vediamo: la costanza vale più del singolo eroismo",
       "paragraphs": [
         "Nella nostra gestione come Superhost, pulizia e check-in sono i due punteggi che teniamo più alti in assoluto. Non è un caso: sono le due leve su cui l'ospite si forma un giudizio nei primi minuti, e quel giudizio poi pesa su tutta la recensione.",
         "La lezione che abbiamo imparato è che conta la costanza, non l'eroismo del singolo turno. Non serve un intervento perfetto ogni tanto: serve che ogni cambio, senza eccezioni, arrivi allo stesso livello. È la ripetibilità a costruire la reputazione, non la giornata fortunata.",

@@ -20,18 +20,38 @@
       ]
     },
     {
-      "h2": "Le zone di Vicenza e la loro vocazione",
+      "h2": "Zone di Vicenza: cosa cambia da una all'altra",
       "paragraphs": [
         "Non tutte le zone rendono allo stesso modo, e soprattutto non parlano allo stesso ospite. Prima di acquistare o mettere a reddito un immobile conviene capire quale domanda serve la zona in cui si trova, perché questo determina prezzo medio, stagionalità e tipo di arredo.",
         "La tabella seguente riassume le vocazioni prevalenti. Sono indicazioni di lettura del mercato, non regole fisse: molte case servono più di un pubblico a seconda del periodo."
       ],
       "table": {
-        "headers": ["Zona", "Vocazione prevalente", "Ospite tipico"],
+        "headers": [
+          "Zona",
+          "Vocazione prevalente",
+          "Ospite tipico"
+        ],
         "rows": [
-          ["Centro storico e area palladiana", "Turismo culturale, weekend", "Coppie e appassionati di arte e architettura"],
-          ["Zona fiera e quartiere fieristico", "Business e periodi di fiera", "Espositori, buyer, professionisti"],
-          ["Vicino alla stazione ferroviaria", "Mobilità e soggiorni brevi", "Chi usa Vicenza come base per il Veneto"],
-          ["Dintorni e ville venete", "Turismo lento ed esperienziale", "Famiglie e viaggiatori in auto"]
+          [
+            "Centro storico e area palladiana",
+            "Turismo culturale, weekend",
+            "Coppie e appassionati di arte e architettura"
+          ],
+          [
+            "Zona fiera e quartiere fieristico",
+            "Business e periodi di fiera",
+            "Espositori, buyer, professionisti"
+          ],
+          [
+            "Vicino alla stazione ferroviaria",
+            "Mobilità e soggiorni brevi",
+            "Chi usa Vicenza come base per il Veneto"
+          ],
+          [
+            "Dintorni e ville venete",
+            "Turismo lento ed esperienziale",
+            "Famiglie e viaggiatori in auto"
+          ]
         ]
       }
     },

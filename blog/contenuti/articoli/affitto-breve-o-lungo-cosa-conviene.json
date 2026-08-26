@@ -18,15 +18,47 @@
         "Il breve punta sulla resa e sulla flessibilità. Il lungo punta sulla stabilità e sulla semplicità. Da qui nasce ogni differenza: rendimento, tempo, rischi e fisco. La tabella qui sotto le riassume a colpo d'occhio."
       ],
       "table": {
-        "headers": ["Criterio", "Affitto breve", "Affitto lungo"],
+        "headers": [
+          "Criterio",
+          "Affitto breve",
+          "Affitto lungo"
+        ],
         "rows": [
-          ["Rendimento potenziale", "Più alto, soprattutto in zone turistiche", "Più basso ma prevedibile"],
-          ["Stabilità dell'entrata", "Variabile, con stagionalità e vuoti", "Canone fisso ogni mese"],
-          ["Gestione richiesta", "Alta e continua: ospiti, pulizie, turnover", "Minima dopo la firma"],
-          ["Flessibilità d'uso", "Puoi riprenderti l'immobile tra una prenotazione e l'altra", "Immobile bloccato per anni"],
-          ["Rischio principale", "Vuoti e stagionalità", "Morosità e sfratto lento"],
-          ["Burocrazia", "CIN, comunicazione ospiti, imposta di soggiorno", "Contratto registrato, poi poco altro"],
-          ["Fisco (cedolare secca)", "21% o 26%", "Cedolare disponibile, aliquota dedicata"]
+          [
+            "Rendimento potenziale",
+            "Più alto, soprattutto in zone turistiche",
+            "Più basso ma prevedibile"
+          ],
+          [
+            "Stabilità dell'entrata",
+            "Variabile, con stagionalità e vuoti",
+            "Canone fisso ogni mese"
+          ],
+          [
+            "Gestione richiesta",
+            "Alta e continua: ospiti, pulizie, turnover",
+            "Minima dopo la firma"
+          ],
+          [
+            "Flessibilità d'uso",
+            "Puoi riprenderti l'immobile tra una prenotazione e l'altra",
+            "Immobile bloccato per anni"
+          ],
+          [
+            "Rischio principale",
+            "Vuoti e stagionalità",
+            "Morosità e sfratto lento"
+          ],
+          [
+            "Burocrazia",
+            "CIN, comunicazione ospiti, imposta di soggiorno",
+            "Contratto registrato, poi poco altro"
+          ],
+          [
+            "Fisco (cedolare secca)",
+            "21% o 26%",
+            "Cedolare disponibile, aliquota dedicata"
+          ]
         ]
       }
     },
@@ -81,7 +113,7 @@
       ]
     },
     {
-      "h2": "L'esperienza B&P: cosa vediamo sul campo",
+      "h2": "Quello che vediamo: cosa vediamo sul campo",
       "paragraphs": [
         "Nella nostra esperienza come property manager Superhost nella zona di Bologna, la scelta si gioca quasi sempre su due fattori: la domanda della zona e il tempo del proprietario. Dove c'è richiesta, il breve gestito bene supera il canone lungo anche al netto, tolte pulizie e commissioni.",
         "Ma abbiamo visto anche il contrario: immobili in zone poco turistiche dove il lungo, tranquillo e prevedibile, era la scelta giusta. Non esiste una formula migliore in assoluto. Esiste quella giusta per quell'immobile, quella zona e quel proprietario."
@@ -110,7 +142,11 @@
       "a": "Quando l'immobile è in una zona senza domanda turistica, quando non hai tempo né un gestore, o quando preferisci un'entrata stabile con poca gestione. In questi casi la rendita fissa del lungo batte il maggior potenziale, ma incerto, del breve."
     }
   ],
-  "related": ["property-manager-affitti-brevi", "quanto-rende-affitto-breve-bologna", "cedolare-secca-affitti-brevi"],
+  "related": [
+    "property-manager-affitti-brevi",
+    "quanto-rende-affitto-breve-bologna",
+    "cedolare-secca-affitti-brevi"
+  ],
   "sources": [],
   "disclaimer": false,
   "note": ""

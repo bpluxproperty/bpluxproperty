@@ -162,6 +162,18 @@ h1,h2,h3{font-family:var(--serif);font-weight:600;line-height:1.12;color:var(--c
 .share{display:flex;gap:14px;align-items:center;flex-wrap:wrap;margin:30px 0 6px;font-size:13px;color:var(--muted)}
 .share a{color:var(--gold);font-weight:500;border-bottom:1px solid rgba(176,137,78,.4)}
 .share a:hover{color:var(--charcoal)}
+.au-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,320px),1fr));gap:22px;margin:8px 0 18px}
+.au-card{display:flex;gap:18px;background:var(--paper);border:1px solid var(--line);border-top:3px solid var(--gold);border-radius:6px;padding:22px}
+.au-card img{width:120px;height:120px;border-radius:50%;object-fit:cover;flex:0 0 120px}
+.au-card h2{margin:0;font-size:22px}
+.au-role{display:block;font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--gold);margin:2px 0 8px}
+.au-k{display:block;font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin-top:10px}
+.au-comp{margin:4px 0 0;padding-left:18px;font-size:14px;color:var(--muted)}
+@media(max-width:520px){.au-card{flex-direction:column}.au-card img{width:96px;height:96px;flex:0 0 96px}}
+.ab-img{width:72px;height:72px;border-radius:50%;object-fit:cover;flex:0 0 72px;border:2px solid var(--gold)}
+.ab-comp{font-size:13px;color:var(--muted);margin-top:8px}
+.ab-comp a{color:var(--gold);text-decoration:underline}
+.meta a.by{color:inherit;text-decoration:underline;text-decoration-color:var(--gold)}
 .authorbox{display:flex;gap:16px;align-items:flex-start;background:var(--paper);border:1px solid var(--line);border-radius:6px;padding:20px;margin:22px 0}
 .ab-badge{flex:none;width:52px;height:52px;border-radius:50%;background:var(--charcoal);color:var(--gold);display:flex;align-items:center;justify-content:center;font-family:var(--serif);font-weight:700;font-size:18px;border:2px solid var(--gold)}
 .ab-txt strong{font-family:var(--serif);font-size:19px;color:var(--charcoal)}

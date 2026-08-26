@@ -3,7 +3,7 @@
 Legge blog/contenuti/*.json e scrive HTML completo in public/blog/.
 Contenuto nell'HTML (niente JS per il testo) come da manuale SEO.
 """
-import os, json, re, html, datetime, sys
+import os, json, re, html, datetime, sys, zlib
 
 ROOT=os.path.abspath(os.path.join(os.path.dirname(__file__),".."))          # .../blog
 SITE=os.path.abspath(os.path.join(ROOT,".."))                               # .../SITO_REACT
@@ -77,7 +77,7 @@ def auto_bold_raw(t):
             _BOLD["n"]+=1; _BOLD["done"].add(term)
     for i,orig in enumerate(masks): t=t.replace(f"\x00{i}\x00",orig)
     return t
-LINK_MAP=[("property manager","property-manager-affitti-brevi"),("CIN","cin-affitti-brevi-come-ottenerlo"),("cedolare secca","cedolare-secca-affitti-brevi"),("imposta di soggiorno","imposta-di-soggiorno-affitti-brevi"),("Alloggiati Web","alloggiati-web-comunicazione-ospiti"),("prezzi dinamici","prezzi-dinamici-affitti-brevi"),("self check-in","self-check-in-affitti-brevi"),("channel manager","channel-manager-affitti-brevi"),("home staging","home-staging-affitti-brevi"),("foto professionali","foto-professionali-affitti-brevi"),("Superhost","come-diventare-superhost")]
+LINK_MAP=[("property manager","property-manager-affitti-brevi"),("CIN","cin-affitti-brevi-come-ottenerlo"),("cedolare secca","cedolare-secca-affitti-brevi"),("pulizie e biancheria","pulizie-e-biancheria-affitti-brevi"),("imposta di soggiorno","imposta-di-soggiorno-affitti-brevi"),("Alloggiati Web","alloggiati-web-comunicazione-ospiti"),("prezzi dinamici","prezzi-dinamici-affitti-brevi"),("self check-in","self-check-in-affitti-brevi"),("channel manager","channel-manager-affitti-brevi"),("home staging","home-staging-affitti-brevi"),("foto professionali","foto-professionali-affitti-brevi"),("Superhost","come-diventare-superhost")]
 _LINK={"n":0,"done":set()}
 _SELF={"slug":""}
 MAXLINK=4
@@ -98,7 +98,7 @@ def auto_link_raw(t):
 def pullquote_for(a):
     # Cita solo osservazioni di esperienza, mai la presentazione aziendale, e rimuove la frase
     # dal paragrafo di origine: altrimenti il lettore la ritrova identica poco piu sotto.
-    pat=re.compile(r"[^.!?]*\b(nostra esperienza|Nella nostra|da property manager|Superhost|lo vediamo di continuo|nel nostro lavoro|l'errore (?:piu|che)|abbiamo (?:visto|imparato))\b[^.!?]*[.!?]",re.I)
+    pat=re.compile(r"[^.!?]*\b(nostra esperienza|Nella nostra|da property manager|Superhost|lo vediamo di continuo|nel nostro lavoro|l'errore (?:più|piu|che)|abbiamo (?:visto|imparato))\b[^.!?]*[.!?]",re.I)
     selfpres=re.compile(r"(B&P Lux Property|gestiamo (?:affitti|appartamenti|case|immobili)|lavoriamo ogni giorno|con base in Emilia-Romagna|siamo Superhost|come Superhost e)",re.I)
     for sec in a.get("sections",[]):
         for i,p in enumerate(sec.get("paragraphs",[])):
@@ -203,12 +203,33 @@ def share_box(a):
   <a href="https://www.linkedin.com/sharing/share-offsite/?url={u}" target="_blank" rel="noopener">LinkedIn</a>
   <a href="https://twitter.com/intent/tweet?url={u}&text={t}" target="_blank" rel="noopener">X</a>
 </div>'''
-def author_box():
-    au=ent["author"]
-    return f'''<div class="authorbox">
+AUTORI = ent.get("autori", [])
+def autore_per(a):
+    """Firma l'articolo con il co-founder competente per la categoria (deterministico)."""
+    if not AUTORI: return None
+    cat = a.get("category", "")
+    # le guide citta sono la categoria piu numerosa: si dividono fra i due founder,
+    # altrimenti una firma da sola coprirebbe metà del blog
+    if cat == "citta" and len(AUTORI) > 1:
+        return AUTORI[zlib.crc32(a.get("slug", "").encode()) % 2]
+    for au in AUTORI:
+        if cat in au.get("categorie", []): return au
+    return AUTORI[zlib.crc32(a.get("slug", "").encode()) % len(AUTORI)]
+
+def author_box(au=None):
+    if not au:
+        o = ent["author"]
+        return f'''<div class="authorbox">
   <div class="ab-badge">B&amp;P</div>
-  <div class="ab-txt"><strong>{esc(au["name"])}</strong><span>{esc(au["role"])}</span><p>{esc(au["bio"])}</p></div>
+  <div class="ab-txt"><strong>{esc(o["name"])}</strong><span>{esc(o["role"])}</span><p>{esc(o["bio"])}</p></div>
 </div>'''
+    comp = " &middot; ".join(esc(c) for c in au.get("competenze", [])[:3])
+    return f'''<div class="authorbox">
+  <img class="ab-img" src="{au["foto"]}" alt="{esc(au["nome"])}" width="72" height="72" loading="lazy">
+  <div class="ab-txt"><strong>{esc(au["nome"])}</strong><span>{esc(au["ruolo"])}</span><p>{esc(au["bio"])}</p>
+  <p class="ab-comp">Si occupa di: {comp}. <a href="/blog/autori/">Chi scrive su questo blog &rarr;</a></p></div>
+</div>'''
+
 def calc_card():
     return '''<a class="side-card side-calc" href="/blog/calcolatore-rendita/">
   <span class="sd-k">Strumento gratuito</span>
@@ -306,6 +327,7 @@ def render_article(a):
     c=CATS.get(a["category"],{})
     _BOLD["n"]=0; _BOLD["done"]=set()
     _LINK["n"]=0; _LINK["done"]=set(); _SELF["slug"]=a["slug"]
+    au=autore_per(a)
     pq=pullquote_for(a); nsec=len(a.get("sections",[]))
     pq_at=(nsec-2) if nsec>=4 else -1
     if pq_at==2: pq_at=3
@@ -335,7 +357,7 @@ def render_article(a):
   <div class="ahi-in wrap">
     <span class="kick">{esc(a.get("heroKicker") or c.get("name",""))}</span>
     <h1>{esc(a.get("h1") or a.get("title"))}</h1>
-    <div class="meta">A cura di {esc(ent["author"]["name"])} &middot; {rt} min di lettura &middot; agg. {esc(a.get("updatedAt",""))}</div>
+    <div class="meta">A cura di <a class="by" href="/blog/autori/">{esc(au["nome"]) if au else esc(ent["author"]["name"])}</a>{" &middot; "+esc(au["ruolo"]) if au else ""} &middot; {rt} min di lettura &middot; agg. {esc(a.get("updatedAt",""))}</div>
   </div>
 </div>
 <div class="art-grid wrap">
@@ -346,7 +368,7 @@ def render_article(a):
     {tldr}
     {disc}
     {share_box(a)}
-    {author_box()}
+    {author_box(au)}
     {src_html}
     <section class="faqs"><h2>Domande frequenti</h2>{faq_html}</section>
   </article>
@@ -359,7 +381,7 @@ def render_article(a):
     ld=[
       {"@context":"https://schema.org","@type":"BlogPosting","headline":a.get("h1") or a.get("title"),
        "description":a.get("metaDescription",""),"datePublished":a.get("publishedAt"),"dateModified":a.get("updatedAt"),
-       "author":{"@type":"Organization","name":ent["author"]["name"]},
+       "author":({"@type":"Person","name":au["nome"],"jobTitle":au["ruolo"],"url":S["url"]+"/blog/autori/","worksFor":{"@type":"Organization","name":S["name"],"url":S["url"]}} if au else {"@type":"Organization","name":S["name"]}),
        "publisher":{"@type":"Organization","name":"B&P Lux Property","url":S["url"]},
        "mainEntityOfPage":art_url(a["slug"])},
       {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":q["q"],"acceptedAnswer":{"@type":"Answer","text":q["a"]}} for q in a.get("faq",[])]},
@@ -564,6 +586,41 @@ def render_reputazione():
     out=os.path.join(OUT,"recensioni-b-p-lux-property","index.html"); os.makedirs(os.path.dirname(out),exist_ok=True)
     open(out,"w",encoding="utf-8").write(page("B&P Lux Property: recensioni, opinioni e reputazione","Recensioni e opinioni su B&P Lux Property: chi siamo, cosa facciamo e le prove verificabili del nostro lavoro (Superhost, "+str(ab.get("rating",""))+"/5 su Airbnb, "+str(bk.get("rating",""))+"/10 su Booking).",S["url"]+"/blog/recensioni-b-p-lux-property/",body,ld))
 
+def render_autori():
+    cards = ""
+    for au in AUTORI:
+        comp = "".join(f"<li>{esc(c)}</li>" for c in au.get("competenze", []))
+        cards += f'''<article class="au-card">
+  <img src="{au["foto"]}" alt="{esc(au["nome"])}" width="120" height="120" loading="lazy">
+  <div><h2>{esc(au["nome"])}</h2><span class="au-role">{esc(au["ruolo"])}</span>
+  <p>{esc(au["bio"])}</p><span class="au-k">Si occupa di</span><ul class="au-comp">{comp}</ul></div>
+</article>'''
+    body = f'''<main class="hub guida">
+<nav class="crumb wrap"><a href="/blog/">Blog</a> / <span>Chi scrive</span></nav>
+<div class="guida-hero"><div class="wrap">
+  <span class="kick">Chi scrive su questo blog</span>
+  <h1>Le persone dietro le guide di B&amp;P Lux Property</h1>
+  <p class="lead">Questo blog non e scritto da una redazione anonima: lo firmiamo noi due, che gestiamo affitti brevi ogni giorno. Qui trovi chi siamo, di cosa ci occupiamo e come verificare il nostro lavoro.</p>
+</div></div>
+<section class="guide-phase wrap"><div class="au-grid">{cards}</div>
+<div class="tldr"><p>Ogni articolo porta la firma di chi se ne occupa per competenza: le guide su rendita, fisco e gestione sono curate da Davide, quelle su annunci, prezzi, allestimento e territorio da Stefano. Non pubblichiamo contenuti che non passino da uno di noi due.</p></div>
+<p>La nostra reputazione e verificabile: i punteggi pubblici degli alloggi che gestiamo sono raccolti nella pagina <a href="/blog/recensioni-b-p-lux-property/">recensioni e reputazione</a>, con i link diretti agli annunci su Airbnb e Booking.</p>
+</section>
+{cta_block("contatti-blog")}
+</main>'''
+    ld = [{"@context":"https://schema.org","@type":"AboutPage","name":"Chi scrive sul blog di B&P Lux Property",
+           "mainEntity":[{"@type":"Person","name":au["nome"],"jobTitle":au["ruolo"],
+                          "worksFor":{"@type":"Organization","name":S["name"],"url":S["url"]},
+                          "knowsAbout":au.get("competenze",[])} for au in AUTORI]},
+          {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+            {"@type":"ListItem","position":1,"name":"Blog","item":S["url"]+"/blog/"},
+            {"@type":"ListItem","position":2,"name":"Chi scrive","item":S["url"]+"/blog/autori/"}]}]
+    out = os.path.join(OUT, "autori", "index.html"); os.makedirs(os.path.dirname(out), exist_ok=True)
+    open(out, "w", encoding="utf-8").write(page(
+      "Chi scrive sul blog di B&P Lux Property",
+      "Le persone dietro le guide: Davide Bertocchi e Stefano Puggioni, co-founder di B&P Lux Property, property manager e Superhost su Airbnb.",
+      S["url"]+"/blog/autori/", body, ld))
+
 # ---------------- SITEMAP ----------------
 def sitemap():
     urls=[f'{S["url"]}/blog/']+[f'{S["url"]}/blog/categoria/{c}/' for c in CAT_ORDER if any(a["category"]==c for a in articles)]+[art_url(a["slug"])+"/" for a in articles]
@@ -571,7 +628,7 @@ def sitemap():
     body='<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
     for a in articles:
         body+=f'<url><loc>{art_url(a["slug"])}/</loc><lastmod>{a.get("updatedAt",now)}</lastmod></url>\n'
-    for u in [f'{S["url"]}/blog/',f'{S["url"]}/blog/guida-proprietario/',f'{S["url"]}/blog/calcolatore-rendita/',f'{S["url"]}/blog/recensioni-appartamenti/',f'{S["url"]}/blog/recensioni-b-p-lux-property/']+[f'{S["url"]}/blog/categoria/{c}/' for c in CAT_ORDER if any(a["category"]==c for a in articles)]:
+    for u in [f'{S["url"]}/blog/',f'{S["url"]}/blog/guida-proprietario/',f'{S["url"]}/blog/calcolatore-rendita/',f'{S["url"]}/blog/recensioni-appartamenti/',f'{S["url"]}/blog/recensioni-b-p-lux-property/',f'{S["url"]}/blog/autori/']+[f'{S["url"]}/blog/categoria/{c}/' for c in CAT_ORDER if any(a["category"]==c for a in articles)]:
         body+=f'<url><loc>{u}</loc><lastmod>{now}</lastmod></url>\n'
     body+='</urlset>\n'
     open(os.path.join(OUT,"sitemap.xml"),"w",encoding="utf-8").write(body)
@@ -849,6 +906,18 @@ h1,h2,h3{font-family:var(--serif);font-weight:600;line-height:1.12;color:var(--c
 .share{display:flex;gap:14px;align-items:center;flex-wrap:wrap;margin:30px 0 6px;font-size:13px;color:var(--muted)}
 .share a{color:var(--gold);font-weight:500;border-bottom:1px solid rgba(176,137,78,.4)}
 .share a:hover{color:var(--charcoal)}
+.au-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,320px),1fr));gap:22px;margin:8px 0 18px}
+.au-card{display:flex;gap:18px;background:var(--paper);border:1px solid var(--line);border-top:3px solid var(--gold);border-radius:6px;padding:22px}
+.au-card img{width:120px;height:120px;border-radius:50%;object-fit:cover;flex:0 0 120px}
+.au-card h2{margin:0;font-size:22px}
+.au-role{display:block;font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--gold);margin:2px 0 8px}
+.au-k{display:block;font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin-top:10px}
+.au-comp{margin:4px 0 0;padding-left:18px;font-size:14px;color:var(--muted)}
+@media(max-width:520px){.au-card{flex-direction:column}.au-card img{width:96px;height:96px;flex:0 0 96px}}
+.ab-img{width:72px;height:72px;border-radius:50%;object-fit:cover;flex:0 0 72px;border:2px solid var(--gold)}
+.ab-comp{font-size:13px;color:var(--muted);margin-top:8px}
+.ab-comp a{color:var(--gold);text-decoration:underline}
+.meta a.by{color:inherit;text-decoration:underline;text-decoration-color:var(--gold)}
 .authorbox{display:flex;gap:16px;align-items:flex-start;background:var(--paper);border:1px solid var(--line);border-radius:6px;padding:20px;margin:22px 0}
 .ab-badge{flex:none;width:52px;height:52px;border-radius:50%;background:var(--charcoal);color:var(--gold);display:flex;align-items:center;justify-content:center;font-family:var(--serif);font-weight:700;font-size:18px;border:2px solid var(--gold)}
 .ab-txt strong{font-family:var(--serif);font-size:19px;color:var(--charcoal)}
@@ -1022,8 +1091,8 @@ def main():
     make_og()
     for a in articles: render_article(a)
     for cid in CAT_ORDER: render_category(cid)
-    render_hub(); render_calculator(); render_guida(); render_recensioni(); render_reputazione(); sitemap()
-    print(f"Generati: {len(articles)} articoli + {len(CAT_ORDER)} categorie + hub + guida + 2 pagine recensioni + sitemap")
+    render_hub(); render_calculator(); render_guida(); render_recensioni(); render_reputazione(); render_autori(); sitemap()
+    print(f"Generati: {len(articles)} articoli + {len(CAT_ORDER)} categorie + hub + guida + 2 pagine recensioni + autori + sitemap")
     if warn:
         print("\n== AVVISI cancello contenuto (%d) =="%len(warn))
         for w in warn: print("  -",w)

@@ -31,14 +31,73 @@
     "note_dati": "Dati rilevati dagli annunci pubblici Airbnb e Booking il 23 agosto 2026. Vanno riverificati sugli annunci prima di aggiornare le pagine."
   },
   "reputazione": {
-    "airbnb": { "rating": "4,97", "su": 5, "recensioni": 33, "badge": ["Superhost", "Amato dagli ospiti"], "nota": "Pulizia impeccabile: gli ospiti trovano questo alloggio molto pulito." },
-    "booking": { "rating": "9,2", "su": 10, "recensioni": 6, "giudizio": "Eccellente",
-      "categorie": [["Staff", "10"], ["Servizi", "10"], ["Posizione", "10"], ["Rapporto qualità-prezzo", "9,6"], ["Comfort", "8,8"], ["Pulizia", "8,7"]] },
+    "airbnb": {
+      "rating": "4,97",
+      "su": 5,
+      "recensioni": 33,
+      "badge": [
+        "Superhost",
+        "Amato dagli ospiti"
+      ],
+      "nota": "Pulizia impeccabile: gli ospiti trovano questo alloggio molto pulito."
+    },
+    "booking": {
+      "rating": "9,2",
+      "su": 10,
+      "recensioni": 6,
+      "giudizio": "Eccellente",
+      "categorie": [
+        [
+          "Staff",
+          "10"
+        ],
+        [
+          "Servizi",
+          "10"
+        ],
+        [
+          "Posizione",
+          "10"
+        ],
+        [
+          "Rapporto qualità-prezzo",
+          "9,6"
+        ],
+        [
+          "Comfort",
+          "8,8"
+        ],
+        [
+          "Pulizia",
+          "8,7"
+        ]
+      ]
+    },
     "citazioni": [
-      { "testo": "Soggiorno davvero piacevole, siamo stati benissimo! Torneremo sicuramente.", "autore": "Guerra", "paese": "Italia", "fonte": "Booking.com" },
-      { "testo": "Location molto carina, curata e completa di tutto ciò che occorre.. anche di più. Letto molto comodo.", "autore": "Cinzia", "paese": "Italia", "fonte": "Booking.com" },
-      { "testo": "La posizione del loft è sicuramente il suo punto di forza: zona centrale, comoda per muoversi e raggiungere tutto a piedi. Anche l'accoglienza della padrona di casa è stata molto cordiale e disponibile fin dall'arrivo.", "autore": "Alessia", "paese": "Italia", "fonte": "Booking.com" },
-      { "testo": "Dimora incantevole, pulita e dotata di tutto. Ottima per visitare il centro storico di Dozza, essendo su a una delle due vie principali. La comunicazione via messaggi è stata efficace.", "autore": "Giuseppe", "paese": "Italia", "fonte": "Booking.com" }
+      {
+        "testo": "Soggiorno davvero piacevole, siamo stati benissimo! Torneremo sicuramente.",
+        "autore": "Guerra",
+        "paese": "Italia",
+        "fonte": "Booking.com"
+      },
+      {
+        "testo": "Location molto carina, curata e completa di tutto ciò che occorre.. anche di più. Letto molto comodo.",
+        "autore": "Cinzia",
+        "paese": "Italia",
+        "fonte": "Booking.com"
+      },
+      {
+        "testo": "La posizione del loft è sicuramente il suo punto di forza: zona centrale, comoda per muoversi e raggiungere tutto a piedi. Anche l'accoglienza della padrona di casa è stata molto cordiale e disponibile fin dall'arrivo.",
+        "autore": "Alessia",
+        "paese": "Italia",
+        "fonte": "Booking.com"
+      },
+      {
+        "testo": "Dimora incantevole, pulita e dotata di tutto. Ottima per visitare il centro storico di Dozza, essendo su a una delle due vie principali. La comunicazione via messaggi è stata efficace.",
+        "autore": "Giuseppe",
+        "paese": "Italia",
+        "fonte": "Booking.com"
+      }
     ],
     "note_citazioni": "Recensioni pubbliche reali, riportate testualmente dagli annunci. NON aggiungere citazioni non verificabili."
   },
@@ -47,34 +106,112 @@
     "name": "B&P Lux Property",
     "role": "Property manager · Superhost",
     "bio": "B&P Lux Property gestisce affitti brevi di lusso in Emilia-Romagna e in Italia. Siamo Superhost su Airbnb e seguiamo ogni immobile a 360°: annuncio, prezzi, ospiti, pulizie e burocrazia.",
-    "founders": ["Davide Bertocchi", "Stefano Puggioni"],
-    "sameAs": ["https://www.airbnb.it/rooms/1112801148439631438"]
+    "founders": [
+      "Davide Bertocchi",
+      "Stefano Puggioni"
+    ],
+    "sameAs": [
+      "https://www.airbnb.it/rooms/1112801148439631438"
+    ]
   },
+  "autori": [
+    {
+      "id": "davide-bertocchi",
+      "nome": "Davide Bertocchi",
+      "ruolo": "Co-founder di B&P Lux Property",
+      "foto": "/assets/founder-davide.jpg",
+      "bio": "Si occupa dell'acquisizione e del rapporto con i proprietari: valutazioni fatte sui numeri, anche quando il numero dice di lasciar perdere. Segue insieme a Stefano l'appartamento che gestiamo nel centro di Dozza, con cui l'agenzia è Superhost su Airbnb.",
+      "competenze": [
+        "redditività e valutazioni",
+        "rapporto con i proprietari",
+        "fisco e adempimenti",
+        "gestione e property management"
+      ],
+      "categorie": [
+        "quanto-rende",
+        "gestione",
+        "affitti-brevi",
+        "normativa-fisco"
+      ]
+    },
+    {
+      "id": "stefano-puggioni",
+      "nome": "Stefano Puggioni",
+      "ruolo": "Co-founder di B&P Lux Property",
+      "foto": "/assets/founder-stefano.jpg",
+      "bio": "Si occupa di ottimizzazione e operatività: annunci, prezzi dinamici, esperienza dell'ospite e recensioni. Cura con Davide l'appartamento di Dozza, il banco di prova su cui testiamo quello che poi raccontiamo qui.",
+      "competenze": [
+        "annunci e piattaforme",
+        "prezzi dinamici",
+        "esperienza ospite e recensioni",
+        "allestimento della casa"
+      ],
+      "categorie": [
+        "piattaforme",
+        "preparare-casa",
+        "citta",
+        "dozza-emilia-romagna"
+      ]
+    }
+  ],
+  "note_autori": "Firma degli articoli: 'A cura di' + il co-founder competente per la categoria. I contenuti nascono dal lavoro dei due founder e sono pubblicati sotto la loro responsabilità editoriale.",
   "categories": [
-    { "id": "dozza-emilia-romagna", "name": "Dozza & Emilia-Romagna", "order": 1,
+    {
+      "id": "dozza-emilia-romagna",
+      "name": "Dozza & Emilia-Romagna",
+      "order": 1,
       "h1": "Dozza & Emilia-Romagna: guide, borghi e dove dormire",
-      "intro": "Il nostro territorio, raccontato da chi ci gestisce case ogni giorno. Dozza è un borgo medievale e Città d'Arte a due passi da Imola e Bologna, con i suoi portici affrescati e le colline del vino. Qui trovi cosa vedere, come arrivare, dove dormire e quanto rende un affitto breve in zona — con l'esperienza diretta del nostro appartamento in centro." },
-    { "id": "gestione", "name": "Gestione & Property Management", "order": 2,
+      "intro": "Il nostro territorio, raccontato da chi ci gestisce case ogni giorno. Dozza è un borgo medievale e Città d'Arte a due passi da Imola e Bologna, con i suoi portici affrescati e le colline del vino. Qui trovi cosa vedere, come arrivare, dove dormire e quanto rende un affitto breve in zona — con l'esperienza diretta del nostro appartamento in centro."
+    },
+    {
+      "id": "gestione",
+      "name": "Gestione & Property Management",
+      "order": 2,
       "h1": "Gestione affitti brevi e property management",
-      "intro": "Tutto quello che c'è dietro un affitto breve che rende: prezzi dinamici, ospiti, pulizie, check-in, recensioni e burocrazia. Spieghiamo cosa fa davvero un property manager, quanto costa, quando conviene affidarsi e come si gestisce un immobile a distanza — con numeri veri, non promesse." },
-    { "id": "quanto-rende", "name": "Quanto rende", "order": 3,
+      "intro": "Tutto quello che c'è dietro un affitto breve che rende: prezzi dinamici, ospiti, pulizie, check-in, recensioni e burocrazia. Spieghiamo cosa fa davvero un property manager, quanto costa, quando conviene affidarsi e come si gestisce un immobile a distanza — con numeri veri, non promesse."
+    },
+    {
+      "id": "quanto-rende",
+      "name": "Quanto rende",
+      "order": 3,
       "h1": "Quanto rende un affitto breve: numeri e città",
-      "intro": "Prima di affittare a breve, la domanda è una sola: quanto rende davvero? Qui trovi stime ragionate città per città, il confronto con l'affitto tradizionale e con la vendita, e come calcolare la redditività di un immobile tenendo conto di occupazione, tariffa media e costi." },
-    { "id": "citta", "name": "Città & Zone", "order": 4,
+      "intro": "Prima di affittare a breve, la domanda è una sola: quanto rende davvero? Qui trovi stime ragionate città per città, il confronto con l'affitto tradizionale e con la vendita, e come calcolare la redditività di un immobile tenendo conto di occupazione, tariffa media e costi."
+    },
+    {
+      "id": "citta",
+      "name": "Città & Zone",
+      "order": 4,
       "h1": "Affitti brevi città per città: guide e zone",
-      "intro": "Ogni città ha le sue regole, le sue zone migliori e i suoi ospiti. Raccogliamo qui le guide locali agli affitti brevi: dove conviene, quali quartieri rendono di più, cosa dice il Comune e come farsi trovare dai turisti giusti." },
-    { "id": "normativa-fisco", "name": "Normativa & Fisco", "order": 5,
+      "intro": "Ogni città ha le sue regole, le sue zone migliori e i suoi ospiti. Raccogliamo qui le guide locali agli affitti brevi: dove conviene, quali quartieri rendono di più, cosa dice il Comune e come farsi trovare dai turisti giusti."
+    },
+    {
+      "id": "normativa-fisco",
+      "name": "Normativa & Fisco",
+      "order": 5,
       "h1": "Affitti brevi: normativa e fisco spiegati semplici",
-      "intro": "Cedolare secca, CIN, imposta di soggiorno, partita IVA: la burocrazia degli affitti brevi è un campo minato, e nel 2026 lo è ancora di più. Qui spieghiamo le regole con parole semplici e fonti ufficiali. Contenuti informativi: per il tuo caso, verifica sempre con un professionista." },
-    { "id": "piattaforme", "name": "Airbnb, Booking & Piattaforme", "order": 6,
+      "intro": "Cedolare secca, CIN, imposta di soggiorno, partita IVA: la burocrazia degli affitti brevi è un campo minato, e nel 2026 lo è ancora di più. Qui spieghiamo le regole con parole semplici e fonti ufficiali. Contenuti informativi: per il tuo caso, verifica sempre con un professionista."
+    },
+    {
+      "id": "piattaforme",
+      "name": "Airbnb, Booking & Piattaforme",
+      "order": 6,
       "h1": "Airbnb, Booking e le piattaforme per affitti brevi",
-      "intro": "Come funzionano davvero Airbnb e Booking per chi affitta: commissioni, annuncio, foto, recensioni, prezzi dinamici e multicanale. Consigli pratici da chi pubblica e ottimizza annunci ogni giorno ed è Superhost." },
-    { "id": "affitti-brevi", "name": "Guida agli Affitti Brevi", "order": 7,
+      "intro": "Come funzionano davvero Airbnb e Booking per chi affitta: commissioni, annuncio, foto, recensioni, prezzi dinamici e multicanale. Consigli pratici da chi pubblica e ottimizza annunci ogni giorno ed è Superhost."
+    },
+    {
+      "id": "affitti-brevi",
+      "name": "Guida agli Affitti Brevi",
+      "order": 7,
       "h1": "Affitti brevi: la guida per proprietari",
-      "intro": "Le basi, spiegate bene. Cos'è un affitto breve, a chi conviene, quanto si guadagna, che differenza c'è con l'affitto tradizionale e con la casa vacanza, e gli errori che costano di più. Il punto di partenza per chi ha una casa e vuole farla rendere senza pensieri." },
-    { "id": "preparare-casa", "name": "Preparare la Casa", "order": 8,
+      "intro": "Le basi, spiegate bene. Cos'è un affitto breve, a chi conviene, quanto si guadagna, che differenza c'è con l'affitto tradizionale e con la casa vacanza, e gli errori che costano di più. Il punto di partenza per chi ha una casa e vuole farla rendere senza pensieri."
+    },
+    {
+      "id": "preparare-casa",
+      "name": "Preparare la Casa",
+      "order": 8,
       "h1": "Preparare e ottimizzare la casa per gli affitti brevi",
-      "intro": "Una casa che rende parte da come è arredata e presentata. Home staging, foto, dotazioni essenziali, self check-in e i dettagli che fanno le recensioni a cinque stelle: qui trovi le leve concrete per alzare tariffa e occupazione." }
+      "intro": "Una casa che rende parte da come è arredata e presentata. Home staging, foto, dotazioni essenziali, self check-in e i dettagli che fanno le recensioni a cinque stelle: qui trovi le leve concrete per alzare tariffa e occupazione."
+    }
   ],
   "blogHubIntro": "Benvenuto nel blog di B&P Lux Property. Siamo un property manager specializzato in affitti brevi di lusso: gestiamo case in Emilia-Romagna e in Italia, siamo Superhost su Airbnb e ci occupiamo di ogni immobile a 360 gradi — annuncio, prezzi dinamici, ospiti, pulizie, recensioni e burocrazia. Questo blog nasce da quel lavoro quotidiano. Non è una raccolta di articoli generici copiati altrove: è quello che abbiamo imparato gestendo appartamenti veri, con numeri veri, per proprietari e agenzie immobiliari. Qui trovi guide pratiche su come far rendere una seconda casa, quanto guadagna davvero un affitto breve città per città, come districarsi tra cedolare secca, CIN e le nuove regole del 2026, come funzionano Airbnb e Booking, e come preparare un immobile perché si prenoti da solo. Trovi anche il racconto del nostro territorio — Dozza, Imola, Bologna e le colline dell'Emilia-Romagna — dove gestiamo un appartamento nel cuore del borgo dipinto. Ogni guida è pensata per aiutarti a decidere: quando l'affitto breve conviene, e quando no. E se a un certo punto preferisci delegare tutto a chi lo fa di mestiere, ci trovi in fondo a ogni pagina.",
   "cta": {
