@@ -19,31 +19,59 @@
       ]
     },
     {
-      "h2": "La resa non è un numero fisso",
+      "h2": "Non c'è un numero: c'è un intervallo",
       "paragraphs": [
         "Diffida di chi promette una percentuale valida per tutti. La resa reale resta una stima indicativa finché non si calcola sul tuo immobile: dipende da occupazione, tariffa media e costi effettivi.",
         "La formula di base è semplice: quanto incassi (occupazione × tariffa media) meno i costi (pulizie, utenze, commissioni, gestione, imposte). Il risultato cambia molto da un appartamento all'altro, anche nella stessa via. Ecco perché conta il netto, non il lordo."
       ]
     },
     {
-      "h2": "I fattori che spostano la resa",
+      "h2": "Cosa alza e cosa abbassa il risultato",
       "paragraphs": [
         "A Cagliari pesa la doppia natura dell'immobile: quanto funziona come casa in città e quanto come base per mare ed escursioni. Ecco i fattori principali, senza cifre: solo la direzione in cui spingono."
       ],
       "table": {
-        "headers": ["Fattore", "Perché conta", "Effetto sulla resa"],
+        "headers": [
+          "Fattore",
+          "Perché conta",
+          "Effetto sulla resa"
+        ],
         "rows": [
-          ["Zona e collegamenti", "Vicinanza a centro, Poetto, porto e aeroporto di Elmas", "Alza tariffa e occupazione"],
-          ["Tipologia e dimensione", "Bilocale per coppie o trilocale per famiglie e gruppi", "Cambia pubblico e tariffa media"],
-          ["Qualità di arredo e foto", "Primo filtro con cui l'ospite sceglie l'annuncio", "Più prenotazioni e prezzo difendibile"],
-          ["Prezzi dinamici", "Adeguare la tariffa a stagione, ponti ed eventi", "Recupera ricavi che il prezzo fisso lascia sul tavolo"],
-          ["Recensioni e reputazione", "Posizionamento nell'algoritmo dei portali", "Più visibilità e meno notti sfitte"],
-          ["Stagionalità e clima", "Stagione lunga per il clima mite, con picchi estivi", "Sposta l'occupazione nei mesi di spalla"]
+          [
+            "Zona e collegamenti",
+            "Vicinanza a centro, Poetto, porto e aeroporto di Elmas",
+            "Alza tariffa e occupazione"
+          ],
+          [
+            "Tipologia e dimensione",
+            "Bilocale per coppie o trilocale per famiglie e gruppi",
+            "Cambia pubblico e tariffa media"
+          ],
+          [
+            "Qualità di arredo e foto",
+            "Primo filtro con cui l'ospite sceglie l'annuncio",
+            "Più prenotazioni e prezzo difendibile"
+          ],
+          [
+            "Prezzi dinamici",
+            "Adeguare la tariffa a stagione, ponti ed eventi",
+            "Recupera ricavi che il prezzo fisso lascia sul tavolo"
+          ],
+          [
+            "Recensioni e reputazione",
+            "Posizionamento nell'algoritmo dei portali",
+            "Più visibilità e meno notti sfitte"
+          ],
+          [
+            "Stagionalità e clima",
+            "Stagione lunga per il clima mite, con picchi estivi",
+            "Sposta l'occupazione nei mesi di spalla"
+          ]
         ]
       }
     },
     {
-      "h2": "Le zone e la domanda",
+      "h2": "Dove si concentra la domanda",
       "paragraphs": [
         "A Cagliari la posizione decide sia quanto puoi chiedere sia quanto spesso prenoti. Ogni zona parla a un ospite diverso, tra chi cerca il centro storico, chi vuole il mare a portata di mano e chi usa la città come campo base.",
         "Un'osservazione dal campo: a Cagliari, a differenza delle mete di solo mare, la doppia natura città più spiaggia in città distribuisce la domanda oltre l'estate. Un immobile in centro e vicino al Poetto tende a lavorare in più mesi, perché intercetta sia il city break sia chi cerca la spiaggia."
@@ -57,7 +85,7 @@
       ]
     },
     {
-      "h2": "I costi da mettere in conto",
+      "h2": "Quanto se ne va in costi",
       "paragraphs": [
         "La resa lorda inganna: conta quella netta. Prima di stimare il guadagno, elenca con onestà tutte le voci di costo, comprese quelle che si tende a dimenticare."
       ],
@@ -70,7 +98,7 @@
       ]
     },
     {
-      "h2": "Come conoscere il numero reale",
+      "h2": "Come arrivare a una stima attendibile",
       "paragraphs": [
         "L'unico modo serio per sapere quanto rende il tuo immobile è analizzarlo: zona, tipologia, stagionalità e concorrenza reale. Nella nostra esperienza le stime generiche prese online sbagliano quasi sempre, in un senso o nell'altro.",
         "Per questo, prima di iniziare, analizziamo gratuitamente l'immobile e ti diamo una stima costruita sui suoi numeri, non su una media di città."
@@ -99,7 +127,11 @@
       "a": "Serve un'analisi sul singolo immobile: zona, tipologia, concorrenza e costi reali. Le stime generiche online sono spesso imprecise. Possiamo calcolare gratuitamente una stima costruita sui numeri effettivi del tuo appartamento, senza impegno."
     }
   ],
-  "related": ["affitti-brevi-cagliari-guida", "quanto-rende-affitto-breve-napoli", "property-manager-affitti-brevi"],
+  "related": [
+    "affitti-brevi-cagliari-guida",
+    "quanto-rende-affitto-breve-napoli",
+    "property-manager-affitti-brevi"
+  ],
   "sources": [],
   "disclaimer": false,
   "note": ""

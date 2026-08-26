@@ -27,32 +27,64 @@
       ]
     },
     {
-      "h2": "La resa non è un numero fisso",
+      "h2": "Non c'è un numero: c'è un intervallo",
       "paragraphs": [
         "Diffida di chi promette una percentuale valida per tutti. La resa reale resta una stima indicativa finché non si calcola sul tuo immobile: dipende da occupazione, tariffa media e costi effettivi.",
         "La formula di base è semplice: quanto incassi (occupazione × tariffa media) meno i costi (pulizie, utenze, commissioni, gestione, imposte). E vale una regola d'oro: si ragiona sul netto, non sul lordo. Per chi la casa ce l'ha già conta il confronto con il canone tradizionale; per chi compra per mettere a reddito, il ricavo va sempre rapportato al capitale investito. Il risultato cambia molto da un appartamento all'altro, anche nella stessa via."
       ]
     },
     {
-      "h2": "I fattori che spostano la resa",
+      "h2": "Cosa alza e cosa abbassa il risultato",
       "paragraphs": [
         "A Palermo pesa la posizione, ma anche la doppia natura dell'immobile: quanto lavora come casa in città d'arte e quanto come base per il mare e le gite. Ecco i fattori principali, senza cifre: solo la direzione in cui spingono."
       ],
       "table": {
-        "headers": ["Fattore", "Perché conta", "Effetto sulla resa"],
+        "headers": [
+          "Fattore",
+          "Perché conta",
+          "Effetto sulla resa"
+        ],
         "rows": [
-          ["Zona e collegamenti", "Vicinanza a centro storico, Teatro Massimo, stazione, porto e aeroporto", "Alza tariffa e occupazione"],
-          ["Tipologia e dimensione", "Bilocale per coppie, trilocale per famiglie e gruppi", "Cambia pubblico e tariffa media"],
-          ["Qualità di arredo e foto", "Primo filtro con cui l'ospite sceglie l'annuncio", "Più prenotazioni e prezzo difendibile"],
-          ["Prezzi dinamici", "Adeguare la tariffa a stagione, ponti ed eventi", "Recupera ricavi che il prezzo fisso lascia sul tavolo"],
-          ["Recensioni e reputazione", "Posizionamento nell'algoritmo dei portali", "Più visibilità e meno notti sfitte"],
-          ["Stagionalità e clima", "Stagione lunga, con picco estivo e mesi di spalla vivi", "Sposta l'occupazione fuori dall'alta stagione"],
-          ["Prezzo d'acquisto", "È il denominatore della resa in percentuale", "Un prezzo d'ingresso più basso può alzare il rendimento"]
+          [
+            "Zona e collegamenti",
+            "Vicinanza a centro storico, Teatro Massimo, stazione, porto e aeroporto",
+            "Alza tariffa e occupazione"
+          ],
+          [
+            "Tipologia e dimensione",
+            "Bilocale per coppie, trilocale per famiglie e gruppi",
+            "Cambia pubblico e tariffa media"
+          ],
+          [
+            "Qualità di arredo e foto",
+            "Primo filtro con cui l'ospite sceglie l'annuncio",
+            "Più prenotazioni e prezzo difendibile"
+          ],
+          [
+            "Prezzi dinamici",
+            "Adeguare la tariffa a stagione, ponti ed eventi",
+            "Recupera ricavi che il prezzo fisso lascia sul tavolo"
+          ],
+          [
+            "Recensioni e reputazione",
+            "Posizionamento nell'algoritmo dei portali",
+            "Più visibilità e meno notti sfitte"
+          ],
+          [
+            "Stagionalità e clima",
+            "Stagione lunga, con picco estivo e mesi di spalla vivi",
+            "Sposta l'occupazione fuori dall'alta stagione"
+          ],
+          [
+            "Prezzo d'acquisto",
+            "È il denominatore della resa in percentuale",
+            "Un prezzo d'ingresso più basso può alzare il rendimento"
+          ]
         ]
       }
     },
     {
-      "h2": "Le zone e la domanda",
+      "h2": "Dove si concentra la domanda",
       "paragraphs": [
         "A Palermo la zona decide sia quanto puoi chiedere sia quanto spesso prenoti, e ogni quartiere parla a un ospite diverso. Il centro storico vive di atmosfera e vicinanza ai monumenti; l'area del Teatro Massimo e di via Maqueda unisce cultura e comodità; il mare di Mondello gioca su tutt'altra stagione.",
         "Un'osservazione dal campo. Da property manager Superhost notiamo che a Palermo la domanda è distribuita su gran parte dell'anno, perché città e cultura non si fermano con l'estate, e i prezzi d'acquisto contenuti aiutano la redditività percentuale. Ma conta moltissimo la zona: il centro storico va scelto con attenzione, via per via, perché strade vicine possono avere richiesta, decoro e contesto molto diversi."
@@ -66,7 +98,7 @@
       ]
     },
     {
-      "h2": "I costi da mettere in conto",
+      "h2": "Le voci di spesa che riducono il lordo",
       "paragraphs": [
         "La resa lorda inganna: conta quella netta. Prima di stimare il guadagno, elenca con onestà tutte le voci di costo, comprese quelle che si tende a dimenticare."
       ],
@@ -79,7 +111,7 @@
       ]
     },
     {
-      "h2": "Come conoscere il numero reale",
+      "h2": "Come arrivare a una stima attendibile",
       "paragraphs": [
         "L'unico modo serio per sapere quanto rende il tuo immobile è analizzarlo: zona, tipologia, stagionalità e concorrenza reale. Nella nostra esperienza le stime generiche prese online sbagliano quasi sempre, in un senso o nell'altro.",
         "Per questo, prima di iniziare, analizziamo gratuitamente l'immobile e ti diamo una stima costruita sui suoi numeri, non su una media di città. È la differenza tra una percentuale copiata da un articolo e la fotografia reale della tua casa a Palermo."
@@ -112,7 +144,11 @@
       "a": "Serve un'analisi sul singolo immobile: zona, tipologia, concorrenza e costi reali. Le stime generiche online sono spesso imprecise. Possiamo calcolare gratuitamente una stima costruita sui numeri effettivi del tuo appartamento, senza impegno."
     }
   ],
-  "related": ["affitti-brevi-palermo-guida", "quanto-rende-affitto-breve-catania", "property-manager-affitti-brevi"],
+  "related": [
+    "affitti-brevi-palermo-guida",
+    "quanto-rende-affitto-breve-catania",
+    "property-manager-affitti-brevi"
+  ],
   "sources": [],
   "disclaimer": false,
   "note": ""

@@ -11,53 +11,118 @@
   "updatedAt": "2026-08-11",
   "heroKicker": "QUANTO RENDE",
   "sections": [
-    { "h2": "Perché a Napoli la resa può essere interessante",
+    {
+      "h2": "Perché a Napoli la resa può essere interessante",
       "paragraphs": [
         "Napoli vive un turismo in forte crescita e poco stagionale: centro storico UNESCO, cultura, food e il ruolo di base per Pompei, la Costiera e le isole tengono alta la domanda quasi tutto l'anno.",
         "A questo si aggiunge un vantaggio strutturale: i prezzi di acquisto degli immobili, in molte zone, restano più bassi che a Milano o Firenze. A parità di incasso, un capitale investito minore può tradursi in una redditività percentuale più alta."
-      ] },
-    { "h2": "La resa non è un numero fisso",
+      ]
+    },
+    {
+      "h2": "La resa dipende dal caso specifico",
       "paragraphs": [
         "Diffida di chi ti promette una percentuale valida per tutti. La resa reale è una stima indicativa finché non si calcola sul tuo immobile: dipende da occupazione, tariffa media e costi effettivi.",
         "La formula di base è semplice: quanto incassi (occupazione × tariffa media) meno i costi (pulizie, utenze, commissioni, gestione, imposte). Il risultato cambia molto da un appartamento all'altro, anche nella stessa via."
-      ] },
-    { "h2": "I fattori che spostano la resa",
+      ]
+    },
+    {
+      "h2": "Le leve su cui si può intervenire",
       "paragraphs": [
         "A Napoli, più che altrove, contano la zona e il contesto specifico: il singolo palazzo e la strada possono fare la differenza tra due immobili a cento metri di distanza."
       ],
-      "table": { "headers": ["Fattore", "Effetto sulla resa"],
+      "table": {
+        "headers": [
+          "Fattore",
+          "Effetto sulla resa"
+        ],
         "rows": [
-          ["Zona e contesto (via/palazzo)", "Molto alto"],
-          ["Tipologia e dimensione", "Alto"],
-          ["Qualità di arredo e foto", "Alto"],
-          ["Prezzi dinamici", "Alto"],
-          ["Recensioni e reputazione", "Medio-alto"],
-          ["Stagionalità ed eventi", "Medio"]
-        ] } },
-    { "h2": "Le zone e la domanda",
+          [
+            "Zona e contesto (via/palazzo)",
+            "Molto alto"
+          ],
+          [
+            "Tipologia e dimensione",
+            "Alto"
+          ],
+          [
+            "Qualità di arredo e foto",
+            "Alto"
+          ],
+          [
+            "Prezzi dinamici",
+            "Alto"
+          ],
+          [
+            "Recensioni e reputazione",
+            "Medio-alto"
+          ],
+          [
+            "Stagionalità ed eventi",
+            "Medio"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Quartieri e domanda: come si distribuisce",
       "paragraphs": [
         "Il centro storico e le zone di forte passaggio turistico lavorano su volumi e cultura; il lungomare e Chiaia puntano su una clientela più alta di gamma. Ogni zona ha una sua logica di prezzo e di ospite."
       ],
-      "list": ["Centro storico: volumi e turismo culturale tutto l'anno", "Chiaia e lungomare: clientela alta di gamma", "Vomero: residenziale, soggiorni più lunghi", "Vicino stazione/porto: comodità e transito"] },
-    { "h2": "I costi da mettere in conto",
+      "list": [
+        "Centro storico: volumi e turismo culturale tutto l'anno",
+        "Chiaia e lungomare: clientela alta di gamma",
+        "Vomero: residenziale, soggiorni più lunghi",
+        "Vicino stazione/porto: comodità e transito"
+      ]
+    },
+    {
+      "h2": "Le voci di spesa che riducono il lordo",
       "paragraphs": [
         "La resa lorda inganna: è quella netta che conta. Prima di stimare il guadagno, elenca onestamente tutte le voci di costo, comprese quelle che si tende a dimenticare."
       ],
-      "list": ["Pulizie e biancheria a ogni cambio", "Utenze, Wi-Fi, manutenzioni", "Commissioni dei portali", "Imposta di soggiorno e adempimenti (CIN, comunicazione ospiti)", "Eventuale gestione professionale"] },
-    { "h2": "Come conoscere il numero reale",
+      "list": [
+        "Pulizie e biancheria a ogni cambio",
+        "Utenze, Wi-Fi, manutenzioni",
+        "Commissioni dei portali",
+        "Imposta di soggiorno e adempimenti (CIN, comunicazione ospiti)",
+        "Eventuale gestione professionale"
+      ]
+    },
+    {
+      "h2": "Come si verifica il dato sul proprio immobile",
       "paragraphs": [
         "L'unico modo serio per sapere quanto rende il tuo immobile è analizzarlo: zona, tipologia, stagionalità e concorrenza reale. Nella nostra esperienza, le stime generiche prese online sbagliano quasi sempre, in un senso o nell'altro.",
         "Per questo, prima di iniziare, analizziamo gratuitamente l'immobile e ti diamo una stima costruita sui suoi numeri, non su una media di città."
-      ] }
+      ]
+    }
   ],
   "faq": [
-    { "q": "Quanto rende un affitto breve a Napoli?", "a": "Dipende dal singolo immobile: la resa reale si calcola su occupazione, tariffa media e costi. A Napoli la domanda è alta e i prezzi d'acquisto contenuti aiutano la redditività, ma qualsiasi percentuale valida \"per tutti\" è una stima indicativa da verificare sul tuo appartamento." },
-    { "q": "Rende più a Napoli o al Nord?", "a": "Non c'è una risposta unica. Al Nord le tariffe sono più alte, ma anche i prezzi d'acquisto; a Napoli gli incassi possono essere inferiori a fronte di un capitale investito minore. La redditività percentuale sul capitale, in diverse zone di Napoli, può risultare competitiva." },
-    { "q": "Quali zone rendono di più?", "a": "Il centro storico lavora su volumi e turismo culturale tutto l'anno; Chiaia e il lungomare su una clientela alta di gamma. A Napoli conta molto il contesto specifico: due immobili nella stessa via possono rendere in modo diverso per palazzo, piano e stato." },
-    { "q": "Devo considerare la stagionalità?", "a": "Sì, ma a Napoli pesa meno che nelle località di mare: il turismo culturale e da città distribuisce la domanda su gran parte dell'anno. I prezzi dinamici aiutano comunque a valorizzare ponti, eventi e alta stagione." },
-    { "q": "Come faccio a sapere la resa del mio immobile?", "a": "Serve un'analisi sul singolo immobile: zona, tipologia, concorrenza e costi reali. Le stime generiche online sono spesso imprecise. Possiamo calcolare gratuitamente una stima costruita sui numeri effettivi del tuo appartamento, senza impegno." }
+    {
+      "q": "Quanto rende un affitto breve a Napoli?",
+      "a": "Dipende dal singolo immobile: la resa reale si calcola su occupazione, tariffa media e costi. A Napoli la domanda è alta e i prezzi d'acquisto contenuti aiutano la redditività, ma qualsiasi percentuale valida \"per tutti\" è una stima indicativa da verificare sul tuo appartamento."
+    },
+    {
+      "q": "Rende più a Napoli o al Nord?",
+      "a": "Non c'è una risposta unica. Al Nord le tariffe sono più alte, ma anche i prezzi d'acquisto; a Napoli gli incassi possono essere inferiori a fronte di un capitale investito minore. La redditività percentuale sul capitale, in diverse zone di Napoli, può risultare competitiva."
+    },
+    {
+      "q": "Quali zone rendono di più?",
+      "a": "Il centro storico lavora su volumi e turismo culturale tutto l'anno; Chiaia e il lungomare su una clientela alta di gamma. A Napoli conta molto il contesto specifico: due immobili nella stessa via possono rendere in modo diverso per palazzo, piano e stato."
+    },
+    {
+      "q": "Devo considerare la stagionalità?",
+      "a": "Sì, ma a Napoli pesa meno che nelle località di mare: il turismo culturale e da città distribuisce la domanda su gran parte dell'anno. I prezzi dinamici aiutano comunque a valorizzare ponti, eventi e alta stagione."
+    },
+    {
+      "q": "Come faccio a sapere la resa del mio immobile?",
+      "a": "Serve un'analisi sul singolo immobile: zona, tipologia, concorrenza e costi reali. Le stime generiche online sono spesso imprecise. Possiamo calcolare gratuitamente una stima costruita sui numeri effettivi del tuo appartamento, senza impegno."
+    }
   ],
-  "related": ["affitti-brevi-napoli-guida", "quanto-rende-affitto-breve-roma", "property-manager-affitti-brevi"],
+  "related": [
+    "affitti-brevi-napoli-guida",
+    "quanto-rende-affitto-breve-roma",
+    "property-manager-affitti-brevi"
+  ],
   "sources": [],
   "disclaimer": false,
   "note": ""

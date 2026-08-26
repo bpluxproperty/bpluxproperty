@@ -19,31 +19,59 @@
       ]
     },
     {
-      "h2": "La resa non è un numero fisso",
+      "h2": "Non c'è un numero: c'è un intervallo",
       "paragraphs": [
         "Diffida di chi promette una percentuale valida per tutti. La resa reale resta una stima indicativa finché non si calcola sul tuo immobile: dipende da occupazione, tariffa media e costi effettivi.",
         "La formula di base è semplice: quanto incassi (occupazione × tariffa media) meno i costi (pulizie, utenze, commissioni, gestione, imposte). Il risultato cambia molto da un appartamento all'altro, anche nella stessa via."
       ]
     },
     {
-      "h2": "I fattori che spostano la resa",
+      "h2": "Che cosa muove i numeri, in pratica",
       "paragraphs": [
         "A Catania, più che altrove, pesa la doppia natura dell'immobile: quanto funziona come casa in città e quanto come base per le escursioni. Ecco i fattori principali, senza cifre: solo la direzione in cui spingono."
       ],
       "table": {
-        "headers": ["Fattore", "Perché conta", "Effetto sulla resa"],
+        "headers": [
+          "Fattore",
+          "Perché conta",
+          "Effetto sulla resa"
+        ],
         "rows": [
-          ["Zona e collegamenti", "Vicinanza a centro, aeroporto, stazione e spiagge", "Alza tariffa e occupazione"],
-          ["Tipologia e dimensione", "Bilocale per coppie o trilocale per famiglie e gruppi", "Cambia pubblico e tariffa media"],
-          ["Qualità di arredo e foto", "Primo filtro con cui l'ospite sceglie l'annuncio", "Più prenotazioni e prezzo difendibile"],
-          ["Prezzi dinamici", "Adeguare la tariffa a stagione, ponti ed eventi", "Recupera ricavi che il prezzo fisso lascia sul tavolo"],
-          ["Recensioni e reputazione", "Posizionamento nell'algoritmo dei portali", "Più visibilità e meno notti sfitte"],
-          ["Stagionalità e clima", "Stagione lunga, ma con picchi e periodi lenti", "Sposta l'occupazione nei mesi di spalla"]
+          [
+            "Zona e collegamenti",
+            "Vicinanza a centro, aeroporto, stazione e spiagge",
+            "Alza tariffa e occupazione"
+          ],
+          [
+            "Tipologia e dimensione",
+            "Bilocale per coppie o trilocale per famiglie e gruppi",
+            "Cambia pubblico e tariffa media"
+          ],
+          [
+            "Qualità di arredo e foto",
+            "Primo filtro con cui l'ospite sceglie l'annuncio",
+            "Più prenotazioni e prezzo difendibile"
+          ],
+          [
+            "Prezzi dinamici",
+            "Adeguare la tariffa a stagione, ponti ed eventi",
+            "Recupera ricavi che il prezzo fisso lascia sul tavolo"
+          ],
+          [
+            "Recensioni e reputazione",
+            "Posizionamento nell'algoritmo dei portali",
+            "Più visibilità e meno notti sfitte"
+          ],
+          [
+            "Stagionalità e clima",
+            "Stagione lunga, ma con picchi e periodi lenti",
+            "Sposta l'occupazione nei mesi di spalla"
+          ]
         ]
       }
     },
     {
-      "h2": "Le zone e la domanda",
+      "h2": "La geografia della domanda in città",
       "paragraphs": [
         "A Catania la posizione decide sia quanto puoi chiedere sia quanto spesso prenoti. Ogni zona parla a un ospite diverso, tra chi resta in città e chi la usa come campo base per la Sicilia orientale.",
         "Un'osservazione dal campo: a Catania pesa molto questa doppia natura, città e base per le escursioni. Un immobile comodo insieme al centro e all'aeroporto tende a lavorare quasi tutto l'anno, perché intercetta sia il city break sia chi parte all'alba per l'Etna o per la Val di Noto."
@@ -57,7 +85,7 @@
       ]
     },
     {
-      "h2": "I costi da mettere in conto",
+      "h2": "Le voci di spesa che riducono il lordo",
       "paragraphs": [
         "La resa lorda inganna: conta quella netta. Prima di stimare il guadagno, elenca con onestà tutte le voci di costo, comprese quelle che si tende a dimenticare."
       ],
@@ -70,7 +98,7 @@
       ]
     },
     {
-      "h2": "Come conoscere il numero reale",
+      "h2": "Dal dato generico al tuo caso",
       "paragraphs": [
         "L'unico modo serio per sapere quanto rende il tuo immobile è analizzarlo: zona, tipologia, stagionalità e concorrenza reale. Nella nostra esperienza le stime generiche prese online sbagliano quasi sempre, in un senso o nell'altro.",
         "Per questo, prima di iniziare, analizziamo gratuitamente l'immobile e ti diamo una stima costruita sui suoi numeri, non su una media di città."
@@ -99,7 +127,11 @@
       "a": "Serve un'analisi sul singolo immobile: zona, tipologia, concorrenza e costi reali. Le stime generiche online sono spesso imprecise. Possiamo calcolare gratuitamente una stima costruita sui numeri effettivi del tuo appartamento, senza impegno."
     }
   ],
-  "related": ["affitti-brevi-catania-guida", "quanto-rende-affitto-breve-napoli", "property-manager-affitti-brevi"],
+  "related": [
+    "affitti-brevi-catania-guida",
+    "quanto-rende-affitto-breve-napoli",
+    "property-manager-affitti-brevi"
+  ],
   "sources": [],
   "disclaimer": false,
   "note": ""

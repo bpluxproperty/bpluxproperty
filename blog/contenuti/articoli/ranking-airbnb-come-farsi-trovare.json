@@ -1,6 +1,6 @@
 {
   "slug": "ranking-airbnb-come-farsi-trovare",
-  "keyword": "ranking Airbnb",
+  "keyword": "ranking airbnb",
   "category": "piattaforme",
   "title": "Ranking Airbnb: come farsi trovare nella ricerca",
   "metaDescription": "Il ranking Airbnb decide chi appare per primo nella ricerca. Come funziona a grandi linee e le leve su cui il proprietario può agire, da Superhost.",
@@ -191,8 +191,18 @@
     "foto-professionali-affitti-brevi"
   ],
   "sources": [
-    { "label": "Fattori che influenzano la posizione di un annuncio nei risultati di ricerca", "ente": "Airbnb Help Center", "data": "", "url": "" },
-    { "label": "Programma Superhost: requisiti e vantaggi", "ente": "Airbnb Help Center", "data": "", "url": "" }
+    {
+      "label": "Fattori che influenzano la posizione di un annuncio nei risultati di ricerca",
+      "ente": "Airbnb Help Center",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Programma Superhost: requisiti e vantaggi",
+      "ente": "Airbnb Help Center",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

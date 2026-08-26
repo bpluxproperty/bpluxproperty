@@ -1,6 +1,6 @@
 {
   "slug": "gite-in-giornata-da-dozza",
-  "keyword": "gite in giornata da Dozza",
+  "keyword": "gite in giornata da dozza",
   "category": "dozza-emilia-romagna",
   "title": "Gite in giornata da Dozza: Bologna, Ravenna, Imola",
   "metaDescription": "Gite in giornata da Dozza: Imola e l'autodromo, i portici di Bologna, i mosaici di Ravenna, Faenza e Brisighella. Le mete migliori usando il borgo come base.",
@@ -72,14 +72,42 @@
         "Il nostro consiglio, da chi vive qui, è di non riempire troppo le giornate. Dozza dà il meglio quando la usi come rifugio: esci al mattino verso una meta, la vivi con calma, e torni la sera nel borgo dipinto. Così ogni gita resta un piacere e non una maratona."
       ],
       "table": {
-        "headers": ["Destinazione", "Cosa ci trovi", "Distanza indicativa"],
+        "headers": [
+          "Destinazione",
+          "Cosa ci trovi",
+          "Distanza indicativa"
+        ],
         "rows": [
-          ["Imola", "Autodromo, centro storico, Rocca", "A due passi, pochi minuti"],
-          ["Bologna", "Portici UNESCO, le torri, aeroporto", "Circa mezz'ora d'auto"],
-          ["Ravenna", "Mosaici bizantini UNESCO, tomba di Dante", "Gita in giornata"],
-          ["Faenza", "Ceramica e museo, botteghe artigiane", "A pochi km, verso Ravenna"],
-          ["Brisighella", "Borgo tra i più belli, via degli Asini", "Una gita tra le colline"],
-          ["Colline del vino", "Cantine, Albana e Sangiovese", "A pochi minuti"]
+          [
+            "Imola",
+            "Autodromo, centro storico, Rocca",
+            "A due passi, pochi minuti"
+          ],
+          [
+            "Bologna",
+            "Portici UNESCO, le torri, aeroporto",
+            "Circa mezz'ora d'auto"
+          ],
+          [
+            "Ravenna",
+            "Mosaici bizantini UNESCO, tomba di Dante",
+            "Gita in giornata"
+          ],
+          [
+            "Faenza",
+            "Ceramica e museo, botteghe artigiane",
+            "A pochi km, verso Ravenna"
+          ],
+          [
+            "Brisighella",
+            "Borgo tra i più belli, via degli Asini",
+            "Una gita tra le colline"
+          ],
+          [
+            "Colline del vino",
+            "Cantine, Albana e Sangiovese",
+            "A pochi minuti"
+          ]
         ]
       }
     }
@@ -106,7 +134,11 @@
       "a": "Sì, Dozza è una base ideale per la Romagna: è piccola e tranquilla ma centrale, sulla via Emilia e vicino ai caselli autostradali. Da qui città d'arte, borghi e colline sono tutti a portata di macchina. La sera torni in un borgo silenzioso invece che in città."
     }
   ],
-  "related": ["cosa-vedere-a-dozza", "cosa-vedere-a-imola", "dove-dormire-a-dozza-appartamento"],
+  "related": [
+    "cosa-vedere-a-dozza",
+    "cosa-vedere-a-imola",
+    "dove-dormire-a-dozza-appartamento"
+  ],
   "sources": [
     {
       "label": "Dozza e i suoi dintorni: cosa vedere in Emilia-Romagna",

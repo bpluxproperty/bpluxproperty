@@ -1,6 +1,6 @@
 {
   "slug": "le-colline-di-dozza-e-il-vino",
-  "keyword": "colline di Dozza vino",
+  "keyword": "colline di dozza vino",
   "category": "dozza-emilia-romagna",
   "title": "Colline di Dozza e il vino: cosa assaggiare",
   "metaDescription": "Le colline di Dozza e il vino: cosa assaggiare tra Albana, primo bianco italiano a DOCG, e Sangiovese di Romagna, tra cantine e l'Enoteca nella Rocca.",
@@ -40,13 +40,37 @@
         "Per orientarvi tra i calici, ecco una piccola guida rapida: cosa aspettarsi da ogni vino e con che cosa abbinarlo."
       ],
       "table": {
-        "headers": ["Vino", "Carattere", "Da abbinare a"],
+        "headers": [
+          "Vino",
+          "Carattere",
+          "Da abbinare a"
+        ],
         "rows": [
-          ["Albana (secco)", "Bianco strutturato, frutta gialla e mandorla", "Antipasti, primi, formaggi di media stagionatura"],
-          ["Albana passito", "Dolce e dorato, miele e albicocca", "Dolci secchi, formaggi erborinati"],
-          ["Sangiovese di Romagna", "Rosso di media struttura, ciliegia e viola", "Tagliatelle al ragù, carni, salumi"],
-          ["Trebbiano di Romagna", "Bianco fresco e leggero, quotidiano", "Piadina, pesce, aperitivo"],
-          ["Pignoletto", "Bianco vivace, spesso frizzante", "Salumi, fritture, aperitivo"]
+          [
+            "Albana (secco)",
+            "Bianco strutturato, frutta gialla e mandorla",
+            "Antipasti, primi, formaggi di media stagionatura"
+          ],
+          [
+            "Albana passito",
+            "Dolce e dorato, miele e albicocca",
+            "Dolci secchi, formaggi erborinati"
+          ],
+          [
+            "Sangiovese di Romagna",
+            "Rosso di media struttura, ciliegia e viola",
+            "Tagliatelle al ragù, carni, salumi"
+          ],
+          [
+            "Trebbiano di Romagna",
+            "Bianco fresco e leggero, quotidiano",
+            "Piadina, pesce, aperitivo"
+          ],
+          [
+            "Pignoletto",
+            "Bianco vivace, spesso frizzante",
+            "Salumi, fritture, aperitivo"
+          ]
         ]
       }
     },
@@ -95,7 +119,11 @@
       "a": "Le colline di Dozza si visitano tutto l'anno, ma l'autunno, con la vendemmia e i colori dei filari, è il più suggestivo. In primavera e in estate le giornate lunghe sono ideali per unire la passeggiata nel borgo a una degustazione in cantina."
     }
   ],
-  "related": ["cosa-vedere-a-dozza", "enoteca-regionale-emilia-romagna-dozza", "dove-mangiare-a-dozza"],
+  "related": [
+    "cosa-vedere-a-dozza",
+    "enoteca-regionale-emilia-romagna-dozza",
+    "dove-mangiare-a-dozza"
+  ],
   "sources": [
     {
       "label": "Le colline del vino e la Rocca Sforzesca di Dozza",

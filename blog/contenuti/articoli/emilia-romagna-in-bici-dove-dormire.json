@@ -1,6 +1,6 @@
 {
   "slug": "emilia-romagna-in-bici-dove-dormire",
-  "keyword": "Emilia-Romagna in bici",
+  "keyword": "emilia-romagna in bici",
   "category": "dozza-emilia-romagna",
   "title": "Emilia-Romagna in bici: tappe e dove dormire",
   "metaDescription": "Emilia-Romagna in bici: la pianura della via Emilia per chi ama il piano, le colline dell'Imolese per le salite, e i borghi con buona cucina. E dove dormire.",
@@ -39,12 +39,32 @@
         "Non tutti i ciclisti cercano la stessa cosa, e per fortuna qui c'è spazio per ognuno. Prima di scegliere le tappe, aiuta capire che tipo di percorso fa per te. Ecco un confronto per orientarti, ragionato per tipo di itinerario e non per singola strada:"
       ],
       "table": {
-        "headers": ["Tipo di percorso", "Com'è", "Per chi è adatto"],
+        "headers": [
+          "Tipo di percorso",
+          "Com'è",
+          "Per chi è adatto"
+        ],
         "rows": [
-          ["Pianura e via Emilia", "Piatto, strade secondarie e argini", "Famiglie, principianti, chi ama i lunghi tranquilli"],
-          ["Colline dell'Imolese", "Saliscendi tra i vigneti, pendenze medie", "Chi vuole allenarsi senza esagerare"],
-          ["Salite verso l'Appennino", "Salite lunghe e impegnative", "Ciclisti allenati e bici da corsa"],
-          ["Anello borghi e cantine", "Misto piano-collina, tappe brevi", "Chi pedala per il gusto di fermarsi"]
+          [
+            "Pianura e via Emilia",
+            "Piatto, strade secondarie e argini",
+            "Famiglie, principianti, chi ama i lunghi tranquilli"
+          ],
+          [
+            "Colline dell'Imolese",
+            "Saliscendi tra i vigneti, pendenze medie",
+            "Chi vuole allenarsi senza esagerare"
+          ],
+          [
+            "Salite verso l'Appennino",
+            "Salite lunghe e impegnative",
+            "Ciclisti allenati e bici da corsa"
+          ],
+          [
+            "Anello borghi e cantine",
+            "Misto piano-collina, tappe brevi",
+            "Chi pedala per il gusto di fermarsi"
+          ]
         ]
       }
     },
@@ -99,7 +119,11 @@
       "a": "Dipende dal percorso che scegli. Per la pianura e gli argini va benissimo una bici da città o una gravel, mentre per le salite verso l'Appennino una bici da corsa o una e-bike rende tutto più piacevole. Il bello di questa zona è che si adatta al mezzo che hai."
     }
   ],
-  "related": ["cosa-vedere-a-dozza", "come-arrivare-a-dozza", "dove-dormire-a-dozza-appartamento"],
+  "related": [
+    "cosa-vedere-a-dozza",
+    "come-arrivare-a-dozza",
+    "dove-dormire-a-dozza-appartamento"
+  ],
   "sources": [
     {
       "label": "Cicloturismo in Emilia-Romagna: itinerari e consigli",

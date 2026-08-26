@@ -28,7 +28,7 @@
       ]
     },
     {
-      "h2": "La resa non è un numero fisso",
+      "h2": "La resa dipende dal caso specifico",
       "paragraphs": [
         "Diffida di chi promette una percentuale valida per tutti. La resa reale resta una stima indicativa finché non si calcola sul tuo immobile: dipende da occupazione, tariffa media e costi effettivi.",
         "La formula di base è semplice: quanto incassi (occupazione × tariffa media) meno i costi (pulizie, utenze, commissioni, gestione, imposte). E vale una regola d'oro: si ragiona sul netto, non sul lordo.",
@@ -36,25 +36,57 @@
       ]
     },
     {
-      "h2": "I fattori che spostano la resa",
+      "h2": "Che cosa muove i numeri, in pratica",
       "paragraphs": [
         "A Sorrento la posizione e la vista fanno una parte enorme del lavoro: lo stesso appartamento vale molto di più se guarda il golfo. Ecco i fattori principali, senza cifre: solo la direzione in cui spingono la resa."
       ],
       "table": {
-        "headers": ["Fattore", "Perché conta", "Effetto sulla resa"],
+        "headers": [
+          "Fattore",
+          "Perché conta",
+          "Effetto sulla resa"
+        ],
         "rows": [
-          ["Vista mare e affaccio sul golfo", "È ciò che l'ospite sogna e cerca per primo a Sorrento", "Alza sensibilmente la tariffa"],
-          ["Posizione e distanza dal centro", "Vicinanza a Piazza Tasso, al Corso Italia e al porto per Capri", "Più prenotazioni e prezzo difendibile"],
-          ["Prezzi dinamici", "Adeguare la tariffa a stagione, ponti ed eventi", "Recupera ricavi che il prezzo fisso lascia sul tavolo"],
-          ["Qualità di arredo e foto", "Primo filtro con cui l'ospite sceglie l'annuncio", "Più prenotazioni e occupazione"],
-          ["Terrazza o spazio esterno", "Vivere il clima mite del golfo è un forte richiamo", "Aumenta l'appeal e la tariffa media"],
-          ["Recensioni e reputazione", "Pesano sul posizionamento nell'algoritmo dei portali", "Più visibilità e meno notti sfitte"],
-          ["Prezzo d'acquisto", "È il denominatore della resa in percentuale", "Un ingresso più basso alza il rendimento"]
+          [
+            "Vista mare e affaccio sul golfo",
+            "È ciò che l'ospite sogna e cerca per primo a Sorrento",
+            "Alza sensibilmente la tariffa"
+          ],
+          [
+            "Posizione e distanza dal centro",
+            "Vicinanza a Piazza Tasso, al Corso Italia e al porto per Capri",
+            "Più prenotazioni e prezzo difendibile"
+          ],
+          [
+            "Prezzi dinamici",
+            "Adeguare la tariffa a stagione, ponti ed eventi",
+            "Recupera ricavi che il prezzo fisso lascia sul tavolo"
+          ],
+          [
+            "Qualità di arredo e foto",
+            "Primo filtro con cui l'ospite sceglie l'annuncio",
+            "Più prenotazioni e occupazione"
+          ],
+          [
+            "Terrazza o spazio esterno",
+            "Vivere il clima mite del golfo è un forte richiamo",
+            "Aumenta l'appeal e la tariffa media"
+          ],
+          [
+            "Recensioni e reputazione",
+            "Pesano sul posizionamento nell'algoritmo dei portali",
+            "Più visibilità e meno notti sfitte"
+          ],
+          [
+            "Prezzo d'acquisto",
+            "È il denominatore della resa in percentuale",
+            "Un ingresso più basso alza il rendimento"
+          ]
         ]
       }
     },
     {
-      "h2": "Le zone e la domanda",
+      "h2": "La geografia della domanda in città",
       "paragraphs": [
         "A Sorrento la zona decide sia quanto puoi chiedere sia quanto spesso prenoti. Il centro storico e il fronte mare con vista sul golfo sono il cuore della domanda; i comuni vicini della penisola offrono spesso un ingresso più accessibile all'acquisto.",
         "Un'osservazione dal campo. Da property manager Superhost notiamo che a Sorrento la stagione lunga e il ruolo di base per le escursioni tengono alta l'occupazione per gran parte dell'anno; ma sono la vista mare e la posizione a fare davvero la differenza sulla tariffa. Due immobili nella stessa via possono rendere in modo diverso solo per l'affaccio e il piano."
@@ -67,7 +99,7 @@
       ]
     },
     {
-      "h2": "I costi da mettere in conto",
+      "h2": "Quanto se ne va in costi",
       "paragraphs": [
         "La resa lorda inganna: conta quella netta. Prima di stimare il guadagno, elenca con onestà tutte le voci di costo, comprese quelle che si tende a dimenticare."
       ],
@@ -80,7 +112,7 @@
       ]
     },
     {
-      "h2": "Come conoscere il numero reale",
+      "h2": "Dal dato generico al tuo caso",
       "paragraphs": [
         "L'unico modo serio per sapere quanto rende il tuo immobile è analizzarlo: zona, affaccio, tipologia, stagionalità e concorrenza reale. Nella nostra esperienza le stime generiche prese online sbagliano quasi sempre, in un senso o nell'altro.",
         "Per questo, prima di iniziare, analizziamo gratuitamente l'immobile e ti diamo una stima costruita sui suoi numeri, non su una media di città. È la differenza tra una percentuale copiata da un articolo e la fotografia reale della tua casa a Sorrento."
@@ -109,7 +141,11 @@
       "a": "Serve un'analisi sul singolo immobile: zona, affaccio, tipologia, stagionalità e concorrenza reale. Le stime generiche online sono spesso imprecise. Possiamo calcolare gratuitamente una stima costruita sui numeri effettivi del tuo appartamento, senza impegno."
     }
   ],
-  "related": ["affitti-brevi-sorrento-guida", "quanto-rende-affitto-breve-napoli", "property-manager-affitti-brevi"],
+  "related": [
+    "affitti-brevi-sorrento-guida",
+    "quanto-rende-affitto-breve-napoli",
+    "property-manager-affitti-brevi"
+  ],
   "sources": [],
   "disclaimer": false,
   "note": ""

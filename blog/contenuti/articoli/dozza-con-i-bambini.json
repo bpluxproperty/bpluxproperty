@@ -1,6 +1,6 @@
 {
   "slug": "dozza-con-i-bambini",
-  "keyword": "Dozza con i bambini",
+  "keyword": "dozza con i bambini",
   "category": "dozza-emilia-romagna",
   "title": "Dozza con i bambini: gita in famiglia nel borgo dipinto",
   "metaDescription": "Dozza con i bambini: la caccia ai murales del borgo dipinto, la Rocca Sforzesca da esplorare e passeggiate facili tra i vicoli, a due passi da Imola.",
@@ -56,13 +56,37 @@
         "Se invece volete una giornata intera in famiglia, aggiungete una pausa lunga a pranzo, il pomeriggio nei dintorni e magari una seconda merenda. Ecco, in modo indicativo, come si distribuiscono le attività per età e durata: sono stime qualitative, ogni bambino ha i suoi tempi."
       ],
       "table": {
-        "headers": ["Attività", "Età adatta", "Durata indicativa"],
+        "headers": [
+          "Attività",
+          "Età adatta",
+          "Durata indicativa"
+        ],
         "rows": [
-          ["Caccia ai murales nel borgo", "Grandi e piccoli", "1-2 ore, con pause"],
-          ["Visita alla Rocca Sforzesca", "Dai 4-5 anni in su", "Circa un'ora"],
-          ["Passeggiata tra vicoli e portici", "Grandi e piccoli", "A piacere, senza fretta"],
-          ["Merenda o gelato", "Grandi e piccoli", "Una pausa piacevole"],
-          ["Dintorni e colline (Imola)", "Bambini grandi", "Mezza giornata"]
+          [
+            "Caccia ai murales nel borgo",
+            "Grandi e piccoli",
+            "1-2 ore, con pause"
+          ],
+          [
+            "Visita alla Rocca Sforzesca",
+            "Dai 4-5 anni in su",
+            "Circa un'ora"
+          ],
+          [
+            "Passeggiata tra vicoli e portici",
+            "Grandi e piccoli",
+            "A piacere, senza fretta"
+          ],
+          [
+            "Merenda o gelato",
+            "Grandi e piccoli",
+            "Una pausa piacevole"
+          ],
+          [
+            "Dintorni e colline (Imola)",
+            "Bambini grandi",
+            "Mezza giornata"
+          ]
         ]
       }
     },
@@ -97,7 +121,11 @@
       "a": "Imola è la meta ideale, a pochi chilometri: centro storico, spazi aperti e il celebre autodromo per le famiglie appassionate di motori. Tutt'intorno ci sono le colline della Romagna, con cantine e aziende agricole dove i grandi assaggiano e i bambini corrono all'aperto. Dozza è un'ottima base per un weekend."
     }
   ],
-  "related": ["cosa-vedere-a-dozza", "come-arrivare-a-dozza", "dove-dormire-a-dozza-appartamento"],
+  "related": [
+    "cosa-vedere-a-dozza",
+    "come-arrivare-a-dozza",
+    "dove-dormire-a-dozza-appartamento"
+  ],
   "sources": [
     {
       "label": "Dozza, il borgo dipinto e la Rocca Sforzesca",
