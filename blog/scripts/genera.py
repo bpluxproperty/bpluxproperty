@@ -95,34 +95,56 @@ def auto_link_raw(t):
             _LINK["n"]+=1; _LINK["done"].add(slug)
     for i,orig in enumerate(masks): t=t.replace(f"\x01{i}\x01",orig)
     return t
+def _quotabile(q):
+    # Una citazione deve reggere letta da sola: niente auto-presentazioni aziendali,
+    # niente connettivi o pronomi che rimandano alla frase precedente.
+    if not (45 <= len(q) <= 200): return False
+    if re.search(r"(B&P Lux Property|gestiamo (?:affitti|appartamenti|case|immobili)|lavoriamo ogni giorno|con base in Emilia-Romagna|siamo Superhost|come Superhost e|property manager in Emilia-Romagna)", q, re.I): return False
+    if re.search(r"^(?:Per\u00f2|Quindi|Invece|Cos\u00ec|Dunque|Tuttavia|Eppure|Anche|Al contrario|Questo|Questa|Questi|Queste|Ci\u00f2|Lo stesso|La stessa)\b", q): return False
+    if re.search(r"\b(?:per\u00f2|invece|al contrario)\b", q, re.I): return False
+    if not re.match(r"^[\u00ab\"\u201c]?[A-Z\u00c0\u00c8\u00c9\u00cc\u00d2\u00d9]", q): return False
+    if q.count(chr(171)) != q.count(chr(187)): return False
+    if re.search(r"\b(?:lo|la|li|le|ci|ne)\s+(?:consider|ved|trov|fac|mett|tien|chiam)\w*", q, re.I): return False
+    return True
+
+def _stacca(sec, i, off, m, si):
+    # Rimuove la frase dal paragrafo di origine, se il paragrafo resta sensato.
+    p = sec["paragraphs"][i]
+    rest = (p[:off + m.start()] + p[off + m.end():]).strip()
+    if len(rest.split()) < 12: return None
+    sec["paragraphs"][i] = re.sub(r"\s{2,}", " ", rest)
+    return f'<blockquote class="pull"><p>{inline(m.group(0).strip())}</p></blockquote>', si
+
 def pullquote_for(a):
-    # Cita solo osservazioni di esperienza, mai la presentazione aziendale, e rimuove la frase
-    # dal paragrafo di origine: altrimenti il lettore la ritrova identica poco piu sotto.
-    pat=re.compile(r"[^.!?]*\b(nostra esperienza|Nella nostra|da property manager|Superhost|lo vediamo di continuo|nel nostro lavoro|l'errore (?:più|piu|che)|abbiamo (?:visto|imparato))\b[^.!?]*[.!?]",re.I)
-    selfpres=re.compile(r"(B&P Lux Property|gestiamo (?:affitti|appartamenti|case|immobili)|lavoriamo ogni giorno|con base in Emilia-Romagna|siamo Superhost|come Superhost e)",re.I)
-    for si,sec in enumerate(a.get("sections",[])):
-        for i,p in enumerate(sec.get("paragraphs",[])):
-            hay,off=p,0
-            if i==0:
-                m0=re.search(r"[.!?]\s+",p)
+    # 1) osservazioni di esperienza, in qualunque sezione
+    pat = re.compile(r"[^.!?]*\b(nostra esperienza|Nella nostra|da property manager|Superhost|lo vediamo di continuo|nel nostro lavoro|l'errore (?:pi\u00f9|piu|che)|abbiamo (?:visto|imparato))\b[^.!?]*[.!?]", re.I)
+    secs = a.get("sections", [])
+    for si, sec in enumerate(secs):
+        for i, p in enumerate(sec.get("paragraphs", [])):
+            hay, off = p, 0
+            if i == 0:
+                m0 = re.search(r"[.!?]\s+", p)
                 if not m0: continue
-                off=m0.end(); hay=p[off:]
-            m=pat.search(hay)
+                off = m0.end(); hay = p[off:]
+            m = pat.search(hay)
             if not m: continue
-            q=m.group(0).strip()
-            if not (45<=len(q)<=210): continue
-            if selfpres.search(q): continue
-            # scarta le frasi che dipendono da cio' che le precede: estratte dal
-            # paragrafo diventano incomprensibili ("pero'", "lo consideriamo", "questo")
-            if re.search(r"^(?:Però|Quindi|Invece|Così|Dunque|Tuttavia|Eppure|Anche|Al contrario)\b",q): continue
-            if re.search(r"\b(?:però|invece|al contrario)\b",q,re.I): continue
-            if re.search(r"^[a-zàèéìòù]",q): continue
-            if re.search(r"\b(?:lo|la|li|le|ci|ne)\s+(?:consider|ved|trov|fac|mett|tien|chiam)\w*",q,re.I): continue
-            rest=(p[:off+m.start()]+p[off+m.end():]).strip()
-            if len(rest.split())<12: continue
-            sec["paragraphs"][i]=re.sub(r"\s{2,}"," ",rest)
-            return f'<blockquote class="pull"><p>{inline(q)}</p></blockquote>', si
+            if not _quotabile(m.group(0).strip()): continue
+            r = _stacca(sec, i, off, m, si)
+            if r: return r
+    # 2) frase-massima nelle ultime due sezioni (chiusure del tipo "X, non Y")
+    massima = re.compile(r"(?:,\s*non\s|\bnon si\b|\bvale (?:di pi\u00f9|il doppio|pi\u00f9|piu|quanto)\b|\bpesa (?:pi\u00f9|piu|quanto)\b|\bconta (?:pi\u00f9|piu)\b|\bsi difende\b|\bnon basta\b|\bnon converte\b|\bnon perde\b)", re.I)
+    for si in range(len(secs) - 1, max(len(secs) - 3, -1), -1):
+        sec = secs[si]
+        for i, p in enumerate(sec.get("paragraphs", [])):
+            for m in re.finditer(r"[^.!?]+[.!?]", p):
+                if i == 0 and m.start() == 0: continue
+                q = m.group(0).strip()
+                if not _quotabile(q): continue
+                if not massima.search(q): continue
+                r = _stacca(sec, i, 0, m, si)
+                if r: return r
     return "", -1
+
 def paras(lst, ab=False): return "".join(f"<p>{inline(auto_bold_raw(auto_link_raw(p)) if ab else p)}</p>" for p in (lst or []))
 def ul(lst, ab=False):
     if not lst: return ""
