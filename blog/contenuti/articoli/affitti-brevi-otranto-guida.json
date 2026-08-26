@@ -36,8 +36,8 @@
       "table": {
         "headers": [
           "Zona",
-          "Vocazione",
-          "Ospiti tipici"
+          "A cosa serve",
+          "Chi ci dorme"
         ],
         "rows": [
           [
@@ -64,7 +64,7 @@
       }
     },
     {
-      "h2": "Che ospiti aspettarti",
+      "h2": "Chi suona il campanello",
       "paragraphs": [
         "Il pubblico cambia con la stagione, e conoscerlo aiuta ad arredare e comunicare nel modo giusto. D'estate domina il turismo balneare; nelle mezze stagioni pesano di più il borgo, la cultura e i weekend."
       ],
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "h2": "Gli obblighi che non conviene saltare",
+      "h2": "Cosa serve per affittare in regola",
       "paragraphs": [
         "Affittare in modo serio significa essere in regola. A Otranto, come nel resto d'Italia, ci sono adempimenti di base da conoscere prima di pubblicare l'annuncio.",
         "Le regole cambiano e vanno sempre verificate presso le fonti ufficiali. Qui trovi solo la sintesi, non un parere fiscale o legale."
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "h2": "Dalla gestione quotidiana: a Otranto l'estate è tutto, ma dura poco",
+      "h2": "Quello che vediamo: a Otranto l'estate è tutto, ma dura poco",
       "paragraphs": [
         "Come Superhost che gestiscono case altrui, mettiamo in guardia su una cosa. La sede è in Emilia-Romagna, però le regole del gioco cambiano poco da una meta all'altra.",
         "Su una piazza così stagionale vediamo sempre lo stesso rischio: concentrare tutto sull'estate e improvvisare il resto. Chi tiene un prezzo unico riempie ad agosto ma resta vuoto per mesi; e chi cura poco l'arrivo nel centro storico, tra traffico estivo, accesso auto limitato e parcheggio lontano, trasforma una casa bellissima in una recensione tiepida.",

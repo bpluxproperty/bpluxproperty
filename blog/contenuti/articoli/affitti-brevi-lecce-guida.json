@@ -26,8 +26,8 @@
       "table": {
         "headers": [
           "Zona",
-          "Vocazione",
-          "Ospiti tipici"
+          "Vocazione prevalente",
+          "Chi prenota di più"
         ],
         "rows": [
           [
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "h2": "Cosa serve per affittare in regola",
+      "h2": "Le pratiche da chiudere prima del primo ospite",
       "paragraphs": [
         "Come ovunque in Italia, per affittare a breve serve il CIN, va comunicata la presenza degli ospiti e si applica l'imposta di soggiorno comunale. Sono adempimenti gestibili, ma vanno fatti bene fin dall'inizio.",
         "Non è un parere fiscale o legale: verifica le regole aggiornate del Comune di Lecce e, per il codice, la nostra guida dedicata al CIN."

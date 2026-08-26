@@ -47,8 +47,8 @@
       "table": {
         "headers": [
           "Zona",
-          "Vocazione",
-          "Ospiti tipici"
+          "Vocazione prevalente",
+          "Chi prenota di più"
         ],
         "rows": [
           [
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "h2": "Un'osservazione dal campo: vendi la posizione, non solo la casa",
+      "h2": "Dalla pratica: vendi la posizione, non solo la casa",
       "paragraphs": [
         "La nostra esperienza da property manager Superhost porta a una conclusione precisa. La nostra base è in Emilia-Romagna e quello che funziona qui funziona anche altrove, con i dovuti aggiustamenti. E qui un principio vale più che altrove.",
         "L'ospite non compra la casa: compra la posizione. Chi prenota a La Spezia lo fa per le Cinque Terre. Un annuncio che spiega bene i minuti dalla stazione, gli orari dei treni e i consigli sui borghi vende molto più di uno che elenca solo metri quadri e arredi.",

@@ -27,8 +27,8 @@
       "table": {
         "headers": [
           "Zona",
-          "Vocazione",
-          "Ospiti tipici"
+          "Come vive",
+          "Chi la sceglie"
         ],
         "rows": [
           [
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "h2": "Il lato amministrativo dell'affitto breve",
+      "h2": "La parte noiosa: codici, tributi e comunicazioni",
       "paragraphs": [
         "Affittare a Como in modo serio significa essere in regola prima ancora di pubblicare l'annuncio. Gli adempimenti di base sono gli stessi del resto d'Italia e non vanno trattati come formalità: sono le condizioni per restare online ed evitare sanzioni.",
         "In Lombardia, come nel resto del Paese, serve il CIN, il Codice Identificativo Nazionale gestito dal Ministero del Turismo. Vanno poi comunicati i dati degli ospiti e gestita l'imposta di soggiorno, che a Como è stabilita dal Comune. Importi e modalità possono cambiare, quindi conviene verificarli presso le fonti ufficiali prima di iniziare."

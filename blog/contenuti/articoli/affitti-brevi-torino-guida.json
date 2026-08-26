@@ -26,9 +26,9 @@
       ],
       "table": {
         "headers": [
-          "Zona",
-          "Vocazione",
-          "Ospiti tipici"
+          "Area",
+          "Carattere",
+          "Chi prenota"
         ],
         "rows": [
           [

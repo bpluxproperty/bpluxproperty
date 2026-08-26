@@ -112,6 +112,12 @@ def pullquote_for(a):
             q=m.group(0).strip()
             if not (45<=len(q)<=210): continue
             if selfpres.search(q): continue
+            # scarta le frasi che dipendono da cio' che le precede: estratte dal
+            # paragrafo diventano incomprensibili ("pero'", "lo consideriamo", "questo")
+            if re.search(r"^(?:Però|Quindi|Invece|Così|Dunque|Tuttavia|Eppure|Anche|Al contrario)\b",q): continue
+            if re.search(r"\b(?:però|invece|al contrario)\b",q,re.I): continue
+            if re.search(r"^[a-zàèéìòù]",q): continue
+            if re.search(r"\b(?:lo|la|li|le|ci|ne)\s+(?:consider|ved|trov|fac|mett|tien|chiam)\w*",q,re.I): continue
             rest=(p[:off+m.start()]+p[off+m.end():]).strip()
             if len(rest.split())<12: continue
             sec["paragraphs"][i]=re.sub(r"\s{2,}"," ",rest)
@@ -482,7 +488,7 @@ def render_guida():
     ld=[{"@context":"https://schema.org","@type":"CollectionPage","name":"Guida del proprietario per gli affitti brevi","description":"Guida passo dopo passo per mettere a reddito la tua seconda casa con gli affitti brevi."},
         {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Blog","item":S["url"]+"/blog/"},{"@type":"ListItem","position":2,"name":"Guida del proprietario","item":S["url"]+"/blog/guida-proprietario/"}]}]
     out=os.path.join(OUT,"guida-proprietario","index.html"); os.makedirs(os.path.dirname(out),exist_ok=True)
-    open(out,"w",encoding="utf-8").write(page("Guida del proprietario: mettere a reddito casa | B&P Lux Property","Guida completa passo dopo passo per mettere a reddito la tua seconda casa con gli affitti brevi: regole, fisco, preparazione, gestione. O la gestiamo noi a costo iniziale zero.",S["url"]+"/blog/guida-proprietario/",body,ld))
+    open(out,"w",encoding="utf-8").write(page("Affitti brevi: la guida del proprietario | B&P Lux Property","Guida passo dopo passo per mettere a reddito la tua seconda casa con gli affitti brevi: regole, fisco, preparazione e gestione. O la gestiamo noi.",S["url"]+"/blog/guida-proprietario/",body,ld))
 
 # ---------------- RECENSIONI / REPUTAZIONE ----------------
 REP=ent.get("reputazione",{})

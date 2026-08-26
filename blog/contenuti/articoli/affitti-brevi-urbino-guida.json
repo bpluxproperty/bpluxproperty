@@ -48,8 +48,8 @@
       "table": {
         "headers": [
           "Zona",
-          "Vocazione",
-          "Ospiti tipici"
+          "Vocazione prevalente",
+          "Chi prenota di più"
         ],
         "rows": [
           [
@@ -94,7 +94,7 @@
       ]
     },
     {
-      "h2": "In regola con Comune, Questura e piattaforme",
+      "h2": "Codice CIN, tassa di soggiorno e dati degli ospiti",
       "paragraphs": [
         "Affittare a Urbino in modo serio significa essere in regola. Come nel resto d'Italia ci sono adempimenti di base da conoscere prima ancora di pubblicare l'annuncio, e vanno seguiti con precisione, immobile per immobile: non sono formalità, ma condizioni per restare online ed evitare sanzioni.",
         "Le regole possono cambiare e vanno sempre verificate presso le fonti ufficiali, a partire dal Comune di Urbino per l'imposta di soggiorno. Il centro storico è inoltre patrimonio UNESCO: contesti così tutelati possono avere vincoli o regole locali specifiche, che è bene verificare prima di comprare o avviare l'attività. Qui trovi solo la sintesi degli adempimenti principali, non un parere fiscale o legale."

@@ -27,8 +27,8 @@
       "table": {
         "headers": [
           "Zona",
-          "Vocazione",
-          "Ospiti tipici"
+          "Vocazione prevalente",
+          "Chi prenota di più"
         ],
         "rows": [
           [
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "h2": "Regole e adempimenti: il minimo indispensabile",
+      "h2": "Le regole da mettere a posto prima del primo ospite",
       "paragraphs": [
         "Affittare a Bergamo in modo serio significa essere in regola prima ancora di pubblicare l'annuncio. Gli adempimenti di base sono gli stessi del resto d'Italia e non vanno trattati come formalità: sono le condizioni per restare online ed evitare sanzioni, che si applicano per singolo immobile.",
         "Le regole possono cambiare e vanno sempre verificate presso le fonti ufficiali. Qui trovi solo la sintesi, non un parere fiscale o legale."

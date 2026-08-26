@@ -46,8 +46,8 @@
       "table": {
         "headers": [
           "Zona",
-          "Vocazione",
-          "Ospiti tipici"
+          "Vocazione prevalente",
+          "Chi prenota di più"
         ],
         "rows": [
           [
@@ -84,7 +84,7 @@
       }
     },
     {
-      "h2": "Che cosa chiedono il Comune e la Questura",
+      "h2": "Le regole da mettere a posto prima del primo ospite",
       "paragraphs": [
         "Affittare in modo serio significa essere in regola. A Firenze, come nel resto d'Italia, ci sono adempimenti di base da conoscere prima di pubblicare un annuncio.",
         "Le regole cambiano e vanno sempre verificate presso le fonti ufficiali. Qui trovi solo la sintesi, non un parere fiscale o legale."

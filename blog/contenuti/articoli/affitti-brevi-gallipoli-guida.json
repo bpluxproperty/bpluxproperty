@@ -36,8 +36,8 @@
       "table": {
         "headers": [
           "Zona",
-          "Vocazione",
-          "Ospiti tipici"
+          "Come vive",
+          "Chi la sceglie"
         ],
         "rows": [
           [
@@ -64,7 +64,7 @@
       }
     },
     {
-      "h2": "Che ospiti aspettarti",
+      "h2": "A chi stai affittando",
       "paragraphs": [
         "Il pubblico cambia con la zona e con la stagione, e conoscerlo aiuta ad arredare e comunicare nel modo giusto. D'estate dominano mare e movida; nelle mezze stagioni pesano di più la città vecchia, la cultura e i weekend."
       ],
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "h2": "Codice identificativo, imposta di soggiorno e comunicazioni: come funziona",
+      "h2": "Gli obblighi che non conviene saltare",
       "paragraphs": [
         "Affittare in modo serio significa essere in regola. A Gallipoli, come nel resto d'Italia, ci sono adempimenti di base da conoscere prima di pubblicare l'annuncio.",
         "Le regole cambiano e vanno sempre verificate presso le fonti ufficiali. Qui trovi solo la sintesi, non un parere fiscale o legale."
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "h2": "Un'osservazione dal campo: a Gallipoli scegli prima il tuo ospite",
+      "h2": "Dal nostro lavoro: a Gallipoli scegli prima il tuo ospite",
       "paragraphs": [
         "Gestendo case per conto di altri, una cosa l'abbiamo vista ripetersi in ogni mercato. La nostra base è in Emilia-Romagna e quello che funziona qui funziona anche altrove, con i dovuti aggiustamenti.",
         "Su una piazza così stagionale e così divisa in due vediamo sempre lo stesso rischio: puntare tutto sull'estate e non decidere a chi rivolgersi. Chi tiene un prezzo unico riempie ad agosto ma resta vuoto per mesi; e chi affitta in zona movida senza dirlo con chiarezza si ritrova ospiti sbagliati e recensioni tiepide.",

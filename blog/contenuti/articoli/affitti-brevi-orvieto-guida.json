@@ -48,8 +48,8 @@
       "table": {
         "headers": [
           "Zona",
-          "Vocazione",
-          "Ospiti tipici"
+          "A cosa serve",
+          "Chi ci dorme"
         ],
         "rows": [
           [
@@ -94,7 +94,7 @@
       ]
     },
     {
-      "h2": "Stagionalità: una domanda distribuita sull'anno",
+      "h2": "Il calendario: una domanda distribuita sull'anno",
       "paragraphs": [
         "A differenza delle mete di mare, che vivono di pochi mesi caldi, Orvieto ha una stagionalità più morbida. Il turismo culturale ed enogastronomico distribuisce la domanda su gran parte dell'anno: primavera e autunno sono i periodi più pieni, l'estate porta i visitatori di passaggio sulla Roma-Firenze e i flussi internazionali, mentre ponti e festività animano anche i mesi più freddi.",
         "Nella nostra esperienza da property manager, sono proprio le destinazioni a doppia vocazione — arte ed enoturismo — tra le più equilibrate da gestire, perché la domanda arriva da più fonti e in momenti diversi. Il vantaggio, però, si raccoglie solo con prezzi che seguono davvero il calendario e aprendo le date con anticipo sugli appuntamenti forti, il cui calendario va sempre verificato sulle fonti ufficiali."
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "h2": "Codice identificativo, imposta di soggiorno e comunicazioni: come funziona",
+      "h2": "Regole e adempimenti: il minimo indispensabile",
       "paragraphs": [
         "Affittare a Orvieto in modo serio significa essere in regola. Come nel resto d'Italia ci sono adempimenti di base da conoscere prima ancora di pubblicare l'annuncio, e vanno seguiti con precisione, immobile per immobile: non sono formalità, ma condizioni per restare online ed evitare sanzioni.",
         "Le regole possono cambiare e vanno sempre verificate presso le fonti ufficiali, a partire dal Comune di Orvieto per l'imposta di soggiorno. Qui trovi solo la sintesi degli adempimenti principali, non un parere fiscale o legale. Per il CIN, primo passo per pubblicare un annuncio a norma, rimandiamo alla nostra guida dedicata, dove spieghiamo cos'è e come si ottiene."
@@ -142,7 +142,7 @@
     },
     {
       "q": "Serve il CIN per affittare a Orvieto?",
-      "a": "Sì, il CIN, il Codice Identificativo Nazionale, è obbligatorio per gli affitti brevi in tutta Italia, Orvieto compresa, e va indicato negli annunci. Si aggiungono la comunicazione dei dati degli ospiti tramite Alloggiati Web e l'imposta di soggiorno comunale. Per la procedura completa rimandiamo alla nostra guida dedicata al CIN."
+      "a": "Sì, il CIN, il Codice Identificativo Nazionale, è obbligatorio per gli affitti brevi in tutta Italia, Orvieto compresa, e va indicato negli annunci. Si aggiungono la comunicazione dei dati degli ospiti tramite Alloggiati Web e l'imposta di soggiorno comunale. Trovi la procedura, con i passaggi in ordine, nella nostra guida al CIN."
     },
     {
       "q": "Si può gestire un affitto breve a Orvieto senza auto?",

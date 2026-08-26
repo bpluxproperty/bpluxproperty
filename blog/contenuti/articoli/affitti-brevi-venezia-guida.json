@@ -46,8 +46,8 @@
       "table": {
         "headers": [
           "Zona",
-          "Vocazione",
-          "Ospiti tipici"
+          "Come vive",
+          "Chi la sceglie"
         ],
         "rows": [
           [
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "h2": "Regole e adempimenti: il minimo indispensabile",
+      "h2": "La parte noiosa: codici, tributi e comunicazioni",
       "paragraphs": [
         "Affittare a Venezia in modo serio significa essere in regola. Come nel resto d'Italia ci sono adempimenti di base da conoscere prima ancora di pubblicare l'annuncio. Non sono formalità: sono le condizioni per restare online ed evitare sanzioni, che si applicano per singolo immobile. A Venezia si sommano poi i vincoli locali sul centro storico.",
         "Le regole cambiano e vanno sempre verificate presso le fonti ufficiali. Qui trovi solo la sintesi degli adempimenti principali, non un parere fiscale o legale. Per il CIN, che è il primo passo per pubblicare un annuncio a norma, rimandiamo alla nostra guida dedicata, dove spieghiamo cos'è e come si ottiene."
@@ -136,7 +136,7 @@
     },
     {
       "q": "Serve il CIN per affittare a Venezia?",
-      "a": "Sì. Il CIN, il Codice Identificativo Nazionale, è obbligatorio per gli affitti brevi in tutta Italia, Venezia compresa, e va indicato negli annunci. A Venezia si aggiungono l'imposta di soggiorno e i vincoli locali sul centro storico. Per la procedura completa rimandiamo alla nostra guida dedicata al CIN."
+      "a": "Sì. Il CIN, il Codice Identificativo Nazionale, è obbligatorio per gli affitti brevi in tutta Italia, Venezia compresa, e va indicato negli annunci. A Venezia si aggiungono l'imposta di soggiorno e i vincoli locali sul centro storico. Trovi la procedura, con i passaggi in ordine, nella nostra guida al CIN."
     },
     {
       "q": "Che cos'è il contributo di accesso a Venezia?",

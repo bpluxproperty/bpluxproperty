@@ -33,9 +33,9 @@
       ],
       "table": {
         "headers": [
-          "Zona",
-          "Vocazione",
-          "Ospiti tipici"
+          "Area",
+          "Carattere",
+          "Chi prenota"
         ],
         "rows": [
           [
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "h2": "Quello che abbiamo imparato: ad Alberobello si affitta un trullo, non una stanza",
+      "h2": "Il punto che ci portiamo dietro: ad Alberobello si affitta un trullo, non una stanza",
       "paragraphs": [
         "Come Superhost che gestiscono case altrui, mettiamo in guardia su una cosa. La nostra base è in Emilia-Romagna e quello che funziona qui funziona anche altrove, con i dovuti aggiustamenti.",
         "Su una destinazione così esperienziale abbiamo imparato una cosa che vale più che altrove: l'ospite prenota un sogno e va accompagnato nella realtà. Chi sceglie un trullo immagina la foto del cono in pietra e l'atmosfera del borgo; poi arriva con le valigie e trova vicoli, magari qualche gradino e spazi disegnati dalla forma del cono. Se l'annuncio non lo ha preparato, anche un trullo bellissimo rischia una recensione tiepida.",
@@ -141,7 +141,7 @@
     },
     {
       "q": "Serve il CIN per affittare ad Alberobello?",
-      "a": "Sì. Il CIN, il Codice Identificativo Nazionale, è obbligatorio per gli affitti brevi in tutta Italia, Alberobello inclusa, e va indicato negli annunci. Per la procedura completa rimandiamo alla nostra guida dedicata al CIN."
+      "a": "Sì. Il CIN, il Codice Identificativo Nazionale, è obbligatorio per gli affitti brevi in tutta Italia, Alberobello inclusa, e va indicato negli annunci. Il percorso per richiederlo è descritto nella guida al CIN."
     },
     {
       "q": "Alberobello è una buona base per visitare la Puglia?",

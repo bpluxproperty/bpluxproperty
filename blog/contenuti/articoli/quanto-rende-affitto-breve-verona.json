@@ -40,9 +40,9 @@
       ],
       "table": {
         "headers": [
-          "Fattore",
-          "Perché conta",
-          "Effetto sulla resa"
+          "Voce",
+          "Perché pesa",
+          "Effetto sul risultato"
         ],
         "rows": [
           [
@@ -122,7 +122,7 @@
       ]
     },
     {
-      "h2": "Come stimare la resa reale del tuo immobile",
+      "h2": "Come si stima quanto può rendere una casa",
       "paragraphs": [
         "A parole la formula è semplice: ricavo uguale tariffa media giornaliera per notti prenotate in un anno, meno i costi. Il difficile è stimare bene ogni ingrediente, perché a Verona tariffa, occupazione e costi cambiano molto tra centro storico, zona fiera e semicentro, e tra alta stagione e periodi più lenti.",
         "È qui che l'analisi sul singolo appartamento fa la differenza: solo guardando dati reali di zona e calendario si passa da una stima indicativa a un numero su cui decidere. Il valore vero non è mai una media copiata da un articolo, ma la fotografia della tua casa: zona, metratura, arredo e stagione in cui apri le prenotazioni. Come property manager partiamo sempre da qui, con un'analisi dell'immobile senza impegno che traduce la stima in numeri realistici. Un metodo prudente, per non illudersi, passa da quattro passi:"

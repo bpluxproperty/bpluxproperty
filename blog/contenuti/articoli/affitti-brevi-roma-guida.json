@@ -20,8 +20,8 @@
       "table": {
         "headers": [
           "Zona",
-          "Vocazione",
-          "Ospiti tipici"
+          "A cosa serve",
+          "Chi ci dorme"
         ],
         "rows": [
           [
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "h2": "Adempimenti: codice identificativo, tassa di soggiorno e Questura",
+      "h2": "Gli obblighi di legge, in ordine di priorità",
       "paragraphs": [
         "Affittare in modo serio significa essere in regola. A Roma, come nel resto d'Italia, ci sono adempimenti di base da conoscere prima di pubblicare un annuncio.",
         "Le regole cambiano e vanno sempre verificate presso le fonti ufficiali. Qui trovi solo la sintesi, non un parere fiscale o legale."
@@ -120,7 +120,7 @@
       ]
     },
     {
-      "h2": "Quello che notiamo casa dopo casa: il metodo conta più della città",
+      "h2": "Quello che vediamo: il metodo conta più della città",
       "paragraphs": [
         "Come Superhost che gestiscono case altrui, mettiamo in guardia su una cosa. La sede è in Emilia-Romagna, però le regole del gioco cambiano poco da una meta all'altra.",
         "Quello che vediamo ogni giorno vale anche nella Capitale: prezzi dinamici, annunci curati, ospiti seguiti bene e burocrazia in ordine fanno la differenza tra un immobile pieno e uno vuoto metà anno. In un mercato competitivo come Roma questa differenza pesa ancora di più.",
@@ -135,7 +135,7 @@
     },
     {
       "q": "Serve il CIN per affittare a Roma?",
-      "a": "Sì. Il CIN, il Codice Identificativo Nazionale, è obbligatorio per gli affitti brevi in tutta Italia, Roma inclusa. Per la procedura completa rimandiamo alla nostra guida dedicata al CIN."
+      "a": "Sì. Il CIN, il Codice Identificativo Nazionale, è obbligatorio per gli affitti brevi in tutta Italia, Roma inclusa. Come si richiede, passo per passo, lo spieghiamo nella guida al CIN."
     },
     {
       "q": "Che regole comunali prevede Roma per gli affitti brevi?",

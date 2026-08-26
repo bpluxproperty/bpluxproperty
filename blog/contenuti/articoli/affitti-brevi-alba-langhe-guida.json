@@ -27,8 +27,8 @@
       "table": {
         "headers": [
           "Zona",
-          "Vocazione",
-          "Ospiti tipici"
+          "Vocazione prevalente",
+          "Chi prenota di più"
         ],
         "rows": [
           [
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "h2": "Il lato amministrativo dell'affitto breve",
+      "h2": "Codice identificativo, imposta di soggiorno e comunicazioni: come funziona",
       "paragraphs": [
         "Affittare tra Alba e le Langhe in modo serio significa essere in regola prima ancora di pubblicare l'annuncio. Gli adempimenti di base sono gli stessi del resto d'Italia e non vanno trattati come formalità: sono le condizioni per restare online ed evitare sanzioni, che si applicano per singolo immobile.",
         "In Piemonte, come nel resto del Paese, serve il CIN, il Codice Identificativo Nazionale gestito dal Ministero del Turismo. Vanno poi comunicati i dati degli ospiti e gestita l'imposta di soggiorno, che ogni Comune stabilisce in autonomia. Importi e modalità possono cambiare e vanno verificati presso le fonti ufficiali: qui trovi solo la sintesi, non un parere fiscale o legale."

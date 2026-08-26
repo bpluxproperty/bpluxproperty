@@ -40,9 +40,9 @@
       ],
       "table": {
         "headers": [
-          "Fattore",
-          "Perché conta",
-          "Effetto sulla resa"
+          "Voce",
+          "Perché pesa",
+          "Effetto sul risultato"
         ],
         "rows": [
           [
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "h2": "Le voci di spesa che riducono il lordo",
+      "h2": "Dal lordo al netto: dove si perde per strada",
       "paragraphs": [
         "La resa lorda inganna: conta quella netta. Prima di stimare il guadagno, elenca con onestà tutte le voci di costo, comprese quelle che si tende a dimenticare."
       ],

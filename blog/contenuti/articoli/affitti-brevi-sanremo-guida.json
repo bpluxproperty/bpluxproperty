@@ -49,8 +49,8 @@
       "table": {
         "headers": [
           "Zona",
-          "Vocazione",
-          "Ospiti tipici"
+          "Che cosa offre",
+          "Chi la cerca"
         ],
         "rows": [
           [
@@ -105,7 +105,7 @@
       ]
     },
     {
-      "h2": "Burocrazia locale: CIN, imposta di soggiorno e ospiti da comunicare",
+      "h2": "Il minimo da sistemare per essere in regola",
       "paragraphs": [
         "Affittare in modo serio significa essere in regola. A Sanremo, come nel resto d'Italia, ci sono adempimenti di base da conoscere prima ancora di pubblicare l'annuncio. Non sono formalità, ma condizioni per restare online e per evitare sanzioni, che di norma si applicano per singolo immobile.",
         "Le regole possono cambiare e vanno sempre verificate presso le fonti ufficiali. Qui trovi solo la sintesi, non un parere fiscale o legale. Il Comune di Sanremo può prevedere adempimenti propri, quindi conviene informarsi prima di iniziare e restare aggiornati nel tempo."
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "h2": "Quello che vediamo: a Sanremo il calendario si gioca sugli eventi",
+      "h2": "Dalla gestione quotidiana: a Sanremo il calendario si gioca sugli eventi",
       "paragraphs": [
         "Dopo anni passati a gestire immobili per i proprietari, il punto è questo. Lavoriamo dall'Emilia-Romagna, ma le leve che fanno rendere una casa sono le stesse in ogni mercato. E qui un principio torna più spesso che altrove.",
         "La differenza la fa il calendario. In una città come Sanremo, dove la domanda è meno stagionale ma concentra il suo valore in poche settimane di eventi, chi lascia le tariffe ferme rende molto meno del possibile. Prezzi dinamici, soggiorni minimi e date aperte per tempo valgono più di qualsiasi arredo.",
@@ -145,7 +145,7 @@
     },
     {
       "q": "Serve il CIN per affittare a Sanremo?",
-      "a": "Sì. Il CIN, il Codice Identificativo Nazionale, è obbligatorio per gli affitti brevi in tutta Italia, Sanremo inclusa, e va indicato negli annunci. A questo si aggiungono la comunicazione dei dati degli ospiti e l'imposta di soggiorno comunale. Per la procedura completa rimandiamo alla nostra guida dedicata al CIN."
+      "a": "Sì. Il CIN, il Codice Identificativo Nazionale, è obbligatorio per gli affitti brevi in tutta Italia, Sanremo inclusa, e va indicato negli annunci. A questo si aggiungono la comunicazione dei dati degli ospiti e l'imposta di soggiorno comunale. Il percorso per richiederlo è descritto nella guida al CIN."
     },
     {
       "q": "Come funziona l'imposta di soggiorno a Sanremo?",

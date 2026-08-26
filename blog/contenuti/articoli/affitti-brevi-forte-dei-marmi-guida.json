@@ -34,8 +34,8 @@
       "table": {
         "headers": [
           "Zona",
-          "Vocazione",
-          "Ospiti tipici"
+          "Vocazione prevalente",
+          "Chi prenota di più"
         ],
         "rows": [
           [
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "h2": "In regola con Comune, Questura e piattaforme",
+      "h2": "Il lato amministrativo dell'affitto breve",
       "paragraphs": [
         "Affittare a Forte dei Marmi in modo serio significa essere in regola prima ancora di pubblicare l'annuncio. Gli adempimenti di base sono gli stessi del resto d'Italia e non sono formalità: sono le condizioni per restare online ed evitare sanzioni, e valgono per ogni singolo immobile.",
         "Le regole possono cambiare e vanno sempre verificate presso le fonti ufficiali. Qui trovi solo la sintesi degli adempimenti principali, non un parere fiscale o legale."

@@ -47,9 +47,9 @@
       ],
       "table": {
         "headers": [
-          "Fattore",
-          "Perché conta",
-          "Effetto sulla resa"
+          "Elemento",
+          "Che cosa cambia",
+          "Impatto sulla resa"
         ],
         "rows": [
           [

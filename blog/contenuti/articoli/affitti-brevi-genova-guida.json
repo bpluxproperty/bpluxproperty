@@ -34,8 +34,8 @@
       "table": {
         "headers": [
           "Zona",
-          "Vocazione",
-          "Ospiti tipici"
+          "Vocazione prevalente",
+          "Chi prenota di più"
         ],
         "rows": [
           [
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "h2": "Adempimenti: codice identificativo, tassa di soggiorno e Questura",
+      "h2": "Che cosa chiedono il Comune e la Questura",
       "paragraphs": [
         "Affittare in modo serio significa essere in regola. A Genova, come nel resto d'Italia, ci sono adempimenti di base da conoscere prima ancora di pubblicare l'annuncio. Non sono formalità, ma condizioni per restare online e per evitare sanzioni, che di norma si applicano per singolo immobile.",
         "Le regole possono cambiare e vanno sempre verificate presso le fonti ufficiali. Qui trovi solo la sintesi, non un parere fiscale o legale. Il Comune di Genova può prevedere adempimenti propri, quindi conviene informarsi prima di iniziare e restare aggiornati nel tempo, senza dare nulla per scontato."
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "h2": "Dal nostro lavoro: nei caruggi conta la via, non solo il quartiere",
+      "h2": "Quello che abbiamo imparato: nei caruggi conta la via, non solo il quartiere",
       "paragraphs": [
         "Da chi si occupa di affitti brevi per mestiere, un'osservazione concreta. Partiamo dall'Emilia-Romagna e adattiamo lo stesso metodo alle caratteristiche di ogni località. E su una città così verticale un dettaglio torna più spesso che altrove.",
         "Nei caruggi la via specifica pesa quanto il quartiere. Due appartamenti vicini possono rendere in modo diverso: conta se il vicolo è luminoso o buio, a che piano si trova la casa, quanto è comodo arrivare con i bagagli e se il palazzo è tranquillo di sera.",
