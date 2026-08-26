@@ -25,13 +25,43 @@
         "Ecco una mappa sintetica delle principali zone, con la vocazione, la stagione in cui rendono di più e il tipo di ospite che intercettano più spesso. Usala come punto di partenza prima di acquistare o mettere a reddito un appartamento: a Merano contano soprattutto la vicinanza alle terme, alle passeggiate e al centro, e la posizione è una scelta che ti porti dietro per anni."
       ],
       "table": {
-        "headers": ["Zona", "Vocazione", "Stagione più forte", "Ospiti tipici"],
+        "headers": [
+          "Zona",
+          "Vocazione",
+          "Stagione più forte",
+          "Ospiti tipici"
+        ],
         "rows": [
-          ["Centro storico e passeggiate (Portici, Lungo Passirio)", "Cuore elegante, terme e shopping, vivo gran parte dell'anno", "Tutto l'anno", "Coppie, city break, benessere e cultura"],
-          ["Vicino alle Terme di Merano", "Comoda per i soggiorni wellness, a piedi dal centro", "Tutto l'anno", "Coppie, benessere, soggiorni più lunghi"],
-          ["Colline panoramiche (Maia Alta / Obermais)", "Residenziale ed elegante, con vista sulla conca", "Primavera ed estate", "Soggiorni curati, coppie, quiete"],
-          ["Zona Giardini di Trauttmansdorff e verde", "Vicino alla grande attrazione botanica", "Primavera e autunno", "Famiglie, coppie, amanti della natura"],
-          ["Merano come base per le valli", "Partenza per Val Venosta, Val Passiria e Dolomiti", "Inverno ed estate", "Escursionisti, sciatori, famiglie"]
+          [
+            "Centro storico e passeggiate (Portici, Lungo Passirio)",
+            "Cuore elegante, terme e shopping, vivo gran parte dell'anno",
+            "Tutto l'anno",
+            "Coppie, city break, benessere e cultura"
+          ],
+          [
+            "Vicino alle Terme di Merano",
+            "Comoda per i soggiorni wellness, a piedi dal centro",
+            "Tutto l'anno",
+            "Coppie, benessere, soggiorni più lunghi"
+          ],
+          [
+            "Colline panoramiche (Maia Alta / Obermais)",
+            "Residenziale ed elegante, con vista sulla conca",
+            "Primavera ed estate",
+            "Soggiorni curati, coppie, quiete"
+          ],
+          [
+            "Zona Giardini di Trauttmansdorff e verde",
+            "Vicino alla grande attrazione botanica",
+            "Primavera e autunno",
+            "Famiglie, coppie, amanti della natura"
+          ],
+          [
+            "Merano come base per le valli",
+            "Partenza per Val Venosta, Val Passiria e Dolomiti",
+            "Inverno ed estate",
+            "Escursionisti, sciatori, famiglie"
+          ]
         ]
       }
     },
@@ -52,7 +82,7 @@
     {
       "h2": "Che ospiti aspettarti a Merano",
       "paragraphs": [
-        "A Merano l'ospite tipo cerca soprattutto benessere e natura. È una clientela meno frettolosa di quella delle grandi città d'arte, che sceglie la qualità e tende a fermarsi più a lungo. Ma non è un pubblico unico: accanto a chi viene per le Terme ci sono famiglie, escursionisti e appassionati di enogastronomia. Ecco i profili che alimentano più spesso le prenotazioni, spesso sovrapposti nello stesso periodo."
+        "A Merano l'ospite tipo cerca soprattutto benessere e natura. È una clientela meno frettolosa di quella delle grandi città d'arte, che sceglie la qualità e tende a fermarsi più a lungo. Ma non è un pubblico unico: accanto a chi viene per le Terme ci sono famiglie, escursionisti e appassionati di enogastronomia. Le prenotazioni arrivano da pochi profili ricorrenti, spesso sovrapposti nello stesso periodo."
       ],
       "list": [
         "Ospiti del benessere: vengono per le Terme e il relax, cercano quiete e comfort e restano spesso più giorni.",
@@ -64,7 +94,7 @@
       ]
     },
     {
-      "h2": "Regole locali in sintesi: CIN, Alloggiati Web e imposta di soggiorno",
+      "h2": "In regola con Comune, Questura e piattaforme",
       "paragraphs": [
         "Affittare a Merano in modo serio significa essere in regola prima ancora di pubblicare l'annuncio. Come nel resto d'Italia ci sono adempimenti di base che non vanno trattati come formalità: sono le condizioni per restare online ed evitare sanzioni, che si applicano per singolo immobile.",
         "C'è però una specificità da tenere presente: Merano si trova in Alto Adige, una provincia autonoma con competenze proprie anche in materia di turismo. Accanto agli adempimenti nazionali possono esserci indicazioni locali sulla ricettività, gestite dalla Provincia autonoma di Bolzano. Conviene verificarle, insieme all'imposta di soggiorno del Comune di Merano, presso le fonti ufficiali prima di iniziare. Qui trovi solo la sintesi degli adempimenti principali, non un parere fiscale o legale."
@@ -110,11 +140,30 @@
       "a": "Spesso sì, ed è una delle sue particolarità. Trattandosi di una meta di benessere e natura, molti ospiti prenotano soggiorni più lunghi della media di un city break, per godersi terme, passeggiate e relax. Per l'host questo significa attrezzare la casa per permanenze estese, curando cucina, lavatrice e comfort."
     }
   ],
-  "related": ["affitti-brevi-bolzano-guida", "affitti-brevi-trento-guida", "property-manager-affitti-brevi"],
+  "related": [
+    "affitti-brevi-bolzano-guida",
+    "affitti-brevi-trento-guida",
+    "property-manager-affitti-brevi"
+  ],
   "sources": [
-    {"label": "Imposta di soggiorno e locazioni turistiche", "ente": "Comune di Merano", "data": "", "url": ""},
-    {"label": "Normativa turistica provinciale", "ente": "Provincia autonoma di Bolzano", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Imposta di soggiorno e locazioni turistiche",
+      "ente": "Comune di Merano",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Normativa turistica provinciale",
+      "ente": "Provincia autonoma di Bolzano",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

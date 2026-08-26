@@ -25,12 +25,32 @@
         "Ecco una mappa sintetica delle principali aree, con la loro vocazione e il tipo di ospite che attirano più spesso. Usala come punto di partenza prima di acquistare o mettere a reddito un appartamento: la posizione è una scelta che ti porti dietro per anni e pesa più di quasi ogni altra leva."
       ],
       "table": {
-        "headers": ["Zona", "Vocazione", "Ospiti tipici"],
+        "headers": [
+          "Zona",
+          "Vocazione",
+          "Ospiti tipici"
+        ],
         "rows": [
-          ["Centro storico (Castello Estense, Palazzo dei Diamanti, Cattedrale)", "Cuore culturale, richiesto tutto l'anno", "Coppie, city break, turismo d'arte"],
-          ["Mura rinascimentali e area stazione", "Arrivi comodi, verde urbano e collegamenti su Bologna e Venezia", "Chi si muove in treno, business di passaggio, cicloturisti"],
-          ["Zona universitaria", "Vita accademica e quartieri vissuti", "Studenti, docenti, famiglie in visita"],
-          ["Dintorni verso il Delta del Po e Comacchio (fuori città)", "Natura, birdwatching ed enogastronomia", "Famiglie e amanti della natura, con Ferrara come base"]
+          [
+            "Centro storico (Castello Estense, Palazzo dei Diamanti, Cattedrale)",
+            "Cuore culturale, richiesto tutto l'anno",
+            "Coppie, city break, turismo d'arte"
+          ],
+          [
+            "Mura rinascimentali e area stazione",
+            "Arrivi comodi, verde urbano e collegamenti su Bologna e Venezia",
+            "Chi si muove in treno, business di passaggio, cicloturisti"
+          ],
+          [
+            "Zona universitaria",
+            "Vita accademica e quartieri vissuti",
+            "Studenti, docenti, famiglie in visita"
+          ],
+          [
+            "Dintorni verso il Delta del Po e Comacchio (fuori città)",
+            "Natura, birdwatching ed enogastronomia",
+            "Famiglie e amanti della natura, con Ferrara come base"
+          ]
         ]
       }
     },
@@ -75,7 +95,7 @@
       ]
     },
     {
-      "h2": "Regole locali in sintesi: CIN, Alloggiati Web e imposta di soggiorno",
+      "h2": "Burocrazia locale: CIN, imposta di soggiorno e ospiti da comunicare",
       "paragraphs": [
         "Affittare a Ferrara in modo serio significa essere in regola. Come nel resto d'Italia ci sono adempimenti di base da conoscere prima ancora di pubblicare l'annuncio, e vanno seguiti con precisione: non sono formalità, ma condizioni per restare online e per evitare sanzioni, che si applicano per singolo immobile.",
         "Le regole possono cambiare e vanno sempre verificate presso le fonti ufficiali, a partire dal Comune di Ferrara per l'imposta di soggiorno. Qui trovi solo la sintesi degli adempimenti principali, non un parere fiscale o legale. Per il CIN, primo passo per pubblicare un annuncio a norma, rimandiamo alla nostra guida dedicata, dove spieghiamo cos'è e come si ottiene."
@@ -121,10 +141,24 @@
       "a": "È un tributo comunale a carico dell'ospite, che l'host raccoglie e versa al Comune di Ferrara secondo la delibera in vigore. Importi, esenzioni e periodi sono definiti dal Comune: vanno sempre verificati sul sito ufficiale prima di iniziare, perché possono cambiare nel tempo."
     }
   ],
-  "related": ["affitti-brevi-bologna-guida", "affitti-brevi-ravenna-guida", "property-manager-affitti-brevi"],
+  "related": [
+    "affitti-brevi-bologna-guida",
+    "affitti-brevi-ravenna-guida",
+    "property-manager-affitti-brevi"
+  ],
   "sources": [
-    {"label": "Imposta di soggiorno e regole per le locazioni turistiche", "ente": "Comune di Ferrara", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Imposta di soggiorno e regole per le locazioni turistiche",
+      "ente": "Comune di Ferrara",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

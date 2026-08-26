@@ -43,14 +43,42 @@
         "Ecco una mappa sintetica da usare come punto di partenza, prima di mettere a reddito o acquistare un immobile a Pisa."
       ],
       "table": {
-        "headers": ["Zona", "Vocazione", "Ospiti tipici"],
+        "headers": [
+          "Zona",
+          "Vocazione",
+          "Ospiti tipici"
+        ],
         "rows": [
-          ["Centro storico e Torre", "Cuore turistico, a due passi da Piazza dei Miracoli", "Turisti d'arte, city break, soggiorni brevi"],
-          ["Lungarni", "Passeggiate sul fiume ed eleganza, centro a portata di mano", "Coppie, viaggiatori leisure, chi cerca atmosfera"],
-          ["Zona stazione (Pisa Centrale)", "Snodo dei treni verso Firenze, Lucca e la costa", "Chi usa Pisa come base, viaggiatori di passaggio"],
-          ["Zona aeroporto", "Vicina allo scalo Galileo Galilei, voli a ogni ora", "Ospiti di una notte, trasferte, soste legate ai voli"],
-          ["Zona universitaria", "Atenei e vita studentesca, animata e ben servita", "Famiglie in visita, ricercatori, ospiti per lauree ed esami"],
-          ["Marina di Pisa e Tirrenia", "Litorale e mare, a pochi chilometri dalla città", "Famiglie e soggiorni balneari in estate"]
+          [
+            "Centro storico e Torre",
+            "Cuore turistico, a due passi da Piazza dei Miracoli",
+            "Turisti d'arte, city break, soggiorni brevi"
+          ],
+          [
+            "Lungarni",
+            "Passeggiate sul fiume ed eleganza, centro a portata di mano",
+            "Coppie, viaggiatori leisure, chi cerca atmosfera"
+          ],
+          [
+            "Zona stazione (Pisa Centrale)",
+            "Snodo dei treni verso Firenze, Lucca e la costa",
+            "Chi usa Pisa come base, viaggiatori di passaggio"
+          ],
+          [
+            "Zona aeroporto",
+            "Vicina allo scalo Galileo Galilei, voli a ogni ora",
+            "Ospiti di una notte, trasferte, soste legate ai voli"
+          ],
+          [
+            "Zona universitaria",
+            "Atenei e vita studentesca, animata e ben servita",
+            "Famiglie in visita, ricercatori, ospiti per lauree ed esami"
+          ],
+          [
+            "Marina di Pisa e Tirrenia",
+            "Litorale e mare, a pochi chilometri dalla città",
+            "Famiglie e soggiorni balneari in estate"
+          ]
         ]
       }
     },
@@ -82,7 +110,7 @@
       ]
     },
     {
-      "h2": "Regole locali in sintesi: CIN, Alloggiati Web e imposta di soggiorno",
+      "h2": "Regole e adempimenti: il minimo indispensabile",
       "paragraphs": [
         "Affittare a Pisa in modo serio significa essere in regola prima ancora di pubblicare l'annuncio. Gli adempimenti di base sono gli stessi del resto d'Italia e non sono formalità: sono le condizioni per restare online ed evitare sanzioni, che si applicano per singolo immobile.",
         "Le regole possono cambiare e vanno sempre verificate presso le fonti ufficiali. Qui trovi solo la sintesi, non un parere fiscale o legale."
@@ -135,10 +163,24 @@
       "a": "È un tributo comunale a carico dell'ospite, che l'host raccoglie e versa al Comune di Pisa secondo le regole locali. Importi e modalità possono cambiare: verifica sempre le informazioni aggiornate direttamente presso il Comune di Pisa."
     }
   ],
-  "related": ["affitti-brevi-firenze-guida", "property-manager-affitti-brevi", "cin-affitti-brevi-come-ottenerlo"],
+  "related": [
+    "affitti-brevi-firenze-guida",
+    "property-manager-affitti-brevi",
+    "cin-affitti-brevi-come-ottenerlo"
+  ],
   "sources": [
-    {"label": "Imposta di soggiorno e regole locali sulle locazioni turistiche", "ente": "Comune di Pisa", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Imposta di soggiorno e regole locali sulle locazioni turistiche",
+      "ente": "Comune di Pisa",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

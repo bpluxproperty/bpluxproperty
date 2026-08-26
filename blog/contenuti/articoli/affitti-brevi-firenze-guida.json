@@ -44,19 +44,47 @@
         "Ecco una mappa rapida per orientarti, prima di comprare o mettere a reddito un appartamento a Firenze."
       ],
       "table": {
-        "headers": ["Zona", "Vocazione", "Ospiti tipici"],
+        "headers": [
+          "Zona",
+          "Vocazione",
+          "Ospiti tipici"
+        ],
         "rows": [
-          ["Centro storico UNESCO", "Domanda altissima, ma forti limiti ai nuovi affitti brevi", "Turisti d'arte e city break internazionali"],
-          ["Oltrarno / San Frediano", "Anima artigiana e autentica, a due passi dal centro", "Coppie e viaggiatori che cercano la Firenze vera"],
-          ["Campo di Marte", "Residenziale, stadio ed eventi, ben collegata", "Sportivi, famiglie, pubblico di concerti e partite"],
-          ["Rifredi", "Vicino a ospedale Careggi, università e stazione", "Business, visite mediche, soggiorni di studio"],
-          ["Novoli", "Polo universitario e direzionale, tramvia verso il centro", "Studenti, professionisti e trasferte di lavoro"],
-          ["Colline e Fiesole", "Verde, ville e panorami sopra la città", "Soggiorni slow, famiglie, chi cerca quiete"]
+          [
+            "Centro storico UNESCO",
+            "Domanda altissima, ma forti limiti ai nuovi affitti brevi",
+            "Turisti d'arte e city break internazionali"
+          ],
+          [
+            "Oltrarno / San Frediano",
+            "Anima artigiana e autentica, a due passi dal centro",
+            "Coppie e viaggiatori che cercano la Firenze vera"
+          ],
+          [
+            "Campo di Marte",
+            "Residenziale, stadio ed eventi, ben collegata",
+            "Sportivi, famiglie, pubblico di concerti e partite"
+          ],
+          [
+            "Rifredi",
+            "Vicino a ospedale Careggi, università e stazione",
+            "Business, visite mediche, soggiorni di studio"
+          ],
+          [
+            "Novoli",
+            "Polo universitario e direzionale, tramvia verso il centro",
+            "Studenti, professionisti e trasferte di lavoro"
+          ],
+          [
+            "Colline e Fiesole",
+            "Verde, ville e panorami sopra la città",
+            "Soggiorni slow, famiglie, chi cerca quiete"
+          ]
         ]
       }
     },
     {
-      "h2": "CIN, imposta di soggiorno e comunicazione degli ospiti",
+      "h2": "Che cosa chiedono il Comune e la Questura",
       "paragraphs": [
         "Affittare in modo serio significa essere in regola. A Firenze, come nel resto d'Italia, ci sono adempimenti di base da conoscere prima di pubblicare un annuncio.",
         "Le regole cambiano e vanno sempre verificate presso le fonti ufficiali. Qui trovi solo la sintesi, non un parere fiscale o legale."
@@ -111,10 +139,24 @@
       "a": "Firenze ha una domanda turistica altissima, quindi il potenziale c'è. Ma proprio per la complessità delle regole conviene impostare tutto bene fin dall'inizio: scegliere la zona giusta, essere in regola con CIN e imposta di soggiorno, e valutare se gestire da soli o affidarsi a un professionista."
     }
   ],
-  "related": ["affitti-brevi-bologna-guida", "cin-affitti-brevi-come-ottenerlo", "property-manager-affitti-brevi"],
+  "related": [
+    "affitti-brevi-bologna-guida",
+    "cin-affitti-brevi-come-ottenerlo",
+    "property-manager-affitti-brevi"
+  ],
   "sources": [
-    {"label": "Regole locali sulle locazioni turistiche e centro storico", "ente": "Comune di Firenze", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Regole locali sulle locazioni turistiche e centro storico",
+      "ente": "Comune di Firenze",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

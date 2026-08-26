@@ -25,13 +25,37 @@
         "Ecco una mappa sintetica delle principali zone, con la loro vocazione e il tipo di ospite che intercettano più spesso. Usala come punto di partenza prima di acquistare o mettere a reddito un appartamento: la posizione è una scelta che ti porti dietro per anni e pesa più di quasi ogni altra leva."
       ],
       "table": {
-        "headers": ["Zona", "Vocazione", "Ospiti tipici"],
+        "headers": [
+          "Zona",
+          "Vocazione",
+          "Ospiti tipici"
+        ],
         "rows": [
-          ["Centro storico (portici, Piazza Walther)", "Cuore turistico e commerciale, richiesto tutto l'anno", "City break, coppie, turismo culturale"],
-          ["Zona pedonale e mercatini", "Vie dello shopping e sede dei mercatini di Natale", "Turisti, soggiorni brevi, forte richiamo a dicembre"],
-          ["Zona stazione", "Snodo dei collegamenti, comoda per arrivi e partenze", "Business, viaggiatori di passaggio, base per le Dolomiti"],
-          ["Quartieri residenziali (es. Gries)", "Residenziale e tranquillo, a due passi dal centro", "Soggiorni curati, famiglie, permanenze più lunghe"],
-          ["Colli e zone panoramiche", "Contesto verde e panoramico sopra la città", "Coppie, chi cerca quiete e natura"]
+          [
+            "Centro storico (portici, Piazza Walther)",
+            "Cuore turistico e commerciale, richiesto tutto l'anno",
+            "City break, coppie, turismo culturale"
+          ],
+          [
+            "Zona pedonale e mercatini",
+            "Vie dello shopping e sede dei mercatini di Natale",
+            "Turisti, soggiorni brevi, forte richiamo a dicembre"
+          ],
+          [
+            "Zona stazione",
+            "Snodo dei collegamenti, comoda per arrivi e partenze",
+            "Business, viaggiatori di passaggio, base per le Dolomiti"
+          ],
+          [
+            "Quartieri residenziali (es. Gries)",
+            "Residenziale e tranquillo, a due passi dal centro",
+            "Soggiorni curati, famiglie, permanenze più lunghe"
+          ],
+          [
+            "Colli e zone panoramiche",
+            "Contesto verde e panoramico sopra la città",
+            "Coppie, chi cerca quiete e natura"
+          ]
         ]
       }
     },
@@ -63,7 +87,7 @@
       ]
     },
     {
-      "h2": "Regole locali in sintesi: CIN, Alloggiati Web e imposta di soggiorno",
+      "h2": "Cosa serve per affittare in regola",
       "paragraphs": [
         "Affittare a Bolzano in modo serio significa essere in regola prima ancora di pubblicare l'annuncio. Gli adempimenti nazionali di base non vanno trattati come formalità: sono le condizioni per restare online ed evitare sanzioni, che si applicano per singolo immobile.",
         "C'è però un elemento in più da tenere presente. L'Alto Adige è una provincia autonoma con competenze proprie anche in materia di turismo: accanto agli adempimenti nazionali possono esserci specificità locali. Per questo le regole vanno sempre verificate presso le fonti ufficiali, in particolare la Provincia Autonoma di Bolzano e il Comune. Qui trovi solo la sintesi degli adempimenti principali, non un parere fiscale o legale."
@@ -105,11 +129,30 @@
       "a": "Molti sì. Bolzano è una città bilingue e una parte importante degli ospiti arriva dall'area germanofona, tra Germania, Austria e Alto Adige. Offrire annuncio, istruzioni e assistenza anche in tedesco, oltre che in italiano e inglese, aiuta a ottenere più prenotazioni e recensioni migliori."
     }
   ],
-  "related": ["affitti-brevi-trento-guida", "property-manager-affitti-brevi", "cin-affitti-brevi-come-ottenerlo"],
+  "related": [
+    "affitti-brevi-trento-guida",
+    "property-manager-affitti-brevi",
+    "cin-affitti-brevi-come-ottenerlo"
+  ],
   "sources": [
-    {"label": "Imposta di soggiorno e locazioni turistiche", "ente": "Comune di Bolzano", "data": "", "url": ""},
-    {"label": "Normativa turistica provinciale", "ente": "Provincia Autonoma di Bolzano", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Imposta di soggiorno e locazioni turistiche",
+      "ente": "Comune di Bolzano",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Normativa turistica provinciale",
+      "ente": "Provincia Autonoma di Bolzano",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

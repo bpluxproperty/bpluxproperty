@@ -32,13 +32,37 @@
         "Ecco una mappa sintetica per orientarti prima di comprare o mettere a reddito un immobile. A San Gimignano la posizione pesa molto, perché fascino medievale e vincoli pratici di mobilità convivono a stretto contatto."
       ],
       "table": {
-        "headers": ["Zona", "Vocazione", "Ospiti tipici"],
+        "headers": [
+          "Zona",
+          "Vocazione",
+          "Ospiti tipici"
+        ],
         "rows": [
-          ["Dentro le mura (Piazza della Cisterna, le torri)", "Cuore medievale UNESCO, domanda altissima ma borgo pedonale con ZTL e parcheggio fuori le mura", "Turisti d'arte, coppie, city break internazionali"],
-          ["Vicoli e piazze del centro", "Atmosfera autentica del borgo, a due passi da monumenti e botteghe", "Viaggiatori che cercano la San Gimignano vera, soggiorni slow"],
-          ["Appena fuori le mura", "Più accessibile e spesso con parcheggio, centro raggiungibile a piedi", "Famiglie in auto, ospiti pratici, soggiorni comodi"],
-          ["Campagna della Val d'Elsa e casali", "Agriturismi e case coloniche tra le colline, spazio e quiete", "Turismo slow, gruppi e famiglie, itinerari in auto"],
-          ["Cantine e strade del vino (Vernaccia, Chianti)", "Base per degustazioni ed enoturismo tra i vigneti", "Amanti del vino, coppie, soggiorni enogastronomici"]
+          [
+            "Dentro le mura (Piazza della Cisterna, le torri)",
+            "Cuore medievale UNESCO, domanda altissima ma borgo pedonale con ZTL e parcheggio fuori le mura",
+            "Turisti d'arte, coppie, city break internazionali"
+          ],
+          [
+            "Vicoli e piazze del centro",
+            "Atmosfera autentica del borgo, a due passi da monumenti e botteghe",
+            "Viaggiatori che cercano la San Gimignano vera, soggiorni slow"
+          ],
+          [
+            "Appena fuori le mura",
+            "Più accessibile e spesso con parcheggio, centro raggiungibile a piedi",
+            "Famiglie in auto, ospiti pratici, soggiorni comodi"
+          ],
+          [
+            "Campagna della Val d'Elsa e casali",
+            "Agriturismi e case coloniche tra le colline, spazio e quiete",
+            "Turismo slow, gruppi e famiglie, itinerari in auto"
+          ],
+          [
+            "Cantine e strade del vino (Vernaccia, Chianti)",
+            "Base per degustazioni ed enoturismo tra i vigneti",
+            "Amanti del vino, coppie, soggiorni enogastronomici"
+          ]
         ]
       }
     },
@@ -71,7 +95,7 @@
       ]
     },
     {
-      "h2": "Regole locali in sintesi: CIN, Alloggiati Web e imposta di soggiorno",
+      "h2": "Le regole da mettere a posto prima del primo ospite",
       "paragraphs": [
         "Affittare a San Gimignano in modo serio significa essere in regola prima ancora di pubblicare l'annuncio. Gli adempimenti di base sono gli stessi del resto d'Italia e vanno seguiti con precisione, immobile per immobile: non sono formalità, ma condizioni per restare online ed evitare sanzioni.",
         "C'è poi un punto che qui merita attenzione in più. Il centro storico è patrimonio UNESCO ed è sottoposto a forte pressione turistica: contesti come questo possono avere regole o limiti locali specifici, che cambiano nel tempo. Prima di comprare o avviare un'attività, verifica sempre la situazione aggiornata direttamente con il Comune di San Gimignano. Qui trovi solo la sintesi degli adempimenti principali, non un parere fiscale o legale."
@@ -125,10 +149,24 @@
       "a": "Sì, ed è una delle sue leve più forti. Il borgo è nel cuore della Val d'Elsa e del Chianti, a breve distanza da Siena, Firenze e Volterra, e circondato dalle cantine della Vernaccia. Molti ospiti lo scelgono come base per l'enoturismo e per esplorare la Toscana, con soggiorni spesso più lunghi del classico weekend."
     }
   ],
-  "related": ["affitti-brevi-siena-guida", "affitti-brevi-firenze-guida", "cin-affitti-brevi-come-ottenerlo"],
+  "related": [
+    "affitti-brevi-siena-guida",
+    "affitti-brevi-firenze-guida",
+    "cin-affitti-brevi-come-ottenerlo"
+  ],
   "sources": [
-    {"label": "Regole locali sulle locazioni turistiche e imposta di soggiorno", "ente": "Comune di San Gimignano", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Regole locali sulle locazioni turistiche e imposta di soggiorno",
+      "ente": "Comune di San Gimignano",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

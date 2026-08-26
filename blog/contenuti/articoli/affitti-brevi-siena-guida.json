@@ -32,13 +32,37 @@
         "Ecco una mappa sintetica per orientarti prima di comprare o mettere a reddito un appartamento. La posizione a Siena pesa più che altrove, perché convivono fascino medievale e vincoli pratici di mobilità."
       ],
       "table": {
-        "headers": ["Zona", "Vocazione", "Ospiti tipici"],
+        "headers": [
+          "Zona",
+          "Vocazione",
+          "Ospiti tipici"
+        ],
         "rows": [
-          ["Centro storico dentro le mura (Piazza del Campo, Duomo)", "Cuore medievale UNESCO, domanda altissima ma zona pedonale con vicoli e scalinate", "Turisti d'arte, coppie, city break internazionali"],
-          ["Vicoli e contrade del centro", "Atmosfera autentica tra le contrade del Palio, a due passi dai monumenti", "Viaggiatori che cercano la Siena vera, soggiorni a tema"],
-          ["Fuori le mura, a ridosso del centro", "Più accessibile e spesso con parcheggio, centro raggiungibile a piedi", "Famiglie in auto, ospiti pratici, soggiorni comodi"],
-          ["Zona viali e stazione", "Ben collegata per arrivi e partenze, comoda per chi si sposta", "Soggiorni brevi, viaggiatori di passaggio, trasferte"],
-          ["Campagna senese e porte del Chianti", "Base per Chianti, val d'Orcia e San Gimignano", "Turismo del vino, itinerari in auto, soggiorni slow"]
+          [
+            "Centro storico dentro le mura (Piazza del Campo, Duomo)",
+            "Cuore medievale UNESCO, domanda altissima ma zona pedonale con vicoli e scalinate",
+            "Turisti d'arte, coppie, city break internazionali"
+          ],
+          [
+            "Vicoli e contrade del centro",
+            "Atmosfera autentica tra le contrade del Palio, a due passi dai monumenti",
+            "Viaggiatori che cercano la Siena vera, soggiorni a tema"
+          ],
+          [
+            "Fuori le mura, a ridosso del centro",
+            "Più accessibile e spesso con parcheggio, centro raggiungibile a piedi",
+            "Famiglie in auto, ospiti pratici, soggiorni comodi"
+          ],
+          [
+            "Zona viali e stazione",
+            "Ben collegata per arrivi e partenze, comoda per chi si sposta",
+            "Soggiorni brevi, viaggiatori di passaggio, trasferte"
+          ],
+          [
+            "Campagna senese e porte del Chianti",
+            "Base per Chianti, val d'Orcia e San Gimignano",
+            "Turismo del vino, itinerari in auto, soggiorni slow"
+          ]
         ]
       }
     },
@@ -69,7 +93,7 @@
       ]
     },
     {
-      "h2": "Regole locali in sintesi: CIN, Alloggiati Web e imposta di soggiorno",
+      "h2": "Burocrazia locale: CIN, imposta di soggiorno e ospiti da comunicare",
       "paragraphs": [
         "Affittare a Siena in modo serio significa essere in regola. Come nel resto d'Italia ci sono adempimenti di base da conoscere prima ancora di pubblicare l'annuncio, e vanno seguiti con precisione, immobile per immobile: non sono formalità, ma condizioni per restare online ed evitare sanzioni.",
         "C'è però un punto che a Siena merita attenzione in più. Il centro storico è patrimonio UNESCO ed è sottoposto a una forte pressione turistica: contesti come questo possono avere regole o limiti locali specifici, che cambiano nel tempo. Prima di comprare o avviare un'attività, verifica sempre la situazione aggiornata direttamente con il Comune di Siena. Qui trovi solo la sintesi degli adempimenti principali, non un parere fiscale o legale."
@@ -115,10 +139,24 @@
       "a": "Sì, ed è una delle sue leve più forti. Siena è nel cuore delle crete senesi e a breve distanza da Chianti, val d'Orcia e San Gimignano. Molti ospiti la scelgono come base per esplorare la Toscana del vino e i borghi vicini, con soggiorni spesso più lunghi del classico weekend."
     }
   ],
-  "related": ["affitti-brevi-firenze-guida", "quanto-rende-affitto-breve-firenze", "cin-affitti-brevi-come-ottenerlo"],
+  "related": [
+    "affitti-brevi-firenze-guida",
+    "quanto-rende-affitto-breve-firenze",
+    "cin-affitti-brevi-come-ottenerlo"
+  ],
   "sources": [
-    {"label": "Regole locali sulle locazioni turistiche e imposta di soggiorno", "ente": "Comune di Siena", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Regole locali sulle locazioni turistiche e imposta di soggiorno",
+      "ente": "Comune di Siena",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

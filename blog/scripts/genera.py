@@ -96,25 +96,31 @@ def auto_link_raw(t):
     for i,orig in enumerate(masks): t=t.replace(f"\x01{i}\x01",orig)
     return t
 def pullquote_for(a):
-    pat=re.compile(r"[^.!?]*\b(nostra esperienza|Nella nostra|da property manager|Superhost|lo vediamo di continuo|nel nostro lavoro|abbiamo (?:visto|imparato))\b[^.!?]*[.!?]",re.I)
+    # Cita solo osservazioni di esperienza, mai la presentazione aziendale, e rimuove la frase
+    # dal paragrafo di origine: altrimenti il lettore la ritrova identica poco piu sotto.
+    pat=re.compile(r"[^.!?]*\b(nostra esperienza|Nella nostra|da property manager|Superhost|lo vediamo di continuo|nel nostro lavoro|l'errore (?:piu|che)|abbiamo (?:visto|imparato))\b[^.!?]*[.!?]",re.I)
+    selfpres=re.compile(r"(B&P Lux Property|gestiamo (?:affitti|appartamenti|case|immobili)|lavoriamo ogni giorno|con base in Emilia-Romagna|siamo Superhost|come Superhost e)",re.I)
     for sec in a.get("sections",[]):
         for i,p in enumerate(sec.get("paragraphs",[])):
-            hay=p
+            hay,off=p,0
             if i==0:
-                # salta la prima frase della sezione: se la citassimo, il lettore
-                # la ritroverebbe identica subito sotto il blockquote
                 m0=re.search(r"[.!?]\s+",p)
                 if not m0: continue
-                hay=p[m0.end():]
+                off=m0.end(); hay=p[off:]
             m=pat.search(hay)
-            if m:
-                s=m.group(0).strip()
-                if 45<=len(s)<=210: return f'<blockquote class="pull"><p>{inline(s)}</p></blockquote>'
+            if not m: continue
+            q=m.group(0).strip()
+            if not (45<=len(q)<=210): continue
+            if selfpres.search(q): continue
+            rest=(p[:off+m.start()]+p[off+m.end():]).strip()
+            if len(rest.split())<12: continue
+            sec["paragraphs"][i]=re.sub(r"\s{2,}"," ",rest)
+            return f'<blockquote class="pull"><p>{inline(q)}</p></blockquote>'
     return ""
 def paras(lst, ab=False): return "".join(f"<p>{inline(auto_bold_raw(auto_link_raw(p)) if ab else p)}</p>" for p in (lst or []))
-def ul(lst):
+def ul(lst, ab=False):
     if not lst: return ""
-    return "<ul>"+"".join(f"<li>{inline(x)}</li>" for x in lst)+"</ul>"
+    return "<ul>"+"".join(f"<li>{inline(auto_bold_raw(auto_link_raw(x)) if ab else x)}</li>" for x in lst)+"</ul>"
 def table(tb):
     if not tb: return ""
     h="".join(f"<th>{inline(x)}</th>" for x in tb.get("headers",[]))
@@ -306,7 +312,7 @@ def render_article(a):
     secs_html=""; toc=[]
     for i,sec in enumerate(a.get("sections",[])):
         sid=f"s{i+1}"; toc.append((sid,sec["h2"]))
-        secs_html+=f'<section id="{sid}"><h2>{esc(sec["h2"])}</h2>{paras(sec.get("paragraphs"),True)}{ul(sec.get("list"))}{table(sec.get("table"))}</section>'
+        secs_html+=f'<section id="{sid}"><h2>{esc(sec["h2"])}</h2>{paras(sec.get("paragraphs"),True)}{ul(sec.get("list"),True)}{table(sec.get("table"))}</section>'
         if i==2: secs_html+=cta_inline()   # CTA a meta
         if pq and i==pq_at: secs_html+=pq
     toc_html=""

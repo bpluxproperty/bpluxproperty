@@ -44,16 +44,52 @@
         "Ecco una mappa rapida per orientarti, tra i sestieri del centro, le isole e la terraferma. Usala come punto di partenza prima di acquistare o mettere a reddito: la posizione è una scelta che ti porti dietro per anni e, a Venezia, va incrociata subito con le regole locali."
       ],
       "table": {
-        "headers": ["Zona", "Vocazione", "Ospiti tipici"],
+        "headers": [
+          "Zona",
+          "Vocazione",
+          "Ospiti tipici"
+        ],
         "rows": [
-          ["San Marco", "Cuore monumentale, domanda altissima e regole più stringenti", "City break internazionali e clientela alto di gamma"],
-          ["Cannaregio", "Venezia autentica e vissuta, lontana dalla folla", "Coppie e viaggiatori che cercano l'atmosfera vera"],
-          ["Castello", "Sestiere ampio, tra Arsenale e sedi della Biennale", "Pubblico culturale e visitatori degli eventi"],
-          ["Dorsoduro", "Musei, università e vita di quartiere", "Turismo d'arte, accademici e soggiorni curati"],
-          ["San Polo e Santa Croce", "Mercato di Rialto e collegamenti con Piazzale Roma", "Turisti di passaggio e soggiorni brevi"],
-          ["Giudecca e isole", "Vista sulla laguna, quiete e respiro", "Chi cerca tranquillità e panorami, soggiorni slow"],
-          ["Lido", "Spiaggia e Mostra del Cinema", "Turismo balneare e pubblico del festival"],
-          ["Mestre e Marghera (terraferma)", "Vincoli minori, buoni collegamenti con Venezia e l'aeroporto", "Business, famiglie e overflow dal centro"]
+          [
+            "San Marco",
+            "Cuore monumentale, domanda altissima e regole più stringenti",
+            "City break internazionali e clientela alto di gamma"
+          ],
+          [
+            "Cannaregio",
+            "Venezia autentica e vissuta, lontana dalla folla",
+            "Coppie e viaggiatori che cercano l'atmosfera vera"
+          ],
+          [
+            "Castello",
+            "Sestiere ampio, tra Arsenale e sedi della Biennale",
+            "Pubblico culturale e visitatori degli eventi"
+          ],
+          [
+            "Dorsoduro",
+            "Musei, università e vita di quartiere",
+            "Turismo d'arte, accademici e soggiorni curati"
+          ],
+          [
+            "San Polo e Santa Croce",
+            "Mercato di Rialto e collegamenti con Piazzale Roma",
+            "Turisti di passaggio e soggiorni brevi"
+          ],
+          [
+            "Giudecca e isole",
+            "Vista sulla laguna, quiete e respiro",
+            "Chi cerca tranquillità e panorami, soggiorni slow"
+          ],
+          [
+            "Lido",
+            "Spiaggia e Mostra del Cinema",
+            "Turismo balneare e pubblico del festival"
+          ],
+          [
+            "Mestre e Marghera (terraferma)",
+            "Vincoli minori, buoni collegamenti con Venezia e l'aeroporto",
+            "Business, famiglie e overflow dal centro"
+          ]
         ]
       }
     },
@@ -65,7 +101,7 @@
       ]
     },
     {
-      "h2": "CIN, imposta di soggiorno e comunicazione degli ospiti",
+      "h2": "Regole e adempimenti: il minimo indispensabile",
       "paragraphs": [
         "Affittare a Venezia in modo serio significa essere in regola. Come nel resto d'Italia ci sono adempimenti di base da conoscere prima ancora di pubblicare l'annuncio. Non sono formalità: sono le condizioni per restare online ed evitare sanzioni, che si applicano per singolo immobile. A Venezia si sommano poi i vincoli locali sul centro storico.",
         "Le regole cambiano e vanno sempre verificate presso le fonti ufficiali. Qui trovi solo la sintesi degli adempimenti principali, non un parere fiscale o legale. Per il CIN, che è il primo passo per pubblicare un annuncio a norma, rimandiamo alla nostra guida dedicata, dove spieghiamo cos'è e come si ottiene."
@@ -107,10 +143,24 @@
       "a": "È una misura pensata per i turisti che visitano Venezia in giornata, unica in Italia, introdotta per gestire i grandi flussi sulla città. Le regole su importi, giornate e categorie coinvolte sono cambiate nel tempo e possono ancora evolvere: verifica sempre come funziona direttamente con il Comune di Venezia."
     }
   ],
-  "related": ["affitti-brevi-firenze-guida", "property-manager-affitti-brevi", "cin-affitti-brevi-come-ottenerlo"],
+  "related": [
+    "affitti-brevi-firenze-guida",
+    "property-manager-affitti-brevi",
+    "cin-affitti-brevi-come-ottenerlo"
+  ],
   "sources": [
-    {"label": "Regole locali sulle locazioni turistiche, centro storico e contributo di accesso", "ente": "Comune di Venezia", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Regole locali sulle locazioni turistiche, centro storico e contributo di accesso",
+      "ente": "Comune di Venezia",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

@@ -25,15 +25,47 @@
         "Questa divisione non è un dettaglio burocratico: cambia la vocazione turistica e, come vedremo, anche le regole locali. Ecco una mappa sintetica per sponda e zona, da usare come punto di partenza prima di acquistare o mettere a reddito una casa sul lago. Sul Garda la posizione pesa più di quasi ogni altra leva."
       ],
       "table": {
-        "headers": ["Zona / sponda", "Vocazione", "Ospiti tipici"],
+        "headers": [
+          "Zona / sponda",
+          "Vocazione",
+          "Ospiti tipici"
+        ],
         "rows": [
-          ["Basso Garda bresciano (Sirmione, Desenzano)", "Terme, Grotte di Catullo, borghi e collegamenti; sponda lombarda a sud", "Coppie, city break, benessere, turismo estero"],
-          ["Sponda bresciana ovest (Salò, Gardone Riviera)", "Riviera dei Limoni, eleganza e ville storiche fino a Limone", "Turismo slow, coppie, clientela nord-europea"],
-          ["Alto Garda trentino (Riva del Garda, Torbole)", "Vela, windsurf e montagna; sport acquatici e outdoor", "Sportivi, famiglie attive, turismo tedesco"],
-          ["Sponda veronese est (Bardolino, Lazise, Garda)", "Vini Bardolino, borghi e vicinanza ai parchi divertimento", "Famiglie, enoturismo, weekend"],
-          ["Peschiera del Garda", "Fortezza UNESCO, hub ferroviario e porta dei parchi (Gardaland)", "Famiglie, gruppi, turismo estero"],
-          ["Malcesine e alto lago veronese", "Monte Baldo, castello Scaligero e panorami; nord del lago", "Coppie, escursionisti, amanti della natura"],
-          ["Entroterra e colline (Lugana, Valpolicella, morene)", "Cantine, quiete e prezzi più bassi del lungolago", "Enoturismo, soggiorni lunghi, chi cerca tranquillità"]
+          [
+            "Basso Garda bresciano (Sirmione, Desenzano)",
+            "Terme, Grotte di Catullo, borghi e collegamenti; sponda lombarda a sud",
+            "Coppie, city break, benessere, turismo estero"
+          ],
+          [
+            "Sponda bresciana ovest (Salò, Gardone Riviera)",
+            "Riviera dei Limoni, eleganza e ville storiche fino a Limone",
+            "Turismo slow, coppie, clientela nord-europea"
+          ],
+          [
+            "Alto Garda trentino (Riva del Garda, Torbole)",
+            "Vela, windsurf e montagna; sport acquatici e outdoor",
+            "Sportivi, famiglie attive, turismo tedesco"
+          ],
+          [
+            "Sponda veronese est (Bardolino, Lazise, Garda)",
+            "Vini Bardolino, borghi e vicinanza ai parchi divertimento",
+            "Famiglie, enoturismo, weekend"
+          ],
+          [
+            "Peschiera del Garda",
+            "Fortezza UNESCO, hub ferroviario e porta dei parchi (Gardaland)",
+            "Famiglie, gruppi, turismo estero"
+          ],
+          [
+            "Malcesine e alto lago veronese",
+            "Monte Baldo, castello Scaligero e panorami; nord del lago",
+            "Coppie, escursionisti, amanti della natura"
+          ],
+          [
+            "Entroterra e colline (Lugana, Valpolicella, morene)",
+            "Cantine, quiete e prezzi più bassi del lungolago",
+            "Enoturismo, soggiorni lunghi, chi cerca tranquillità"
+          ]
         ]
       }
     },
@@ -77,7 +109,7 @@
       ]
     },
     {
-      "h2": "Regole locali in sintesi: CIN, Alloggiati Web e imposta di soggiorno",
+      "h2": "Regole e adempimenti: il minimo indispensabile",
       "paragraphs": [
         "Affittare sul Garda in modo serio significa essere in regola prima di pubblicare l'annuncio. Gli adempimenti di base sono gli stessi del resto d'Italia, ma qui c'è una complicazione in più: il lago tocca tre regioni e decine di Comuni, e alcune regole cambiano da un paese all'altro.",
         "Il caso più evidente è l'imposta di soggiorno, che è un tributo comunale: importi, esenzioni e periodi di applicazione sono decisi da ogni Comune e possono differire anche tra due borghi vicini. Vanno quindi verificati presso il Comune dell'immobile, così come eventuali regolamenti locali. Qui trovi solo la sintesi degli adempimenti principali, non un parere fiscale o legale."
@@ -131,10 +163,24 @@
       "a": "Sì, è uno dei laghi più internazionali d'Italia, con una lunga tradizione di turismo tedesco e nord-europeo. Questa clientela prenota con anticipo, dà peso a foto e recensioni e si aspetta risposte rapide in inglese o in tedesco, un fattore che premia chi gestisce l'annuncio con cura."
     }
   ],
-  "related": ["affitti-brevi-brescia-guida", "affitti-brevi-verona-guida", "property-manager-affitti-brevi"],
+  "related": [
+    "affitti-brevi-brescia-guida",
+    "affitti-brevi-verona-guida",
+    "property-manager-affitti-brevi"
+  ],
   "sources": [
-    {"label": "Imposta di soggiorno sul Lago di Garda", "ente": "Comuni del Lago di Garda", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Imposta di soggiorno sul Lago di Garda",
+      "ente": "Comuni del Lago di Garda",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

@@ -25,17 +25,57 @@
         "Ecco una mappa sintetica delle principali zone, con la loro vocazione e il tipo di ospite che intercettano più spesso. Usala come punto di partenza prima di acquistare o mettere a reddito un appartamento: la posizione è una scelta che ti porti dietro per anni e pesa più di quasi ogni altra."
       ],
       "table": {
-        "headers": ["Zona", "Vocazione", "Ospiti tipici"],
+        "headers": [
+          "Zona",
+          "Vocazione",
+          "Ospiti tipici"
+        ],
         "rows": [
-          ["Centro / Duomo", "Turismo internazionale, richiesto tutto l'anno", "City break e clientela alto di gamma"],
-          ["Brera", "Quartiere di charme a un passo dal centro", "Coppie e viaggi culturali curati"],
-          ["Navigli", "Vita notturna, locali e movida", "Pubblico giovane e weekend"],
-          ["Porta Nuova / Isola", "Cuore direzionale e business", "Trasferte e soggiorni medio-lunghi"],
-          ["Porta Romana", "Residenziale vicino al centro", "Professionisti e soggiorni tranquilli"],
-          ["Città Studi", "Poli universitari e ricerca", "Studenti, visiting e famiglie in visita"],
-          ["Fiera / CityLife", "Business, con picchi durante le fiere", "Espositori e visitatori degli eventi"],
-          ["Stazione Centrale", "Arrivi e partenze comodi", "Chi si muove in treno, soste brevi"],
-          ["San Siro", "Stadio e grandi eventi", "Concerti, partite e spostamenti mirati"]
+          [
+            "Centro / Duomo",
+            "Turismo internazionale, richiesto tutto l'anno",
+            "City break e clientela alto di gamma"
+          ],
+          [
+            "Brera",
+            "Quartiere di charme a un passo dal centro",
+            "Coppie e viaggi culturali curati"
+          ],
+          [
+            "Navigli",
+            "Vita notturna, locali e movida",
+            "Pubblico giovane e weekend"
+          ],
+          [
+            "Porta Nuova / Isola",
+            "Cuore direzionale e business",
+            "Trasferte e soggiorni medio-lunghi"
+          ],
+          [
+            "Porta Romana",
+            "Residenziale vicino al centro",
+            "Professionisti e soggiorni tranquilli"
+          ],
+          [
+            "Città Studi",
+            "Poli universitari e ricerca",
+            "Studenti, visiting e famiglie in visita"
+          ],
+          [
+            "Fiera / CityLife",
+            "Business, con picchi durante le fiere",
+            "Espositori e visitatori degli eventi"
+          ],
+          [
+            "Stazione Centrale",
+            "Arrivi e partenze comodi",
+            "Chi si muove in treno, soste brevi"
+          ],
+          [
+            "San Siro",
+            "Stadio e grandi eventi",
+            "Concerti, partite e spostamenti mirati"
+          ]
         ]
       }
     },
@@ -66,7 +106,7 @@
       ]
     },
     {
-      "h2": "Regole locali in sintesi: CIN, Alloggiati Web e imposta di soggiorno",
+      "h2": "Codice identificativo, imposta di soggiorno e comunicazioni: come funziona",
       "paragraphs": [
         "Affittare a Milano in modo serio significa essere in regola. Come nel resto d'Italia ci sono alcuni adempimenti di base da conoscere prima ancora di pubblicare l'annuncio, e vanno seguiti con precisione: non sono formalità, ma condizioni per restare online e per evitare sanzioni che si applicano per singolo immobile.",
         "Un punto in evoluzione riguarda le regole locali. A Milano sono in discussione misure specifiche sugli affitti brevi, un tema che negli ultimi tempi ha acceso il dibattito nelle grandi città turistiche. Le norme possono cambiare, quindi conviene informarsi presso le fonti ufficiali prima di iniziare e restare aggiornati nel tempo, senza dare nulla per scontato."
@@ -115,10 +155,24 @@
       "a": "Meno che in molte altre città italiane. Milano lavora tutto l'anno grazie a business, fiere e congressi, con picchi durante Salone del Mobile, Fuorisalone e Fashion Week. Anche i mesi considerati deboli altrove qui restano attivi, il che rende l'occupazione più stabile e prevedibile."
     }
   ],
-  "related": ["quanto-rende-affitto-breve-milano", "come-funziona-airbnb-host", "cin-affitti-brevi-come-ottenerlo"],
+  "related": [
+    "quanto-rende-affitto-breve-milano",
+    "come-funziona-airbnb-host",
+    "cin-affitti-brevi-come-ottenerlo"
+  ],
   "sources": [
-    {"label": "Imposta di soggiorno a Milano", "ente": "Comune di Milano", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Imposta di soggiorno a Milano",
+      "ente": "Comune di Milano",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

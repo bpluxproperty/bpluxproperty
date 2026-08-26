@@ -25,11 +25,27 @@
         "Capire quale stagione stai servendo è il primo passo per arredare, comunicare e fissare i prezzi. Le esigenze di uno sciatore e di un escursionista non sono le stesse, e nemmeno i tempi di prenotazione."
       ],
       "table": {
-        "headers": ["Stagione", "Domanda prevalente", "Ospiti tipici"],
+        "headers": [
+          "Stagione",
+          "Domanda prevalente",
+          "Ospiti tipici"
+        ],
         "rows": [
-          ["Inverno", "Sci e settimane bianche, festività", "Famiglie, gruppi di amici, clientela alta di gamma"],
-          ["Estate", "Trekking, arrampicata, bici, outdoor", "Coppie, appassionati di montagna, turismo internazionale"],
-          ["Primavera e autunno", "Bassa: weekend, relax, eventi", "Coppie in cerca di quiete, turismo lento"]
+          [
+            "Inverno",
+            "Sci e settimane bianche, festività",
+            "Famiglie, gruppi di amici, clientela alta di gamma"
+          ],
+          [
+            "Estate",
+            "Trekking, arrampicata, bici, outdoor",
+            "Coppie, appassionati di montagna, turismo internazionale"
+          ],
+          [
+            "Primavera e autunno",
+            "Bassa: weekend, relax, eventi",
+            "Coppie in cerca di quiete, turismo lento"
+          ]
         ]
       }
     },
@@ -65,7 +81,7 @@
       ]
     },
     {
-      "h2": "Regole locali in sintesi",
+      "h2": "Che cosa chiedono il Comune e la Questura",
       "paragraphs": [
         "Come nel resto d'Italia, per affittare a breve serve il CIN, va comunicata la presenza degli ospiti e si applica l'imposta di soggiorno comunale. In una località turistica come Cortina questi adempimenti sono la norma e vanno gestiti fin dal primo giorno.",
         "Non è un parere fiscale o legale: verifica le regole aggiornate del Comune di Cortina d'Ampezzo e, per il codice, la nostra guida dedicata al CIN."
@@ -108,10 +124,24 @@
       "a": "Cambiando ospite obiettivo, non svendendo. Prezzi calibrati, minimi notti flessibili, weekend di relax, ponti ed eventi aiutano a intercettare domanda anche fuori dai picchi. Un immobile caldo e accogliente, con buona cucina e Wi-Fi, allunga il calendario oltre inverno ed estate."
     }
   ],
-  "related": ["affitti-brevi-bolzano-guida", "affitti-brevi-trento-guida", "property-manager-affitti-brevi"],
+  "related": [
+    "affitti-brevi-bolzano-guida",
+    "affitti-brevi-trento-guida",
+    "property-manager-affitti-brevi"
+  ],
   "sources": [
-    {"label": "Imposta di soggiorno e regolamento turistico", "ente": "Comune di Cortina d'Ampezzo", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN)", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Imposta di soggiorno e regolamento turistico",
+      "ente": "Comune di Cortina d'Ampezzo",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN)",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

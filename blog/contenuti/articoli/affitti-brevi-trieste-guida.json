@@ -25,14 +25,42 @@
         "Ecco una mappa sintetica delle principali zone, con la loro vocazione e il tipo di ospite che intercettano più spesso. Usala come punto di partenza prima di acquistare o mettere a reddito un appartamento: la posizione è una scelta che ti porti dietro per anni e pesa più di quasi ogni altra leva."
       ],
       "table": {
-        "headers": ["Zona", "Vocazione", "Ospiti tipici"],
+        "headers": [
+          "Zona",
+          "Vocazione",
+          "Ospiti tipici"
+        ],
         "rows": [
-          ["Borgo Teresiano (centro)", "Cuore elegante tra Canal Grande e caffè storici, a due passi da Piazza Unità", "City break, coppie e turismo culturale"],
-          ["Piazza Unità d'Italia e fronte mare", "Il salotto monumentale affacciato sul mare, immagine da cartolina", "Clientela alto di gamma e city break internazionali"],
-          ["Città Vecchia e colle di San Giusto", "Trieste storica, tra castello, cattedrale e vestigia romane", "Turismo culturale e chi cerca atmosfera"],
-          ["Barcola e il lungomare", "Il mare dei triestini, bagni e passeggiate lungo la costa", "Turismo leisure ed estivo, famiglie"],
-          ["Zona stazione e Porto Vecchio", "Comoda per gli arrivi in treno e vicina al fronte porto in trasformazione", "Business, soggiorni brevi e ospiti in transito"],
-          ["Carso e dintorni", "Verde, osmize e crocevia verso la Slovenia", "Natura, viaggiatori transfrontalieri e soggiorni slow"]
+          [
+            "Borgo Teresiano (centro)",
+            "Cuore elegante tra Canal Grande e caffè storici, a due passi da Piazza Unità",
+            "City break, coppie e turismo culturale"
+          ],
+          [
+            "Piazza Unità d'Italia e fronte mare",
+            "Il salotto monumentale affacciato sul mare, immagine da cartolina",
+            "Clientela alto di gamma e city break internazionali"
+          ],
+          [
+            "Città Vecchia e colle di San Giusto",
+            "Trieste storica, tra castello, cattedrale e vestigia romane",
+            "Turismo culturale e chi cerca atmosfera"
+          ],
+          [
+            "Barcola e il lungomare",
+            "Il mare dei triestini, bagni e passeggiate lungo la costa",
+            "Turismo leisure ed estivo, famiglie"
+          ],
+          [
+            "Zona stazione e Porto Vecchio",
+            "Comoda per gli arrivi in treno e vicina al fronte porto in trasformazione",
+            "Business, soggiorni brevi e ospiti in transito"
+          ],
+          [
+            "Carso e dintorni",
+            "Verde, osmize e crocevia verso la Slovenia",
+            "Natura, viaggiatori transfrontalieri e soggiorni slow"
+          ]
         ]
       }
     },
@@ -52,7 +80,7 @@
     {
       "h2": "Che ospiti aspettarti a Trieste",
       "paragraphs": [
-        "A Trieste l'ospite non è di un solo tipo: la doppia anima di città culturale e di città di porto porta mondi diversi, spesso nello stesso mese. Per chi affitta significa una domanda meno concentrata e un rischio più distribuito, ma anche la necessità di parlare lingue e aspettative differenti. Ecco i profili che alimentano più spesso le prenotazioni."
+        "A Trieste l'ospite non è di un solo tipo: la doppia anima di città culturale e di città di porto porta mondi diversi, spesso nello stesso mese. Per chi affitta significa una domanda meno concentrata e un rischio più distribuito, ma anche la necessità di parlare lingue e aspettative differenti. Ognuno lascia recensioni su aspetti diversi della casa."
       ],
       "list": [
         "Coppie e turismo culturale: cercano il centro, i caffè storici e l'atmosfera mitteleuropea.",
@@ -63,7 +91,7 @@
       ]
     },
     {
-      "h2": "Regole locali in sintesi: CIN, Alloggiati Web e imposta di soggiorno",
+      "h2": "Le regole da mettere a posto prima del primo ospite",
       "paragraphs": [
         "Affittare a Trieste in modo serio significa essere in regola prima ancora di pubblicare l'annuncio. Come nel resto d'Italia ci sono adempimenti di base che non vanno trattati come formalità: sono le condizioni per restare online ed evitare sanzioni, che si applicano per singolo immobile.",
         "C'è però una specificità da tenere presente: il Friuli-Venezia Giulia è una regione a statuto speciale. Alle regole nazionali possono affiancarsi indicazioni regionali sulla ricettività e sulla classificazione delle strutture, da verificare presso la Regione Autonoma Friuli Venezia Giulia, insieme all'imposta di soggiorno del Comune di Trieste. Qui trovi solo la sintesi degli adempimenti principali, non un parere fiscale o legale."
@@ -105,11 +133,30 @@
       "a": "Sì, ed è una delle sue leve più forti. Trieste è un crocevia verso la Slovenia e la Croazia, porta d'ingresso all'Istria e base comoda per esplorare il Carso. Molti ospiti la scelgono come punto di partenza per muoversi in giornata, con soggiorni spesso più lunghi e un'occupazione meno legata al singolo weekend."
     }
   ],
-  "related": ["affitti-brevi-venezia-guida", "property-manager-affitti-brevi", "cin-affitti-brevi-come-ottenerlo"],
+  "related": [
+    "affitti-brevi-venezia-guida",
+    "property-manager-affitti-brevi",
+    "cin-affitti-brevi-come-ottenerlo"
+  ],
   "sources": [
-    {"label": "Imposta di soggiorno a Trieste", "ente": "Comune di Trieste", "data": "", "url": ""},
-    {"label": "Ricettività e locazioni turistiche in Friuli-Venezia Giulia", "ente": "Regione Autonoma Friuli Venezia Giulia", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Imposta di soggiorno a Trieste",
+      "ente": "Comune di Trieste",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Ricettività e locazioni turistiche in Friuli-Venezia Giulia",
+      "ente": "Regione Autonoma Friuli Venezia Giulia",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

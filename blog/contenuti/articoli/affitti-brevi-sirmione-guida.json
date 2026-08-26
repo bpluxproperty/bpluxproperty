@@ -32,13 +32,37 @@
         "Capire questa geografia è il primo passo per posizionare bene una casa ed evitare aspettative sbagliate. Ecco una mappa sintetica delle principali zone, da usare come punto di partenza prima di acquistare o mettere a reddito un immobile."
       ],
       "table": {
-        "headers": ["Zona", "Vocazione", "Ospiti tipici"],
+        "headers": [
+          "Zona",
+          "Vocazione",
+          "Ospiti tipici"
+        ],
         "rows": [
-          ["Centro storico sulla penisola", "Cuore pedonale tra castello, terme e vicoli; il più scenografico e richiesto", "Coppie, turismo estero, benessere, city break"],
-          ["Colombare e ingresso della penisola", "Accesso più comodo in auto e servizi, a pochi minuti dal centro", "Famiglie, chi arriva in auto, soggiorni pratici"],
-          ["Lungolago e fronte lago", "Vista aperta sull'acqua e forte valore percepito", "Coppie, soggiorni di charme, turismo estero"],
-          ["Fuori penisola verso la terraferma", "Più tranquillità e prezzi contenuti, buona base per girare il Garda", "Famiglie, soggiorni lunghi, chi cerca budget"],
-          ["Zone vicine alle terme", "Prossimità ad Aquaria e alla sorgente, domanda benessere anche fuori stagione", "Coppie, clientela wellness, ospiti esteri adulti"]
+          [
+            "Centro storico sulla penisola",
+            "Cuore pedonale tra castello, terme e vicoli; il più scenografico e richiesto",
+            "Coppie, turismo estero, benessere, city break"
+          ],
+          [
+            "Colombare e ingresso della penisola",
+            "Accesso più comodo in auto e servizi, a pochi minuti dal centro",
+            "Famiglie, chi arriva in auto, soggiorni pratici"
+          ],
+          [
+            "Lungolago e fronte lago",
+            "Vista aperta sull'acqua e forte valore percepito",
+            "Coppie, soggiorni di charme, turismo estero"
+          ],
+          [
+            "Fuori penisola verso la terraferma",
+            "Più tranquillità e prezzi contenuti, buona base per girare il Garda",
+            "Famiglie, soggiorni lunghi, chi cerca budget"
+          ],
+          [
+            "Zone vicine alle terme",
+            "Prossimità ad Aquaria e alla sorgente, domanda benessere anche fuori stagione",
+            "Coppie, clientela wellness, ospiti esteri adulti"
+          ]
         ]
       }
     },
@@ -85,7 +109,7 @@
       ]
     },
     {
-      "h2": "Regole locali in sintesi: CIN, Alloggiati Web e imposta di soggiorno",
+      "h2": "Prima di pubblicare l'annuncio: gli adempimenti",
       "paragraphs": [
         "Affittare a Sirmione in modo serio significa essere in regola prima ancora di pubblicare l'annuncio. Gli adempimenti di base sono gli stessi del resto d'Italia: non sono formalità, ma condizioni per restare online ed evitare sanzioni, che di norma si applicano per singolo immobile.",
         "Il caso da verificare sempre è l'imposta di soggiorno, un tributo comunale a carico dell'ospite: importi, esenzioni e periodi di applicazione sono decisi dal Comune e vanno controllati presso il Comune di Sirmione. Qui trovi solo la sintesi degli adempimenti principali, non un parere fiscale o legale, e le regole possono cambiare nel tempo."
@@ -139,10 +163,24 @@
       "a": "Sì, il CIN, il Codice Identificativo Nazionale, è obbligatorio anche a Sirmione e va esposto negli annunci; si richiede tramite il Ministero del Turismo. A questo si aggiungono la comunicazione dei dati degli ospiti tramite Alloggiati Web e l'imposta di soggiorno stabilita dal Comune di Sirmione."
     }
   ],
-  "related": ["affitti-brevi-lago-di-garda-guida", "affitti-brevi-verona-guida", "property-manager-affitti-brevi"],
+  "related": [
+    "affitti-brevi-lago-di-garda-guida",
+    "affitti-brevi-verona-guida",
+    "property-manager-affitti-brevi"
+  ],
   "sources": [
-    {"label": "Imposta di soggiorno e regole per gli affitti brevi a Sirmione", "ente": "Comune di Sirmione", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Imposta di soggiorno e regole per gli affitti brevi a Sirmione",
+      "ente": "Comune di Sirmione",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

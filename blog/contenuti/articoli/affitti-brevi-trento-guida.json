@@ -25,13 +25,43 @@
         "Ecco una mappa sintetica delle principali zone, con la vocazione, la stagione in cui rendono di più e il tipo di ospite che intercettano più spesso. Usala come punto di partenza prima di acquistare o mettere a reddito un appartamento: la posizione è una scelta che ti porti dietro per anni e pesa più di quasi ogni altra leva."
       ],
       "table": {
-        "headers": ["Zona", "Vocazione", "Stagione più forte", "Ospiti tipici"],
+        "headers": [
+          "Zona",
+          "Vocazione",
+          "Stagione più forte",
+          "Ospiti tipici"
+        ],
         "rows": [
-          ["Centro storico (Duomo, Buonconsiglio)", "Cuore culturale e dei mercatini di Natale", "Inverno e ponti", "Coppie, city break, turismo culturale"],
-          ["Le Albere e zona MUSE / stazione", "Moderna e comoda, vicino a museo e treni", "Tutto l'anno", "Famiglie, business, congressi"],
-          ["Quartieri residenziali (San Martino, Bolghera)", "Tranquilli e ben serviti, vicini al centro", "Tutto l'anno", "Soggiorni lunghi, trasferte, quiete"],
-          ["Zona università e poli sanitari", "Vicino agli atenei e all'ospedale", "Autunno e primavera", "Visiting, familiari di degenti, trasferte"],
-          ["Trento come base per le valli", "Partenza per sci ed escursioni sulle Dolomiti", "Inverno ed estate", "Sciatori, escursionisti, famiglie"]
+          [
+            "Centro storico (Duomo, Buonconsiglio)",
+            "Cuore culturale e dei mercatini di Natale",
+            "Inverno e ponti",
+            "Coppie, city break, turismo culturale"
+          ],
+          [
+            "Le Albere e zona MUSE / stazione",
+            "Moderna e comoda, vicino a museo e treni",
+            "Tutto l'anno",
+            "Famiglie, business, congressi"
+          ],
+          [
+            "Quartieri residenziali (San Martino, Bolghera)",
+            "Tranquilli e ben serviti, vicini al centro",
+            "Tutto l'anno",
+            "Soggiorni lunghi, trasferte, quiete"
+          ],
+          [
+            "Zona università e poli sanitari",
+            "Vicino agli atenei e all'ospedale",
+            "Autunno e primavera",
+            "Visiting, familiari di degenti, trasferte"
+          ],
+          [
+            "Trento come base per le valli",
+            "Partenza per sci ed escursioni sulle Dolomiti",
+            "Inverno ed estate",
+            "Sciatori, escursionisti, famiglie"
+          ]
         ]
       }
     },
@@ -51,7 +81,7 @@
     {
       "h2": "Che ospiti aspettarti a Trento",
       "paragraphs": [
-        "A Trento l'ospite non è di un solo tipo: la doppia vocazione della città porta mondi diversi, spesso sovrapposti nello stesso mese. Per chi affitta significa una domanda meno concentrata e un rischio più distribuito, ma anche la necessità di parlare lingue e aspettative differenti. Ecco i profili che alimentano più spesso le prenotazioni."
+        "A Trento l'ospite non è di un solo tipo: la doppia vocazione della città porta mondi diversi, spesso sovrapposti nello stesso mese. Per chi affitta significa una domanda meno concentrata e un rischio più distribuito, ma anche la necessità di parlare lingue e aspettative differenti. Conviene tenerli separati: chiedono cose diverse alla stessa casa."
       ],
       "list": [
         "Coppie e turismo culturale: cercano il centro storico, i musei e l'atmosfera dei mercatini di Natale.",
@@ -62,7 +92,7 @@
       ]
     },
     {
-      "h2": "Regole locali in sintesi: CIN, Alloggiati Web e imposta di soggiorno",
+      "h2": "Adempimenti: codice identificativo, tassa di soggiorno e Questura",
       "paragraphs": [
         "Affittare a Trento in modo serio significa essere in regola prima ancora di pubblicare l'annuncio. Come nel resto d'Italia ci sono adempimenti di base che non vanno trattati come formalità: sono le condizioni per restare online ed evitare sanzioni, che si applicano per singolo immobile.",
         "C'è però una specificità da tenere presente: Trento si trova in una provincia autonoma. Alle regole nazionali possono affiancarsi indicazioni locali sulla ricettività, gestite dalla Provincia autonoma di Trento. Conviene verificarle, insieme all'imposta di soggiorno del Comune, presso le fonti ufficiali prima di iniziare. Qui trovi solo la sintesi degli adempimenti principali, non un parere fiscale o legale."
@@ -104,11 +134,30 @@
       "a": "Sì, ed è una delle sue leve più forti. Trento è una base comoda per le Dolomiti, per la val di Fiemme e la val di Fassa e per il nord del Lago di Garda, ben collegata lungo l'asse del Brennero. Molti ospiti la scelgono come punto di partenza per muoversi in giornata, con soggiorni spesso più lunghi e un'occupazione meno legata al singolo weekend."
     }
   ],
-  "related": ["affitti-brevi-bolzano-guida", "property-manager-affitti-brevi", "cin-affitti-brevi-come-ottenerlo"],
+  "related": [
+    "affitti-brevi-bolzano-guida",
+    "property-manager-affitti-brevi",
+    "cin-affitti-brevi-come-ottenerlo"
+  ],
   "sources": [
-    {"label": "Imposta di soggiorno a Trento", "ente": "Comune di Trento", "data": "", "url": ""},
-    {"label": "Ricettività e locazioni turistiche in Trentino", "ente": "Provincia Autonoma di Trento", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Imposta di soggiorno a Trento",
+      "ente": "Comune di Trento",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Ricettività e locazioni turistiche in Trentino",
+      "ente": "Provincia Autonoma di Trento",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

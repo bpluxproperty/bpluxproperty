@@ -25,11 +25,27 @@
         "D'estate cambia tutto il pubblico. Arrivano trekking ed escursioni, con mete come l'Alpe di Siusi, il Seceda e il Sassolungo a fare da richiamo. Le mezze stagioni, primavera e autunno, restano più deboli. Capire quale stagione stai servendo è il primo passo per arredare, comunicare e fissare i prezzi: le esigenze di uno sciatore e di un escursionista non coincidono, e nemmeno i loro tempi di prenotazione."
       ],
       "table": {
-        "headers": ["Stagione", "Domanda prevalente", "Ospiti tipici"],
+        "headers": [
+          "Stagione",
+          "Domanda prevalente",
+          "Ospiti tipici"
+        ],
         "rows": [
-          ["Inverno", "Sci, Dolomiti Superski e giro della Sellaronda, settimane bianche e festività", "Famiglie, gruppi di sciatori, clientela internazionale"],
-          ["Estate", "Trekking ed escursioni: Alpe di Siusi, Seceda, Sassolungo", "Coppie, appassionati di montagna, turismo outdoor"],
-          ["Primavera e autunno", "Mezze stagioni più deboli: relax, weekend e ponti", "Coppie in cerca di quiete, turismo lento"]
+          [
+            "Inverno",
+            "Sci, Dolomiti Superski e giro della Sellaronda, settimane bianche e festività",
+            "Famiglie, gruppi di sciatori, clientela internazionale"
+          ],
+          [
+            "Estate",
+            "Trekking ed escursioni: Alpe di Siusi, Seceda, Sassolungo",
+            "Coppie, appassionati di montagna, turismo outdoor"
+          ],
+          [
+            "Primavera e autunno",
+            "Mezze stagioni più deboli: relax, weekend e ponti",
+            "Coppie in cerca di quiete, turismo lento"
+          ]
         ]
       }
     },
@@ -66,7 +82,7 @@
       ]
     },
     {
-      "h2": "Regole locali in sintesi: CIN e imposta di soggiorno",
+      "h2": "Mettersi in regola: codice, tributo e comunicazione ospiti",
       "paragraphs": [
         "Affittare in Val Gardena in modo serio significa essere in regola prima ancora di pubblicare l'annuncio. Come nel resto d'Italia serve il CIN, va comunicata la presenza degli ospiti e si applica l'imposta di soggiorno; in una valle turistica come questa sono adempimenti da gestire fin dal primo giorno.",
         "C'è però un elemento in più: l'Alto Adige è una provincia autonoma con competenze proprie anche in materia di turismo. Accanto agli adempimenti nazionali possono esserci specificità locali. Per questo le regole vanno sempre verificate presso le fonti ufficiali, in particolare il Comune di Ortisei e la Provincia Autonoma di Bolzano. Qui trovi solo una sintesi, non un parere fiscale o legale."
@@ -115,11 +131,30 @@
       "a": "Molti sì. La Val Gardena è in Alto Adige e attira una fetta importante di ospiti dall'area germanofona, tra Germania, Austria e la stessa provincia. Offrire annuncio, istruzioni e assistenza anche in tedesco, oltre che in italiano e inglese, aiuta a ottenere più prenotazioni e recensioni migliori."
     }
   ],
-  "related": ["affitti-brevi-bolzano-guida", "affitti-brevi-cortina-guida", "property-manager-affitti-brevi"],
+  "related": [
+    "affitti-brevi-bolzano-guida",
+    "affitti-brevi-cortina-guida",
+    "property-manager-affitti-brevi"
+  ],
   "sources": [
-    {"label": "Imposta di soggiorno e regolamento turistico", "ente": "Comune di Ortisei", "data": "", "url": ""},
-    {"label": "Normativa turistica provinciale", "ente": "Provincia Autonoma di Bolzano", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Imposta di soggiorno e regolamento turistico",
+      "ente": "Comune di Ortisei",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Normativa turistica provinciale",
+      "ente": "Provincia Autonoma di Bolzano",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

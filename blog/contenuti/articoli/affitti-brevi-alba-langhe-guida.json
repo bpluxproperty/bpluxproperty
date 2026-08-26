@@ -25,14 +25,42 @@
         "Alba è la base più comoda tutto l'anno, con servizi, ristoranti e la Fiera del Tartufo a fare da traino in autunno. I borghi tra le vigne sono più scenografici e richiestissimi in alta stagione, ma la logistica è più impegnativa. Ecco una mappa sintetica delle principali zone, da usare come punto di partenza prima di mettere a reddito un immobile."
       ],
       "table": {
-        "headers": ["Zona", "Vocazione", "Ospiti tipici"],
+        "headers": [
+          "Zona",
+          "Vocazione",
+          "Ospiti tipici"
+        ],
         "rows": [
-          ["Alba (centro)", "Base urbana con servizi, cuore della Fiera del Tartufo", "City break, coppie, turismo gourmet tutto l'anno"],
-          ["Barolo e La Morra", "Cuore del vino, cantine e vista sui vigneti", "Wine lover, coppie, enoturismo internazionale"],
-          ["Barbaresco e Neive", "Borghi del vino panoramici e raccolti", "Coppie e soggiorni scenografici, turismo estero"],
-          ["Cascine e case in collina", "Vista vigneti e riservatezza, forte richiamo", "Clientela alto-spendente, gruppi, soggiorni esperienziali"],
-          ["Borghi panoramici (Monforte, Serralunga, Grinzane)", "Atmosfera storica tra castelli e colline", "Turismo culturale ed enogastronomico, coppie"],
-          ["Roero (oltre il Tanaro)", "Enoturismo più tranquillo e in crescita", "Chi cerca quiete, coppie, soggiorni più lunghi"]
+          [
+            "Alba (centro)",
+            "Base urbana con servizi, cuore della Fiera del Tartufo",
+            "City break, coppie, turismo gourmet tutto l'anno"
+          ],
+          [
+            "Barolo e La Morra",
+            "Cuore del vino, cantine e vista sui vigneti",
+            "Wine lover, coppie, enoturismo internazionale"
+          ],
+          [
+            "Barbaresco e Neive",
+            "Borghi del vino panoramici e raccolti",
+            "Coppie e soggiorni scenografici, turismo estero"
+          ],
+          [
+            "Cascine e case in collina",
+            "Vista vigneti e riservatezza, forte richiamo",
+            "Clientela alto-spendente, gruppi, soggiorni esperienziali"
+          ],
+          [
+            "Borghi panoramici (Monforte, Serralunga, Grinzane)",
+            "Atmosfera storica tra castelli e colline",
+            "Turismo culturale ed enogastronomico, coppie"
+          ],
+          [
+            "Roero (oltre il Tanaro)",
+            "Enoturismo più tranquillo e in crescita",
+            "Chi cerca quiete, coppie, soggiorni più lunghi"
+          ]
         ]
       }
     },
@@ -62,7 +90,7 @@
       ]
     },
     {
-      "h2": "Regole locali in sintesi: CIN, Alloggiati Web e imposta di soggiorno",
+      "h2": "Il lato amministrativo dell'affitto breve",
       "paragraphs": [
         "Affittare tra Alba e le Langhe in modo serio significa essere in regola prima ancora di pubblicare l'annuncio. Gli adempimenti di base sono gli stessi del resto d'Italia e non vanno trattati come formalità: sono le condizioni per restare online ed evitare sanzioni, che si applicano per singolo immobile.",
         "In Piemonte, come nel resto del Paese, serve il CIN, il Codice Identificativo Nazionale gestito dal Ministero del Turismo. Vanno poi comunicati i dati degli ospiti e gestita l'imposta di soggiorno, che ogni Comune stabilisce in autonomia. Importi e modalità possono cambiare e vanno verificati presso le fonti ufficiali: qui trovi solo la sintesi, non un parere fiscale o legale."
@@ -111,10 +139,24 @@
       "a": "Sì, quasi sempre: l'auto è di fatto indispensabile per raggiungere le cantine e muoversi tra i borghi collinari, serviti poco dai mezzi pubblici. Per un host questo significa segnalare un parcheggio comodo e fornire indicazioni d'arrivo chiare, soprattutto per le case isolate in collina."
     }
   ],
-  "related": ["affitti-brevi-torino-guida", "property-manager-affitti-brevi", "cin-affitti-brevi-come-ottenerlo"],
+  "related": [
+    "affitti-brevi-torino-guida",
+    "property-manager-affitti-brevi",
+    "cin-affitti-brevi-come-ottenerlo"
+  ],
   "sources": [
-    {"label": "Imposta di soggiorno ad Alba", "ente": "Comune di Alba", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Imposta di soggiorno ad Alba",
+      "ente": "Comune di Alba",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

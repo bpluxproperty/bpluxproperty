@@ -25,14 +25,42 @@
         "La città è più semplice da gestire tutto l'anno, con servizi, treni e negozi vicini. I borghi del lago sono più scenografici e richiestissimi in alta stagione, ma la logistica è più complessa. Ecco una mappa sintetica delle principali zone, da usare come punto di partenza prima di mettere a reddito un immobile."
       ],
       "table": {
-        "headers": ["Zona", "Vocazione", "Ospiti tipici"],
+        "headers": [
+          "Zona",
+          "Vocazione",
+          "Ospiti tipici"
+        ],
         "rows": [
-          ["Como città (centro, lungolago)", "Base comoda tutto l'anno, vicino a treni e servizi", "Coppie, city break, turismo estero e trasferte"],
-          ["Borgo Vico", "Residenziale e tranquilla, a due passi dal lago", "Coppie e soggiorni più lunghi in cerca di quiete"],
-          ["Cernobbio", "Immagine elegante, ville e atmosfera di lusso", "Clientela alto-spendente, eventi, turismo estero"],
-          ["Bellagio", "Borgo iconico del lago, molto richiesto", "Turismo internazionale, coppie, matrimoni"],
-          ["Menaggio e Varenna", "Borghi panoramici, ben collegati via traghetto", "Turismo estero e soggiorni scenografici"],
-          ["Tremezzina", "Ville e giardini storici, forte richiamo turistico", "Coppie, famiglie, turismo culturale e leisure"]
+          [
+            "Como città (centro, lungolago)",
+            "Base comoda tutto l'anno, vicino a treni e servizi",
+            "Coppie, city break, turismo estero e trasferte"
+          ],
+          [
+            "Borgo Vico",
+            "Residenziale e tranquilla, a due passi dal lago",
+            "Coppie e soggiorni più lunghi in cerca di quiete"
+          ],
+          [
+            "Cernobbio",
+            "Immagine elegante, ville e atmosfera di lusso",
+            "Clientela alto-spendente, eventi, turismo estero"
+          ],
+          [
+            "Bellagio",
+            "Borgo iconico del lago, molto richiesto",
+            "Turismo internazionale, coppie, matrimoni"
+          ],
+          [
+            "Menaggio e Varenna",
+            "Borghi panoramici, ben collegati via traghetto",
+            "Turismo estero e soggiorni scenografici"
+          ],
+          [
+            "Tremezzina",
+            "Ville e giardini storici, forte richiamo turistico",
+            "Coppie, famiglie, turismo culturale e leisure"
+          ]
         ]
       }
     },
@@ -61,7 +89,7 @@
       ]
     },
     {
-      "h2": "Regole locali in sintesi: CIN, Alloggiati Web e imposta di soggiorno",
+      "h2": "Il lato amministrativo dell'affitto breve",
       "paragraphs": [
         "Affittare a Como in modo serio significa essere in regola prima ancora di pubblicare l'annuncio. Gli adempimenti di base sono gli stessi del resto d'Italia e non vanno trattati come formalità: sono le condizioni per restare online ed evitare sanzioni.",
         "In Lombardia, come nel resto del Paese, serve il CIN, il Codice Identificativo Nazionale gestito dal Ministero del Turismo. Vanno poi comunicati i dati degli ospiti e gestita l'imposta di soggiorno, che a Como è stabilita dal Comune. Importi e modalità possono cambiare, quindi conviene verificarli presso le fonti ufficiali prima di iniziare."
@@ -109,10 +137,24 @@
       "a": "L'imposta di soggiorno a Como è stabilita dal Comune: si riscuote dagli ospiti e si versa secondo le regole comunali. Importi e modalità possono cambiare nel tempo, quindi vanno verificati sul sito del Comune di Como prima di iniziare."
     }
   ],
-  "related": ["affitti-brevi-milano-guida", "property-manager-affitti-brevi", "cin-affitti-brevi-come-ottenerlo"],
+  "related": [
+    "affitti-brevi-milano-guida",
+    "property-manager-affitti-brevi",
+    "cin-affitti-brevi-come-ottenerlo"
+  ],
   "sources": [
-    {"label": "Imposta di soggiorno a Como", "ente": "Comune di Como", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Imposta di soggiorno a Como",
+      "ente": "Comune di Como",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

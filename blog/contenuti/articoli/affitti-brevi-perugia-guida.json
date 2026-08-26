@@ -39,13 +39,37 @@
         "Un dettaglio pratico da non sottovalutare: il centro storico è arroccato e in gran parte pedonale, servito da scale mobili che salgono verso l'acropoli. È una delle cose che rendono Perugia unica, ma incide su parcheggio e arrivo degli ospiti. Ecco una mappa sintetica delle zone, con la loro vocazione e il tipo di ospite che intercettano più spesso."
       ],
       "table": {
-        "headers": ["Zona", "Vocazione", "Ospiti tipici"],
+        "headers": [
+          "Zona",
+          "Vocazione",
+          "Ospiti tipici"
+        ],
         "rows": [
-          ["Centro storico / acropoli", "Cuore medievale pedonale: Corso Vannucci, Fontana Maggiore, Rocca Paolina", "City break, coppie, pubblico dei grandi eventi"],
-          ["Zona universitaria", "A ridosso del centro, vita studentesca durante l'anno accademico", "Studenti, visiting, genitori e ospiti internazionali"],
-          ["Semicentro / zona stazione", "Più comoda per arrivare e parcheggiare, ben collegata al centro", "Business, famiglie, soggiorni pratici e di passaggio"],
-          ["Colline e dintorni", "Verde e quiete a pochi minuti dalla città", "Soggiorni slow, famiglie, chi cerca tranquillità"],
-          ["Base per l'Umbria (fuori città)", "Punto d'appoggio per Assisi, Gubbio e il Trasimeno", "Turisti che esplorano la regione, vacanze lente"]
+          [
+            "Centro storico / acropoli",
+            "Cuore medievale pedonale: Corso Vannucci, Fontana Maggiore, Rocca Paolina",
+            "City break, coppie, pubblico dei grandi eventi"
+          ],
+          [
+            "Zona universitaria",
+            "A ridosso del centro, vita studentesca durante l'anno accademico",
+            "Studenti, visiting, genitori e ospiti internazionali"
+          ],
+          [
+            "Semicentro / zona stazione",
+            "Più comoda per arrivare e parcheggiare, ben collegata al centro",
+            "Business, famiglie, soggiorni pratici e di passaggio"
+          ],
+          [
+            "Colline e dintorni",
+            "Verde e quiete a pochi minuti dalla città",
+            "Soggiorni slow, famiglie, chi cerca tranquillità"
+          ],
+          [
+            "Base per l'Umbria (fuori città)",
+            "Punto d'appoggio per Assisi, Gubbio e il Trasimeno",
+            "Turisti che esplorano la regione, vacanze lente"
+          ]
         ]
       }
     },
@@ -64,7 +88,7 @@
       ]
     },
     {
-      "h2": "Regole locali in sintesi: CIN, Alloggiati Web e imposta di soggiorno",
+      "h2": "Le regole da mettere a posto prima del primo ospite",
       "paragraphs": [
         "Affittare a Perugia in modo serio significa essere in regola. Come nel resto d'Italia ci sono adempimenti di base da conoscere prima ancora di pubblicare l'annuncio, e vanno seguiti con precisione: non sono formalità, ma condizioni per restare online ed evitare sanzioni, che si applicano per singolo immobile.",
         "Le regole possono cambiare e vanno sempre verificate presso le fonti ufficiali, a partire dal Comune di Perugia per l'imposta di soggiorno. Qui trovi solo la sintesi degli adempimenti principali, non un parere fiscale o legale. Per il CIN, primo passo per pubblicare un annuncio a norma, rimandiamo alla nostra guida dedicata, dove spieghiamo cos'è e come si ottiene."
@@ -105,10 +129,24 @@
       "a": "Sì, il CIN, il Codice Identificativo Nazionale, è obbligatorio per gli affitti brevi in tutta Italia, Perugia compresa, e va indicato negli annunci. Si aggiungono la comunicazione dei dati degli ospiti tramite Alloggiati Web e l'imposta di soggiorno comunale. Per la procedura completa rimandiamo alla nostra guida dedicata al CIN."
     }
   ],
-  "related": ["affitti-brevi-firenze-guida", "property-manager-affitti-brevi", "cin-affitti-brevi-come-ottenerlo"],
+  "related": [
+    "affitti-brevi-firenze-guida",
+    "property-manager-affitti-brevi",
+    "cin-affitti-brevi-come-ottenerlo"
+  ],
   "sources": [
-    {"label": "Imposta di soggiorno a Perugia", "ente": "Comune di Perugia", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Imposta di soggiorno a Perugia",
+      "ente": "Comune di Perugia",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

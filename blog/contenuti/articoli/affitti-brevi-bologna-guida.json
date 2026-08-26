@@ -18,15 +18,47 @@
         "Ecco una mappa rapida per orientarti, prima di comprare o mettere a reddito un appartamento."
       ],
       "table": {
-        "headers": ["Zona", "Vocazione", "Ospiti tipici"],
+        "headers": [
+          "Zona",
+          "Vocazione",
+          "Ospiti tipici"
+        ],
         "rows": [
-          ["Centro storico (Piazza Maggiore, Quadrilatero, Due Torri)", "Turismo culturale e food, richiesto tutto l'anno", "Coppie, city break, appassionati di cucina"],
-          ["Santo Stefano", "Residenziale di pregio, a due passi dal centro", "Coppie e famiglie che cercano soggiorni curati"],
-          ["Zona universitaria (via Zamboni)", "Cultura e vita accademica", "Visiting, docenti, famiglie di studenti"],
-          ["Bolognina", "Quartiere in trasformazione, vicino alla stazione AV", "Chi arriva in treno, business e viaggiatori attenti al prezzo"],
-          ["Zona Fiera", "Business, con picchi durante gli eventi", "Espositori e professionisti"],
-          ["Vicino alla Stazione Centrale", "Arrivi e partenze comodi", "Chi si muove in treno, soggiorni di passaggio"],
-          ["San Lazzaro di Savena (fuori città)", "Più tranquillo e con parcheggio", "Famiglie e soggiorni più lunghi"]
+          [
+            "Centro storico (Piazza Maggiore, Quadrilatero, Due Torri)",
+            "Turismo culturale e food, richiesto tutto l'anno",
+            "Coppie, city break, appassionati di cucina"
+          ],
+          [
+            "Santo Stefano",
+            "Residenziale di pregio, a due passi dal centro",
+            "Coppie e famiglie che cercano soggiorni curati"
+          ],
+          [
+            "Zona universitaria (via Zamboni)",
+            "Cultura e vita accademica",
+            "Visiting, docenti, famiglie di studenti"
+          ],
+          [
+            "Bolognina",
+            "Quartiere in trasformazione, vicino alla stazione AV",
+            "Chi arriva in treno, business e viaggiatori attenti al prezzo"
+          ],
+          [
+            "Zona Fiera",
+            "Business, con picchi durante gli eventi",
+            "Espositori e professionisti"
+          ],
+          [
+            "Vicino alla Stazione Centrale",
+            "Arrivi e partenze comodi",
+            "Chi si muove in treno, soggiorni di passaggio"
+          ],
+          [
+            "San Lazzaro di Savena (fuori città)",
+            "Più tranquillo e con parcheggio",
+            "Famiglie e soggiorni più lunghi"
+          ]
         ]
       }
     },
@@ -58,7 +90,7 @@
       ]
     },
     {
-      "h2": "Regole locali in sintesi: CIN, Alloggiati Web e imposta di soggiorno",
+      "h2": "Burocrazia locale: CIN, imposta di soggiorno e ospiti da comunicare",
       "paragraphs": [
         "Affittare in modo serio significa essere in regola. A Bologna, come nel resto d'Italia, ci sono tre adempimenti di base da conoscere prima di pubblicare un annuncio.",
         "Le regole cambiano e vanno sempre verificate presso le fonti ufficiali. Qui trovi solo la sintesi, non un parere fiscale o legale."
@@ -113,10 +145,24 @@
       "a": "Sono due strategie diverse. La città offre rotazione alta e soggiorni brevi; i borghi e le colline, come Dozza, lavorano su soggiorni più lunghi e pianificati. La scelta dipende dall'immobile e dall'ospite che vuoi."
     }
   ],
-  "related": ["quanto-rende-affitto-breve-bologna", "dove-dormire-a-dozza-appartamento", "cosa-vedere-a-dozza"],
+  "related": [
+    "quanto-rende-affitto-breve-bologna",
+    "dove-dormire-a-dozza-appartamento",
+    "cosa-vedere-a-dozza"
+  ],
   "sources": [
-    {"label": "Imposta di soggiorno a Bologna", "ente": "Comune di Bologna", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Imposta di soggiorno a Bologna",
+      "ente": "Comune di Bologna",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

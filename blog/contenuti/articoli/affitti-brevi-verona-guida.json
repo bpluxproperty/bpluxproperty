@@ -25,14 +25,42 @@
         "Ecco una mappa sintetica delle principali zone, con la loro vocazione e il tipo di ospite che intercettano più spesso. Usala come punto di partenza prima di acquistare o mettere a reddito un appartamento: la posizione è una scelta che ti porti dietro per anni e pesa più di quasi ogni altra leva."
       ],
       "table": {
-        "headers": ["Zona", "Vocazione", "Ospiti tipici"],
+        "headers": [
+          "Zona",
+          "Vocazione",
+          "Ospiti tipici"
+        ],
         "rows": [
-          ["Centro storico / Arena e Piazza Bra", "Cuore monumentale e turismo d'arte, richiesto tutto l'anno", "City break, coppie, pubblico degli spettacoli all'Arena"],
-          ["Città Antica / Piazza Erbe", "Vie dello shopping e monumenti, sempre molto richiesta", "Turisti d'arte, soggiorni brevi e romantici"],
-          ["Veronetta", "Quartiere universitario a ridosso del centro, vivace", "Studenti, visiting, viaggiatori giovani"],
-          ["Borgo Trento", "Residenziale elegante e tranquillo, oltre l'Adige", "Soggiorni curati, famiglie, chi cerca quiete"],
-          ["Fiera / Porta Nuova", "Polo fieristico e nodo dell'Alta Velocità", "Business, espositori, viaggiatori di passaggio"],
-          ["Lago di Garda (fuori città)", "Turismo lacustre a pochi chilometri", "Famiglie e vacanze slow, con Verona come base"]
+          [
+            "Centro storico / Arena e Piazza Bra",
+            "Cuore monumentale e turismo d'arte, richiesto tutto l'anno",
+            "City break, coppie, pubblico degli spettacoli all'Arena"
+          ],
+          [
+            "Città Antica / Piazza Erbe",
+            "Vie dello shopping e monumenti, sempre molto richiesta",
+            "Turisti d'arte, soggiorni brevi e romantici"
+          ],
+          [
+            "Veronetta",
+            "Quartiere universitario a ridosso del centro, vivace",
+            "Studenti, visiting, viaggiatori giovani"
+          ],
+          [
+            "Borgo Trento",
+            "Residenziale elegante e tranquillo, oltre l'Adige",
+            "Soggiorni curati, famiglie, chi cerca quiete"
+          ],
+          [
+            "Fiera / Porta Nuova",
+            "Polo fieristico e nodo dell'Alta Velocità",
+            "Business, espositori, viaggiatori di passaggio"
+          ],
+          [
+            "Lago di Garda (fuori città)",
+            "Turismo lacustre a pochi chilometri",
+            "Famiglie e vacanze slow, con Verona come base"
+          ]
         ]
       }
     },
@@ -64,7 +92,7 @@
       ]
     },
     {
-      "h2": "Regole locali in sintesi: CIN, Alloggiati Web e imposta di soggiorno",
+      "h2": "Gli obblighi che non conviene saltare",
       "paragraphs": [
         "Affittare a Verona in modo serio significa essere in regola. Come nel resto d'Italia ci sono adempimenti di base da conoscere prima ancora di pubblicare l'annuncio, e vanno seguiti con precisione: non sono formalità, ma condizioni per restare online e per evitare sanzioni, che si applicano per singolo immobile.",
         "Le regole possono cambiare e vanno sempre verificate presso le fonti ufficiali, a partire dal Comune di Verona per l'imposta di soggiorno. Qui trovi solo la sintesi degli adempimenti principali, non un parere fiscale o legale. Per il CIN, che è il primo passo per pubblicare un annuncio a norma, rimandiamo alla nostra guida dedicata, dove spieghiamo cos'è e come si ottiene."
@@ -105,10 +133,24 @@
       "a": "Sì, ed è una delle sue leve più forti. Verona è a pochi chilometri dal Garda ed è un nodo dell'Alta Velocità, così molti ospiti la scelgono come base per visitare lago e città d'arte vicine. Il risultato sono soggiorni spesso più lunghi e un'occupazione meno legata al singolo weekend."
     }
   ],
-  "related": ["affitti-brevi-venezia-guida", "property-manager-affitti-brevi", "cin-affitti-brevi-come-ottenerlo"],
+  "related": [
+    "affitti-brevi-venezia-guida",
+    "property-manager-affitti-brevi",
+    "cin-affitti-brevi-come-ottenerlo"
+  ],
   "sources": [
-    {"label": "Imposta di soggiorno a Verona", "ente": "Comune di Verona", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Imposta di soggiorno a Verona",
+      "ente": "Comune di Verona",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

@@ -25,14 +25,42 @@
         "Ecco una mappa sintetica delle principali zone, con la loro vocazione e il tipo di ospite che intercettano più spesso. Usala come punto di partenza prima di acquistare o mettere a reddito un appartamento: la posizione è una scelta che ti porti dietro per anni e pesa più di quasi ogni altra leva."
       ],
       "table": {
-        "headers": ["Zona", "Vocazione", "Ospiti tipici"],
+        "headers": [
+          "Zona",
+          "Vocazione",
+          "Ospiti tipici"
+        ],
         "rows": [
-          ["Centro storico (Palazzo Ducale, Rotonda di San Lorenzo)", "Cuore monumentale e turismo d'arte, richiesto tutto l'anno", "Coppie, city break, appassionati d'arte e storia"],
-          ["Piazza Sordello e Piazza delle Erbe", "Piazze storiche e vie del centro, sempre richieste", "Turisti d'arte, soggiorni brevi e curati"],
-          ["Lungolago e affacci sul Mincio", "Atmosfera sull'acqua, natura e passeggiate", "Coppie, amanti del birdwatching, chi cerca quiete"],
-          ["Zona Palazzo Te", "Capolavoro rinascimentale a sud del centro", "Visitatori culturali, appassionati di architettura"],
-          ["Vicino alla stazione", "Arrivi e partenze comodi in treno", "Business di passaggio, chi si muove in treno"],
-          ["Dintorni e laghi (fuori città)", "Turismo slow tra natura e borghi del Mincio", "Famiglie e vacanze slow, con Mantova come base"]
+          [
+            "Centro storico (Palazzo Ducale, Rotonda di San Lorenzo)",
+            "Cuore monumentale e turismo d'arte, richiesto tutto l'anno",
+            "Coppie, city break, appassionati d'arte e storia"
+          ],
+          [
+            "Piazza Sordello e Piazza delle Erbe",
+            "Piazze storiche e vie del centro, sempre richieste",
+            "Turisti d'arte, soggiorni brevi e curati"
+          ],
+          [
+            "Lungolago e affacci sul Mincio",
+            "Atmosfera sull'acqua, natura e passeggiate",
+            "Coppie, amanti del birdwatching, chi cerca quiete"
+          ],
+          [
+            "Zona Palazzo Te",
+            "Capolavoro rinascimentale a sud del centro",
+            "Visitatori culturali, appassionati di architettura"
+          ],
+          [
+            "Vicino alla stazione",
+            "Arrivi e partenze comodi in treno",
+            "Business di passaggio, chi si muove in treno"
+          ],
+          [
+            "Dintorni e laghi (fuori città)",
+            "Turismo slow tra natura e borghi del Mincio",
+            "Famiglie e vacanze slow, con Mantova come base"
+          ]
         ]
       }
     },
@@ -64,7 +92,7 @@
       ]
     },
     {
-      "h2": "Regole locali in sintesi: CIN, Alloggiati Web e imposta di soggiorno",
+      "h2": "Mettersi in regola: codice, tributo e comunicazione ospiti",
       "paragraphs": [
         "Affittare a Mantova in modo serio significa essere in regola. Come nel resto d'Italia ci sono adempimenti di base da conoscere prima ancora di pubblicare l'annuncio, e vanno seguiti con precisione: non sono formalità, ma condizioni per restare online e per evitare sanzioni, che si applicano per singolo immobile.",
         "Le regole possono cambiare e vanno sempre verificate presso le fonti ufficiali, a partire dal Comune di Mantova per l'imposta di soggiorno. Qui trovi solo la sintesi degli adempimenti principali, non un parere fiscale o legale. Per il CIN, primo passo per pubblicare un annuncio a norma, rimandiamo alla nostra guida dedicata, dove spieghiamo cos'è e come si ottiene."
@@ -105,10 +133,24 @@
       "a": "Sì, ed è una delle sue leve più forti. Mantova è vicina sia al Lago di Garda sia a Verona, così molti ospiti la scelgono come tappa tranquilla di un tour tra città d'arte e lago. Il risultato sono soggiorni spesso più lunghi e un'occupazione meno legata al singolo weekend."
     }
   ],
-  "related": ["affitti-brevi-verona-guida", "affitti-brevi-lago-di-garda-guida", "property-manager-affitti-brevi"],
+  "related": [
+    "affitti-brevi-verona-guida",
+    "affitti-brevi-lago-di-garda-guida",
+    "property-manager-affitti-brevi"
+  ],
   "sources": [
-    {"label": "Imposta di soggiorno a Mantova", "ente": "Comune di Mantova", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Imposta di soggiorno a Mantova",
+      "ente": "Comune di Mantova",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

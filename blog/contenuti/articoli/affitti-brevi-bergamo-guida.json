@@ -25,13 +25,37 @@
         "Città Alta è la più affascinante, ma anche la più complessa da gestire: è in gran parte pedonale, con accessi e ZTL che rendono meno immediati arrivo e parcheggio. La Città Bassa, intorno al Sentierone, è comoda e ben servita. La zona tra stazione e aeroporto vive invece di transito e di business. Ecco una mappa sintetica da usare come punto di partenza prima di mettere a reddito un immobile."
       ],
       "table": {
-        "headers": ["Zona", "Vocazione", "Ospiti tipici"],
+        "headers": [
+          "Zona",
+          "Vocazione",
+          "Ospiti tipici"
+        ],
         "rows": [
-          ["Città Alta", "Borgo medievale UNESCO, molto scenografico; pedonale e con accessi e ZTL limitati", "Turismo culturale, coppie, city break"],
-          ["Città Bassa / centro (Sentierone)", "Comoda e ben servita, negozi e collegamenti a portata di mano", "Coppie, soggiorni leisure, chi vuole muoversi con facilità"],
-          ["Zona Stazione", "Snodo dei collegamenti verso aeroporto e Milano", "Viaggiatori di passaggio, business, soggiorni brevi"],
-          ["Zona Aeroporto (Orio al Serio)", "Transito legato allo scalo low-cost, voli a ogni ora", "Viaggiatori in volo, trasferte, soste di una notte"],
-          ["Borgo Santa Caterina e viali", "Residenziale e vivace, a due passi dal centro", "Coppie, soggiorni tranquilli e più lunghi"]
+          [
+            "Città Alta",
+            "Borgo medievale UNESCO, molto scenografico; pedonale e con accessi e ZTL limitati",
+            "Turismo culturale, coppie, city break"
+          ],
+          [
+            "Città Bassa / centro (Sentierone)",
+            "Comoda e ben servita, negozi e collegamenti a portata di mano",
+            "Coppie, soggiorni leisure, chi vuole muoversi con facilità"
+          ],
+          [
+            "Zona Stazione",
+            "Snodo dei collegamenti verso aeroporto e Milano",
+            "Viaggiatori di passaggio, business, soggiorni brevi"
+          ],
+          [
+            "Zona Aeroporto (Orio al Serio)",
+            "Transito legato allo scalo low-cost, voli a ogni ora",
+            "Viaggiatori in volo, trasferte, soste di una notte"
+          ],
+          [
+            "Borgo Santa Caterina e viali",
+            "Residenziale e vivace, a due passi dal centro",
+            "Coppie, soggiorni tranquilli e più lunghi"
+          ]
         ]
       }
     },
@@ -74,7 +98,7 @@
       ]
     },
     {
-      "h2": "Regole locali in sintesi: CIN, Alloggiati Web e imposta di soggiorno",
+      "h2": "Regole e adempimenti: il minimo indispensabile",
       "paragraphs": [
         "Affittare a Bergamo in modo serio significa essere in regola prima ancora di pubblicare l'annuncio. Gli adempimenti di base sono gli stessi del resto d'Italia e non vanno trattati come formalità: sono le condizioni per restare online ed evitare sanzioni, che si applicano per singolo immobile.",
         "Le regole possono cambiare e vanno sempre verificate presso le fonti ufficiali. Qui trovi solo la sintesi, non un parere fiscale o legale."
@@ -123,10 +147,24 @@
       "a": "Dipende dall'immobile e da quanta complessità si è disposti a gestire. Città Alta è più affascinante e richiesta dal turismo culturale, ma pedonale e con ZTL che complicano arrivo e parcheggio; la Città Bassa è più semplice, comoda e ben collegata. Entrambe funzionano, con logiche di gestione diverse."
     }
   ],
-  "related": ["affitti-brevi-milano-guida", "affitti-brevi-como-guida", "cin-affitti-brevi-come-ottenerlo"],
+  "related": [
+    "affitti-brevi-milano-guida",
+    "affitti-brevi-como-guida",
+    "cin-affitti-brevi-come-ottenerlo"
+  ],
   "sources": [
-    {"label": "Imposta di soggiorno a Bergamo", "ente": "Comune di Bergamo", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Imposta di soggiorno a Bergamo",
+      "ente": "Comune di Bergamo",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

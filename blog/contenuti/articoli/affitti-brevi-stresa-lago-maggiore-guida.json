@@ -25,13 +25,37 @@
         "La regola non scritta del lago è semplice: più si è vicini all'acqua e ai battelli per le isole, più sale il valore percepito. Ecco una mappa sintetica delle principali zone, da usare come punto di partenza prima di acquistare o mettere a reddito un immobile."
       ],
       "table": {
-        "headers": ["Zona", "Vocazione", "Ospiti tipici"],
+        "headers": [
+          "Zona",
+          "Vocazione",
+          "Ospiti tipici"
+        ],
         "rows": [
-          ["Lungolago di Stresa", "Cuore elegante del lago, alberghi storici e imbarcaderi per le isole", "Coppie, turismo estero, soggiorni di charme"],
-          ["Vicino agli imbarcaderi e alle isole", "Partenza dei battelli per Isola Bella, Isola Madre e Isola dei Pescatori", "Turismo internazionale, visite alle isole, city break"],
-          ["Colline e alture con vista (verso il Mottarone)", "Panorami sul lago e sulle isole, quiete e verde", "Coppie, soggiorni panoramici, amanti della natura"],
-          ["Altri borghi del lago (Baveno, Verbania, Arona)", "Lungolago, giardini botanici e centri vivi anche fuori stagione", "Famiglie, soggiorni più lunghi, turismo slow"],
-          ["Entroterra e paesi collinari", "Prezzi più contenuti del lungolago e maggiore tranquillità", "Soggiorni lunghi, chi cerca quiete e budget"]
+          [
+            "Lungolago di Stresa",
+            "Cuore elegante del lago, alberghi storici e imbarcaderi per le isole",
+            "Coppie, turismo estero, soggiorni di charme"
+          ],
+          [
+            "Vicino agli imbarcaderi e alle isole",
+            "Partenza dei battelli per Isola Bella, Isola Madre e Isola dei Pescatori",
+            "Turismo internazionale, visite alle isole, city break"
+          ],
+          [
+            "Colline e alture con vista (verso il Mottarone)",
+            "Panorami sul lago e sulle isole, quiete e verde",
+            "Coppie, soggiorni panoramici, amanti della natura"
+          ],
+          [
+            "Altri borghi del lago (Baveno, Verbania, Arona)",
+            "Lungolago, giardini botanici e centri vivi anche fuori stagione",
+            "Famiglie, soggiorni più lunghi, turismo slow"
+          ],
+          [
+            "Entroterra e paesi collinari",
+            "Prezzi più contenuti del lungolago e maggiore tranquillità",
+            "Soggiorni lunghi, chi cerca quiete e budget"
+          ]
         ]
       }
     },
@@ -70,7 +94,7 @@
       ]
     },
     {
-      "h2": "Regole locali in sintesi: CIN, Alloggiati Web e imposta di soggiorno",
+      "h2": "Regole e adempimenti: il minimo indispensabile",
       "paragraphs": [
         "Affittare sul Lago Maggiore in modo serio significa essere in regola prima ancora di pubblicare l'annuncio. Gli adempimenti di base sono gli stessi del resto d'Italia, ma qui c'è una complicazione in più: il lago tocca Piemonte, Lombardia e Svizzera, e sulle sponde italiane alcune regole cambiano da Comune a Comune.",
         "Il caso più evidente è l'imposta di soggiorno, che è un tributo comunale: importi, esenzioni e periodi di applicazione sono decisi da ogni Comune e vanno verificati presso quello dell'immobile, per Stresa presso il Comune di Stresa. Qui trovi solo la sintesi degli adempimenti principali, non un parere fiscale o legale."
@@ -124,10 +148,24 @@
       "a": "Dipende dall'immobile e dalla strategia. Stresa è il cuore elegante del lago, con alberghi storici, lungolago e imbarcaderi per le isole, quindi molto richiesta. Borghi come Baveno, Verbania o Arona offrono lungolago, giardini e prezzi spesso più accessibili, con soggiorni anche più lunghi."
     }
   ],
-  "related": ["affitti-brevi-lago-di-garda-guida", "affitti-brevi-como-guida", "property-manager-affitti-brevi"],
+  "related": [
+    "affitti-brevi-lago-di-garda-guida",
+    "affitti-brevi-como-guida",
+    "property-manager-affitti-brevi"
+  ],
   "sources": [
-    {"label": "Imposta di soggiorno a Stresa", "ente": "Comune di Stresa", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Imposta di soggiorno a Stresa",
+      "ente": "Comune di Stresa",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

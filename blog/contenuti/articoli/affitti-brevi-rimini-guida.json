@@ -32,13 +32,37 @@
         "Ecco una mappa rapida per orientarti, prima di comprare o mettere a reddito un appartamento."
       ],
       "table": {
-        "headers": ["Zona", "Vocazione", "Quando lavora di più"],
+        "headers": [
+          "Zona",
+          "Vocazione",
+          "Quando lavora di più"
+        ],
         "rows": [
-          ["Marina Centro", "Cuore balneare, spiaggia e lungomare", "Estate piena, ponti e weekend di sole"],
-          ["Rivabella e Viserba (nord)", "Mare più tranquillo e familiare", "Estate, famiglie e soggiorni più lunghi"],
-          ["Centro storico felliniano", "Cultura, ristoranti e Fellini Museum", "Tutto l'anno, weekend culturali e city break"],
-          ["Zona Fiera e congressi", "Business, espositori e congressisti", "Autunno e inverno, durante i grandi eventi"],
-          ["Miramare e sud (vicino all'aeroporto)", "Balneare, comoda per arrivi in aereo", "Estate e soggiorni di passaggio"]
+          [
+            "Marina Centro",
+            "Cuore balneare, spiaggia e lungomare",
+            "Estate piena, ponti e weekend di sole"
+          ],
+          [
+            "Rivabella e Viserba (nord)",
+            "Mare più tranquillo e familiare",
+            "Estate, famiglie e soggiorni più lunghi"
+          ],
+          [
+            "Centro storico felliniano",
+            "Cultura, ristoranti e Fellini Museum",
+            "Tutto l'anno, weekend culturali e city break"
+          ],
+          [
+            "Zona Fiera e congressi",
+            "Business, espositori e congressisti",
+            "Autunno e inverno, durante i grandi eventi"
+          ],
+          [
+            "Miramare e sud (vicino all'aeroporto)",
+            "Balneare, comoda per arrivi in aereo",
+            "Estate e soggiorni di passaggio"
+          ]
         ]
       }
     },
@@ -71,7 +95,7 @@
       ]
     },
     {
-      "h2": "Regole locali in sintesi: CIN, Alloggiati Web e imposta di soggiorno",
+      "h2": "La parte burocratica, spiegata in breve",
       "paragraphs": [
         "Affittare in modo serio significa essere in regola. A Rimini, come nel resto d'Italia, ci sono tre adempimenti di base da conoscere prima di pubblicare un annuncio.",
         "Le regole cambiano e vanno sempre verificate presso le fonti ufficiali. Qui trovi solo la sintesi, non un parere fiscale o legale."
@@ -116,10 +140,24 @@
       "a": "È un tributo comunale a carico dell'ospite, che l'host raccoglie e versa al Comune. In una città balneare come Rimini, con molte presenze estive, va gestita con ordine: verifica sempre importi e modalità aggiornati presso il Comune di Rimini."
     }
   ],
-  "related": ["affitti-brevi-bologna-guida", "quanto-rende-affitto-breve-bologna", "dove-dormire-a-dozza-appartamento"],
+  "related": [
+    "affitti-brevi-bologna-guida",
+    "quanto-rende-affitto-breve-bologna",
+    "dove-dormire-a-dozza-appartamento"
+  ],
   "sources": [
-    {"label": "Imposta di soggiorno e regole per le locazioni turistiche", "ente": "Comune di Rimini", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Imposta di soggiorno e regole per le locazioni turistiche",
+      "ente": "Comune di Rimini",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

@@ -25,15 +25,47 @@
         "Ecco una mappa sintetica delle principali zone, con la loro vocazione e il tipo di ospite che intercettano più spesso. Usala come punto di partenza prima di acquistare o mettere a reddito un appartamento: la posizione è una scelta che ti porti dietro per anni e pesa più di quasi ogni altra leva."
       ],
       "table": {
-        "headers": ["Zona", "Vocazione", "Ospiti tipici"],
+        "headers": [
+          "Zona",
+          "Vocazione",
+          "Ospiti tipici"
+        ],
         "rows": [
-          ["Centro storico (Duomo, Battistero, Teatro Regio)", "Turismo culturale e gastronomico, richiesto tutto l'anno", "Coppie, city break, appassionati di food"],
-          ["Piazza Garibaldi e vie eleganti", "Cuore monumentale e commerciale, sempre richiesto", "Turisti d'arte, soggiorni brevi e curati"],
-          ["Oltretorrente", "Quartiere autentico e vivace, a due passi dal centro", "Viaggiatori giovani, chi cerca l'atmosfera locale"],
-          ["Zona università", "Vita accademica e cultura", "Studenti, docenti, famiglie in visita"],
-          ["Vicino alla stazione", "Arrivi e partenze comodi, nodo ferroviario", "Chi si muove in treno, business di passaggio"],
-          ["Area fiere / agroalimentare", "Business, con picchi durante gli eventi di settore", "Espositori, professionisti dell'agroalimentare"],
-          ["Food valley / dintorni (fuori città)", "Turismo enogastronomico slow", "Famiglie e appassionati, con Parma come base"]
+          [
+            "Centro storico (Duomo, Battistero, Teatro Regio)",
+            "Turismo culturale e gastronomico, richiesto tutto l'anno",
+            "Coppie, city break, appassionati di food"
+          ],
+          [
+            "Piazza Garibaldi e vie eleganti",
+            "Cuore monumentale e commerciale, sempre richiesto",
+            "Turisti d'arte, soggiorni brevi e curati"
+          ],
+          [
+            "Oltretorrente",
+            "Quartiere autentico e vivace, a due passi dal centro",
+            "Viaggiatori giovani, chi cerca l'atmosfera locale"
+          ],
+          [
+            "Zona università",
+            "Vita accademica e cultura",
+            "Studenti, docenti, famiglie in visita"
+          ],
+          [
+            "Vicino alla stazione",
+            "Arrivi e partenze comodi, nodo ferroviario",
+            "Chi si muove in treno, business di passaggio"
+          ],
+          [
+            "Area fiere / agroalimentare",
+            "Business, con picchi durante gli eventi di settore",
+            "Espositori, professionisti dell'agroalimentare"
+          ],
+          [
+            "Food valley / dintorni (fuori città)",
+            "Turismo enogastronomico slow",
+            "Famiglie e appassionati, con Parma come base"
+          ]
         ]
       }
     },
@@ -65,7 +97,7 @@
       ]
     },
     {
-      "h2": "Regole locali in sintesi: CIN, Alloggiati Web e imposta di soggiorno",
+      "h2": "Permessi, tributi e comunicazioni obbligatorie",
       "paragraphs": [
         "Affittare a Parma in modo serio significa essere in regola. Come nel resto d'Italia ci sono adempimenti di base da conoscere prima ancora di pubblicare l'annuncio, e vanno seguiti con precisione: non sono formalità, ma condizioni per restare online e per evitare sanzioni, che si applicano per singolo immobile.",
         "Le regole possono cambiare e vanno sempre verificate presso le fonti ufficiali, a partire dal Comune di Parma per l'imposta di soggiorno. Qui trovi solo la sintesi degli adempimenti principali, non un parere fiscale o legale. Per il CIN, primo passo per pubblicare un annuncio a norma, rimandiamo alla nostra guida dedicata, dove spieghiamo cos'è e come si ottiene."
@@ -106,10 +138,24 @@
       "a": "Sì, ed è una delle sue leve più forti. Parma è nel cuore della food valley, tra caseifici del Parmigiano Reggiano e prosciuttifici, ed è ben collegata sulla via Emilia. Molti ospiti la scelgono come base per soggiorni enogastronomici, spesso più lunghi del singolo weekend."
     }
   ],
-  "related": ["affitti-brevi-bologna-guida", "quanto-rende-affitto-breve-bologna", "cin-affitti-brevi-come-ottenerlo"],
+  "related": [
+    "affitti-brevi-bologna-guida",
+    "quanto-rende-affitto-breve-bologna",
+    "cin-affitti-brevi-come-ottenerlo"
+  ],
   "sources": [
-    {"label": "Imposta di soggiorno a Parma", "ente": "Comune di Parma", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Imposta di soggiorno a Parma",
+      "ente": "Comune di Parma",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

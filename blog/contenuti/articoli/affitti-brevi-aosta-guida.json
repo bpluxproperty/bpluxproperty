@@ -25,13 +25,43 @@
         "Ecco una mappa sintetica delle principali zone, con la loro vocazione, la stagione in cui rendono di più e il tipo di ospite che intercettano più spesso. Usala come punto di partenza prima di acquistare o mettere a reddito un appartamento: la posizione è una scelta che ti porti dietro per anni e pesa più di quasi ogni altra leva."
       ],
       "table": {
-        "headers": ["Zona", "Vocazione", "Stagione più forte", "Ospiti tipici"],
+        "headers": [
+          "Zona",
+          "Vocazione",
+          "Stagione più forte",
+          "Ospiti tipici"
+        ],
         "rows": [
-          ["Centro storico romano (Arco d'Augusto, Porta Praetoria)", "Cuore culturale, a piedi tra monumenti e locali", "Tutto l'anno, con picchi estivi", "Coppie, city break, turismo culturale"],
-          ["Zona stazione e collegamenti", "Snodo comodo per arrivi, partenze e trasferte", "Tutto l'anno", "Business, viaggiatori di passaggio, soggiorni brevi"],
-          ["Base per Courmayeur e il Monte Bianco", "Punto di partenza per l'alta valle e lo sci", "Inverno ed estate", "Sciatori, escursionisti, famiglie"],
-          ["Base per Cervinia e il Gran Paradiso", "Accesso agli impianti e ai parchi naturali", "Inverno ed estate", "Sciatori, amanti dell'outdoor, coppie"],
-          ["Quartieri residenziali e periferia comoda", "Tranquilli e ben serviti, utili per soggiorni lunghi", "Tutto l'anno", "Trasferte, permanenze prolungate, quiete"]
+          [
+            "Centro storico romano (Arco d'Augusto, Porta Praetoria)",
+            "Cuore culturale, a piedi tra monumenti e locali",
+            "Tutto l'anno, con picchi estivi",
+            "Coppie, city break, turismo culturale"
+          ],
+          [
+            "Zona stazione e collegamenti",
+            "Snodo comodo per arrivi, partenze e trasferte",
+            "Tutto l'anno",
+            "Business, viaggiatori di passaggio, soggiorni brevi"
+          ],
+          [
+            "Base per Courmayeur e il Monte Bianco",
+            "Punto di partenza per l'alta valle e lo sci",
+            "Inverno ed estate",
+            "Sciatori, escursionisti, famiglie"
+          ],
+          [
+            "Base per Cervinia e il Gran Paradiso",
+            "Accesso agli impianti e ai parchi naturali",
+            "Inverno ed estate",
+            "Sciatori, amanti dell'outdoor, coppie"
+          ],
+          [
+            "Quartieri residenziali e periferia comoda",
+            "Tranquilli e ben serviti, utili per soggiorni lunghi",
+            "Tutto l'anno",
+            "Trasferte, permanenze prolungate, quiete"
+          ]
         ]
       }
     },
@@ -51,7 +81,7 @@
     {
       "h2": "Che ospiti aspettarti ad Aosta",
       "paragraphs": [
-        "Ad Aosta l'ospite non è di un solo tipo: la doppia vocazione della città, culturale e di montagna, porta mondi diversi, spesso sovrapposti nello stesso mese. Per chi affitta significa una domanda meno concentrata e un rischio più distribuito, ma anche la necessità di parlare lingue e aspettative differenti. Ecco i profili che alimentano più spesso le prenotazioni."
+        "Ad Aosta l'ospite non è di un solo tipo: la doppia vocazione della città, culturale e di montagna, porta mondi diversi, spesso sovrapposti nello stesso mese. Per chi affitta significa una domanda meno concentrata e un rischio più distribuito, ma anche la necessità di parlare lingue e aspettative differenti. Chi arriva determina cosa deve funzionare, e cosa puoi trascurare."
       ],
       "list": [
         "Sciatori e famiglie per le settimane bianche, attenti a spazi, comfort e vicinanza agli impianti.",
@@ -62,7 +92,7 @@
       ]
     },
     {
-      "h2": "Regole locali in sintesi: CIN, Alloggiati Web e imposta di soggiorno",
+      "h2": "Mettersi in regola: codice, tributo e comunicazione ospiti",
       "paragraphs": [
         "Affittare ad Aosta in modo serio significa essere in regola prima ancora di pubblicare l'annuncio. Gli adempimenti nazionali di base non vanno trattati come formalità: sono le condizioni per restare online ed evitare sanzioni, e si applicano per singolo immobile.",
         "C'è però un elemento in più da tenere presente. La Valle d'Aosta è una regione autonoma a statuto speciale, con competenze proprie anche in materia di turismo: accanto agli adempimenti nazionali possono esserci specificità locali. Per questo le regole vanno sempre verificate presso le fonti ufficiali, in particolare la Regione Autonoma Valle d'Aosta e il Comune di Aosta. Qui trovi solo la sintesi degli adempimenti principali, non un parere fiscale o legale."
@@ -104,11 +134,30 @@
       "a": "Sì, ed è una delle sue leve più forti. Aosta è il punto di accesso alle grandi località della Valle d'Aosta: Courmayeur e il Monte Bianco, Cervinia, il Gran Paradiso e i castelli valdostani come Fénis. Molti ospiti la scelgono come campo base da cui muoversi in giornata, con soggiorni spesso più lunghi e un'occupazione meno legata al singolo weekend."
     }
   ],
-  "related": ["affitti-brevi-cortina-guida", "affitti-brevi-trento-guida", "property-manager-affitti-brevi"],
+  "related": [
+    "affitti-brevi-cortina-guida",
+    "affitti-brevi-trento-guida",
+    "property-manager-affitti-brevi"
+  ],
   "sources": [
-    {"label": "Imposta di soggiorno e regolamento turistico", "ente": "Comune di Aosta", "data": "", "url": ""},
-    {"label": "Normativa turistica e ricettività", "ente": "Regione Autonoma Valle d'Aosta", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Imposta di soggiorno e regolamento turistico",
+      "ente": "Comune di Aosta",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Normativa turistica e ricettività",
+      "ente": "Regione Autonoma Valle d'Aosta",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

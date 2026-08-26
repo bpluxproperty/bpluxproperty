@@ -32,13 +32,37 @@
         "Ecco una mappa sintetica delle zone, da usare come punto di partenza prima di mettere a reddito o acquistare un immobile."
       ],
       "table": {
-        "headers": ["Zona", "Vocazione", "Ospiti tipici"],
+        "headers": [
+          "Zona",
+          "Vocazione",
+          "Ospiti tipici"
+        ],
         "rows": [
-          ["Centro", "Cuore mondano tra boutique, ristoranti e il mercato del Forte, tutto a piedi", "Coppie, clientela alto-spendente, soggiorni brevi eleganti"],
-          ["Roma Imperiale", "Il quartiere delle grandi ville nella pineta, il massimo del lusso", "Famiglie facoltose, clientela internazionale, soggiorni lunghi"],
-          ["Fronte mare", "Vista e accesso diretto alla spiaggia, la posizione più ambita d'estate", "Ospiti alto di gamma, chi cerca il mare sotto casa"],
-          ["Vicino alla pineta", "Verde, quiete e ombra a pochi passi dal centro e dal mare", "Famiglie con bambini, chi cerca tranquillità e riservatezza"],
-          ["Semicentro e frazioni (Vittoria Apuana, Caranna)", "Più accessibile, buon compromesso tra prezzo e distanza dal mare", "Famiglie, soggiorni settimanali, chi cerca un prezzo più equilibrato"]
+          [
+            "Centro",
+            "Cuore mondano tra boutique, ristoranti e il mercato del Forte, tutto a piedi",
+            "Coppie, clientela alto-spendente, soggiorni brevi eleganti"
+          ],
+          [
+            "Roma Imperiale",
+            "Il quartiere delle grandi ville nella pineta, il massimo del lusso",
+            "Famiglie facoltose, clientela internazionale, soggiorni lunghi"
+          ],
+          [
+            "Fronte mare",
+            "Vista e accesso diretto alla spiaggia, la posizione più ambita d'estate",
+            "Ospiti alto di gamma, chi cerca il mare sotto casa"
+          ],
+          [
+            "Vicino alla pineta",
+            "Verde, quiete e ombra a pochi passi dal centro e dal mare",
+            "Famiglie con bambini, chi cerca tranquillità e riservatezza"
+          ],
+          [
+            "Semicentro e frazioni (Vittoria Apuana, Caranna)",
+            "Più accessibile, buon compromesso tra prezzo e distanza dal mare",
+            "Famiglie, soggiorni settimanali, chi cerca un prezzo più equilibrato"
+          ]
         ]
       }
     },
@@ -71,7 +95,7 @@
       ]
     },
     {
-      "h2": "Regole locali in sintesi: CIN, Alloggiati Web e imposta di soggiorno",
+      "h2": "In regola con Comune, Questura e piattaforme",
       "paragraphs": [
         "Affittare a Forte dei Marmi in modo serio significa essere in regola prima ancora di pubblicare l'annuncio. Gli adempimenti di base sono gli stessi del resto d'Italia e non sono formalità: sono le condizioni per restare online ed evitare sanzioni, e valgono per ogni singolo immobile.",
         "Le regole possono cambiare e vanno sempre verificate presso le fonti ufficiali. Qui trovi solo la sintesi degli adempimenti principali, non un parere fiscale o legale."
@@ -124,10 +148,24 @@
       "a": "È un tributo comunale a carico dell'ospite, che l'host raccoglie e versa al Comune di Forte dei Marmi secondo le regole locali. Importi e modalità possono cambiare nel tempo: verifica sempre le informazioni aggiornate direttamente presso il Comune di Forte dei Marmi."
     }
   ],
-  "related": ["affitti-brevi-pisa-guida", "affitti-brevi-lucca-guida", "property-manager-affitti-brevi"],
+  "related": [
+    "affitti-brevi-pisa-guida",
+    "affitti-brevi-lucca-guida",
+    "property-manager-affitti-brevi"
+  ],
   "sources": [
-    {"label": "Imposta di soggiorno e regole locali sulle locazioni turistiche", "ente": "Comune di Forte dei Marmi", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Imposta di soggiorno e regole locali sulle locazioni turistiche",
+      "ente": "Comune di Forte dei Marmi",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

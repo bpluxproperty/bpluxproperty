@@ -46,13 +46,37 @@
         "La piana, attorno alla grande Basilica di Santa Maria degli Angeli, è tutta un'altra cosa: pianeggiante, vicina alla stazione e alla superstrada, molto più pratica per chi si muove in auto o in treno. Si perde un po' della magia del borgo, ma si guadagna in accessibilità e spesso in parcheggio. Ecco una mappa sintetica per orientarti prima di comprare o mettere a reddito un appartamento."
       ],
       "table": {
-        "headers": ["Zona", "Vocazione", "Ospiti tipici"],
+        "headers": [
+          "Zona",
+          "Vocazione",
+          "Ospiti tipici"
+        ],
         "rows": [
-          ["Centro storico dentro le mura (Basilica di San Francesco, Piazza del Comune)", "Borgo medievale UNESCO in pietra rosa, arroccato e quasi tutto pedonale tra salite e scalinate", "Pellegrini, turisti d'arte, coppie, city break internazionali"],
-          ["Parte alta e Rocca Maggiore", "Vicoli panoramici sul Subasio e sulla piana, atmosfera raccolta", "Viaggiatori in cerca di quiete e panorami, soggiorni slow"],
-          ["Santa Maria degli Angeli (la piana)", "Attorno alla grande Basilica, vicina a stazione e superstrada, comoda in auto e in treno", "Chi non vuole salire in centro, famiglie in auto, gruppi di pellegrini"],
-          ["Zona stazione e fondovalle", "Ben collegata per arrivi e partenze, base pratica e accessibile", "Soggiorni brevi, viaggiatori di passaggio, gruppi organizzati"],
-          ["Campagna e dintorni (base per l'Umbria)", "Punto d'appoggio verso Perugia, Spello e Spoleto", "Turismo lento, itinerari in auto, chi esplora la regione"]
+          [
+            "Centro storico dentro le mura (Basilica di San Francesco, Piazza del Comune)",
+            "Borgo medievale UNESCO in pietra rosa, arroccato e quasi tutto pedonale tra salite e scalinate",
+            "Pellegrini, turisti d'arte, coppie, city break internazionali"
+          ],
+          [
+            "Parte alta e Rocca Maggiore",
+            "Vicoli panoramici sul Subasio e sulla piana, atmosfera raccolta",
+            "Viaggiatori in cerca di quiete e panorami, soggiorni slow"
+          ],
+          [
+            "Santa Maria degli Angeli (la piana)",
+            "Attorno alla grande Basilica, vicina a stazione e superstrada, comoda in auto e in treno",
+            "Chi non vuole salire in centro, famiglie in auto, gruppi di pellegrini"
+          ],
+          [
+            "Zona stazione e fondovalle",
+            "Ben collegata per arrivi e partenze, base pratica e accessibile",
+            "Soggiorni brevi, viaggiatori di passaggio, gruppi organizzati"
+          ],
+          [
+            "Campagna e dintorni (base per l'Umbria)",
+            "Punto d'appoggio verso Perugia, Spello e Spoleto",
+            "Turismo lento, itinerari in auto, chi esplora la regione"
+          ]
         ]
       }
     },
@@ -70,7 +94,7 @@
       ]
     },
     {
-      "h2": "Regole locali in sintesi: CIN, Alloggiati Web e imposta di soggiorno",
+      "h2": "Gli obblighi che non conviene saltare",
       "paragraphs": [
         "Affittare ad Assisi in modo serio significa essere in regola. Come nel resto d'Italia ci sono adempimenti di base da conoscere prima ancora di pubblicare l'annuncio, e vanno seguiti con precisione, immobile per immobile: non sono formalità, ma condizioni per restare online ed evitare sanzioni.",
         "Le regole possono cambiare e vanno sempre verificate presso le fonti ufficiali, a partire dal Comune di Assisi per l'imposta di soggiorno. Qui trovi solo la sintesi degli adempimenti principali, non un parere fiscale o legale. Per il CIN, primo passo per pubblicare un annuncio a norma, rimandiamo alla nostra guida dedicata, dove spieghiamo cos'è e come si ottiene."
@@ -111,10 +135,24 @@
       "a": "Sì, ed è una delle sue leve più forti. Assisi è vicina a Perugia, Spello e Spoleto e ben collegata al resto della regione. Molti ospiti la scelgono come punto d'appoggio per esplorare l'Umbria, con soggiorni spesso più lunghi del classico weekend, soprattutto quando arrivano in auto e alloggiano nella piana."
     }
   ],
-  "related": ["affitti-brevi-perugia-guida", "property-manager-affitti-brevi", "cin-affitti-brevi-come-ottenerlo"],
+  "related": [
+    "affitti-brevi-perugia-guida",
+    "property-manager-affitti-brevi",
+    "cin-affitti-brevi-come-ottenerlo"
+  ],
   "sources": [
-    {"label": "Imposta di soggiorno e regole locali ad Assisi", "ente": "Comune di Assisi", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Imposta di soggiorno e regole locali ad Assisi",
+      "ente": "Comune di Assisi",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

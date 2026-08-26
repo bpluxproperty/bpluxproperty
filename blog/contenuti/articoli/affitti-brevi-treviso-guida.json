@@ -55,18 +55,42 @@
         "La tabella seguente riassume le vocazioni prevalenti. Sono indicazioni di lettura del mercato, non regole fisse: a Treviso molte case servono più di un pubblico a seconda del periodo, alternando city break, base per Venezia ed enoturismo."
       ],
       "table": {
-        "headers": ["Zona", "Vocazione prevalente", "Ospite tipico"],
+        "headers": [
+          "Zona",
+          "Vocazione prevalente",
+          "Ospite tipico"
+        ],
         "rows": [
-          ["Centro storico dentro le mura (canali, Pescheria, piazza dei Signori)", "Fascino della città d'acqua, city break e buona tavola", "Coppie, turisti d'arte, appassionati di enogastronomia"],
-          ["Vicino alla stazione", "Mobilità e collegamenti verso Venezia e il Veneto", "Chi usa Treviso come base per la laguna, soggiorni brevi"],
-          ["Vicino all'aeroporto di Treviso-Sant'Angelo", "Flussi da voli low cost, arrivi e partenze rapidi", "Viaggiatori internazionali, soste di passaggio verso Venezia"],
-          ["Dintorni e base per le colline del Prosecco", "Enoturismo e turismo lento in auto", "Coppie e piccoli gruppi in auto, weekend tra le cantine"],
-          ["Zona direzionale e aree produttive", "Domanda business infrasettimanale", "Professionisti e trasferte di lavoro"]
+          [
+            "Centro storico dentro le mura (canali, Pescheria, piazza dei Signori)",
+            "Fascino della città d'acqua, city break e buona tavola",
+            "Coppie, turisti d'arte, appassionati di enogastronomia"
+          ],
+          [
+            "Vicino alla stazione",
+            "Mobilità e collegamenti verso Venezia e il Veneto",
+            "Chi usa Treviso come base per la laguna, soggiorni brevi"
+          ],
+          [
+            "Vicino all'aeroporto di Treviso-Sant'Angelo",
+            "Flussi da voli low cost, arrivi e partenze rapidi",
+            "Viaggiatori internazionali, soste di passaggio verso Venezia"
+          ],
+          [
+            "Dintorni e base per le colline del Prosecco",
+            "Enoturismo e turismo lento in auto",
+            "Coppie e piccoli gruppi in auto, weekend tra le cantine"
+          ],
+          [
+            "Zona direzionale e aree produttive",
+            "Domanda business infrasettimanale",
+            "Professionisti e trasferte di lavoro"
+          ]
         ]
       }
     },
     {
-      "h2": "Regole locali in sintesi: CIN e imposta di soggiorno",
+      "h2": "Le regole da mettere a posto prima del primo ospite",
       "paragraphs": [
         "Affittare a Treviso in modo serio significa essere in regola. Come nel resto d'Italia ci sono adempimenti di base da conoscere prima ancora di pubblicare l'annuncio, e vanno seguiti con precisione, immobile per immobile: non sono formalità, ma condizioni per restare online ed evitare sanzioni.",
         "Le regole possono cambiare e vanno sempre verificate presso le fonti ufficiali, a partire dal Comune di Treviso per l'imposta di soggiorno. Qui trovi solo la sintesi degli adempimenti principali, non un parere fiscale o legale: importi, esenzioni e scadenze vanno controllati aggiornati prima di ogni stagione."

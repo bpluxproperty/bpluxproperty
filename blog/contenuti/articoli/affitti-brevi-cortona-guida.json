@@ -32,13 +32,37 @@
         "Ecco una mappa sintetica per orientarti prima di comprare o mettere a reddito un immobile. A Cortona la posizione pesa molto, perché fascino storico e vincoli pratici di mobilità convivono a stretto contatto."
       ],
       "table": {
-        "headers": ["Zona", "Vocazione", "Ospiti tipici"],
+        "headers": [
+          "Zona",
+          "Vocazione",
+          "Ospiti tipici"
+        ],
         "rows": [
-          ["Centro storico dentro le mura (Piazza della Repubblica, il MAEC)", "Cuore etrusco e medievale, domanda altissima ma borgo in salita con ZTL e parcheggio fuori le mura", "Turisti d'arte, coppie, viaggiatori internazionali"],
-          ["Vicoli e piazze del borgo", "Atmosfera autentica tra pietra e scorci sulla Val di Chiana, a due passi dai monumenti", "Chi cerca la Cortona vera, soggiorni esperienziali"],
-          ["Appena fuori le mura", "Più accessibile e spesso con parcheggio, centro raggiungibile a piedi", "Famiglie in auto, ospiti pratici, soggiorni comodi"],
-          ["Campagna e ville con vista", "Casali e ville tra gli ulivi, spazio, quiete e panorami sul Trasimeno", "Turismo slow, gruppi e famiglie, itinerari in auto"],
-          ["Base verso il Lago Trasimeno", "Punto d'appoggio tra Toscana e Umbria, tra lago e colline", "Coppie, soggiorni enogastronomici, viaggi lenti"]
+          [
+            "Centro storico dentro le mura (Piazza della Repubblica, il MAEC)",
+            "Cuore etrusco e medievale, domanda altissima ma borgo in salita con ZTL e parcheggio fuori le mura",
+            "Turisti d'arte, coppie, viaggiatori internazionali"
+          ],
+          [
+            "Vicoli e piazze del borgo",
+            "Atmosfera autentica tra pietra e scorci sulla Val di Chiana, a due passi dai monumenti",
+            "Chi cerca la Cortona vera, soggiorni esperienziali"
+          ],
+          [
+            "Appena fuori le mura",
+            "Più accessibile e spesso con parcheggio, centro raggiungibile a piedi",
+            "Famiglie in auto, ospiti pratici, soggiorni comodi"
+          ],
+          [
+            "Campagna e ville con vista",
+            "Casali e ville tra gli ulivi, spazio, quiete e panorami sul Trasimeno",
+            "Turismo slow, gruppi e famiglie, itinerari in auto"
+          ],
+          [
+            "Base verso il Lago Trasimeno",
+            "Punto d'appoggio tra Toscana e Umbria, tra lago e colline",
+            "Coppie, soggiorni enogastronomici, viaggi lenti"
+          ]
         ]
       }
     },
@@ -71,7 +95,7 @@
       ]
     },
     {
-      "h2": "Regole locali in sintesi: CIN, Alloggiati Web e imposta di soggiorno",
+      "h2": "Cosa serve per affittare in regola",
       "paragraphs": [
         "Affittare a Cortona in modo serio significa essere in regola prima ancora di pubblicare l'annuncio. Gli adempimenti di base sono gli stessi del resto d'Italia e vanno seguiti con precisione, immobile per immobile: non sono formalità, ma condizioni per restare online ed evitare sanzioni.",
         "C'è poi un punto che qui merita attenzione in più. Il centro storico è un borgo antico sottoposto a forte pressione turistica: contesti come questo possono avere regole o limiti locali specifici, che cambiano nel tempo. Prima di comprare o avviare un'attività, verifica sempre la situazione aggiornata direttamente con il Comune di Cortona. Qui trovi solo la sintesi degli adempimenti principali, non un parere fiscale o legale."
@@ -125,10 +149,24 @@
       "a": "Sì, ed è una delle sue leve più forti. Il borgo è in Toscana, a un passo dall'Umbria, vicino al Lago Trasimeno e ad Arezzo, con Perugia e i borghi umbri raggiungibili in giornata. Molti ospiti lo scelgono come base per esplorare due regioni insieme, con soggiorni spesso più lunghi del classico weekend."
     }
   ],
-  "related": ["affitti-brevi-siena-guida", "affitti-brevi-firenze-guida", "cin-affitti-brevi-come-ottenerlo"],
+  "related": [
+    "affitti-brevi-siena-guida",
+    "affitti-brevi-firenze-guida",
+    "cin-affitti-brevi-come-ottenerlo"
+  ],
   "sources": [
-    {"label": "Regole locali sulle locazioni turistiche e imposta di soggiorno", "ente": "Comune di Cortona", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Regole locali sulle locazioni turistiche e imposta di soggiorno",
+      "ente": "Comune di Cortona",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

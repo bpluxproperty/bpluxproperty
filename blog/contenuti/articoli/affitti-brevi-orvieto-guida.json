@@ -46,13 +46,37 @@
         "Orvieto Scalo, ai piedi della rupe, è tutta un'altra cosa: pianeggiante, vicina alla stazione e agli svincoli, molto più pratica per chi si muove in auto o in treno. Si perde parte della magia del centro, ma si guadagna in comodità e spesso in parcheggio. Intorno, la campagna e le cantine offrono una terza via, fatta di quiete e vino. Ecco una mappa sintetica delle zone."
       ],
       "table": {
-        "headers": ["Zona", "Vocazione", "Ospiti tipici"],
+        "headers": [
+          "Zona",
+          "Vocazione",
+          "Ospiti tipici"
+        ],
         "rows": [
-          ["Centro storico sulla rupe (Duomo, Corso Cavour)", "Cuore medievale in tufo, scenografico e in gran parte pedonale, con accesso in auto limitato", "City break, coppie, turisti d'arte, viaggiatori in treno"],
-          ["Orvieto Scalo (zona stazione)", "Ai piedi della rupe, pianeggiante e vicina a stazione e svincoli, comoda in auto e in treno", "Chi arriva in auto, famiglie, soggiorni di passaggio sulla Roma-Firenze"],
-          ["Attorno al Duomo e ai vicoli", "Il punto più panoramico e richiesto del centro, a due passi dai monumenti", "Coppie, soggiorni d'atmosfera, ospiti internazionali"],
-          ["Campagna e cantine", "Verde, quiete ed enoturismo a pochi minuti dalla città", "Enoturisti, soggiorni slow, famiglie in auto"],
-          ["Base per Umbria e dintorni", "Punto d'appoggio verso l'Umbria, la Toscana del sud e l'alto Lazio", "Turismo lento, itinerari in auto, vacanze più lunghe"]
+          [
+            "Centro storico sulla rupe (Duomo, Corso Cavour)",
+            "Cuore medievale in tufo, scenografico e in gran parte pedonale, con accesso in auto limitato",
+            "City break, coppie, turisti d'arte, viaggiatori in treno"
+          ],
+          [
+            "Orvieto Scalo (zona stazione)",
+            "Ai piedi della rupe, pianeggiante e vicina a stazione e svincoli, comoda in auto e in treno",
+            "Chi arriva in auto, famiglie, soggiorni di passaggio sulla Roma-Firenze"
+          ],
+          [
+            "Attorno al Duomo e ai vicoli",
+            "Il punto più panoramico e richiesto del centro, a due passi dai monumenti",
+            "Coppie, soggiorni d'atmosfera, ospiti internazionali"
+          ],
+          [
+            "Campagna e cantine",
+            "Verde, quiete ed enoturismo a pochi minuti dalla città",
+            "Enoturisti, soggiorni slow, famiglie in auto"
+          ],
+          [
+            "Base per Umbria e dintorni",
+            "Punto d'appoggio verso l'Umbria, la Toscana del sud e l'alto Lazio",
+            "Turismo lento, itinerari in auto, vacanze più lunghe"
+          ]
         ]
       }
     },
@@ -84,7 +108,7 @@
       ]
     },
     {
-      "h2": "Regole locali in sintesi: CIN, Alloggiati Web e imposta di soggiorno",
+      "h2": "Codice identificativo, imposta di soggiorno e comunicazioni: come funziona",
       "paragraphs": [
         "Affittare a Orvieto in modo serio significa essere in regola. Come nel resto d'Italia ci sono adempimenti di base da conoscere prima ancora di pubblicare l'annuncio, e vanno seguiti con precisione, immobile per immobile: non sono formalità, ma condizioni per restare online ed evitare sanzioni.",
         "Le regole possono cambiare e vanno sempre verificate presso le fonti ufficiali, a partire dal Comune di Orvieto per l'imposta di soggiorno. Qui trovi solo la sintesi degli adempimenti principali, non un parere fiscale o legale. Per il CIN, primo passo per pubblicare un annuncio a norma, rimandiamo alla nostra guida dedicata, dove spieghiamo cos'è e come si ottiene."
@@ -125,10 +149,24 @@
       "a": "Sì, ed è una delle sue leve. Orvieto è sulla direttrice Roma-Firenze, con la stazione ai piedi della rupe e la funicolare che sale al centro: molti ospiti arrivano in treno, soprattutto per soggiorni brevi. Per un immobile nel centro storico conviene però spiegare bene l'arrivo, dal parcheggio o dalla funicolare fino alla porta di casa."
     }
   ],
-  "related": ["affitti-brevi-perugia-guida", "affitti-brevi-assisi-guida", "cin-affitti-brevi-come-ottenerlo"],
+  "related": [
+    "affitti-brevi-perugia-guida",
+    "affitti-brevi-assisi-guida",
+    "cin-affitti-brevi-come-ottenerlo"
+  ],
   "sources": [
-    {"label": "Imposta di soggiorno e regole locali a Orvieto", "ente": "Comune di Orvieto", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Imposta di soggiorno e regole locali a Orvieto",
+      "ente": "Comune di Orvieto",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

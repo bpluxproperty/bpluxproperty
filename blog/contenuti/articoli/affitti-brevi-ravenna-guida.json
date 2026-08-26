@@ -38,12 +38,37 @@
         "È l'errore più comune: ragionare solo sull'estate. Un immobile sul mare, senza una strategia per i mesi freddi, resta fermo troppo a lungo. La tabella riassume vocazione e stagionalità per area."
       ],
       "table": {
-        "headers": ["Zona", "Alta stagione (estate)", "Bassa stagione (autunno-inverno)", "Vocazione prevalente"],
+        "headers": [
+          "Zona",
+          "Alta stagione (estate)",
+          "Bassa stagione (autunno-inverno)",
+          "Vocazione prevalente"
+        ],
         "rows": [
-          ["Centro storico", "Turismo d'arte e city break", "Weekend culturali, mostre, ponti", "Tutto l'anno (mosaici, Dante)"],
-          ["Lidi e Marina di Ravenna", "Mare, famiglie, soggiorni lunghi", "Domanda molto bassa", "Prevalentemente estiva"],
-          ["Cervia e dintorni (vicinanza)", "Mare, terme e benessere", "Terme e weekend fuori stagione", "Estiva con code di stagione"],
-          ["Comacchio e le Valli (vicinanza)", "Natura, borgo, birdwatching", "Turismo lento e ponti", "Di nicchia, mista"]
+          [
+            "Centro storico",
+            "Turismo d'arte e city break",
+            "Weekend culturali, mostre, ponti",
+            "Tutto l'anno (mosaici, Dante)"
+          ],
+          [
+            "Lidi e Marina di Ravenna",
+            "Mare, famiglie, soggiorni lunghi",
+            "Domanda molto bassa",
+            "Prevalentemente estiva"
+          ],
+          [
+            "Cervia e dintorni (vicinanza)",
+            "Mare, terme e benessere",
+            "Terme e weekend fuori stagione",
+            "Estiva con code di stagione"
+          ],
+          [
+            "Comacchio e le Valli (vicinanza)",
+            "Natura, borgo, birdwatching",
+            "Turismo lento e ponti",
+            "Di nicchia, mista"
+          ]
         ]
       }
     },
@@ -63,7 +88,7 @@
       ]
     },
     {
-      "h2": "Regole locali: CIN e imposta di soggiorno",
+      "h2": "Il lato amministrativo dell'affitto breve",
       "paragraphs": [
         "Affittare in modo serio significa essere in regola. Prima di pubblicare un annuncio ci sono adempimenti da conoscere: non sono un dettaglio, incidono su legittimità e reputazione.",
         "Le norme cambiano nel tempo e vanno sempre verificate presso le fonti ufficiali. Qui trovi solo la sintesi, non un parere fiscale o legale."
@@ -108,10 +133,24 @@
       "a": "Dipende dal tempo, dall'esperienza e dal numero di immobili. Gestire due domande diverse, arte e mare, richiede tariffe dinamiche, comunicazione dedicata e adempimenti in regola: un professionista ha senso quando questi aspetti diventano onerosi o quando si punta alla continuità tutto l'anno."
     }
   ],
-  "related": ["cosa-vedere-a-dozza", "affitti-brevi-bologna-guida", "property-manager-affitti-brevi"],
+  "related": [
+    "cosa-vedere-a-dozza",
+    "affitti-brevi-bologna-guida",
+    "property-manager-affitti-brevi"
+  ],
   "sources": [
-    {"label": "Imposta di soggiorno e regole per le locazioni turistiche", "ente": "Comune di Ravenna", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Imposta di soggiorno e regole per le locazioni turistiche",
+      "ente": "Comune di Ravenna",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

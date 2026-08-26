@@ -25,14 +25,42 @@
         "A questo si aggiunge un elemento che a Brescia pesa più che altrove: la città funziona anche come base per i dintorni. Molti ospiti la scelgono per visitare il Garda o la Franciacorta spendendo meno che in riva al lago. Ecco una mappa sintetica delle principali vocazioni, da usare come punto di partenza prima di mettere a reddito un immobile."
       ],
       "table": {
-        "headers": ["Zona", "Vocazione", "Ospiti tipici"],
+        "headers": [
+          "Zona",
+          "Vocazione",
+          "Ospiti tipici"
+        ],
         "rows": [
-          ["Centro storico", "Piazza della Loggia, area archeologica romana, Santa Giulia UNESCO e castello; cuore culturale della città", "Coppie, city break, turismo culturale ed estero"],
-          ["Zona Stazione", "Snodo dei collegamenti verso Milano, Verona e il lago; comoda e centrale", "Business, viaggiatori di passaggio, soggiorni brevi"],
-          ["Zona Fiera (Brixia Forum)", "Fiere, congressi ed eventi; direttrici industriali", "Trasferte di lavoro, espositori, business infrasettimanale"],
-          ["Semicentro e quartieri residenziali", "Più tranquilli e ben serviti, a poca distanza dal centro", "Soggiorni più lunghi, coppie, chi cerca quiete"],
-          ["Base per il Lago di Garda", "Sponda bresciana a breve distanza (Sirmione, Desenzano, Salò)", "Turismo leisure, coppie e famiglie, turismo estero"],
-          ["Base per Franciacorta e Lago d'Iseo", "Terra di vino e spumante, a due passi dalla città", "Enoturismo, weekend, coppie"]
+          [
+            "Centro storico",
+            "Piazza della Loggia, area archeologica romana, Santa Giulia UNESCO e castello; cuore culturale della città",
+            "Coppie, city break, turismo culturale ed estero"
+          ],
+          [
+            "Zona Stazione",
+            "Snodo dei collegamenti verso Milano, Verona e il lago; comoda e centrale",
+            "Business, viaggiatori di passaggio, soggiorni brevi"
+          ],
+          [
+            "Zona Fiera (Brixia Forum)",
+            "Fiere, congressi ed eventi; direttrici industriali",
+            "Trasferte di lavoro, espositori, business infrasettimanale"
+          ],
+          [
+            "Semicentro e quartieri residenziali",
+            "Più tranquilli e ben serviti, a poca distanza dal centro",
+            "Soggiorni più lunghi, coppie, chi cerca quiete"
+          ],
+          [
+            "Base per il Lago di Garda",
+            "Sponda bresciana a breve distanza (Sirmione, Desenzano, Salò)",
+            "Turismo leisure, coppie e famiglie, turismo estero"
+          ],
+          [
+            "Base per Franciacorta e Lago d'Iseo",
+            "Terra di vino e spumante, a due passi dalla città",
+            "Enoturismo, weekend, coppie"
+          ]
         ]
       }
     },
@@ -76,7 +104,7 @@
       ]
     },
     {
-      "h2": "Regole locali in sintesi: CIN, Alloggiati Web e imposta di soggiorno",
+      "h2": "Prima di pubblicare l'annuncio: gli adempimenti",
       "paragraphs": [
         "Affittare a Brescia in modo serio significa essere in regola prima ancora di pubblicare l'annuncio. Gli adempimenti di base sono gli stessi del resto d'Italia e non vanno trattati come formalità: sono le condizioni per restare online ed evitare sanzioni, che si applicano per singolo immobile.",
         "In Lombardia, come nel resto del Paese, serve il CIN, il Codice Identificativo Nazionale gestito dal Ministero del Turismo. Vanno poi comunicati i dati degli ospiti e gestita l'imposta di soggiorno, che a Brescia è stabilita dal Comune. Importi e modalità possono cambiare, quindi conviene verificarli presso le fonti ufficiali prima di iniziare. Qui trovi solo la sintesi, non un parere fiscale o legale."
@@ -125,10 +153,24 @@
       "a": "Sì, per molti ospiti è una scelta di valore: Brescia è vicina alla sponda bresciana del Garda e permette di risparmiare rispetto al lungolago. Per il proprietario significa intercettare la domanda leisure estiva, a patto di dare indicazioni chiare su parcheggio e collegamenti verso il lago."
     }
   ],
-  "related": ["affitti-brevi-bergamo-guida", "affitti-brevi-como-guida", "property-manager-affitti-brevi"],
+  "related": [
+    "affitti-brevi-bergamo-guida",
+    "affitti-brevi-como-guida",
+    "property-manager-affitti-brevi"
+  ],
   "sources": [
-    {"label": "Imposta di soggiorno a Brescia", "ente": "Comune di Brescia", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Imposta di soggiorno a Brescia",
+      "ente": "Comune di Brescia",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

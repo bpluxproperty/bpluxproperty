@@ -25,15 +25,47 @@
         "Ecco una mappa sintetica delle principali zone, con la loro vocazione e il tipo di ospite che intercettano più spesso. Usala come punto di partenza prima di acquistare o mettere a reddito un appartamento: la posizione è una scelta che ti porti dietro per anni e pesa più di quasi ogni altra leva."
       ],
       "table": {
-        "headers": ["Zona", "Vocazione", "Ospiti tipici"],
+        "headers": [
+          "Zona",
+          "Vocazione",
+          "Ospiti tipici"
+        ],
         "rows": [
-          ["Centro storico / Quadrilatero Romano", "Turismo culturale e musei, richiesto tutto l'anno", "City break, coppie, appassionati d'arte"],
-          ["San Salvario", "Movida e vita serale, a due passi da Porta Nuova", "Pubblico giovane, weekend, chi arriva in treno"],
-          ["Crocetta", "Residenziale elegante e signorile", "Professionisti e soggiorni curati"],
-          ["Vanchiglia", "Quartiere vivace tra centro e università", "Studenti, visiting, viaggiatori giovani"],
-          ["Cit Turin", "Liberty tranquillo e ben collegato", "Coppie e soggiorni tranquilli"],
-          ["Porta Nuova / Porta Susa", "Nodi dell'Alta Velocità", "Business e viaggiatori di passaggio"],
-          ["Venaria Reale (fuori città)", "Turismo culturale legato alla Reggia", "Famiglie e gite culturali"]
+          [
+            "Centro storico / Quadrilatero Romano",
+            "Turismo culturale e musei, richiesto tutto l'anno",
+            "City break, coppie, appassionati d'arte"
+          ],
+          [
+            "San Salvario",
+            "Movida e vita serale, a due passi da Porta Nuova",
+            "Pubblico giovane, weekend, chi arriva in treno"
+          ],
+          [
+            "Crocetta",
+            "Residenziale elegante e signorile",
+            "Professionisti e soggiorni curati"
+          ],
+          [
+            "Vanchiglia",
+            "Quartiere vivace tra centro e università",
+            "Studenti, visiting, viaggiatori giovani"
+          ],
+          [
+            "Cit Turin",
+            "Liberty tranquillo e ben collegato",
+            "Coppie e soggiorni tranquilli"
+          ],
+          [
+            "Porta Nuova / Porta Susa",
+            "Nodi dell'Alta Velocità",
+            "Business e viaggiatori di passaggio"
+          ],
+          [
+            "Venaria Reale (fuori città)",
+            "Turismo culturale legato alla Reggia",
+            "Famiglie e gite culturali"
+          ]
         ]
       }
     },
@@ -65,7 +97,7 @@
       ]
     },
     {
-      "h2": "Regole locali in sintesi: CIN, Alloggiati Web e imposta di soggiorno",
+      "h2": "Che cosa chiedono il Comune e la Questura",
       "paragraphs": [
         "Affittare a Torino in modo serio significa essere in regola. Come nel resto d'Italia ci sono alcuni adempimenti di base da conoscere prima ancora di pubblicare l'annuncio, e vanno seguiti con precisione: non sono formalità, ma condizioni per restare online e per evitare sanzioni che si applicano per singolo immobile.",
         "Le regole possono cambiare e vanno sempre verificate presso le fonti ufficiali. Qui trovi solo la sintesi, non un parere fiscale o legale."
@@ -114,10 +146,24 @@
       "a": "Perché i prezzi degli immobili sono in media più accessibili rispetto ad altre grandi città italiane, mentre la domanda resta sostenuta tutto l'anno tra musei, eventi e business. A parità di capitale investito questo può tradursi in un rendimento interessante, a condizione di scegliere bene la zona e gestire con metodo."
     }
   ],
-  "related": ["affitti-brevi-milano-guida", "property-manager-affitti-brevi", "cin-affitti-brevi-come-ottenerlo"],
+  "related": [
+    "affitti-brevi-milano-guida",
+    "property-manager-affitti-brevi",
+    "cin-affitti-brevi-come-ottenerlo"
+  ],
   "sources": [
-    {"label": "Imposta di soggiorno a Torino", "ente": "Comune di Torino", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Imposta di soggiorno a Torino",
+      "ente": "Comune di Torino",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

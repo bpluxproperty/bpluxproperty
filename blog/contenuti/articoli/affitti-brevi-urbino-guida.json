@@ -46,13 +46,37 @@
         "Fuori dal cuore storico si perde un po' di magia, ma si guadagna in accessibilità e spesso in parcheggio. C'è poi la zona universitaria, con un pubblico tutto suo, e la campagna attorno alla città, che funziona come base per l'entroterra e la costa. Ecco una mappa sintetica delle zone, con la loro vocazione e il tipo di ospite che intercettano più spesso."
       ],
       "table": {
-        "headers": ["Zona", "Vocazione", "Ospiti tipici"],
+        "headers": [
+          "Zona",
+          "Vocazione",
+          "Ospiti tipici"
+        ],
         "rows": [
-          ["Centro storico dentro le mura (Palazzo Ducale, piazza della Repubblica)", "Cuore rinascimentale UNESCO, arroccato e in salita, in gran parte in ZTL", "Turisti d'arte, coppie, city break internazionali"],
-          ["Fuori le mura, a ridosso del centro", "Più accessibile in auto e spesso con parcheggio, centro raggiungibile a piedi", "Famiglie in auto, ospiti pratici, soggiorni comodi"],
-          ["Zona universitaria", "Legata alla vita dell'ateneo durante l'anno accademico", "Studenti, visiting, genitori e parenti per le lauree"],
-          ["Colline e campagna intorno", "Verde e quiete a pochi minuti dal centro", "Soggiorni slow, famiglie, chi cerca tranquillità"],
-          ["Base per Marche e costa (fuori città)", "Punto d'appoggio verso l'entroterra e la costa adriatica (Pesaro)", "Turisti che esplorano la regione, itinerari in auto"]
+          [
+            "Centro storico dentro le mura (Palazzo Ducale, piazza della Repubblica)",
+            "Cuore rinascimentale UNESCO, arroccato e in salita, in gran parte in ZTL",
+            "Turisti d'arte, coppie, city break internazionali"
+          ],
+          [
+            "Fuori le mura, a ridosso del centro",
+            "Più accessibile in auto e spesso con parcheggio, centro raggiungibile a piedi",
+            "Famiglie in auto, ospiti pratici, soggiorni comodi"
+          ],
+          [
+            "Zona universitaria",
+            "Legata alla vita dell'ateneo durante l'anno accademico",
+            "Studenti, visiting, genitori e parenti per le lauree"
+          ],
+          [
+            "Colline e campagna intorno",
+            "Verde e quiete a pochi minuti dal centro",
+            "Soggiorni slow, famiglie, chi cerca tranquillità"
+          ],
+          [
+            "Base per Marche e costa (fuori città)",
+            "Punto d'appoggio verso l'entroterra e la costa adriatica (Pesaro)",
+            "Turisti che esplorano la regione, itinerari in auto"
+          ]
         ]
       }
     },
@@ -70,7 +94,7 @@
       ]
     },
     {
-      "h2": "Regole locali in sintesi: CIN, Alloggiati Web e imposta di soggiorno",
+      "h2": "In regola con Comune, Questura e piattaforme",
       "paragraphs": [
         "Affittare a Urbino in modo serio significa essere in regola. Come nel resto d'Italia ci sono adempimenti di base da conoscere prima ancora di pubblicare l'annuncio, e vanno seguiti con precisione, immobile per immobile: non sono formalità, ma condizioni per restare online ed evitare sanzioni.",
         "Le regole possono cambiare e vanno sempre verificate presso le fonti ufficiali, a partire dal Comune di Urbino per l'imposta di soggiorno. Il centro storico è inoltre patrimonio UNESCO: contesti così tutelati possono avere vincoli o regole locali specifiche, che è bene verificare prima di comprare o avviare l'attività. Qui trovi solo la sintesi degli adempimenti principali, non un parere fiscale o legale."
@@ -116,10 +140,24 @@
       "a": "Sì, ed è una delle sue leve più forti. Urbino è nel cuore delle Marche interne e non è lontana dalla costa adriatica, con Pesaro a breve distanza. Molti ospiti la scelgono come punto d'appoggio per esplorare l'entroterra e il mare, con soggiorni spesso più lunghi del classico weekend, soprattutto quando arrivano in auto."
     }
   ],
-  "related": ["affitti-brevi-perugia-guida", "affitti-brevi-siena-guida", "cin-affitti-brevi-come-ottenerlo"],
+  "related": [
+    "affitti-brevi-perugia-guida",
+    "affitti-brevi-siena-guida",
+    "cin-affitti-brevi-come-ottenerlo"
+  ],
   "sources": [
-    {"label": "Imposta di soggiorno e regole locali a Urbino", "ente": "Comune di Urbino", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Imposta di soggiorno e regole locali a Urbino",
+      "ente": "Comune di Urbino",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

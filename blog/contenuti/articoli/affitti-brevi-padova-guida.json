@@ -25,14 +25,42 @@
         "Ecco una mappa sintetica delle principali zone, con la loro vocazione e il tipo di ospite che intercettano più spesso. Usala come punto di partenza prima di acquistare o mettere a reddito un appartamento: la posizione è una scelta che ti porti dietro per anni e pesa più di quasi ogni altra leva."
       ],
       "table": {
-        "headers": ["Zona", "Vocazione", "Ospiti tipici"],
+        "headers": [
+          "Zona",
+          "Vocazione",
+          "Ospiti tipici"
+        ],
         "rows": [
-          ["Centro storico (Scrovegni, Piazza dei Signori)", "Cuore monumentale e turismo d'arte, richiesto tutto l'anno", "City break, coppie, visitatori della Cappella degli Scrovegni"],
-          ["Il Santo e Prato della Valle", "Turismo religioso e piazze monumentali, a sud del centro", "Pellegrini, gruppi, turisti d'arte e dell'Orto Botanico"],
-          ["Zona universitaria", "Anima studentesca diffusa in centro, molto vivace", "Studenti, visiting professor, famiglie in visita"],
-          ["Zona ospedaliera", "Grande polo sanitario cittadino", "Pazienti, accompagnatori, personale sanitario in trasferta"],
-          ["Stazione e quartiere fieristico", "Nodo ferroviario verso Venezia e polo fieristico", "Business, espositori, chi usa Padova come base"],
-          ["Prima periferia e comuni limitrofi", "Prezzi più contenuti e buoni collegamenti", "Famiglie, soggiorni lunghi, overflow dal centro"]
+          [
+            "Centro storico (Scrovegni, Piazza dei Signori)",
+            "Cuore monumentale e turismo d'arte, richiesto tutto l'anno",
+            "City break, coppie, visitatori della Cappella degli Scrovegni"
+          ],
+          [
+            "Il Santo e Prato della Valle",
+            "Turismo religioso e piazze monumentali, a sud del centro",
+            "Pellegrini, gruppi, turisti d'arte e dell'Orto Botanico"
+          ],
+          [
+            "Zona universitaria",
+            "Anima studentesca diffusa in centro, molto vivace",
+            "Studenti, visiting professor, famiglie in visita"
+          ],
+          [
+            "Zona ospedaliera",
+            "Grande polo sanitario cittadino",
+            "Pazienti, accompagnatori, personale sanitario in trasferta"
+          ],
+          [
+            "Stazione e quartiere fieristico",
+            "Nodo ferroviario verso Venezia e polo fieristico",
+            "Business, espositori, chi usa Padova come base"
+          ],
+          [
+            "Prima periferia e comuni limitrofi",
+            "Prezzi più contenuti e buoni collegamenti",
+            "Famiglie, soggiorni lunghi, overflow dal centro"
+          ]
         ]
       }
     },
@@ -72,7 +100,7 @@
       ]
     },
     {
-      "h2": "Regole locali in sintesi: CIN, Alloggiati Web e imposta di soggiorno",
+      "h2": "Codice identificativo, imposta di soggiorno e comunicazioni: come funziona",
       "paragraphs": [
         "Affittare a Padova in modo serio significa essere in regola. Come nel resto d'Italia ci sono adempimenti di base da conoscere prima ancora di pubblicare l'annuncio, e vanno seguiti con precisione: non sono formalità, ma condizioni per restare online e per evitare sanzioni, che si applicano per singolo immobile.",
         "Le regole possono cambiare e vanno sempre verificate presso le fonti ufficiali, a partire dal Comune di Padova per l'imposta di soggiorno. Qui trovi solo la sintesi degli adempimenti principali, non un parere fiscale o legale. Per il CIN, primo passo per pubblicare un annuncio a norma, rimandiamo alla nostra guida dedicata, dove spieghiamo cos'è e come si ottiene."
@@ -113,10 +141,24 @@
       "a": "La domanda è distribuita su tutto l'anno. L'anno accademico la sostiene da autunno a primavera, le fiere concentrano flussi business in poche giornate e il turismo religioso alla Basilica di Sant'Antonio lavora in ogni stagione. Turismo d'arte e turismo sanitario riducono ulteriormente i cali di bassa stagione."
     }
   ],
-  "related": ["affitti-brevi-venezia-guida", "property-manager-affitti-brevi", "cin-affitti-brevi-come-ottenerlo"],
+  "related": [
+    "affitti-brevi-venezia-guida",
+    "property-manager-affitti-brevi",
+    "cin-affitti-brevi-come-ottenerlo"
+  ],
   "sources": [
-    {"label": "Imposta di soggiorno a Padova", "ente": "Comune di Padova", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Imposta di soggiorno a Padova",
+      "ente": "Comune di Padova",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

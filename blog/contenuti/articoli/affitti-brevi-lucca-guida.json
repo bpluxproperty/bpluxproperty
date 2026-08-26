@@ -32,13 +32,37 @@
         "Ecco una mappa sintetica per orientarti prima di comprare o mettere a reddito un appartamento. A Lucca la posizione pesa molto, perché fascino storico e vincoli pratici di mobilità convivono a stretto contatto."
       ],
       "table": {
-        "headers": ["Zona", "Vocazione", "Ospiti tipici"],
+        "headers": [
+          "Zona",
+          "Vocazione",
+          "Ospiti tipici"
+        ],
         "rows": [
-          ["Dentro le mura (Piazza dell'Anfiteatro, San Michele)", "Cuore storico ed elegante, domanda altissima ma ZTL e parcheggio difficile", "Turisti d'arte, coppie, city break internazionali"],
-          ["Via Fillungo e le vie dello shopping", "Asse pedonale dello struscio, tra negozi e caffè storici", "Viaggiatori leisure, soggiorni brevi, chi cerca la Lucca vera"],
-          ["Fuori le mura, a ridosso del centro", "Più accessibile e spesso con parcheggio, mura raggiungibili a piedi", "Famiglie in auto, ospiti pratici, soggiorni comodi"],
-          ["Zona stazione", "Comoda per i treni verso Pisa, Firenze e la Versilia", "Chi usa Lucca come base, viaggiatori di passaggio"],
-          ["Verso la Versilia e la Garfagnana", "Base per mare, montagna e natura fuori città", "Turismo balneare estivo, itinerari in auto, soggiorni slow"]
+          [
+            "Dentro le mura (Piazza dell'Anfiteatro, San Michele)",
+            "Cuore storico ed elegante, domanda altissima ma ZTL e parcheggio difficile",
+            "Turisti d'arte, coppie, city break internazionali"
+          ],
+          [
+            "Via Fillungo e le vie dello shopping",
+            "Asse pedonale dello struscio, tra negozi e caffè storici",
+            "Viaggiatori leisure, soggiorni brevi, chi cerca la Lucca vera"
+          ],
+          [
+            "Fuori le mura, a ridosso del centro",
+            "Più accessibile e spesso con parcheggio, mura raggiungibili a piedi",
+            "Famiglie in auto, ospiti pratici, soggiorni comodi"
+          ],
+          [
+            "Zona stazione",
+            "Comoda per i treni verso Pisa, Firenze e la Versilia",
+            "Chi usa Lucca come base, viaggiatori di passaggio"
+          ],
+          [
+            "Verso la Versilia e la Garfagnana",
+            "Base per mare, montagna e natura fuori città",
+            "Turismo balneare estivo, itinerari in auto, soggiorni slow"
+          ]
         ]
       }
     },
@@ -71,7 +95,7 @@
       ]
     },
     {
-      "h2": "Regole locali in sintesi: CIN, Alloggiati Web e imposta di soggiorno",
+      "h2": "In regola con Comune, Questura e piattaforme",
       "paragraphs": [
         "Affittare a Lucca in modo serio significa essere in regola prima ancora di pubblicare l'annuncio. Gli adempimenti di base sono gli stessi del resto d'Italia e vanno seguiti con precisione, immobile per immobile: non sono formalità, ma condizioni per restare online ed evitare sanzioni.",
         "C'è poi un punto che a Lucca merita attenzione in più. Il centro dentro le mura è pedonale e soggetto a ZTL, con regole di accesso e limiti locali che possono cambiare nel tempo. Prima di comprare o avviare un'attività, verifica sempre la situazione aggiornata direttamente con il Comune di Lucca. Qui trovi solo la sintesi degli adempimenti principali, non un parere fiscale o legale."
@@ -125,10 +149,24 @@
       "a": "Sì, ed è una delle sue leve più forti. Lucca è a breve distanza da Pisa e dal suo aeroporto, dalla Versilia con Forte dei Marmi, dalla Garfagnana e da Firenze, raggiungibile in treno. Molti ospiti la scelgono come base elegante per esplorare la Toscana e il mare, con soggiorni spesso più lunghi del weekend."
     }
   ],
-  "related": ["affitti-brevi-pisa-guida", "affitti-brevi-firenze-guida", "cin-affitti-brevi-come-ottenerlo"],
+  "related": [
+    "affitti-brevi-pisa-guida",
+    "affitti-brevi-firenze-guida",
+    "cin-affitti-brevi-come-ottenerlo"
+  ],
   "sources": [
-    {"label": "Regole locali sulle locazioni turistiche e imposta di soggiorno", "ente": "Comune di Lucca", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Regole locali sulle locazioni turistiche e imposta di soggiorno",
+      "ente": "Comune di Lucca",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""
