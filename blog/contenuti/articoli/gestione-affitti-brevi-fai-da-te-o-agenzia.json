@@ -33,7 +33,7 @@
     {
       "h2": "Il prezzo statico è il costo nascosto del fai da te",
       "paragraphs": [
-        "Il rischio più sottovalutato non è la burocrazia: è lasciare soldi sul tavolo con prezzi fermi. Chi gestisce da solo tende a mettere una tariffa e dimenticarla. Ma la domanda cambia ogni giorno con eventi, fiere, ponti e stagioni. Senza un prezzo dinamico rischi di riempire nei periodi forti a tariffe basse e restare vuoto quando potresti chiedere di più."
+        "Il rischio più sottovalutato non è la burocrazia: è lasciare soldi con prezzi fermi. Chi gestisce da solo tende a mettere una tariffa e dimenticarla. Ma la domanda cambia ogni giorno con eventi, fiere, ponti e stagioni. Senza un prezzo dinamico rischi di riempire nei periodi forti a tariffe basse e restare vuoto quando potresti chiedere di più."
       ]
     },
     {
@@ -42,14 +42,42 @@
         "Il property manager applica una percentuale sugli incassi. In cambio gestisce l'annuncio, i prezzi dinamici, la comunicazione con gli ospiti, le pulizie, la manutenzione e gli adempimenti. Ha team e strumenti che un singolo host difficilmente replica. Il senso è semplice: se una gestione professionale alza occupazione e tariffa medie, la percentuale si ripaga e spesso il tuo netto cresce."
       ],
       "table": {
-        "headers": ["Aspetto", "Fai da te", "Property manager"],
+        "headers": [
+          "Aspetto",
+          "Fai da te",
+          "Property manager"
+        ],
         "rows": [
-          ["Tempo richiesto", "Alto e continuo", "Vicino a zero per te"],
-          ["Fee da pagare", "Nessuna", "Percentuale sugli incassi"],
-          ["Prezzi dinamici", "Manuali, spesso statici", "Gestiti con strumenti dedicati"],
-          ["Burocrazia (CIN, Alloggiati Web, imposta)", "A tuo carico", "Gestita dal team"],
-          ["Gestione imprevisti", "Sempre tu, anche di notte", "Team dedicato"],
-          ["Adatto a", "1 immobile, vicino a casa", "Più immobili o casa lontana"]
+          [
+            "Tempo richiesto",
+            "Alto e continuo",
+            "Vicino a zero per te"
+          ],
+          [
+            "Fee da pagare",
+            "Nessuna",
+            "Percentuale sugli incassi"
+          ],
+          [
+            "Prezzi dinamici",
+            "Manuali, spesso statici",
+            "Gestiti con strumenti dedicati"
+          ],
+          [
+            "Burocrazia (CIN, Alloggiati Web, imposta)",
+            "A tuo carico",
+            "Gestita dal team"
+          ],
+          [
+            "Gestione imprevisti",
+            "Sempre tu, anche di notte",
+            "Team dedicato"
+          ],
+          [
+            "Adatto a",
+            "1 immobile, vicino a casa",
+            "Più immobili o casa lontana"
+          ]
         ]
       }
     },

@@ -89,13 +89,37 @@
         "A piedi: il centro si visita comodamente una volta parcheggiato."
       ],
       "table": {
-        "headers": ["Attrazione", "Tipo", "Durata indicativa"],
+        "headers": [
+          "Attrazione",
+          "Tipo",
+          "Durata indicativa"
+        ],
         "rows": [
-          ["Autodromo Enzo e Dino Ferrari", "Circuito e parco", "1-2 ore"],
-          ["Rocca Sforzesca", "Castello e museo", "Circa 1 ora"],
-          ["Centro storico e via Emilia", "Passeggiata in città", "1-2 ore"],
-          ["Palazzo Tozzoni", "Dimora storica e museo", "Circa 1 ora"],
-          ["Dozza (nei dintorni)", "Borgo dipinto", "Mezza giornata"]
+          [
+            "Autodromo Enzo e Dino Ferrari",
+            "Circuito e parco",
+            "1-2 ore"
+          ],
+          [
+            "Rocca Sforzesca",
+            "Castello e museo",
+            "Circa 1 ora"
+          ],
+          [
+            "Centro storico e via Emilia",
+            "Passeggiata in città",
+            "1-2 ore"
+          ],
+          [
+            "Palazzo Tozzoni",
+            "Dimora storica e museo",
+            "Circa 1 ora"
+          ],
+          [
+            "Dozza (nei dintorni)",
+            "Borgo dipinto",
+            "Mezza giornata"
+          ]
         ]
       }
     }
@@ -126,7 +150,12 @@
       "a": "Per le tappe principali basta una giornata: Autodromo, Rocca e centro storico si vedono con calma. Se la usi come base per Dozza e le colline del vino, Imola diventa il punto di partenza di un intero weekend."
     }
   ],
-  "related": ["dove-dormire-imola-autodromo", "cosa-vedere-a-dozza", "dove-dormire-a-dozza-appartamento"],
+  "related": [
+    "dove-dormire-imola-autodromo",
+    "cosa-vedere-a-dozza",
+    "dove-dormire-a-dozza-appartamento",
+    "affitti-brevi-imola-guida"
+  ],
   "sources": [
     {
       "label": "Autodromo Internazionale Enzo e Dino Ferrari - sito ufficiale",

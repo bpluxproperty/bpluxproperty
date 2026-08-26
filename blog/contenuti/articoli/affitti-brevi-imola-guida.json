@@ -36,8 +36,8 @@
       "table": {
         "headers": [
           "Zona",
-          "Chi attira",
-          "Cosa aspettarsi"
+          "Chi prenota",
+          "Cosa tenere presente"
         ],
         "rows": [
           [
@@ -116,7 +116,7 @@
         "Imposta di soggiorno: tributo comunale a carico dell'ospite, che l'host incassa e riversa secondo le modalità del Comune di Imola, esenzioni comprese.",
         "Comunicazione degli ospiti: i dati di chi alloggia vanno trasmessi tramite il portale Alloggiati Web della Polizia di Stato, entro i tempi previsti.",
         "Flussi turistici: la Regione Emilia-Romagna richiede la comunicazione dei dati statistici sulle presenze, con l'applicativo che indica.",
-        "Requisiti di sicurezza: la normativa nazionale collegata al CIN chiede dotazioni minime, come i dispositivi per la rilevazione di gas e monossido e l'estintore.",
+        "Requisiti di sicurezza: la normativa nazionale collegata al CIN chiede dotazioni minime, come i dispositivi per la rilevazione di gas e monossido e, dove previsto, un estintore.",
         "Regolamento condominiale e destinazione d'uso: si verificano prima di pubblicare, non dopo la prima prenotazione."
       ]
     },

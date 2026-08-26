@@ -40,11 +40,27 @@
         "Controlla sempre le condizioni di cancellazione prima di confermare."
       ],
       "table": {
-        "headers": ["Periodo", "Anticipo consigliato", "Disponibilità"],
+        "headers": [
+          "Periodo",
+          "Anticipo consigliato",
+          "Disponibilità"
+        ],
         "rows": [
-          ["Grande evento motoristico", "Con largo anticipo, appena esce la data", "Molto bassa, si esaurisce presto"],
-          ["Gara o manifestazione minore", "Alcune settimane prima", "Media"],
-          ["Weekend senza eventi", "Anche pochi giorni prima", "Buona"]
+          [
+            "Grande evento motoristico",
+            "Con largo anticipo, appena esce la data",
+            "Molto bassa, si esaurisce presto"
+          ],
+          [
+            "Gara o manifestazione minore",
+            "Alcune settimane prima",
+            "Media"
+          ],
+          [
+            "Weekend senza eventi",
+            "Anche pochi giorni prima",
+            "Buona"
+          ]
         ]
       }
     },
@@ -120,7 +136,8 @@
   "related": [
     "dove-dormire-a-dozza-appartamento",
     "cosa-vedere-a-dozza",
-    "affitti-brevi-bologna-guida"
+    "affitti-brevi-bologna-guida",
+    "affitti-brevi-imola-guida"
   ],
   "sources": [
     {

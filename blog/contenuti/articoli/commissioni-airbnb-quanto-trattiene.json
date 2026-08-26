@@ -34,12 +34,32 @@
       ],
       "list": [],
       "table": {
-        "headers": ["Aspetto", "Modello condiviso", "Modello solo host"],
+        "headers": [
+          "Aspetto",
+          "Modello condiviso",
+          "Modello solo host"
+        ],
         "rows": [
-          ["Chi paga la commissione", "Host (quota bassa) e ospite (servizio)", "Solo l'host, con un'unica commissione"],
-          ["Ordine di grandezza per l'host", "Spesso intorno al 3%", "Più alto, tipicamente a doppia cifra"],
-          ["Cosa vede l'ospite", "Prezzo più commissione di servizio", "Un prezzo unico, senza servizio a parte"],
-          ["Tipico di", "Host privati e piccoli gestori", "Alberghi e gestori con channel manager"]
+          [
+            "Chi paga la commissione",
+            "Host (quota bassa) e ospite (servizio)",
+            "Solo l'host, con un'unica commissione"
+          ],
+          [
+            "Ordine di grandezza per l'host",
+            "Spesso intorno al 3%",
+            "Più alto, tipicamente a doppia cifra"
+          ],
+          [
+            "Cosa vede l'ospite",
+            "Prezzo più commissione di servizio",
+            "Un prezzo unico, senza servizio a parte"
+          ],
+          [
+            "Tipico di",
+            "Host privati e piccoli gestori",
+            "Alberghi e gestori con channel manager"
+          ]
         ]
       }
     },
@@ -67,22 +87,54 @@
       ],
       "list": [],
       "table": {
-        "headers": ["Voce di costo", "A carico di", "Nota"],
+        "headers": [
+          "Voce di costo",
+          "A carico di",
+          "Nota"
+        ],
         "rows": [
-          ["Commissione host (modello condiviso)", "Host", "Quota bassa, spesso intorno al 3%; verifica il valore aggiornato"],
-          ["Commissione di servizio", "Ospite", "Si somma al prezzo che vede l'ospite e alza il totale finale"],
-          ["Commissione unica (modello solo host)", "Host", "Più alta della quota host condivisa; l'ospite non paga il servizio"],
-          ["IVA sulle commissioni", "Host (di norma)", "Può gravare sulla commissione; dipende dal profilo fiscale e dal Paese"],
-          ["Pulizia", "Ospite (di solito)", "La imposti tu; se troppo alta scoraggia le brevi permanenze"],
-          ["Imposta di soggiorno", "Ospite", "La incassi e la versi al Comune; è pass-through, non un tuo ricavo"],
-          ["Imposte sul reddito", "Host", "Sul reddito da affitto breve; regime da valutare, come la cedolare secca"]
+          [
+            "Commissione host (modello condiviso)",
+            "Host",
+            "Quota bassa, spesso intorno al 3%; verifica il valore aggiornato"
+          ],
+          [
+            "Commissione di servizio",
+            "Ospite",
+            "Si somma al prezzo che vede l'ospite e alza il totale finale"
+          ],
+          [
+            "Commissione unica (modello solo host)",
+            "Host",
+            "Più alta della quota host condivisa; l'ospite non paga il servizio"
+          ],
+          [
+            "IVA sulle commissioni",
+            "Host (di norma)",
+            "Può gravare sulla commissione; dipende dal profilo fiscale e dal Paese"
+          ],
+          [
+            "Pulizia",
+            "Ospite (di solito)",
+            "La imposti tu; se troppo alta scoraggia le brevi permanenze"
+          ],
+          [
+            "Imposta di soggiorno",
+            "Ospite",
+            "La incassi e la versi al Comune; è pass-through, non un tuo ricavo"
+          ],
+          [
+            "Imposte sul reddito",
+            "Host",
+            "Sul reddito da affitto breve; regime da valutare, come la cedolare secca"
+          ]
         ]
       }
     },
     {
       "h2": "L'errore più costoso: guardare la commissione, non il netto",
       "paragraphs": [
-        "Molti proprietari scelgono il canale con la commissione più bassa e si fermano lì. È un ragionamento che sembra logico e quasi sempre lascia soldi sul tavolo.",
+        "Molti proprietari scelgono il canale con la commissione più bassa e si fermano lì. È un ragionamento che sembra logico e quasi sempre lascia soldi .",
         "La percentuale è solo un pezzo del puzzle. Un canale con commissione più alta può portarti più prenotazioni, tariffe medie migliori o ospiti che riempiono i periodi morti. A fine mese non conta quanto hai risparmiato di commissione, ma quanto ti è rimasto davvero.",
         "Nella nostra gestione da Superhost guardiamo sempre il netto per canale, mese per mese: non la commissione più bassa, ma quanto resta in tasca al proprietario dopo commissioni, costi e imposte. È l'unico numero che dice la verità sulla resa di un immobile."
       ],

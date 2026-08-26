@@ -36,8 +36,8 @@
       "table": {
         "headers": [
           "Zona",
-          "Chi attira",
-          "Cosa aspettarsi"
+          "Chi prenota",
+          "Cosa tenere presente"
         ],
         "rows": [
           [
@@ -150,7 +150,7 @@
   "faq": [
     {
       "q": "Conviene affittare a Vieste?",
-      "a": "Sì, ma a patto di ragionare sull'intero anno e non sulla singola estate. Vieste ha una domanda molto forte e concentrata nei mesi caldi, quindi la rendita si costruisce prezzando bene i picchi e aggiungendo notti nei mesi di spalla con il Gargano dell'entroterra. Chi conta solo sull'estate lascia sul tavolo la parte più interessante del guadagno."
+      "a": "Sì, ma a patto di ragionare sull'intero anno e non sulla singola estate. Vieste ha una domanda molto forte e concentrata nei mesi caldi, quindi la rendita si costruisce prezzando bene i picchi e aggiungendo notti nei mesi di spalla con il Gargano dell'entroterra. Chi conta solo sull'estate si fa scappare la parte più interessante del guadagno."
     },
     {
       "q": "Quanto dura la stagione degli affitti brevi a Vieste?",

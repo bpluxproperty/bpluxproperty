@@ -53,12 +53,32 @@
         "Per chi arriva in aereo, l'aeroporto di Bologna è lo scalo di riferimento. In auto, Dozza è vicina alla via Emilia e ai caselli autostradali: comoda da raggiungere, ma abbastanza defilata da restare tranquilla. È il compromesso ideale tra 'vedere tutto' e 'dormire in un borgo vero'."
       ],
       "table": {
-        "headers": ["Destinazione", "Distanza da Dozza", "Cosa ci trovi"],
+        "headers": [
+          "Destinazione",
+          "Distanza da Dozza",
+          "Cosa ci trovi"
+        ],
         "rows": [
-          ["Imola", "~6 km", "Autodromo Enzo e Dino Ferrari, centro storico"],
-          ["Bologna", "~35 km", "Portici UNESCO, le torri, aeroporto Marconi"],
-          ["Ravenna", "Gita in giornata", "Mosaici bizantini UNESCO"],
-          ["Colline della Romagna", "Pochi minuti", "Cantine, Albana e Sangiovese"]
+          [
+            "Imola",
+            "~6 km",
+            "Autodromo Enzo e Dino Ferrari, centro storico"
+          ],
+          [
+            "Bologna",
+            "~35 km",
+            "Portici UNESCO, le torri, aeroporto Marconi"
+          ],
+          [
+            "Ravenna",
+            "Gita in giornata",
+            "Mosaici bizantini UNESCO"
+          ],
+          [
+            "Colline della Romagna",
+            "Pochi minuti",
+            "Cantine, Albana e Sangiovese"
+          ]
         ]
       }
     },
@@ -92,7 +112,12 @@
       "a": "Sì. Dozza è a circa 6 km da Imola, con il suo autodromo, e a circa 35 km da Bologna. È anche una buona base per Ravenna e i suoi mosaici, raggiungibili in giornata. La posizione, nel cuore della Romagna, è uno dei suoi punti forti."
     }
   ],
-  "related": ["dove-dormire-a-dozza-appartamento", "dove-dormire-imola-autodromo", "affitti-brevi-bologna-guida"],
+  "related": [
+    "dove-dormire-a-dozza-appartamento",
+    "dove-dormire-imola-autodromo",
+    "affitti-brevi-bologna-guida",
+    "affitti-brevi-dozza-guida"
+  ],
   "sources": [
     {
       "label": "Dozza, il borgo dipinto e la Rocca Sforzesca",

@@ -36,9 +36,9 @@
       ],
       "table": {
         "headers": [
-          "Collocazione",
-          "Chi attira",
-          "Cosa aspettarsi"
+          "Dove si trova",
+          "Chi ci arriva",
+          "Cosa comporta"
         ],
         "rows": [
           [
@@ -70,7 +70,7 @@
       }
     },
     {
-      "h2": "Saper indirizzare in cantina vale come una dotazione della casa",
+      "h2": "La distanza dalle cantine conta più dei metri quadri",
       "paragraphs": [
         "A Montalcino le cantine non si visitano a caso. Molte ricevono su appuntamento, hanno numeri chiusi e giorni di chiusura, e sono distribuite in un territorio che si gira in auto. L'ospite arriva con qualche visita già prenotata e con dei vuoti da riempire, e quei vuoti sono l'occasione di chi ospita.",
         "Non serve fare i sommelier. Serve sapere quali realtà accolgono anche gruppi piccoli, quali sono chiuse nel fine settimana, come si prenota una visita, quanto tempo lasciare tra una degustazione e l'altra e dove si mangia quando le enoteche del borgo sono al completo. È conoscenza locale, si aggiorna leggendo i canali ufficiali delle aziende e del Comune, e non costa nulla.",
@@ -115,7 +115,7 @@
       "paragraphs": [
         "Nelle zone del vino l'annuncio che converte non è quello con più foto degli interni: è quello che risponde a una domanda molto pratica, cioè da questa casa quali cantine riesco a visitare in una giornata senza correre. Chi la mette per iscritto in modo onesto e verificabile intercetta l'ospite giusto. Chi la evita finisce a competere sul prezzo con decine di case identiche.",
         "Il secondo punto è la reperibilità nelle ore che contano. L'enoturista scrive tardi, dopo una degustazione, per chiedere un tavolo o un'alternativa a una cantina chiusa: una risposta in mezz'ora vale più di un accessorio in casa. Noi trattiamo quelle risposte come parte del prodotto, con testi pronti per le domande che si ripetono e qualcuno raggiungibile fino a sera.",
-        "Il resto è mestiere ordinario: tariffe distinte per giorno della settimana, minimo notti che non chiuda la porta agli infrasettimanali, pulizie tarate su due notti, foto che mostrino la vista e il contesto oltre alle stanze. A Montalcino la casa accompagna un viaggio che ha già il suo protagonista, e il protagonista è il vino: chi lo accetta guadagna di più di chi prova a competerci."
+        "Da qui in poi sono scelte operative: tariffe distinte per giorno della settimana, minimo notti che non chiuda la porta agli infrasettimanali, pulizie tarate su due notti, foto che mostrino la vista e il contesto oltre alle stanze. A Montalcino la casa accompagna un viaggio che ha già il suo protagonista, e il protagonista è il vino: chi lo accetta guadagna di più di chi prova a competerci."
       ]
     }
   ],
@@ -126,7 +126,7 @@
     },
     {
       "q": "Meglio una casa dentro le mura o un casale in campagna?",
-      "a": "Sono due prodotti diversi e vanno gestiti in modo diverso. Dentro le mura si vende la possibilità di cenare e bere andando a piedi, con il tema del rumore serale e delle scale; in campagna si vendono vista, silenzio e vicinanza alle cantine, con l'auto obbligatoria e indicazioni d'arrivo da curare. La scelta sbagliata non è la collocazione, è descriverla come se fosse l'altra."
+      "a": "Rispondono a due esigenze opposte: chi vuole camminare a piedi la sera e chi vuole svegliarsi in mezzo alle vigne. Dentro le mura si vende la possibilità di cenare e bere andando a piedi, con il tema del rumore serale e delle scale; in campagna si vendono vista, silenzio e vicinanza alle cantine, con l'auto obbligatoria e indicazioni d'arrivo da curare. L'errore sta nel promettere la comodità del centro da una casa che sta fra le vigne, o il silenzio delle vigne da una casa sul corso."
     },
     {
       "q": "Quanto durano i soggiorni degli ospiti a Montalcino?",

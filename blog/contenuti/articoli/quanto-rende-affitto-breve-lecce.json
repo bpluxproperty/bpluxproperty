@@ -53,7 +53,7 @@
           [
             "Prezzi dinamici",
             "Adeguare la tariffa a stagione, ponti ed eventi",
-            "Recupera ricavi che il prezzo fisso lascia sul tavolo"
+            "Recupera ricavi che il prezzo fisso rinuncia al margine dei picchi"
           ],
           [
             "Stagionalità del Salento",
@@ -87,7 +87,7 @@
       "h2": "La geografia della domanda in città",
       "paragraphs": [
         "A Lecce la zona decide sia quanto puoi chiedere sia quanto spesso prenoti. Il centro storico è il cuore della domanda: chi arriva vuole dormire tra le chiese barocche e i vicoli in pietra leccese. Le zone semicentrali, vicino alle mura, offrono un buon compromesso tra prezzo d'acquisto e comodità.",
-        "Un'osservazione dal campo. Da property manager Superhost notiamo che a Lecce il vero nodo non è riempire ad agosto, ma gestire la stagionalità: il picco estivo è fortissimo, mentre il resto dell'anno va costruito con il centro barocco, gli eventi e i weekend. Per questo, qui più che altrove, sono i prezzi dinamici a fare gran parte della resa: chi tiene la stessa tariffa tutto l'anno lascia soldi sul tavolo d'estate e resta sfitto in bassa stagione."
+        "Un'osservazione dal campo. Da property manager Superhost notiamo che a Lecce il vero nodo non è riempire ad agosto, ma gestire la stagionalità: il picco estivo è fortissimo, mentre il resto dell'anno va costruito con il centro barocco, gli eventi e i weekend. Per questo, qui più che altrove, sono i prezzi dinamici a fare gran parte della resa: chi tiene la stessa tariffa tutto l'anno lascia soldi d'estate e resta sfitto in bassa stagione."
       ],
       "list": [
         "Centro storico barocco: a piedi ovunque, tra chiese e pietra leccese; coppie e turismo culturale.",

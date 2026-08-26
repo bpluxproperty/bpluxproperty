@@ -46,14 +46,35 @@
       ],
       "list": [],
       "table": {
-        "headers": ["Periodo o situazione", "Leva da usare"],
+        "headers": [
+          "Periodo o situazione",
+          "Leva da usare"
+        ],
         "rows": [
-          ["Infrasettimanale in bassa stagione", "Punta sugli ospiti business e riduci il minimo notti"],
-          ["Mesi lunghi e piatti d'inverno", "Apri agli smart worker con tariffe per soggiorni lunghi"],
-          ["Weekend fuori dai flussi turistici", "Attira la clientela locale per una fuga breve"],
-          ["Casa vicino a ospedali o cliniche", "Fatti trovare da pazienti e accompagnatori in cura"],
-          ["Giorni di fiere, congressi ed eventi", "Alza le tariffe e intercetta chi viaggia per lavoro"],
-          ["Città universitaria fuori stagione", "Ospita famiglie in visita, docenti e trasfertisti"]
+          [
+            "Infrasettimanale in bassa stagione",
+            "Punta sugli ospiti business e riduci il minimo notti"
+          ],
+          [
+            "Mesi lunghi e piatti d'inverno",
+            "Apri agli smart worker con tariffe per soggiorni lunghi"
+          ],
+          [
+            "Weekend fuori dai flussi turistici",
+            "Attira la clientela locale per una fuga breve"
+          ],
+          [
+            "Casa vicino a ospedali o cliniche",
+            "Fatti trovare da pazienti e accompagnatori in cura"
+          ],
+          [
+            "Giorni di fiere, congressi ed eventi",
+            "Alza le tariffe e intercetta chi viaggia per lavoro"
+          ],
+          [
+            "Città universitaria fuori stagione",
+            "Ospita famiglie in visita, docenti e trasfertisti"
+          ]
         ]
       }
     },
@@ -131,7 +152,8 @@
   "related": [
     "prezzi-dinamici-affitti-brevi",
     "come-aumentare-prenotazioni-airbnb",
-    "gestione-affitti-brevi-a-distanza"
+    "gestione-affitti-brevi-a-distanza",
+    "affitti-brevi-saturnia-guida"
   ],
   "sources": [],
   "disclaimer": false,

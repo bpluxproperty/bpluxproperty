@@ -36,9 +36,9 @@
       ],
       "table": {
         "headers": [
-          "Zona",
-          "Chi attira",
-          "Cosa aspettarsi"
+          "Area",
+          "Tipo di ospite",
+          "A cosa fare attenzione"
         ],
         "rows": [
           [

@@ -5,7 +5,7 @@
   "title": "Prezzi dinamici affitti brevi: come aumentano la resa",
   "metaDescription": "Cosa sono i prezzi dinamici negli affitti brevi, quali leve spostano la tariffa, gli strumenti da usare e gli errori da evitare per non svendere la casa.",
   "h1": "Prezzi dinamici per affitti brevi: la guida pratica per host",
-  "excerpt": "I prezzi dinamici adeguano la tariffa giorno per giorno in base alla domanda. Ecco le leve che la spostano, gli strumenti per gestirla e gli errori che lasciano soldi sul tavolo.",
+  "excerpt": "I prezzi dinamici adeguano la tariffa giorno per giorno in base alla domanda. Ecco le leve che la spostano, gli strumenti per gestirla e gli errori che lasciano soldi .",
   "opening": "I prezzi dinamici adeguano la tariffa del tuo affitto breve giorno per giorno, in base alla domanda reale, invece di tenere un prezzo fisso tutto l'anno. Aumentano la resa perché alzano il prezzo quando la richiesta è alta e lo abbassano quando è bassa, riducendo le notti sfitte. Il risultato è un fatturato più alto a parità di casa.",
   "publishedAt": "2026-08-11",
   "updatedAt": "2026-08-11",
@@ -35,15 +35,39 @@
         "Durata del soggiorno: soggiorni lunghi possono giustificare uno sconto a notte."
       ],
       "table": {
-        "headers": ["Leva", "Effetto sul prezzo"],
+        "headers": [
+          "Leva",
+          "Effetto sul prezzo"
+        ],
         "rows": [
-          ["Alta stagione", "Verso l'alto: la domanda di base è più forte"],
-          ["Bassa stagione", "Verso il basso, per non restare sfitto"],
-          ["Weekend", "Tariffa più alta rispetto ai giorni feriali"],
-          ["Evento o fiera in città", "Spinta forte verso l'alto nelle date interessate"],
-          ["Last-minute con calendario vuoto", "Più basso, per riempire la notte in arrivo"],
-          ["Prenotazione con largo anticipo", "Tariffa piena: la data è ancora tutta da vendere"],
-          ["Soggiorno lungo", "Sconto a notte, per assicurarsi più notti insieme"]
+          [
+            "Alta stagione",
+            "Verso l'alto: la domanda di base è più forte"
+          ],
+          [
+            "Bassa stagione",
+            "Verso il basso, per non restare sfitto"
+          ],
+          [
+            "Weekend",
+            "Tariffa più alta rispetto ai giorni feriali"
+          ],
+          [
+            "Evento o fiera in città",
+            "Spinta forte verso l'alto nelle date interessate"
+          ],
+          [
+            "Last-minute con calendario vuoto",
+            "Più basso, per riempire la notte in arrivo"
+          ],
+          [
+            "Prenotazione con largo anticipo",
+            "Tariffa piena: la data è ancora tutta da vendere"
+          ],
+          [
+            "Soggiorno lungo",
+            "Sconto a notte, per assicurarsi più notti insieme"
+          ]
         ]
       }
     },
@@ -64,7 +88,7 @@
     {
       "h2": "Gli errori più comuni sul prezzo",
       "paragraphs": [
-        "L'errore numero uno è il prezzo fisso tutto l'anno. Sembra comodo, ma è quello che costa di più. In alta stagione lasci soldi sul tavolo, perché venderesti a molto di più. In bassa stagione resti sfitto, perché la tariffa è fuori mercato.",
+        "L'errore numero uno è il prezzo fisso tutto l'anno. Sembra comodo, ma è quello che costa di più. In alta stagione lasci soldi , perché venderesti a molto di più. In bassa stagione resti sfitto, perché la tariffa è fuori mercato.",
         "L'errore opposto è affidarsi al pilota automatico senza controllarlo. Uno strumento mal impostato può svendere le date migliori o tenere prezzi troppo alti quando la domanda non c'è. L'automazione aiuta, ma va guidata."
       ],
       "list": [

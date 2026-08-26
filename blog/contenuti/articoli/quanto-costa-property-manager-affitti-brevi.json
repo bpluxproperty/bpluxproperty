@@ -25,16 +25,52 @@
         "Prima di confrontare due preventivi, guarda cosa c'è dentro. Una percentuale più alta che include tutto può costare meno, alla fine, di una più bassa che poi aggiunge una voce dopo l'altra. Ecco cosa rientra di norma nel servizio e cosa, invece, tende a essere a parte."
       ],
       "table": {
-        "headers": ["Voce", "Di solito inclusa?", "Note"],
+        "headers": [
+          "Voce",
+          "Di solito inclusa?",
+          "Note"
+        ],
         "rows": [
-          ["Annuncio, foto e testi", "Sì", "Creazione e aggiornamento su Airbnb, Booking e altri portali"],
-          ["Prezzi dinamici", "Sì", "Tariffe che seguono stagioni, eventi e domanda"],
-          ["Gestione ospiti e check-in", "Sì", "Messaggi, arrivi e partenze, assistenza nel soggiorno"],
-          ["Coordinamento pulizie e biancheria", "In genere sì", "L'organizzazione è inclusa; il costo vivo può essere a parte"],
-          ["Adempimenti e burocrazia", "Sì", "CIN, comunicazione ospiti, imposta di soggiorno"],
-          ["Rendicontazione", "Sì", "Report periodico con incassi e costi"],
-          ["Foto professionali iniziali", "A volte a parte", "Spesso una tantum all'avvio dell'immobile"],
-          ["Allestimento e arredo", "Di solito no", "Investimento iniziale sulla casa, a carico del proprietario"]
+          [
+            "Annuncio, foto e testi",
+            "Sì",
+            "Creazione e aggiornamento su Airbnb, Booking e altri portali"
+          ],
+          [
+            "Prezzi dinamici",
+            "Sì",
+            "Tariffe che seguono stagioni, eventi e domanda"
+          ],
+          [
+            "Gestione ospiti e check-in",
+            "Sì",
+            "Messaggi, arrivi e partenze, assistenza nel soggiorno"
+          ],
+          [
+            "Coordinamento pulizie e biancheria",
+            "In genere sì",
+            "L'organizzazione è inclusa; il costo vivo può essere a parte"
+          ],
+          [
+            "Adempimenti e burocrazia",
+            "Sì",
+            "CIN, comunicazione ospiti, imposta di soggiorno"
+          ],
+          [
+            "Rendicontazione",
+            "Sì",
+            "Report periodico con incassi e costi"
+          ],
+          [
+            "Foto professionali iniziali",
+            "A volte a parte",
+            "Spesso una tantum all'avvio dell'immobile"
+          ],
+          [
+            "Allestimento e arredo",
+            "Di solito no",
+            "Investimento iniziale sulla casa, a carico del proprietario"
+          ]
         ]
       }
     },
@@ -68,7 +104,7 @@
       "paragraphs": [
         "A prima vista la percentuale sembra solo un costo. In realtà, se la gestione è fatta bene, quella fee tende a ripagarsi da sola per due motivi: il tempo che ti restituisce e la resa in più che genera.",
         "Il tempo, prima di tutto. Il fai da te non è gratis: sono messaggi a ogni ora, check-in, pulizie da incastrare, prezzi da aggiornare e adempimenti da rispettare. Un gestore trasforma tutto questo in una voce prevedibile e ti ridà le tue giornate.",
-        "Poi c'è la resa. Prezzi dinamici, annuncio ottimizzato e recensioni curate alzano occupazione e tariffa media. Chi gestisce da solo, spesso, lascia soldi sul tavolo con prezzi fermi durante eventi e alta stagione. Quando l'ottimizzazione supera la fee, il tuo netto cresce nonostante la percentuale."
+        "Poi c'è la resa. Prezzi dinamici, annuncio ottimizzato e recensioni curate alzano occupazione e tariffa media. Chi gestisce da solo, spesso, lascia soldi con prezzi fermi durante eventi e alta stagione. Quando l'ottimizzazione supera la fee, il tuo netto cresce nonostante la percentuale."
       ]
     },
     {
@@ -113,7 +149,11 @@
       "a": "Guarda il netto in tasca a fine anno, non solo la percentuale. Chiedi una stima realistica di incassi e costi, togli la fee e tutte le voci a parte, e confronta il risultato con quanto otterresti da solo. Il numero finale conta più della percentuale sul preventivo."
     }
   ],
-  "related": ["property-manager-affitti-brevi", "gestione-affitti-brevi-fai-da-te-o-agenzia", "gestione-affitti-brevi-a-distanza"],
+  "related": [
+    "property-manager-affitti-brevi",
+    "gestione-affitti-brevi-fai-da-te-o-agenzia",
+    "gestione-affitti-brevi-a-distanza"
+  ],
   "sources": [],
   "disclaimer": false,
   "note": ""

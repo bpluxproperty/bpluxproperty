@@ -100,7 +100,7 @@ def pullquote_for(a):
     # dal paragrafo di origine: altrimenti il lettore la ritrova identica poco piu sotto.
     pat=re.compile(r"[^.!?]*\b(nostra esperienza|Nella nostra|da property manager|Superhost|lo vediamo di continuo|nel nostro lavoro|l'errore (?:più|piu|che)|abbiamo (?:visto|imparato))\b[^.!?]*[.!?]",re.I)
     selfpres=re.compile(r"(B&P Lux Property|gestiamo (?:affitti|appartamenti|case|immobili)|lavoriamo ogni giorno|con base in Emilia-Romagna|siamo Superhost|come Superhost e)",re.I)
-    for sec in a.get("sections",[]):
+    for si,sec in enumerate(a.get("sections",[])):
         for i,p in enumerate(sec.get("paragraphs",[])):
             hay,off=p,0
             if i==0:
@@ -115,8 +115,8 @@ def pullquote_for(a):
             rest=(p[:off+m.start()]+p[off+m.end():]).strip()
             if len(rest.split())<12: continue
             sec["paragraphs"][i]=re.sub(r"\s{2,}"," ",rest)
-            return f'<blockquote class="pull"><p>{inline(q)}</p></blockquote>'
-    return ""
+            return f'<blockquote class="pull"><p>{inline(q)}</p></blockquote>', si
+    return "", -1
 def paras(lst, ab=False): return "".join(f"<p>{inline(auto_bold_raw(auto_link_raw(p)) if ab else p)}</p>" for p in (lst or []))
 def ul(lst, ab=False):
     if not lst: return ""
@@ -328,9 +328,9 @@ def render_article(a):
     _BOLD["n"]=0; _BOLD["done"]=set()
     _LINK["n"]=0; _LINK["done"]=set(); _SELF["slug"]=a["slug"]
     au=autore_per(a)
-    pq=pullquote_for(a); nsec=len(a.get("sections",[]))
-    pq_at=(nsec-2) if nsec>=4 else -1
-    if pq_at==2: pq_at=3
+    pq,pq_at=pullquote_for(a); nsec=len(a.get("sections",[]))
+    # la citazione si mette subito DOPO la sezione da cui e stata estratta:
+    # in uno slot fisso il lettore la trovava senza contesto (es. "tre situazioni")
     secs_html=""; toc=[]
     for i,sec in enumerate(a.get("sections",[])):
         sid=f"s{i+1}"; toc.append((sid,sec["h2"]))

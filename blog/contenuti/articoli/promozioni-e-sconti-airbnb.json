@@ -39,7 +39,7 @@
       "h2": "Quando gli sconti convengono davvero",
       "paragraphs": [
         "Lo sconto conviene quando risolve un problema che il prezzo pieno non risolve da solo. Non è mai un premio da regalare: è un investimento per ottenere qualcosa in cambio, che siano le prime recensioni o una notte in più venduta.",
-        "Le situazioni in cui ha senso attivarlo sono poche e chiare. Fuori da queste, quasi sempre stai solo lasciando soldi sul tavolo."
+        "Le situazioni in cui ha senso attivarlo sono poche e chiare. Fuori da queste, quasi sempre stai solo lasciando soldi ."
       ],
       "list": [
         "All'avvio di un annuncio nuovo, per ottenere le prime prenotazioni e costruire lo storico di recensioni.",
@@ -49,13 +49,37 @@
         "Per spingere date deboli o notti infrasettimanali che altrimenti resterebbero libere."
       ],
       "table": {
-        "headers": ["Tipo di sconto", "Quando conviene", "Da tenere d'occhio"],
+        "headers": [
+          "Tipo di sconto",
+          "Quando conviene",
+          "Da tenere d'occhio"
+        ],
         "rows": [
-          ["Sconto di lancio (primi ospiti)", "Annuncio nuovo, per partire e fare le prime recensioni", "Toglilo quando le recensioni iniziano ad arrivare"],
-          ["Ultimo minuto", "Date vicine ancora libere da non sprecare", "Se è sempre attivo, insegni a chi ti segue ad aspettare"],
-          ["Settimanale", "Allungare i soggiorni e ridurre i cambi", "In alta stagione può regalare notti che venderesti a prezzo pieno"],
-          ["Mensile", "Bassa stagione e periodi lunghi da coprire", "Blocca il calendario a lungo: controlla la tariffa a notte"],
-          ["Personalizzato / a tempo", "Spingere date deboli o periodi infrasettimanali", "Mirato e a termine, non una scontistica permanente"]
+          [
+            "Sconto di lancio (primi ospiti)",
+            "Annuncio nuovo, per partire e fare le prime recensioni",
+            "Toglilo quando le recensioni iniziano ad arrivare"
+          ],
+          [
+            "Ultimo minuto",
+            "Date vicine ancora libere da non sprecare",
+            "Se è sempre attivo, insegni a chi ti segue ad aspettare"
+          ],
+          [
+            "Settimanale",
+            "Allungare i soggiorni e ridurre i cambi",
+            "In alta stagione può regalare notti che venderesti a prezzo pieno"
+          ],
+          [
+            "Mensile",
+            "Bassa stagione e periodi lunghi da coprire",
+            "Blocca il calendario a lungo: controlla la tariffa a notte"
+          ],
+          [
+            "Personalizzato / a tempo",
+            "Spingere date deboli o periodi infrasettimanali",
+            "Mirato e a termine, non una scontistica permanente"
+          ]
         ]
       }
     },

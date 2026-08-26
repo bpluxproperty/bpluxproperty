@@ -35,9 +35,9 @@
       ],
       "table": {
         "headers": [
-          "Zona",
-          "Chi attira",
-          "Cosa aspettarsi"
+          "Area",
+          "Tipo di ospite",
+          "A cosa fare attenzione"
         ],
         "rows": [
           [
@@ -94,7 +94,7 @@
       "paragraphs": [
         "Riccione resta una destinazione stagionale: l'estate concentra la parte più grande dei ricavi e i mesi freddi sono un altro mestiere. Negarlo nei conti è il modo più rapido per restare delusi a fine anno.",
         "Detto questo, la Riviera ha più leve fuori stagione di quanto sembri. Le terme di Riccione portano un pubblico benessere anche senza mare, i parchi tematici della zona allungano la primavera e l'inizio dell'autunno per le famiglie, il polo fieristico e congressuale dell'area di Rimini muove ospiti di lavoro in mesi altrimenti vuoti e San Marino resta una gita che regge qualsiasi meteo.",
-        "Su un mercato così maturo la leva decisiva è il prezzo. A Riccione la tariffa giusta cambia di settimana in settimana, non di stagione in stagione: il fine settimana di un grande evento, un ponte e una settimana qualunque di inizio estate non sono lo stesso prodotto. Chi tiene lo stesso prezzo per tutta l'estate lascia margine sul tavolo nei picchi e resta vuoto nelle settimane deboli."
+        "Su un mercato così maturo la leva decisiva è il prezzo. A Riccione la tariffa giusta cambia di settimana in settimana, non di stagione in stagione: il fine settimana di un grande evento, un ponte e una settimana qualunque di inizio estate non sono lo stesso prodotto. Chi tiene lo stesso prezzo per tutta l'estate lascia margine nei picchi e resta vuoto nelle settimane deboli."
       ],
       "list": [
         "Estate: è il motore, con soggiorni settimanali e prenotazioni anticipate dai clienti abituali.",

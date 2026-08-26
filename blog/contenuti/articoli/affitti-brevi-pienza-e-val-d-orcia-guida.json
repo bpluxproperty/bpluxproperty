@@ -36,8 +36,8 @@
       ],
       "table": {
         "headers": [
-          "Collocazione",
-          "Chi attira",
+          "Posizione",
+          "Chi prenota",
           "Cosa aspettarsi"
         ],
         "rows": [
@@ -117,7 +117,7 @@
       "paragraphs": [
         "Un dettaglio salta all'occhio leggendo le recensioni negative delle case di campagna: quasi nessuna parla di pulizia o di arredi. Parlano della strada, del buio, del frigorifero vuoto la prima sera. Cioè di cose che il proprietario conosceva già e non aveva scritto.",
         "Noi lo trattiamo come un difetto dell'annuncio, non della casa. Le fotografie hanno il compito di far desiderare la vista, il testo quello di dire che intorno alla vista non c'è un paese. Quando le due voci lavorano insieme si prenota un po' meno spesso e molto meglio: arrivano ospiti che hanno scelto l'isolamento invece di scoprirlo all'ultima curva.",
-        "Da qui l'ordine con cui interveniamo su una casa in valle: prima guardiamo che cosa si vede dalle finestre, poi costruiamo il servizio fotografico attorno a quella vista, poi scriviamo tutto il resto, cioè arrivo, spesa, servizi assenti, stagionalità. La tariffa viene per ultima, perché dipende da quanto è credibile ciò che sta prima.",
+        "Su una casa in valle partiamo sempre da che cosa si vede dalle finestre, e solo dopo pensiamo al servizio fotografico attorno a quella vista, poi scriviamo tutto il resto, cioè arrivo, spesa, servizi assenti, stagionalità. La tariffa viene per ultima, perché dipende da quanto è credibile ciò che sta prima.",
         "Vale anche al contrario. Chi ha una casa nel centro di Pienza non deve rincorrere il panorama che non possiede: ha una cosa rara in questa parte di Toscana, un ospite che parcheggia una volta sola e per il resto del soggiorno cammina. Anche quello è un vantaggio da fotografare e da raccontare."
       ]
     }
@@ -129,7 +129,7 @@
     },
     {
       "q": "Meglio una casa a Pienza o in campagna?",
-      "a": "Sono due prodotti diversi, non uno migliore dell'altro. Nel centro storico di Pienza l'ospite lascia l'auto e cammina fra botteghe e ristoranti, con soggiorni spesso brevi; in campagna compra vista e silenzio, si ferma più giorni e ha bisogno del mezzo proprio. La scelta sbagliata è vendere una casa isolata come se fosse in paese."
+      "a": "Cambia il tipo di vacanza che stai vendendo, non la qualità dell'offerta. Nel centro storico di Pienza l'ospite lascia l'auto e cammina fra botteghe e ristoranti, con soggiorni spesso brevi; in campagna compra vista e silenzio, si ferma più giorni e ha bisogno del mezzo proprio. La scelta sbagliata è vendere una casa isolata come se fosse in paese."
     },
     {
       "q": "Come si gestisce l'arrivo in una casa isolata su strada bianca?",
