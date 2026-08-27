@@ -100,7 +100,7 @@ def _quotabile(q):
     # niente connettivi o pronomi che rimandano alla frase precedente.
     if not (45 <= len(q) <= 200): return False
     if re.search(r"(B&P Lux Property|gestiamo (?:affitti|appartamenti|case|immobili)|lavoriamo ogni giorno|con base in Emilia-Romagna|siamo Superhost|come Superhost e|property manager in Emilia-Romagna)", q, re.I): return False
-    if re.search(r"^(?:Per\u00f2|Quindi|Invece|Cos\u00ec|Dunque|Tuttavia|Eppure|Anche|Al contrario|Questo|Questa|Questi|Queste|Ci\u00f2|Lo stesso|La stessa)\b", q): return False
+    if re.search(r"^(?:Per\u00f2|Quindi|Invece|Cos\u00ec|Dunque|Tuttavia|Eppure|Anche|Al contrario|Questo|Questa|Questi|Queste|Ci\u00f2|Lo stesso|La stessa|E|Ma|Oppure|Inoltre|Per questo)\b", q): return False
     if re.search(r"\b(?:per\u00f2|invece|al contrario)\b", q, re.I): return False
     if not re.match(r"^[\u00ab\"\u201c]?[A-Z\u00c0\u00c8\u00c9\u00cc\u00d2\u00d9]", q): return False
     if q.count(chr(171)) != q.count(chr(187)): return False
@@ -131,8 +131,11 @@ def pullquote_for(a):
             if not _quotabile(m.group(0).strip()): continue
             r = _stacca(sec, i, off, m, si)
             if r: return r
-    # 2) frase-massima nelle ultime due sezioni (chiusure del tipo "X, non Y")
-    massima = re.compile(r"(?:,\s*non\s|\bnon si\b|\bvale (?:di pi\u00f9|il doppio|pi\u00f9|piu|quanto)\b|\bpesa (?:pi\u00f9|piu|quanto)\b|\bconta (?:pi\u00f9|piu)\b|\bsi difende\b|\bnon basta\b|\bnon converte\b|\bnon perde\b)", re.I)
+    # 2) frase-massima nelle ultime due sezioni: si raccolgono i candidati e si
+    #    prende quello con il segnale piu' forte, non il primo che passa.
+    FORTI = re.compile(r"(?:\bsi difende\b|\bvale (?:di pi\u00f9|il doppio)\b|\bnon converte\b|\bnon si (?:prenota|riempie|recupera|improvvisa|compra)\b|\bnon perde ospiti\b|\bvale pi\u00f9 di\b|\bpesa pi\u00f9 di\b)", re.I)
+    DEBOLI = re.compile(r"(?:,\s*non\s|\bnon si\b|\bvale\b|\bpesa\b|\bconta (?:pi\u00f9|piu)\b|\bnon basta\b|\bnon \u00e8 (?:quanto|quello|come|una questione)\b)", re.I)
+    cand = []
     for si in range(len(secs) - 1, max(len(secs) - 3, -1), -1):
         sec = secs[si]
         for i, p in enumerate(sec.get("paragraphs", [])):
@@ -140,9 +143,12 @@ def pullquote_for(a):
                 if i == 0 and m.start() == 0: continue
                 q = m.group(0).strip()
                 if not _quotabile(q): continue
-                if not massima.search(q): continue
-                r = _stacca(sec, i, 0, m, si)
-                if r: return r
+                punti = 2 if FORTI.search(q) else (1 if DEBOLI.search(q) else 0)
+                if not punti: continue
+                cand.append((-punti, len(q), si, i, m))
+    for _, _, si, i, m in sorted(cand, key=lambda x: (x[0], x[1])):
+        r = _stacca(secs[si], i, 0, m, si)
+        if r: return r
     return "", -1
 
 def paras(lst, ab=False): return "".join(f"<p>{inline(auto_bold_raw(auto_link_raw(p)) if ab else p)}</p>" for p in (lst or []))

@@ -28,25 +28,29 @@
       ],
       "table": {
         "headers": [
+          "Che cosa decide la prenotazione",
           "Casa nel centro storico",
           "Casa con esterno appena fuori dal paese",
           "Masseria o trullo in campagna"
         ],
         "rows": [
           [
-            "Esterno: un terrazzo o un affaccio sui tetti, quasi mai una vasca o una piscina",
-            "Esterno: una corte o un giardino, a volte una vasca idromassaggio",
-            "Esterno: piscina, uliveto e metri quadri che nessun appartamento può offrire"
+            "Esterno",
+            "un terrazzo o un affaccio sui tetti, quasi mai una vasca o una piscina",
+            "una corte o un giardino, a volte una vasca idromassaggio",
+            "piscina, uliveto e metri quadri che nessun appartamento può offrire"
           ],
           [
-            "Privacy: muri in comune e vicini che abitano lì tutto l'anno, rumore da contenere di notte",
-            "Privacy: buona dentro casa, ma la strada e i confinanti restano vicini",
-            "Privacy: nessun vicino a vista, un gruppo può stare fuori la sera senza pensieri"
+            "Privacy",
+            "muri in comune e vicini che abitano lì tutto l'anno, rumore da contenere di notte",
+            "buona dentro casa, ma la strada e i confinanti restano vicini",
+            "nessun vicino a vista, un gruppo può stare fuori la sera senza pensieri"
           ],
           [
-            "Auto: si lascia fuori dal centro e si arriva a piedi con i bagagli, secondo le regole di accesso in vigore",
-            "Auto: posto auto in genere risolto, ma serve per cena e per i servizi",
-            "Auto: indispensabile per tutto, anche per andare a comprare il pane"
+            "Auto",
+            "si lascia fuori dal centro e si arriva a piedi con i bagagli, secondo le regole di accesso in vigore",
+            "posto auto in genere risolto, ma serve per cena e per i servizi",
+            "indispensabile per tutto, anche per andare a comprare il pane"
           ]
         ]
       }
@@ -88,14 +92,15 @@
       "h2": "Adempimenti in Puglia: CIN, imposta di soggiorno e obblighi regionali",
       "paragraphs": [
         "Prima di pubblicare un annuncio serve un giro di verifiche, e conviene farlo nell'ordine: inquadramento dell'attività, codici obbligatori, comunicazioni ricorrenti. A Locorotondo il quadro è quello nazionale con l'aggiunta di ciò che decidono il Comune e la Regione Puglia, e i due livelli non si sovrappongono: uno riguarda il tributo e i regolamenti locali, l'altro la rilevazione dei flussi e l'inquadramento delle strutture ricettive.",
-        "L'elenco che segue serve a sapere che cosa cercare, non a sostituire chi di dovere: le norme si aggiornano, gli importi e le scadenze si decidono in Comune e ogni immobile ha la sua storia edilizia. Ogni voce va confermata all'ufficio competente o a un professionista prima di dare per chiuso il capitolo burocratico."
+        "Le norme si aggiornano, gli importi e le scadenze si decidono in Comune e ogni immobile ha la sua storia edilizia. Ogni voce va confermata all'ufficio competente o a un professionista prima di dare per chiuso il capitolo burocratico."
       ],
       "list": [
         "CIN, il Codice Identificativo Nazionale: si ottiene dalla banca dati nazionale del Ministero del Turismo ed è obbligatorio indicarlo negli annunci, su ogni canale.",
-        "Imposta di soggiorno: è un tributo comunale a carico dell'ospite, raccolto da chi affitta e versato al Comune di Locorotondo. Misura, esenzioni e scadenze si leggono sul regolamento comunale in vigore.",
-        "Comunicazione degli ospiti: i dati dei documenti vanno trasmessi alla Polizia di Stato tramite il portale Alloggiati Web, entro i termini previsti e per ogni persona che dorme in casa.",
+        "Codice identificativo di struttura (CIS): in Puglia l'alloggio va iscritto nel sistema informativo turistico regionale, che assegna un codice obbligatorio negli annunci ed è il presupposto per richiedere il CIN. La registrazione si fa sui canali della Regione Puglia e dell'agenzia regionale del turismo.",
+        "Imposta di soggiorno: il costo è a carico dell'ospite, ma chi affitta è responsabile del pagamento verso il Comune, con diritto di rivalsa e obbligo di dichiarazione. Misura, esenzioni, notti soggette e scadenze si leggono sul regolamento del Comune di Locorotondo in vigore.",
+        "Comunicazione degli ospiti: i dati dei documenti vanno trasmessi alla Questura attraverso il portale Alloggiati Web, per ogni arrivo e nei tempi indicati dalla normativa.",
         "Rilevazione dei flussi turistici: la Regione Puglia raccoglie i dati del movimento tramite l'osservatorio dell'Agenzia Regionale del Turismo Pugliapromozione. Se e come trasmetterli va verificato in base all'inquadramento dell'immobile.",
-        "Inquadramento dell'attività: locazione turistica o struttura ricettiva extralberghiera comportano adempimenti diversi. La distinzione si chiarisce con il Comune e con la normativa regionale, non a intuito.",
+        "Inquadramento e segnalazione dell'attività: in Puglia le locazioni turistiche passano da una segnalazione allo sportello unico del Comune, con termini fissati dalla Regione e validi anche per chi non opera in forma imprenditoriale, e presuppongono il possesso del codice identificativo. È previsto anche l'obbligo di una polizza di responsabilità civile verso i clienti. Scadenze e modulistica si leggono sulla pagina della Regione Puglia dedicata alle locazioni turistiche, perché sono state prorogate più volte: la verifica va fatta ora, non a stagione aperta.",
         "Requisiti di sicurezza: la normativa nazionale sulle locazioni brevi chiede dotazioni per la rilevazione di gas e monossido di carbonio e mezzi antincendio. I dettagli tecnici vanno letti alla fonte.",
         "Vincoli sull'immobile: nel centro storico gli interventi su facciate, tetti e chiancarelle possono avere regole proprie. Vanno verificati in Comune prima di progettare i lavori, non dopo."
       ]
@@ -103,10 +108,10 @@
     {
       "h2": "L'errore che vediamo nei borghi accanto a un mercato di campagna",
       "paragraphs": [
-        "L'errore che vediamo più spesso, nei paesi che confinano con un'offerta di campagna forte, è l'annuncio mimetico. Foto di uliveti che non appartengono alla casa, un titolo che promette relax e silenzio assoluto, la piscina di una struttura convenzionata messa in evidenza come se fosse in giardino. Poi l'ospite arriva, trova i vicoli, i vicini e le campane, e la recensione parla di aspettative disattese anche quando la casa è curata.",
+        "Nei paesi che confinano con un'offerta di campagna forte c'è una scelta sbagliata che si riconosce a prima vista: l'annuncio mimetico. Foto di uliveti che non appartengono alla casa, un titolo che promette relax e silenzio assoluto, la piscina di una struttura convenzionata messa in evidenza come se fosse in giardino. Poi l'ospite arriva, trova i vicoli, i vicini e le campane, e la recensione parla di aspettative disattese anche quando la casa è curata.",
         "Un annuncio che imita la masseria vende una vacanza che quella casa non può consegnare. Quando lavoriamo su un immobile in un borgo partiamo dal contrario: scriviamo su un foglio per chi è quella casa e per chi non è, e poi tagliamo tutto quello che non serve a quella promessa. Sparisce la parola relax, entra il percorso a piedi verso i ristoranti; spariscono le foto del paesaggio altrui, entrano il portone, la scala e la cucina.",
         "Tenere un posizionamento costa qualche rifiuto. Significa dire no al gruppo troppo numeroso per quei metri quadri, non accettare la richiesta di festa in terrazza, e non correggere la rotta ogni volta che un vicino di annuncio abbassa il listino. Nella nostra esperienza è proprio la costanza a produrre le recensioni che poi riempiono i mesi di spalla, perché l'ospite giusto racconta esattamente la cosa che volevamo vendere.",
-        "La nostra base è in Emilia-Romagna, dove gestiamo case come property manager e Superhost: fuori da lì quello che si può portare è un metodo, non una presenza sul posto. E il metodo, in un borgo con un mercato di campagna intorno, si riduce a una domanda sola: che cosa può dire questa casa che la masseria non può dire? Chi risponde con una frase precisa ha già scritto il proprio annuncio."
+        "In un borgo che confina con un mercato di campagna tutto si riduce a una domanda sola: che cosa può dire questa casa che la masseria non può dire? Chi risponde con una frase precisa ha già scritto il proprio annuncio."
       ]
     }
   ],
@@ -145,8 +150,8 @@
     {
       "label": "Imposta di soggiorno e regolamenti per le locazioni turistiche",
       "ente": "Comune di Locorotondo",
-      "data": "",
-      "url": ""
+      "data": "2026",
+      "url": "https://locorotondo.paytourist.com/"
     },
     {
       "label": "Codice Identificativo Nazionale (CIN) e banca dati delle strutture ricettive",
@@ -157,8 +162,14 @@
     {
       "label": "Rilevazione dei flussi turistici e osservatorio regionale",
       "ente": "Regione Puglia - Agenzia Regionale del Turismo Pugliapromozione",
-      "data": "",
-      "url": ""
+      "data": "2026",
+      "url": "https://www.regione.puglia.it/web/turismo/normativa-locazioni-ad-uso-turistico"
+    },
+    {
+      "label": "Portale Alloggiati Web per la comunicazione delle persone alloggiate",
+      "ente": "Polizia di Stato",
+      "data": "2026",
+      "url": "https://alloggiatiweb.poliziadistato.it"
     }
   ],
   "disclaimer": false,

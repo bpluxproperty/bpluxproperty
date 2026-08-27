@@ -52,7 +52,7 @@
           [
             "Fronte mare e lungomare",
             "Settimane piene di famiglie: spiaggia a piedi, spazio per quattro persone e per i loro bagagli",
-            "Poco, se non offre altro: serve un motivo diverso dalla vista, dal silenzio al posto auto garantito"
+            "Poco, se non offre altro: serve un motivo diverso dalla vista, dal silenzio al posto auto riservato"
           ],
           [
             "Centro storico, portici e Rocca",
@@ -79,12 +79,13 @@
     {
       "h2": "Tre livelli di regole: Stato, Regione Marche, Comune",
       "paragraphs": [
-        "Prima del primo ospite ci sono adempimenti che valgono a prescindere dalla stagione. Quello che segue serve a orientarsi: le regole cambiano nel tempo e la versione che conta è sempre quella pubblicata dall'ente competente, quindi va letta lì prima di pubblicare l'annuncio. Per un caso specifico, in particolare sul lato fiscale e contrattuale, la risposta la dà un professionista che vede i documenti.",
+        "Prima del primo ospite ci sono adempimenti che valgono a prescindere dalla stagione. Le regole cambiano nel tempo e la versione che conta è quella pubblicata dall'ente competente: va letta lì prima di pubblicare l'annuncio. Per un caso specifico, in particolare sul lato fiscale e contrattuale, la risposta la dà un professionista che vede i documenti.",
         "Nelle Marche i livelli sono tre: nazionale, regionale e comunale. Il livello regionale è quello che sfugge più spesso, perché non riguarda soltanto la classificazione della struttura ma anche la trasmissione periodica dei dati sui movimenti degli ospiti, che serve alle statistiche del turismo. Il livello comunale, a Senigallia, decide invece le cose che finiscono sulla tariffa: importi dell'imposta di soggiorno, esenzioni e scadenze delle dichiarazioni."
       ],
       "list": [
-        "CIN, il Codice Identificativo Nazionale: si ottiene dalla banca dati nazionale delle strutture ricettive e va riportato negli annunci, su ogni portale e in ogni vetrina. I passaggi in ordine sono spiegati nella guida al CIN pubblicata su questo blog.",
-        "Imposta di soggiorno: è un tributo comunale che paga l'ospite e che l'host incassa e riversa al Comune di Senigallia. Importi, casi di esenzione e scadenze delle dichiarazioni si leggono sul regolamento comunale e non si deducono da quelli di altre città.",
+        "CIN, il Codice Identificativo Nazionale: si ottiene dalla banca dati nazionale delle strutture ricettive e va riportato negli annunci, su ogni portale, ed esposto all'esterno dell'alloggio come previsto dalla normativa. I passaggi in ordine sono spiegati nella guida al CIN pubblicata su questo blog.",
+        "Codice identificativo regionale (CIR): nelle Marche l'alloggio va registrato nel sistema informativo turistico regionale, che assegna un codice da indicare negli annunci. È distinto dal CIN e i due non si sostituiscono a vicenda: dove sono previsti entrambi, servono entrambi. Procedura e portale si verificano presso la Regione Marche.",
+        "Imposta di soggiorno: il costo è a carico dell'ospite, ma chi affitta è responsabile del pagamento verso il Comune, con diritto di rivalsa e obbligo di dichiarazione: se l'ospite non paga, il tributo resta dovuto. Importi, esenzioni e scadenze si leggono sul regolamento del Comune di Senigallia e non si deducono da quelli di altre città.",
         "Comunicazione degli ospiti alla Polizia di Stato tramite il portale Alloggiati Web, entro i termini previsti e per ogni persona che dorme in casa, inclusi i soggiorni di una sola notte.",
         "Rilevazione dei flussi turistici della Regione Marche: la trasmissione dei dati su arrivi e presenze è un obbligo a sé, separato dall'imposta di soggiorno, con una sua periodicità da verificare presso la Regione.",
         "Requisiti tecnici e di sicurezza dell'immobile, oltre a quanto prevede il regolamento condominiale: due fronti che cambiano da casa a casa e che conviene chiarire prima di mettere online le foto.",
@@ -94,10 +95,10 @@
     {
       "h2": "Gli annunci a doppia stagione parlano a un ospite solo",
       "paragraphs": [
-        "Gestiamo case in Emilia-Romagna, non a Senigallia, ma il difetto che troviamo negli annunci a doppia stagione è sempre lo stesso e viaggia bene da una costa all'altra: sono scritti per l'ospite di agosto e lasciati identici a gennaio. Titolo che promette la spiaggia, prima foto con l'ombrellone, descrizione che parla di settimane e di frigorifero pieno. Chi cerca una notte a novembre non si riconosce in nulla di quel testo e passa avanti.",
+        "Il difetto degli annunci a doppia stagione è sempre lo stesso e viaggia bene da una costa all'altra: sono scritti per l'ospite di agosto e lasciati identici a gennaio. Titolo che promette la spiaggia, prima foto con l'ombrellone, descrizione che parla di settimane e di frigorifero pieno. Chi cerca una notte a novembre non si riconosce in nulla di quel testo e passa avanti.",
         "La soluzione che usiamo non è scrivere un annuncio generico, che è il rimedio peggiore del male. Un annuncio che non promette niente a nessuno non converte in nessuna stagione. Teniamo un testo con una parte fissa, quella che descrive la casa e le sue certezze, e due blocchi che ruotano con il calendario: uno sulla spiaggia e sui soggiorni lunghi, uno sul rientro a piedi dopo cena e sull'ingresso serale.",
         "Lo stesso vale per le foto. La prima immagine è l'unica che vede chi scorre, e in un mercato a doppia stagione ne servono due serie: la sequenza estiva, con la luce piena e gli esterni, e quella dei mesi freddi, con le lampade accese, la camera in ordine e il bagno curato. Cambiare la copertina quando cambia la domanda costa un pomeriggio di lavoro e va messo in calendario due volte l'anno, come il cambio degli armadi.",
-        "L'ultima cosa che chiediamo a un proprietario in una città così è di scegliere quale delle due domande è la sua priorità, perché le decisioni sull'arredo si contraddicono a vicenda. Un divano letto in più serve alla famiglia e toglie ordine alla coppia; una cucina completa occupa spazio che d'inverno resta vuoto. Non tutte le case possono servire bene entrambi i pubblici, e sapere quale si serve meglio è già metà del lavoro."
+        "Resta una verifica da fare sulla casa vera, prima di impegnarsi sulla rotazione: alcune decisioni d'arredo si contraddicono. Un divano letto in più serve alla famiglia di agosto e toglie ordine alla coppia di febbraio; una cucina completa occupa spazio che d'inverno resta vuoto. Dove il contrasto è insanabile si sceglie un pubblico; dove non lo è, e nella maggior parte dei bilocali di centro non lo è, si ruota e si guadagnano sei mesi di calendario."
       ]
     }
   ],
@@ -120,7 +121,7 @@
     },
     {
       "q": "Conviene tenere la casa aperta anche d'inverno?",
-      "a": "Dipende dai costi fissi di quella casa specifica, e va calcolato su un foglio invece che a intuito. Un appartamento piccolo in centro, con riscaldamento efficiente e una persona di riferimento vicina, in genere sostiene l'apertura annuale; una casa grande in collina, lontana e senza presidio, spesso no. Il modo più affidabile per deciderlo è registrare un inverno di dati veri e scegliere il secondo anno."
+      "a": "Per un bilocale in centro con riscaldamento autonomo e una persona di riferimento in città, di solito sì. Per una casa grande, lontana e senza presidio, quasi sempre no: si scalda da freddo per due notti e le pulizie costano come su una settimana. Il modo affidabile per deciderlo è registrare un inverno di dati veri e scegliere il secondo anno."
     },
     {
       "q": "Serve il CIN a Senigallia e come funziona l'imposta di soggiorno?",
@@ -136,20 +137,26 @@
     {
       "label": "Imposta di soggiorno e regole per le locazioni turistiche",
       "ente": "Comune di Senigallia",
-      "data": "",
-      "url": ""
+      "data": "2026",
+      "url": "https://www.comune.senigallia.an.it/servizio/imposta-di-soggiorno/"
     },
     {
       "label": "Rilevazione dei flussi turistici e adempimenti per le strutture ricettive",
       "ente": "Regione Marche",
-      "data": "",
-      "url": ""
+      "data": "2026",
+      "url": "https://www.regione.marche.it/Entra-in-Regione/Marche-Turismo/Osservatorio-del-turismo/CIR-Codice-Identificativo-Regionale"
     },
     {
       "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
       "ente": "Ministero del Turismo",
       "data": "",
       "url": ""
+    },
+    {
+      "label": "Portale Alloggiati Web per la comunicazione delle persone alloggiate",
+      "ente": "Polizia di Stato",
+      "data": "2026",
+      "url": "https://alloggiatiweb.poliziadistato.it"
     }
   ],
   "disclaimer": false,

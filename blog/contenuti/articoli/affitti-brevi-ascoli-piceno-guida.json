@@ -14,8 +14,8 @@
     {
       "h2": "Una città che quasi nessuno pensa di prenotare",
       "paragraphs": [
-        "Ascoli Piceno è capoluogo dell'omonima provincia, nelle Marche meridionali, dove la valle del Tronto scende dai Monti Sibillini verso l'Adriatico. Il centro storico è costruito in travertino: piazza del Popolo con il Palazzo dei Capitani e la loggia dei Mercanti, piazza Arringo con il Duomo di Sant'Emidio, le torri e i vicoli medievali che qui si chiamano rue. È una città compatta, lastricata, che si gira interamente a piedi in mezza giornata.",
-        "Il rovescio è il flusso. Ascoli resta fuori dalle rotte del turismo di massa: non è sul mare, la linea ferroviaria è una diramazione che arriva dalla costa, e la maggior parte degli arrivi passa dalla superstrada e dalla Salaria, in auto. Gli annunci in città sono pochi rispetto a un capoluogo turistico, quindi la concorrenza è bassa, ma lo è anche il numero di persone che digitano il nome della città su un portale di prenotazione.",
+        "Ascoli Piceno è capoluogo dell'omonima provincia, nelle Marche meridionali, dove la valle del Tronto scende verso l'Adriatico fra i Monti Sibillini a nord e i Monti della Laga a sud. Il centro storico è costruito in travertino: piazza del Popolo con il Palazzo dei Capitani e la loggia dei Mercanti, piazza Arringo con il Duomo di Sant'Emidio, le torri e i vicoli medievali che qui si chiamano rue. È una città compatta, lastricata, che si gira interamente a piedi.",
+        "Il rovescio è il flusso. Ascoli resta fuori dalle rotte del turismo di massa: non è sul mare, la linea ferroviaria è una diramazione che arriva dalla costa, e la maggior parte degli arrivi passa dalla superstrada e dalla Salaria, in auto. Rispetto a un capoluogo turistico gli annunci in città sono pochi, ed è una verifica che conviene fare da sé: si apre una ricerca sulle piattaforme per le date che interessano e si conta quanti annunci compaiono davvero, ma lo è anche il numero di persone che digitano il nome della città su un portale di prenotazione.",
         "Per chi affitta, la conseguenza è precisa: nessuno arriva per caso. In una città a forte flusso basta esistere sui portali e qualche prenotazione entra comunque; qui no. La casa viene prenotata se risponde a un bisogno riconoscibile, e se l'annuncio lo dice in modo esplicito. Significa ragionare al contrario rispetto al solito: prima si capisce chi ha motivo di dormire in città, poi si allestisce l'appartamento e si scrive il testo per quella persona."
       ]
     },
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "h2": "Dentro le mura, fuori le mura o verso la valle",
+      "h2": "Le tre fasce della città, lette dal lato di chi ci dorme per lavoro",
       "paragraphs": [
         "La geografia di Ascoli si legge in tre fasce, e la scelta cambia più il tipo di ospite che il prezzo. Dentro le mura c'è il centro in travertino, con tutto a piedi e i problemi di accesso e sosta tipici di un centro storico. Subito fuori ci sono i quartieri di corona, da Porta Maggiore a Campo Parignano fino a Monticelli, dove si parcheggia e si arriva in pochi minuti in piazza. Più lontano si apre la valle del Tronto, con le frazioni.",
         "Dentro le mura l'appartamento si vende da solo a chi viene per la città: si esce e si è in piazza del Popolo. Il prezzo per notte regge meglio, ma va spiegato dove si lascia l'auto e come si entra per scaricare i bagagli, altrimenti la prima recensione parla di parcheggio invece che di casa. Nella fascia esterna il fascino è minore e la comodità molto maggiore: è la collocazione naturale per trasferte, ospedale, cerimonie e famiglie in auto.",
@@ -79,13 +79,14 @@
     {
       "h2": "Adempimenti nelle Marche: cosa mettere in ordine prima di pubblicare",
       "paragraphs": [
-        "Prima di pubblicare l'annuncio conviene sistemare la parte amministrativa, che nelle Marche segue lo schema nazionale con qualche passaggio regionale in più. Non è una materia complicata, ma è una materia con scadenze: il codice da esporre, il tributo da incassare e versare, i dati degli ospiti da trasmettere, le statistiche da comunicare. Quello che segue è un promemoria dei passaggi, da confrontare con gli uffici competenti e con un professionista prima di partire, perché le regole cambiano nel tempo.",
+        "Prima di pubblicare l'annuncio conviene sistemare la parte amministrativa, che nelle Marche segue lo schema nazionale con qualche passaggio regionale in più. Non è una materia complicata, ma è una materia con scadenze: il codice da esporre, il tributo da incassare e versare, i dati degli ospiti da trasmettere, le statistiche da comunicare. Dove le prenotazioni sono poche il tempo amministrativo per notte venduta è alto: i modelli si preparano una volta e poi corrono da soli. Ogni voce va comunque confermata agli uffici competenti e a un professionista, perché le regole cambiano nel tempo.",
         "In un mercato piccolo questi passaggi pesano in modo diverso rispetto a una grande città: il numero di prenotazioni è basso, quindi il tempo amministrativo per notte venduta è più alto e conviene automatizzare presto ciò che si può. Le credenziali dei portali, i modelli dei messaggi, il file dove si annota l'imposta incassata: sono cose che si preparano una volta e poi corrono da sole, ed evitano di rincorrere gli adempimenti a fine mese.",
         "Il tema della documentazione della spesa merita attenzione proprio perché qui gli ospiti di lavoro sono tanti. Chi viaggia per l'azienda o per un cantiere deve poter portare a casa un documento valido per il rimborso, e scoprire alla partenza che non è possibile trasforma un cliente ricorrente in una recensione fredda. La regola pratica è decidere in anticipo cosa si è in grado di emettere, scriverlo nell'annuncio e nei messaggi automatici, e farsi confermare dal proprio consulente fiscale come inquadrare i casi particolari."
       ],
       "list": [
         "CIN, il Codice Identificativo Nazionale: si richiede attraverso la banca dati del Ministero del Turismo e va riportato in ogni annuncio, sui portali e fuori dai portali.",
-        "Imposta di soggiorno: è un tributo comunale che paga l'ospite e che chi affitta raccoglie e riversa. Se e in quale misura si applica ad Ascoli Piceno, con esenzioni e scadenze, si verifica sul sito del Comune.",
+        "Codice identificativo regionale (CIR): nelle Marche l'alloggio riceve un codice proprio dal sistema informativo turistico regionale, da riportare negli annunci accanto al CIN. Nessuno dei due sostituisce l'altro. La procedura passa dal Comune e si completa sui canali della Regione Marche.",
+        "Imposta di soggiorno: ad Ascoli Piceno è istituita e va applicata. Il costo è a carico dell'ospite, ma chi affitta è responsabile del pagamento verso il Comune, con diritto di rivalsa e obbligo di dichiarazione. Importi, esenzioni, notti soggette e scadenze dei riversamenti si leggono nel regolamento comunale, perché vengono aggiornati.",
         "Alloggiati Web: entro i tempi previsti dall'arrivo, i documenti di chi dorme in casa vanno comunicati alla Questura tramite il portale della Polizia di Stato, dopo aver ottenuto le credenziali.",
         "Rilevazione dei flussi turistici: la Regione Marche raccoglie i dati sui movimenti degli ospiti nelle strutture; modalità e periodicità si controllano sul portale regionale del turismo.",
         "Requisiti dell'immobile e passaggi locali: agibilità, dotazioni, eventuale segnalazione dell'attività al Comune e regolamento condominiale da leggere prima di iniziare.",
@@ -94,12 +95,12 @@
       ]
     },
     {
-      "h2": "In un mercato piccolo la prima recensione pesa il doppio",
+      "h2": "In un mercato piccolo la prima recensione conta più che altrove",
       "paragraphs": [
-        "L'errore che vediamo più spesso in città come Ascoli è aspettare la domanda invece di costruirla: si pubblica l'annuncio, si guarda il calendario vuoto per tre settimane e si conclude che il mercato non esiste. Quasi sempre il problema è a monte. L'annuncio è scritto per un turista generico che qui passa raramente, le foto mostrano un salotto e non la scrivania, e nel testo non c'è una riga che dica a un tecnico in trasferta che quella casa fa per lui.",
-        "Dove il bacino di ospiti è ristretto, la prima recensione vale il doppio di quanto valga in una grande città. Le persone che cercano una casa ad Ascoli sono poche e vedono quasi tutti gli annunci disponibili: due giudizi positivi in cima al profilo spostano il confronto molto più di qualunque ritocco al prezzo. Per questo trattiamo le prime prenotazioni come un investimento, accettando anche soggiorni scomodi o di una sola notte per costruire lo storico.",
+        "In una città come Ascoli le prime settimane di calendario vuoto vengono lette sempre nello stesso modo: qui non c'è mercato. Quasi sempre il problema sta a monte. L'annuncio è scritto per un turista generico che passa raramente, le foto mostrano un salotto e non la scrivania, e nel testo non c'è una riga che dica a un tecnico in trasferta che quella casa fa per lui.",
+        "Dove il bacino di ospiti è ristretto, la prima recensione pesa in modo sproporzionato. Le persone che cercano una casa ad Ascoli sono poche e vedono quasi tutti gli annunci disponibili: due giudizi positivi in cima al profilo spostano il confronto molto più di qualunque ritocco al prezzo. Per questo trattiamo le prime prenotazioni come un investimento, accettando anche soggiorni scomodi o di una sola notte per costruire lo storico.",
         "Il secondo pilastro è la costanza. Rispondiamo alle richieste in fretta, perché in questi mercati chi scrive ha spesso un'urgenza, un ricovero, un colloquio, un cantiere che parte lunedì, e prenota il primo host che risponde. Teniamo il calendario aperto anche nei mesi tranquilli, con prezzi bassi ma non svenduti, e non chiudiamo la casa per settimane perché tanto non arriva nessuno: un annuncio che sparisce e riappare riparte ogni volta da zero.",
-        "B&P Lux Property lavora come property manager in Emilia-Romagna, dove cura tra l'altro un appartamento a Dozza con profilo Superhost. Ad Ascoli Piceno non portiamo una presenza sul posto, ma un metodo che nei mercati sottili funziona sempre allo stesso modo: capire chi ha motivo di dormire in città, allestire la casa per quella persona, tenere i prezzi coerenti, rispondere subito e non mollare il calendario nei mesi in cui sembra che non serva a niente."
+        "Nei mercati sottili l'ordine è sempre lo stesso: capire chi ha motivo di dormire in città, allestire la casa per quella persona, rispondere subito. E non chiudere il calendario nei mesi in cui sembra che non serva a niente: è lì che si accumula lo storico, e lo storico in una città piccola vale più di qualunque tariffa bassa."
       ]
     }
   ],
@@ -109,8 +110,8 @@
       "a": "Sì, a condizione di lavorare sull'infrasettimanale invece di aspettare il turismo. Ad Ascoli Piceno la concorrenza tra annunci è bassa e questo è un vantaggio reale, però il flusso spontaneo di visitatori è modesto: la casa si riempie con trasferte di lavoro, accompagnatori di pazienti, sport, esami e cerimonie, più le poche date di festa. Il risultato dipende da collocazione, dotazioni e continuità di gestione."
     },
     {
-      "q": "Meglio dentro le mura o fuori le mura ad Ascoli Piceno?",
-      "a": "Dentro le mura per chi viene a visitare la città, fuori le mura per quasi tutti gli altri. Il centro in travertino si gira a piedi e giustifica un prezzo più alto, ma richiede di spiegare bene parcheggio e accesso al centro storico. La fascia esterna offre posto auto e comodità, ed è la scelta più semplice per ospiti che arrivano in auto per lavoro, ospedale o cerimonie."
+      "q": "In quale zona di Ascoli conviene la casa se punto sull'infrasettimanale?",
+      "a": "Nella fascia esterna alle mura, dove il posto auto è risolto e ospedale, uffici e cantieri restano a pochi minuti: è lì che dorme chi viene per lavoro, per una visita o per un concorso. Il travertino dentro le mura serve a un'altra domanda, quella dei fine settimana, che da sola non paga i dodici mesi. Le frazioni e la valle vendono spazio e silenzio, ma chiedono l'auto per tutto."
     },
     {
       "q": "Quando si riempie Ascoli Piceno e serve alzare i prezzi?",
@@ -138,8 +139,8 @@
     {
       "label": "Imposta di soggiorno e regole per le locazioni turistiche",
       "ente": "Comune di Ascoli Piceno",
-      "data": "",
-      "url": ""
+      "data": "2026",
+      "url": "https://www.comune.ap.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/25209"
     },
     {
       "label": "Codice Identificativo Nazionale (CIN) e banca dati delle strutture ricettive",
@@ -150,8 +151,14 @@
     {
       "label": "Adempimenti e rilevazione dei flussi turistici per le strutture ricettive",
       "ente": "Regione Marche",
-      "data": "",
-      "url": ""
+      "data": "2026",
+      "url": "https://www.regione.marche.it/Entra-in-Regione/Marche-Turismo/Osservatorio-del-turismo/CIR-Codice-Identificativo-Regionale"
+    },
+    {
+      "label": "Portale Alloggiati Web per la comunicazione delle persone alloggiate",
+      "ente": "Polizia di Stato",
+      "data": "2026",
+      "url": "https://alloggiatiweb.poliziadistato.it"
     }
   ],
   "disclaimer": false,
