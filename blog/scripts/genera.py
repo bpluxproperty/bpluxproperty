@@ -230,7 +230,7 @@ def side_bar(a):
   </a>
 </aside>'''
 def share_box(a):
-    u=_q(art_url(a["slug"])+"/"); t=_q(a.get("h1") or a.get("title"))
+    u=_q(art_url(a["slug"])); t=_q(a.get("h1") or a.get("title"))
     return f'''<div class="share"><span>Condividi</span>
   <a href="https://wa.me/?text={t}%20{u}" target="_blank" rel="noopener">WhatsApp</a>
   <a href="https://www.facebook.com/sharer/sharer.php?u={u}" target="_blank" rel="noopener">Facebook</a>
@@ -347,7 +347,7 @@ def page(title, desc, canonical, body, jsonld, extra_head="", og_image=None):
 <script src="/blog/blog.js" defer></script>
 </body></html>'''
 
-def art_url(slug): return f'{S["url"]}/blog/{slug}'
+def art_url(slug): return f'{S["url"]}/blog/{slug}/'   # con slash finale: coerente con sitemap e link interni
 def card(a):
     c=CATS.get(a["category"],{})
     return f'''<a class="card cat-{a["category"]}" href="/blog/{a["slug"]}/">
@@ -657,11 +657,11 @@ def render_autori():
 
 # ---------------- SITEMAP ----------------
 def sitemap():
-    urls=[f'{S["url"]}/blog/']+[f'{S["url"]}/blog/categoria/{c}/' for c in CAT_ORDER if any(a["category"]==c for a in articles)]+[art_url(a["slug"])+"/" for a in articles]
+    urls=[f'{S["url"]}/blog/']+[f'{S["url"]}/blog/categoria/{c}/' for c in CAT_ORDER if any(a["category"]==c for a in articles)]+[art_url(a["slug"]) for a in articles]
     now=datetime.date(2026,8,11).isoformat()
     body='<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
     for a in articles:
-        body+=f'<url><loc>{art_url(a["slug"])}/</loc><lastmod>{a.get("updatedAt",now)}</lastmod></url>\n'
+        body+=f'<url><loc>{art_url(a["slug"])}</loc><lastmod>{a.get("updatedAt",now)}</lastmod></url>\n'
     for u in [f'{S["url"]}/blog/',f'{S["url"]}/blog/guida-proprietario/',f'{S["url"]}/blog/calcolatore-rendita/',f'{S["url"]}/blog/recensioni-appartamenti/',f'{S["url"]}/blog/recensioni-b-p-lux-property/',f'{S["url"]}/blog/autori/']+[f'{S["url"]}/blog/categoria/{c}/' for c in CAT_ORDER if any(a["category"]==c for a in articles)]:
         body+=f'<url><loc>{u}</loc><lastmod>{now}</lastmod></url>\n'
     body+='</urlset>\n'
