@@ -100,12 +100,12 @@
     {
       "h2": "Come si sceglie tra cedolare e IRPEF",
       "paragraphs": [
-        "La scelta tra i due regimi non ha una risposta uguale per tutti: si valuta sul reddito complessivo, non solo sull'affitto. In linea di massima, la cedolare tende a convenire quando l'aliquota fissa è più bassa della tua aliquota IRPEF e non hai molti costi da dedurre.",
+        "La scelta tra i due regimi non ha una risposta uguale per tutti: si valuta sul reddito complessivo, non solo sull'affitto. In linea di massima, la cedolare tende a convenire quando l'aliquota fissa è più bassa della tua aliquota IRPEF e non conti di poter dedurre le spese, che in nessuno dei due regimi si scaricano.",
         "Quando invece il reddito è contenuto o le spese sull'immobile sono importanti, a volte l'IRPEF ordinaria può risultare più conveniente. È una verifica da fare numeri alla mano, e per questo consigliamo sempre di affidarla a un commercialista."
       ],
       "list": [
         "Confronta l'aliquota fissa della cedolare con la tua aliquota IRPEF",
-        "Considera quanti costi potresti dedurre con il regime ordinario",
+        "Ricorda che le spese reali non si deducono in nessuno dei due regimi con il regime ordinario",
         "Ragiona sul reddito complessivo dell'anno, non solo sugli affitti",
         "Verifica le regole aggiornate con un professionista"
       ]
@@ -113,7 +113,7 @@
     {
       "h2": "Oltre alle imposte sul reddito: cosa ricordare",
       "paragraphs": [
-        "Le tasse sul reddito non sono l'unico aspetto da considerare quando si affitta a breve. Esistono adempimenti e voci diverse, come l'imposta di soggiorno che si incassa dagli ospiti e si riversa al Comune, che seguono regole proprie e non vanno confuse con la tassazione del reddito.",
+        "Le tasse sul reddito non sono l'unico aspetto da considerare quando si affitta a breve. Esistono adempimenti e voci diverse, come l'imposta di soggiorno che la paga l'ospite, ma del versamento al Comune risponde chi incassa il canone, con diritto di rivalsa, che seguono regole proprie e non vanno confuse con la tassazione del reddito.",
         "Da gestori lo vediamo di continuo: tenere ordinati incassi, certificazioni e documenti durante l'anno rende tutto più semplice al momento della dichiarazione. Per il quadro completo e sempre aggiornato, il riferimento resta il sito dell'Agenzia delle Entrate, affiancato dal proprio commercialista."
       ]
     }
@@ -137,7 +137,7 @@
     },
     {
       "q": "L'imposta di soggiorno è una tassa sul mio reddito?",
-      "a": "No: l'imposta di soggiorno si incassa dagli ospiti e si riversa al Comune, quindi non è una tassa sul tuo reddito da locazione. Segue regole proprie, distinte dalla tassazione del reddito, e varia da Comune a Comune."
+      "a": "No: l'imposta di soggiorno la paga l'ospite, ma del versamento al Comune risponde chi incassa il canone, con diritto di rivalsa, quindi non è una tassa sul tuo reddito da locazione. Segue regole proprie, distinte dalla tassazione del reddito, e varia da Comune a Comune."
     }
   ],
   "related": [
@@ -152,20 +152,26 @@
     {
       "label": "Cedolare secca sulle locazioni",
       "ente": "Agenzia delle Entrate",
-      "data": "",
-      "url": ""
+      "data": "2026",
+      "url": "https://www.agenziaentrate.gov.it/portale/documents/d/guest/locazioni_brevi_disciplina_fiscale_e_regole_per_intermediari_aprile-2026"
     },
     {
       "label": "Locazioni brevi: disciplina fiscale",
       "ente": "Agenzia delle Entrate",
-      "data": "",
-      "url": ""
+      "data": "2026",
+      "url": "https://www.agenziaentrate.gov.it/portale/documents/d/guest/locazioni_brevi_disciplina_fiscale_e_regole_per_intermediari_aprile-2026"
     },
     {
       "label": "Redditi da locazione e dichiarazione",
       "ente": "Agenzia delle Entrate",
-      "data": "",
-      "url": ""
+      "data": "2026",
+      "url": "https://www.agenziaentrate.gov.it/portale/documents/d/guest/locazioni_brevi_disciplina_fiscale_e_regole_per_intermediari_aprile-2026"
+    },
+    {
+      "label": "Cedolare secca sulle locazioni: scheda informativa",
+      "ente": "Agenzia delle Entrate",
+      "data": "2026",
+      "url": "https://www.agenziaentrate.gov.it/portale/schede/fabbricatiterreni/cedolare-secca/scheda-informativa-cedolare-secca"
     }
   ],
   "disclaimer": true,

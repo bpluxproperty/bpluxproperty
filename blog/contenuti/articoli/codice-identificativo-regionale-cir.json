@@ -24,8 +24,8 @@
       "h2": "Le sigle cambiano da regione a regione",
       "paragraphs": [
         "Non esiste una sigla nazionale per il codice locale. In diverse regioni si chiama CIR, Codice Identificativo Regionale, ma altrove il nome è del tutto diverso e cercare «CIR» sul portale della Regione non porta a nulla di utile. Chi ha case in più regioni si trova quindi a maneggiare sigle, piattaforme e procedure differenti per lo stesso adempimento, con l'aggravante che il nome del codice cambia anche dentro la stessa regione a seconda della tipologia di struttura.",
-        "La tabella raccoglie solo i casi verificati sui portali istituzionali, e non è un elenco completo delle venti regioni: denominazioni e piattaforme sono state modificate più volte negli ultimi anni, e la fonte da cui partire resta la sezione turismo del sito della propria Regione o Provincia autonoma. Un esempio del perché conviene controllare: in Puglia il registro delle strutture non alberghiere attribuisce il CIS, mentre la banca dati regionale delle locazioni turistiche parla di CIR.",
-        "Due precisazioni, perché in rete circolano informazioni sbagliate. In Campania il codice non si chiama CIR: la sigla corretta è CUSR e a generarlo è il Comune. E il CIPAT non è un codice regionale: era il codice identificativo provinciale della Provincia autonoma di Trento, quindi non serve cercarlo se l'immobile sta altrove."
+        "La tabella raccoglie solo i casi verificati sui portali istituzionali, e non è un elenco completo delle venti regioni: denominazioni e piattaforme sono state modificate più volte negli ultimi anni, e la fonte da cui partire resta la sezione turismo del sito della propria Regione o Provincia autonoma. Un esempio del perché conviene controllare: in Puglia convivono due sigle: il CIS, Codice Identificativo di Struttura, attribuito dal sistema regionale sia alle strutture extralberghiere sia alle locazioni turistiche, e il CIR di cui parla la banca dati regionale, descritto come propedeutico al CIN.",
+        "Due precisazioni, perché in rete circolano informazioni sbagliate. In Campania il codice non si chiama CIR: la sigla corretta è CUSR e a generarlo è il Comune. E il CIPAT non è un codice regionale: era il codice identificativo provinciale della Provincia autonoma di Trento. Trento è anzi l'esempio del caso opposto: lì il CIN ha sostituito il codice provinciale, che non viene più rilasciato, quindi non serve cercarlo se l'immobile sta altrove."
       ],
       "table": {
         "headers": [
@@ -35,9 +35,24 @@
         ],
         "rows": [
           [
+            "Abruzzo",
+            "CIR, Codice Identificativo di Riferimento",
+            "Inserimento nel sistema informativo turistico regionale, senza SCIA per la locazione turistica"
+          ],
+          [
             "Campania",
             "CUSR, Codice Unico Identificativo delle Strutture Ricettive",
             "Lo genera il Comune nel sistema regionale Sinfonia Turismo Smart"
+          ],
+          [
+            "Lazio",
+            "CIR, Codice Identificativo Regionale, che ha sostituito il precedente CISE",
+            "Banca dati regionale, dopo la comunicazione o la segnalazione al Comune"
+          ],
+          [
+            "Marche",
+            "CIR, che coincide con il codice attribuito dal registro regionale delle strutture ricettive",
+            "Registro regionale, dopo la comunicazione o la segnalazione al SUAP del Comune"
           ],
           [
             "Puglia",
@@ -62,7 +77,7 @@
       "paragraphs": [
         "Il percorso tipico ha tre gradini, ed è quello indicato dal Ministero del Turismo. Primo: la comunicazione al Comune, dove la normativa locale la prevede, con SCIA, CIA o altra comunicazione di inizio attività. Secondo: la registrazione dell'alloggio nella banca dati della Regione o della Provincia autonoma, che attribuisce il codice identificativo regionale o il codice equivalente. Terzo: la richiesta del CIN sulla Banca Dati nazionale delle Strutture Ricettive, con identità digitale.",
         "La Campania rompe lo schema in un punto preciso: il CUSR non lo rilascia la Regione. La generazione e l'attribuzione del codice sono affidate ai Comuni in cui si trova la struttura, che operano dentro il sistema regionale Sinfonia Turismo Smart, nella sezione destinata ai Comuni. Chi affitta trasmette al proprio Comune il modello di comunicazione con i dati richiesti e attende che il codice venga generato lì.",
-        "Altrove il Comune resta il primo passaggio ma non produce il codice. In Sicilia le strutture di nuova istituzione inviano a Turist@t copia della SCIA presentata al Comune e chiedono l'inserimento in anagrafica e il rilascio del CIR; le case vacanza, nuove o già esistenti, si registrano direttamente sulla piattaforma. In Sardegna lo IUN arriva dall'Assessorato regionale del Turismo, in numerazione progressiva, contestualmente alla registrazione avviata tramite SUAPE o sulla piattaforma RLO.",
+        "Altrove il Comune resta il primo passaggio ma non produce il codice. In Sicilia le strutture di nuova istituzione presentano la SCIA al Comune e possono inviarne copia telematica a Turist@t e chiedono l'inserimento in anagrafica e il rilascio del CIR; gli alloggi per uso turistico si registrano direttamente sulla piattaforma. In Sardegna lo IUN arriva dall'Assessorato regionale del Turismo, in numerazione progressiva, contestualmente alla registrazione avviata tramite SUAPE o sulla piattaforma RLO.",
         "Un caso che conviene conoscere in anticipo riguarda i ritardi. Se il codice regionale è previsto ma non viene attribuito entro il termine di conclusione del procedimento regionale, il Ministero concede dieci giorni da quella scadenza per richiedere comunque il CIN. L'attesa dell'ufficio locale, in altre parole, non sospende l'obbligo nazionale: va gestita come una scadenza, non come una pausa."
       ]
     },
@@ -70,8 +85,8 @@
       "h2": "Dove va scritto il codice, e le conseguenze di non farlo",
       "paragraphs": [
         "Un codice ottenuto e mai scritto da nessuna parte non serve a niente, e in molte regioni la mancata pubblicazione è una violazione autonoma, distinta dal non avere il codice. Gli obblighi sono in genere due: l'esposizione fisica presso l'immobile e l'indicazione in ogni annuncio, su qualunque canale. Le formule usate dalle norme regionali sono volutamente ampie, così da coprire anche i canali che nel frattempo non esistevano ancora.",
-        "In Sicilia il decreto assessoriale impone di pubblicare il CIR di ogni struttura negli annunci, nelle pubblicità e nelle prenotazioni, ben visibile accanto alla denominazione, su qualsiasi mezzo promozionale, comprese le piattaforme ospitate su server fuori dall'Unione europea. In Campania le locazioni brevi devono usare il CUSR in tutte le attività di commercializzazione, comunicazione e promozione, e anche per accedere ai contributi regionali. In Puglia l'obbligo riguarda ogni singola unità pubblicizzata, su carta o su supporto digitale.",
-        "Sul versante nazionale gli importi sono quelli dell'articolo 13-ter, comma 9: da 800 a 8.000 euro per l'assenza del CIN, e da 500 a 5.000 euro per la mancata esposizione e indicazione, per ciascuna struttura o unità immobiliare, con la rimozione immediata dell'annuncio irregolare. Le sanzioni sui codici locali sono invece fissate dalle norme delle singole Regioni e vanno lette lì: il decreto siciliano, per esempio, prevede da 500 a 5.000 euro."
+        "In Sicilia il decreto assessoriale n. 1783 del 2022 impone di riportare il CIR di ogni struttura negli annunci, nelle pubblicità e nelle prenotazioni, nelle immediate vicinanze della denominazione, con le stesse dimensioni e carattere, su qualsiasi mezzo promozionale, comprese le piattaforme ospitate su server fuori dall'Unione europea. In Campania le locazioni brevi devono usare il CUSR in tutte le attività di commercializzazione, comunicazione e promozione, e anche per accedere ai contributi regionali. In Puglia la legge regionale n. 15 del 2025 ha riscritto l'impianto: il codice regionale è oggi un codice di registrazione, propedeutico all'ottenimento del CIN, mentre l'obbligo di pubblicazione sanzionato negli annunci riguarda il codice nazionale.",
+        "Sul versante nazionale gli importi sono quelli dell'articolo 13-ter, comma 9: da 800 a 8.000 euro per l'assenza del CIN, e da 500 a 5.000 euro per la mancata esposizione e indicazione, per ciascuna struttura o unità immobiliare, con la rimozione immediata dell'annuncio irregolare. Le sanzioni sui codici locali sono invece fissate dalle norme delle singole Regioni e vanno lette lì: il decreto assessoriale siciliano sul CIR, il n. 1783 del 2022, prevede all'articolo 9 da 500 a 5.000 euro, raddoppiati in caso di reiterazione, mentre le sanzioni introdotte dalla legge regionale n. 6 del 2025 sono articolate su forbici diverse a seconda della violazione."
       ],
       "list": [
         "Verificare sulla sezione turismo del portale della propria Regione o Provincia autonoma se esiste un codice locale e come si chiama",
@@ -86,9 +101,9 @@
     {
       "h2": "Il codice regionale non è l'unico obbligo che passa dalla Regione",
       "paragraphs": [
-        "Registrato l'alloggio, dalla Regione arriva un secondo adempimento: la trasmissione dei dati sul movimento turistico a fini statistici. È un obbligo di risposta, non una collaborazione facoltativa. In Emilia-Romagna la Regione lo fonda sull'articolo 7 del decreto legislativo n. 322 del 1989 e sul Programma statistico nazionale, e ricorda che anche la legge regionale n. 16 del 2004, all'articolo 21, mette la comunicazione dei dati sul movimento dei clienti fra gli obblighi del gestore.",
+        "Registrato l'alloggio, dalla Regione arriva un secondo adempimento: la trasmissione dei dati sul movimento turistico a fini statistici. È un obbligo di risposta, non una collaborazione facoltativa. In Emilia-Romagna la Regione lo fonda sull'articolo 7 del decreto legislativo n. 322 del 1989 e sul Programma statistico nazionale, e ricorda che anche la legge regionale n. 16 del 2004, all'articolo 21, mette la comunicazione dei dati sulla consistenza ricettiva e sul movimento dei clienti fra gli obblighi del gestore.",
         "Canali e cadenze cambiano da regione a regione. In Emilia-Romagna i dati si trasmettono con l'applicazione Ross1000, che molti conoscono ancora come Turismo5, e la rilevazione sul movimento dei clienti è mensile, condotta dalla Regione per conto dell'Istat come organo intermedio. In Sicilia il decreto sul CIR impone di comunicare arrivi e presenze giornalmente, entro ventiquattro ore dall'arrivo o dalla partenza, tramite Turist@t. In Sardegna, insieme allo IUN, arrivano le credenziali per la piattaforma statistica regionale.",
-        "Questa comunicazione non è la comunicazione alla Questura, e nessuna delle due copre l'altra. Le generalità degli ospiti si trasmettono alle questure territorialmente competenti attraverso il Servizio Alloggiati della Polizia di Stato, ai sensi dell'articolo 109 del Testo unico delle leggi di pubblica sicurezza, con termini propri indicati sul portale del servizio. Destinatari diversi, canali diversi, scadenze diverse: chi sovrappone i due adempimenti finisce per farne uno solo."
+        "Questa comunicazione non è la comunicazione alla Questura, e nessuna delle due copre l'altra. Le generalità degli ospiti si trasmettono alle questure territorialmente competenti attraverso il Servizio Alloggiati della Polizia di Stato, ai sensi dell'articolo 109 del Testo unico delle leggi di pubblica sicurezza, entro ventiquattro ore dall'arrivo ed entro le sei ore successive all'arrivo quando il soggiorno non supera le ventiquattro ore. Destinatari diversi, canali diversi, scadenze diverse: chi sovrappone i due adempimenti finisce per farne uno solo."
       ]
     },
     {
@@ -120,7 +135,7 @@
     },
     {
       "q": "Il codice regionale va indicato negli annunci?",
-      "a": "Sì, dove la normativa regionale lo prevede, e non basta indicarlo su un portale solo. In Sicilia il CIR va pubblicato negli annunci, nelle pubblicità e nelle prenotazioni, ben visibile accanto alla denominazione e su qualsiasi mezzo promozionale; in Campania il CUSR va usato in tutte le attività di commercializzazione, comunicazione e promozione."
+      "a": "Sì, dove la normativa regionale lo prevede, e non basta indicarlo su un portale solo. In Sicilia il CIR va pubblicato negli annunci, nelle pubblicità e nelle prenotazioni, nelle immediate vicinanze della denominazione, con le stesse dimensioni e carattere e su qualsiasi mezzo promozionale; in Campania il CUSR va usato in tutte le attività di commercializzazione, comunicazione e promozione."
     },
     {
       "q": "Esistono regioni senza codice identificativo regionale?",
@@ -156,6 +171,12 @@
       "ente": "Regione Emilia-Romagna - Ufficio di Statistica",
       "data": "2026",
       "url": "https://statistica.regione.emilia-romagna.it/documentazione/rilevazioni/turismo"
+    },
+    {
+      "label": "Codice identificativo regionale e sua funzione propedeutica al CIN nazionale",
+      "ente": "Regione Lazio",
+      "data": "2026",
+      "url": "https://www.regione.lazio.it/cittadini/turismo/strutture-ricettive/strutture-ricettive-extralberghiere/codice-identificativo-regionale"
     }
   ],
   "disclaimer": true,

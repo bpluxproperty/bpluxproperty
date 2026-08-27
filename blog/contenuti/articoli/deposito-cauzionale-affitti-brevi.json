@@ -1,0 +1,171 @@
+{
+  "slug": "deposito-cauzionale-affitti-brevi",
+  "keyword": "deposito cauzionale affitti brevi",
+  "category": "normativa-fisco",
+  "title": "Deposito cauzionale affitti brevi: come funziona",
+  "metaDescription": "Il deposito cauzionale negli affitti brevi non è la pre-autorizzazione sulla carta né la garanzia del portale: come distinguerli e cosa scrivere prima.",
+  "h1": "Deposito cauzionale, pre-autorizzazione e garanzia della piattaforma: quale stai usando",
+  "excerpt": "Cauzione incassata, blocco sulla carta e richiesta di rimborso al portale sono tre strumenti diversi, con tre titolari diversi della somma. Capire quale è attivo su una prenotazione viene prima di decidere quanto chiedere e che cosa quella garanzia copre davvero.",
+  "opening": "Il deposito cauzionale è una somma versata a garanzia dell'obbligo di restituire la casa nello stato in cui è stata consegnata, e va restituita in assenza di danni. Non è la pre-autorizzazione sulla carta, che blocca una disponibilità senza incassarla, né la richiesta di rimborso al portale. Confondere i tre strumenti è il motivo per cui molti, davanti a un danno, scoprono di non avere garanzie.",
+  "publishedAt": "2026-08-27",
+  "updatedAt": "2026-08-27",
+  "heroKicker": "CONTRATTI",
+  "sections": [
+    {
+      "h2": "Tre strumenti che si chiamano tutti «cauzione»",
+      "paragraphs": [
+        "Nel linguaggio corrente la parola cauzione copre tre meccanismi che hanno poco in comune. Il primo è il deposito cauzionale vero e proprio: una somma che l'ospite versa e che il proprietario tiene fino alla fine del soggiorno. Il secondo è la pre-autorizzazione sulla carta, dove nessun denaro cambia mani e viene soltanto bloccata una disponibilità. Il terzo è la garanzia che alcune piattaforme offrono ai propri host, che non è un deposito ma una procedura di richiesta valutata da un terzo.",
+        "La differenza pesa esattamente nel momento in cui serve. Con il deposito la somma è già disponibile e il problema diventa giustificare la trattenuta. Con la pre-autorizzazione la somma non è mai stata incassata e va addebitata, entro i limiti tecnici e temporali del circuito di pagamento. Con la garanzia del portale nulla è disponibile: esiste una richiesta da aprire, documentare e attendere, e l'esito non dipende dalle parti del contratto.",
+        "Da qui la prima domanda utile: quale dei tre strumenti è effettivamente attivo su questa prenotazione. La risposta cambia per canale, perché ogni portale fissa regole proprie su ciò che l'host può chiedere e con quali modalità. Il centro assistenza di Airbnb, per esempio, dichiara che la maggior parte degli host non è autorizzata ad addebitare depositi cauzionali, né tramite il centro soluzioni né fuori dalla piattaforma."
+      ]
+    },
+    {
+      "h2": "Che cos'è davvero un deposito cauzionale",
+      "paragraphs": [
+        "Il deposito cauzionale è una somma consegnata in funzione di garanzia. Non è un anticipo del prezzo e non è il corrispettivo: la locazione, per definizione, è il contratto con cui una parte si obbliga a far godere all'altra una cosa per un dato tempo verso un determinato corrispettivo (art. 1571 del codice civile), e il deposito sta fuori da quella voce. Serve a coprire un eventuale inadempimento dell'ospite, in primo luogo la mancata restituzione dell'immobile nelle condizioni in cui era stato consegnato.",
+        "L'obbligazione che il deposito garantisce è scritta nel codice civile: il conduttore deve restituire la cosa nello stato medesimo in cui l'ha ricevuta, in conformità della descrizione fatta dalle parti, salvo il deterioramento o il consumo risultante dall'uso conforme al contratto (art. 1590). In mancanza di descrizione si presume che l'abbia ricevuta in buono stato di manutenzione. Il conduttore risponde inoltre del deterioramento causato dalle persone che ha ammesso, anche temporaneamente, all'uso della cosa (art. 1588).",
+        "Da questa natura seguono due conseguenze pratiche. La prima: senza danno il deposito va restituito, perché una garanzia non utilizzata non diventa ricavo. La seconda: la descrizione iniziale dell'immobile è ciò che rende la garanzia utilizzabile, perché costituisce il termine di confronto con lo stato finale. Un deposito annunciato senza inventario e senza foto datate resta una cifra sul contratto, non una prova.",
+        "Va poi messo per iscritto, non detto a voce all'arrivo. Una clausola nel contratto o nelle condizioni accettate in fase di prenotazione fissa importo, funzione e modalità di restituzione; un accordo verbale, in caso di contestazione, va provato. Sull'ammontare la legge non fissa un tetto specifico per la locazione a fini turistici: il limite delle tre mensilità con interessi legali al conduttore appartiene alla disciplina delle locazioni abitative ordinarie (art. 11 della legge 392/1978) e la sua estensione al soggiorno turistico non è pacifica."
+      ]
+    },
+    {
+      "h2": "Le tre forme a confronto",
+      "paragraphs": [
+        "Il quadro seguente affianca i tre strumenti sul punto che conta davvero: dove si trova materialmente il denaro prima che il danno accada, e che cosa occorre per arrivarci dopo. La colonna centrale è quella che spiega perché due garanzie apparentemente equivalenti si comportano in modo opposto quando serve incassarle.",
+        "La pre-autorizzazione merita una precisazione, perché è lo strumento descritto in modo scorretto con più frequenza negli annunci. Non è un incasso e non è un pagamento: è un blocco di disponibilità sulla carta dell'ospite. Banca d'Italia lo descrive così, nella pagina dedicata ai diritti di chi paga: se l'importo finale del pagamento con carta non è noto in anticipo, l'esercente può bloccare un importo concordato soltanto con il consenso del titolare.",
+        "La garanzia della piattaforma segue una logica diversa ancora. Le condizioni pubblicate da Booking.com in materia di danni prevedono che sia la piattaforma ad addebitare l'importo concordato, previo consenso dell'ospite, e non la struttura in autonomia; la richiesta si apre attraverso il portale, collegata al numero di prenotazione, ed è la piattaforma a valutare se l'eventuale rifiuto dell'ospite sia fondato. È una procedura, non un fondo depositato."
+      ],
+      "table": {
+        "headers": [
+          "Strumento",
+          "Chi ha la somma prima del danno",
+          "Che cosa serve per usarla"
+        ],
+        "rows": [
+          [
+            "Deposito cauzionale incassato",
+            "Il proprietario, o chi gestisce per lui",
+            "Clausola scritta, descrizione iniziale dell'immobile, prova e quantificazione del danno; la parte non utilizzata torna all'ospite"
+          ],
+          [
+            "Pre-autorizzazione sulla carta",
+            "L'ospite: la somma resta sul suo conto, bloccata come disponibilità",
+            "Il consenso dell'ospite al blocco e un addebito successivo, nei limiti tecnici e temporali del circuito di pagamento"
+          ],
+          [
+            "Garanzia offerta dalla piattaforma",
+            "La piattaforma, che non anticipa nulla",
+            "Una richiesta aperta nell'area dedicata del portale, con foto e preventivi; l'esito lo decide il portale o il suo assicuratore"
+          ],
+          [
+            "Nessuno strumento dichiarato",
+            "Nessuno",
+            "Un accordo con l'ospite a danno avvenuto, oppure la via civile ordinaria con l'onere della prova a carico di chi chiede"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Che cosa scrivere prima della prenotazione",
+      "paragraphs": [
+        "Una garanzia funziona se l'ospite l'ha letta prima di prenotare, non se la scopre al momento del check-in. Le voci che seguono sono quelle che, mancando, generano la contestazione: non perché l'ospite sia in mala fede, ma perché su un punto non concordato ognuno applica la propria aspettativa.",
+        "Il principio è semplice: un ospite che ha letto accetta, un ospite sorpreso contesta. Le voci più trascurate sono le ultime due, e sono anche le più utili, perché trasformano la garanzia da cifra annunciata in procedura verificabile. Indicare chi decide e in quanto tempo si risponde a un'obiezione evita che la discussione si sposti sul terreno peggiore, quello della parola di uno contro quella dell'altro.",
+        "Vale anche il rovescio: dire che cosa la garanzia non copre riduce i sospetti. Un ospite informato che la normale usura non verrà addebitata affronta con più serenità un piccolo incidente e lo segnala invece di nasconderlo, e un danno segnalato subito costa meno di un danno scoperto durante il riassetto."
+      ],
+      "list": [
+        "L'importo o il meccanismo: cifra fissa, percentuale del soggiorno o blocco sulla carta, chiamato con il suo nome.",
+        "Quando viene richiesto: alla conferma della prenotazione, nei giorni precedenti l'arrivo o al check-in.",
+        "Quando viene restituito o sbloccato, con quale mezzo e con quale tempistica indicativa.",
+        "Che cosa copre: danni all'immobile e agli arredi, chiavi o telecomandi non restituiti, pulizie straordinarie, oggetti mancanti.",
+        "Che cosa non copre: la normale usura, i consumi previsti dal contratto, i difetti già presenti alla consegna.",
+        "Come si documenta un danno: inventario iniziale, foto datate, preventivo o ricevuta della riparazione.",
+        "Chi decide la trattenuta, entro quale termine e in che modo l'ospite può contestarla."
+      ]
+    },
+    {
+      "h2": "Caparra e deposito cauzionale non sono lo stesso istituto",
+      "paragraphs": [
+        "La caparra confirmatoria è disciplinata dall'art. 1385 del codice civile: è la somma data al momento della conclusione del contratto che, in caso di adempimento, deve essere restituita o imputata alla prestazione dovuta. Se è inadempiente la parte che l'ha data, l'altra può recedere trattenendola; se inadempiente è la parte che l'ha ricevuta, l'altra può recedere ed esigere il doppio della caparra. È uno strumento che guarda alla conclusione dell'affare, non allo stato della casa alla partenza.",
+        "Il deposito cauzionale guarda altrove: garantisce l'obbligazione di restituire l'immobile integro, e la sua sorte dipende da quello stato, non dal fatto che il soggiorno si sia svolto. Scrivere «caparra» nell'annuncio quando si intende la cauzione mescola due piani: la disciplina della caparra apre alla restituzione del doppio a carico di chi l'ha ricevuta, e quella regola nulla ha a che vedere con un vaso rotto.",
+        "Accanto a questi due istituti ne circola un terzo, la clausola penale, con cui si conviene che in caso di inadempimento una parte sia tenuta a una determinata prestazione; l'art. 1382 del codice civile precisa che la penale è dovuta indipendentemente dalla prova del danno e che limita il risarcimento alla prestazione promessa, salvo patto sulla risarcibilità del danno ulteriore. Anche la caparra penitenziale ha una funzione a sé, di corrispettivo del recesso (art. 1386). Tre nomi, tre effetti: la scelta delle parole nel testo dell'annuncio non è un dettaglio stilistico."
+      ]
+    },
+    {
+      "h2": "Il lato fiscale, con prudenza",
+      "paragraphs": [
+        "Sul piano fiscale il punto di partenza è la natura della somma. Una cauzione versata e poi restituita non è un provento: è passata dalle mani dell'ospite a quelle del proprietario e poi indietro, senza corrispondere ad alcuna prestazione. La guida dell'Agenzia delle Entrate dedicata alle locazioni brevi lo conferma su un profilo specifico, quello della ritenuta operata dagli intermediari: le eventuali somme richieste dal locatore a titolo di deposito cauzionale o penale non rientrano nel corrispettivo lordo del contratto sul quale la ritenuta si applica.",
+        "Attenzione al perimetro di quell'affermazione, perché riguarda la base su cui l'intermediario calcola la ritenuta e non la qualificazione di ogni somma che resti al proprietario a fine soggiorno. La somma effettivamente trattenuta a titolo di risarcimento è una fattispecie diversa dalla cauzione restituita, e il suo trattamento va chiarito con il proprio consulente prima di impostare le clausole, non dopo aver trattenuto.",
+        "Due cautele generali chiudono il capitolo. La disciplina fiscale delle locazioni brevi ha conosciuto interventi normativi recenti, con disposizioni abrogate e sostituite: prima di replicare uno schema letto altrove conviene controllare che sia ancora in vigore. E la distinzione fra somma a garanzia e somma incassata a titolo definitivo va tenuta anche nella contabilità, perché è la traccia che rende dimostrabile, a posteriori, quale dei due casi si è verificato."
+      ]
+    },
+    {
+      "h2": "Come impostiamo la garanzia nelle case che seguiamo",
+      "paragraphs": [
+        "Nelle case che gestiamo preferiamo una garanzia dichiarata e modesta a una cifra alta scritta nell'annuncio e mai applicata. La ragione è pratica: l'importo elevato scoraggia le prenotazioni buone e non aiuta quando il danno arriva, perché al momento della trattenuta servono comunque una clausola scritta e una prova. Nell'appartamento di Dozza il lavoro sta quasi tutto prima: inventario fotografico aggiornato a ogni riassetto, condizioni visibili già in fase di prenotazione, e una frase che dice quando la garanzia viene restituita.",
+        "Lo scivolone più frequente non è chiedere troppo poco: è chiamare le cose con il nome sbagliato. Annunci che promettono una «cauzione» quando il canale prevede soltanto una richiesta di rimborso al portale, oppure che scrivono «caparra» intendendo il deposito. Una garanzia serve nel momento in cui va usata, e in quel momento conta soltanto quello che era scritto prima. Per questo la prima cosa che sistemiamo, quando prendiamo in gestione un appartamento, è il testo e non l'importo.",
+        "Il secondo accorgimento è tenere separati i due binari. La garanzia copre l'imprevisto, non sanziona il comportamento: le regole della casa hanno un percorso proprio e vanno scritte a parte, altrimenti la cauzione finisce usata come multa e la contestazione è servita. Quando un ospite chiede chiarimenti prima di prenotare, rispondiamo indicando il punto esatto delle condizioni; se la risposta non si trova nel testo, allora è il testo che va corretto.",
+        "Resta il limite del nostro mestiere. Impostiamo procedure, documentiamo lo stato degli immobili e teniamo le clausole leggibili, ma la qualificazione giuridica e fiscale di una somma trattenuta non è materia da property manager: su quella un proprietario deve sentire il proprio commercialista o un legale, con il contratto e i documenti del caso davanti. È una verifica che costa poco e che si fa una volta sola, prima della prima trattenuta."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Il deposito cauzionale è obbligatorio negli affitti brevi?",
+      "a": "No, nessuna norma lo impone: è una facoltà contrattuale delle parti. La sua utilità dipende però dal canale, perché alcune piattaforme non consentono all'host di addebitare depositi e prevedono al loro posto una propria procedura di richiesta di rimborso. Prima di annunciarlo conviene verificare, sulle pagine del portale su cui si pubblica, che sia ammesso."
+    },
+    {
+      "q": "Quanto si può chiedere come deposito cauzionale per un soggiorno breve?",
+      "a": "Per la locazione a fini turistici la legge non fissa un tetto specifico, quindi l'importo è rimesso all'accordo fra le parti. Il limite delle tre mensilità con interessi legali al conduttore appartiene alla disciplina delle locazioni abitative ordinarie (art. 11 della legge 392/1978) e la sua applicabilità al soggiorno turistico non è pacifica: è uno dei punti da porre a un professionista."
+    },
+    {
+      "q": "La pre-autorizzazione sulla carta equivale a incassare la cauzione?",
+      "a": "No: la pre-autorizzazione blocca una disponibilità sulla carta dell'ospite senza trasferire denaro. Banca d'Italia ricorda che, quando l'importo finale del pagamento con carta non è noto in anticipo, l'esercente può bloccare un importo concordato solo con il consenso del titolare. Per trattenere qualcosa serve un addebito successivo, con i limiti tecnici e temporali del circuito di pagamento."
+    },
+    {
+      "q": "In assenza di danni la cauzione va restituita?",
+      "a": "Sì: il deposito ha funzione di garanzia e, se l'obbligazione garantita è stata adempiuta, la somma torna all'ospite. L'obbligazione in questione è quella dell'art. 1590 del codice civile, che impone di restituire la cosa nello stato in cui è stata ricevuta, salvo il deterioramento o il consumo risultante dall'uso conforme al contratto."
+    },
+    {
+      "q": "Caparra e deposito cauzionale sono la stessa cosa, e si possono usare come sinonimi nell'annuncio?",
+      "a": "No a entrambe le domande: sono istituti distinti e usarli come sinonimi crea problemi. La caparra confirmatoria (art. 1385 del codice civile) riguarda la conclusione del contratto e, se è inadempiente chi l'ha ricevuta, apre alla restituzione del doppio; il deposito cauzionale garantisce invece la restituzione dell'immobile nello stato in cui era stato consegnato."
+    },
+    {
+      "q": "La cauzione incassata rientra nel corrispettivo della locazione?",
+      "a": "No, la cauzione è una somma a garanzia e non il corrispettivo del soggiorno; la guida dell'Agenzia delle Entrate sulle locazioni brevi precisa che le somme richieste a titolo di deposito cauzionale o penale non rientrano nel corrispettivo lordo su cui gli intermediari applicano la ritenuta. Diverso è il caso di una somma trattenuta a fine soggiorno per un danno: quel passaggio va valutato con il proprio consulente."
+    }
+  ],
+  "related": [
+    "contratto-locazione-breve",
+    "regole-della-casa-valore-legale",
+    "danni-causati-dagli-ospiti",
+    "ospite-che-non-lascia-la-casa"
+  ],
+  "sources": [
+    {
+      "label": "Codice civile, art. 1590 - Restituzione della cosa locata",
+      "ente": "Gazzetta Ufficiale della Repubblica Italiana",
+      "data": "2026",
+      "url": "https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.versione=1&art.idGruppo=203&art.flagTipoArticolo=2&art.codiceRedazionale=042U0262&art.idArticolo=1590&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1942-04-04&art.progressivo=0"
+    },
+    {
+      "label": "Codice civile, art. 1385 - Caparra confirmatoria",
+      "ente": "Gazzetta Ufficiale della Repubblica Italiana",
+      "data": "2026",
+      "url": "https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.progressivo=0&art.idArticolo=1385&art.versione=1&art.codiceRedazionale=042U0262&art.dataPubblicazioneGazzetta=1942-04-04&art.idGruppo=172&art.idSottoArticolo1=10&art.idSottoArticolo=1&art.flagTipoArticolo=2"
+    },
+    {
+      "label": "Locazioni brevi: la disciplina fiscale e le regole per gli intermediari",
+      "ente": "Agenzia delle Entrate",
+      "data": "2026",
+      "url": "https://www.agenziaentrate.gov.it/portale/documents/d/guest/locazioni_brevi_disciplina_fiscale_e_regole_per_intermediari_aprile-2026"
+    },
+    {
+      "label": "I tuoi diritti quando paghi",
+      "ente": "Banca d'Italia - L'economia per tutti",
+      "data": "2026",
+      "url": "https://economiapertutti.bancaditalia.it/notizie/i-tuoi-diritti-quando-paghi/"
+    }
+  ],
+  "disclaimer": true,
+  "note": "REFERTO VERIFICHE - sessione 27 agosto 2026. Ogni norma, istituto o affermazione citata nell'articolo con l'URL su cui è stata verificata in questa sessione.\n\nVERIFICATO (fonte primaria consultata in sessione):\n1) Art. 1571 c.c. - Nozione di locazione ('contratto col quale una parte si obbliga a far godere all'altra una cosa mobile o immobile per un dato tempo, verso un determinato corrispettivo'). Testo integrale letto su Gazzetta Ufficiale: https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.versione=1&art.idGruppo=203&art.flagTipoArticolo=2&art.codiceRedazionale=042U0262&art.idArticolo=1571&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1942-04-04&art.progressivo=0\n2) Art. 1587 c.c. - Obbligazioni principali del conduttore (diligenza del buon padre di famiglia; dare il corrispettivo). Testo integrale letto su GU: https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.versione=1&art.idGruppo=203&art.flagTipoArticolo=2&art.codiceRedazionale=042U0262&art.idArticolo=1587&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1942-04-04&art.progressivo=0 (verificato ma non citato nel corpo dell'articolo)\n3) Art. 1588 c.c. - Perdita e deterioramento della cosa locata; responsabilità anche per le persone ammesse, anche temporaneamente, all'uso o al godimento della cosa. Testo integrale letto su GU: https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.versione=1&art.idGruppo=203&art.flagTipoArticolo=2&art.codiceRedazionale=042U0262&art.idArticolo=1588&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1942-04-04&art.progressivo=0\n4) Art. 1590 c.c. - Restituzione della cosa locata: 'nello stato medesimo in cui l'ha ricevuta, in conformità della descrizione che ne sia stata fatta dalle parti, salvo il deterioramento o il consumo risultante dall'uso della cosa in conformità del contratto'; in mancanza di descrizione si presume ricevuta in buono stato di manutenzione; non risponde del deterioramento dovuto a vetustà. Testo integrale letto su GU: https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.versione=1&art.idGruppo=203&art.flagTipoArticolo=2&art.codiceRedazionale=042U0262&art.idArticolo=1590&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1942-04-04&art.progressivo=0\n5) Art. 1385 c.c. - Caparra confirmatoria: restituzione o imputazione alla prestazione dovuta in caso di adempimento; recesso trattenendo la caparra se inadempiente chi l'ha data; recesso ed esigibilità del doppio se inadempiente chi l'ha ricevuta. Testo integrale letto su GU: https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.progressivo=0&art.idArticolo=1385&art.versione=1&art.codiceRedazionale=042U0262&art.dataPubblicazioneGazzetta=1942-04-04&art.idGruppo=172&art.idSottoArticolo1=10&art.idSottoArticolo=1&art.flagTipoArticolo=2\n6) Art. 1386 c.c. - Caparra penitenziale: 'la caparra ha la sola funzione di corrispettivo del recesso'. Testo integrale letto su GU: https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.progressivo=0&art.idArticolo=1386&art.versione=1&art.codiceRedazionale=042U0262&art.dataPubblicazioneGazzetta=1942-04-04&art.idGruppo=172&art.idSottoArticolo1=10&art.idSottoArticolo=1&art.flagTipoArticolo=2\n7) Art. 1382 c.c. - Effetti della clausola penale: limita il risarcimento alla prestazione promessa salvo patto sul danno ulteriore; 'la penale è dovuta indipendentemente dalla prova del danno'. Testo integrale letto su GU: https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.progressivo=0&art.idArticolo=1382&art.versione=1&art.codiceRedazionale=042U0262&art.dataPubblicazioneGazzetta=1942-04-04&art.idGruppo=172&art.idSottoArticolo1=10&art.idSottoArticolo=1&art.flagTipoArticolo=2\n8) Art. 11 legge 27 luglio 1978 n. 392 - rubrica 'Deposito cauzionale': 'Il deposito cauzionale non può essere superiore a tre mensilità del canone. Esso è produttivo di interessi legali che debbono essere corrisposti al conduttore alla fine di ogni anno.' Testo integrale letto su Normattiva: https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-27;392~art11\n9) Art. 1, comma 2, lett. c) legge 9 dicembre 1998 n. 431 - esclude dall'applicazione degli artt. 2, 3, 4, 4-bis, 7, 8 e 13 della stessa legge 'gli alloggi locati esclusivamente per finalità turistiche'. Letto su Normattiva: https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-12-09;431~art1 - usato SOLO come base della cautela nel testo ('la sua estensione al soggiorno turistico non è pacifica'), non come affermazione di inapplicabilità.\n10) Agenzia delle Entrate, guida 'Locazioni brevi: la disciplina fiscale e le regole per gli intermediari - APRILE 2026', pag. 12 del documento (pag. 13 del PDF), testo estratto e letto: 'Non rientrano nel corrispettivo lordo del contratto, sul quale si applica la ritenuta, eventuali somme richieste dal locatore a titolo di deposito cauzionale o penale.' URL: https://www.agenziaentrate.gov.it/portale/documents/d/guest/locazioni_brevi_disciplina_fiscale_e_regole_per_intermediari_aprile-2026\n11) Banca d'Italia, 'L'economia per tutti' - 'I tuoi diritti quando paghi', passaggio verificato: 'Se l'importo finale del pagamento tramite carta non è noto in anticipo (ad esempio per i noleggi di auto o le spese di albergo), l'esercente può bloccare un importo concordato sulla tua carta solo con il tuo consenso.' URL: https://economiapertutti.bancaditalia.it/notizie/i-tuoi-diritti-quando-paghi/\n12) Airbnb, Centro Assistenza, art. 59 'Aggiungere un deposito cauzionale al tuo annuncio', passaggio verificato: 'La maggior parte degli host non è autorizzata ad addebitare depositi cauzionali, né tramite il nostro Centro Soluzioni né al di fuori della piattaforma Airbnb.' URL: https://www.airbnb.it/help/article/59/aggiungere-un-deposito-cauzionale-al-tuo-annuncio\n13) Airbnb, Centro Assistenza, art. 279 (protezione danni per host) - verificato che la richiesta si apre nel Centro Soluzioni con documentazione (foto, video, preventivi, ricevute), che l'ospite ha un termine per rispondere e che poi la piattaforma o il suo assicuratore esaminano la richiesta. URL: https://www.airbnb.com/help/article/279 - NB: nell'articolo NON sono stati riportati né il nome commerciale del programma né le finestre temporali specifiche (14 giorni dal check-out, 24 ore per la risposta dell'ospite), pur essendo presenti nella pagina: sono dettagli volatili e non necessari alla tesi.\n14) Booking.com, 'Damage policy' (pagina ufficiale del portale), verificato: gli ospiti sono responsabili dei danni; 'Booking.com will charge You the agreed amount' previo consenso esplicito dell'ospite e la struttura non può addebitare direttamente; la richiesta si apre attraverso la piattaforma collegata al numero di prenotazione; è la piattaforma a valutare la validità del rifiuto dell'ospite e in tal caso chiude la richiesta senza addebito. URL: https://www.booking.com/content/damage-policy.html - anche qui NON riportata la finestra temporale indicata nella pagina.\n\nSCOPERTE RILEVANTI (convinzioni di partenza rivelatesi FALSE):\nA) Il tetto delle tre mensilità del deposito cauzionale NON è nell'art. 11 della legge 431/1998: l'art. 11 della 431/1998 è rubricato 'Fondo nazionale' e istituisce il fondo per il sostegno all'accesso alle abitazioni in locazione (verificato su https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-12-09;431~art11 ). La norma corretta sul deposito cauzionale è l'art. 11 della legge 392/1978. Corretto nel testo prima della pubblicazione.\nB) L'art. 4 del D.L. 24 aprile 2017 n. 50 (regime fiscale delle locazioni brevi) su Normattiva riporta i commi 1, 2, 3, 5, 5-bis, 6, 7 con la dicitura 'COMMA ABROGATO DAL D.LGS. 19 GIUGNO 2026, N. 117' (e un periodo del comma 4 parimenti abrogato). URL: https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-04-24;50~art4 . Per questo motivo l'articolo NON cita il D.L. 50/2017, NON cita la definizione di locazione breve fondata su quel testo, NON cita aliquote di cedolare secca né la percentuale della ritenuta, e si limita ad avvertire che la disciplina ha conosciuto interventi recenti. SEGNALAZIONE PER GLI ALTRI ARTICOLI DEL PILASTRO (cedolare-secca-affitti-brevi, ritenuta-piattaforme-affitti-brevi, dichiarazione-redditi-affitti-brevi, regime-forfettario-affitti-brevi, costi-deducibili-affitti-brevi): quei contenuti vanno riverificati, perché poggiano su commi che risultano abrogati.\n\nNON VERIFICATO / VOLUTAMENTE NON AFFERMATO:\n- Se e in quale misura il tetto delle tre mensilità dell'art. 11 legge 392/1978 si applichi alla locazione per finalità turistiche: nessuna fonte primaria consultata risolve il punto. Nell'articolo è scritto in forma esplicitamente dubitativa ('non è pacifica') e rinviato al professionista.\n- Il trattamento fiscale della somma effettivamente trattenuta a titolo di risarcimento del danno: nessuna fonte primaria consultata in sessione lo disciplina espressamente. La guida AdE copre solo la base della ritenuta operata dagli intermediari. Nell'articolo non è affermato nulla oltre questo e il punto è rinviato al consulente.\n- Testo dell'art. 6 del TUIR (DPR 917/1986) sui proventi conseguiti in sostituzione di redditi: NON è stato possibile leggerlo su Normattiva (la pagina restituisce solo l'indice). Per questo l'articolo non lo cita.\n- Art. 75 della direttiva (UE) 2015/2366 (PSD2) e art. 15-bis del D.Lgs. 11/2010 sul blocco dei fondi per operazioni di importo non noto in anticipo: NON è stato possibile leggerne il testo (EUR-Lex tronca il documento ai considerando; Normattiva mostra solo l'indice). Il meccanismo della pre-autorizzazione è quindi ancorato alla sola pagina di Banca d'Italia, senza citare articoli di legge.\n- Booking.com for Partners (partner.booking.com e partnerhelp.booking.com): pagine non consultabili (HTTP 403 e connessione rifiutata). La parte su Booking poggia esclusivamente sulla pagina pubblica booking.com/content/damage-policy.html.\n- Nessun importo, nessuna percentuale, nessuna sanzione, nessun termine procedurale è stato riportato nell'articolo, con l'unica eccezione delle 'tre mensilità' e degli 'interessi legali' dell'art. 11 legge 392/1978, letti direttamente sul testo della norma."
+}

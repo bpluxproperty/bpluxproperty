@@ -31,7 +31,7 @@
       "h2": "Che cosa il precompilato sa già e che cosa non sa",
       "paragraphs": [
         "La dichiarazione precompilata contiene i dati delle locazioni brevi — corrispettivi e ritenute — presi dalla Certificazione Unica inviata dagli intermediari immobiliari. Non è poco: gli intermediari comunicano all'Agenzia delle Entrate nome, cognome e codice fiscale del locatore, durata del contratto, indirizzo dell'immobile, codice identificativo nazionale, anno di riferimento e importo del corrispettivo lordo. È abbastanza per popolare la sezione, non abbastanza per chiuderla.",
-        "Quei dati arrivano con una logica loro. Il CIN è la chiave che lega il corrispettivo all'immobile giusto, e le istruzioni della Certificazione Unica chiedono espressamente di verificarlo sulla banca dati delle strutture ricettive del Ministero del Turismo: se è sbagliato o assente, il dato non si aggancia dove dovrebbe. La certificazione, poi, segue il criterio di cassa, mentre il reddito del proprietario si tassa per competenza: un soggiorno a cavallo di dicembre e gennaio va diviso sui giorni dei due anni.",
+        "Quei dati arrivano con una logica loro. Il CIN è la chiave che lega il corrispettivo all'immobile giusto, e le istruzioni della Certificazione Unica raccomandano agli intermediari di verificarlo sulla banca dati delle strutture ricettive del Ministero del Turismo: se è sbagliato o assente, il dato non si aggancia dove dovrebbe. La certificazione, poi, segue il criterio di cassa, mentre il reddito del proprietario si tassa per competenza: un soggiorno a cavallo di dicembre e gennaio va diviso sui giorni dei due anni.",
         "Resta tutto quello che nessuno ha trasmesso: gli incassi diretti fuori piattaforma, le quote reali di comproprietà, e la scelta di quale immobile tenere ad aliquota ridotta quando se ne affitta più di uno, scelta che il contribuente esercita in dichiarazione e che non esiste in nessun archivio prima di quel momento. Va tenuto a mente anche un limite del vantaggio: l'esonero dai controlli documentali sulla precompilata riguarda gli oneri detraibili e deducibili trasmessi da terzi, non i redditi dichiarati."
       ],
       "list": [
@@ -141,7 +141,8 @@
   "related": [
     "cedolare-secca-affitti-brevi",
     "tasse-affitti-brevi-quanto-si-paga",
-    "ritenuta-piattaforme-affitti-brevi"
+    "ritenuta-piattaforme-affitti-brevi",
+    "controlli-affitti-brevi"
   ],
   "sources": [
     {

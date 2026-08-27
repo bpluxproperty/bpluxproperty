@@ -6,7 +6,7 @@
   "metaDescription": "Dal 2026, destinare tre o più appartamenti agli affitti brevi fa scattare la presunzione d'impresa e l'obbligo di P.IVA. Ecco cosa cambia e come gestirla.",
   "h1": "Dal terzo immobile scatta la P.IVA: cosa cambia per gli affitti brevi",
   "excerpt": "Con tre o più appartamenti destinati agli affitti brevi scatta la presunzione di attività d'impresa e l'obbligo di partita IVA. Cosa significa in pratica e come non trasformarsi in impresa senza volerlo.",
-  "opening": "Dal 1° gennaio 2026, chi destina tre o più appartamenti agli affitti brevi rientra nella presunzione di attività d'impresa, con obbligo di partita IVA. Sotto quella soglia si resta nell'affitto breve \"tra privati\" con cedolare secca. È il vero spartiacque fiscale del settore, e va conosciuto prima di comprare il terzo immobile.",
+  "opening": "Dal 1° gennaio 2026, chi destina più di due appartamenti agli affitti brevi rientra nella presunzione di esercizio in forma imprenditoriale di attività d'impresa, con obbligo di partita IVA. Sotto quella soglia si resta nell'affitto breve \"tra privati\" con cedolare secca. È il vero spartiacque fiscale del settore, e va conosciuto prima di comprare il terzo immobile.",
   "publishedAt": "2026-08-11",
   "updatedAt": "2026-08-11",
   "heroKicker": "NORMATIVA & FISCO",
@@ -79,13 +79,12 @@
       ]
     },
     {
-      "h2": "Come non diventare impresa senza volerlo",
+      "h2": "La soglia non si aggira: si conosce prima di decidere",
       "paragraphs": [
-        "Molti proprietari scoprono la soglia dopo aver comprato, quando ormai la scelta è obbligata. Conoscerla prima apre alternative: distribuire gli immobili tra più intestatari del nucleo, valutare l'affitto medio su alcuni, o affidarli a un gestore professionale."
+        "La soglia si conta sugli appartamenti destinati alla locazione breve nel periodo d'imposta, e la presunzione opera, dice la norma, da chiunque sia esercitata l'attività. Non è quindi una soglia da aggirare: è un dato da conoscere prima di decidere. Chi si avvicina al limite ha davanti scelte diverse — restare entro la soglia, passare consapevolmente all'attività d'impresa, valutare durate contrattuali differenti — e sono scelte da impostare con il proprio commercialista, che vede l'intera posizione fiscale e può dire quali margini esistano davvero."
       ],
       "list": [
         "Pianificare l'acquisto del terzo immobile con il commercialista",
-        "Valutare intestazioni diverse all'interno del nucleo familiare",
         "Considerare l'affitto a medio termine su parte degli immobili",
         "Affidare la gestione a un property manager che opera già come impresa"
       ]
@@ -130,14 +129,20 @@
     {
       "label": "Regime fiscale delle locazioni brevi",
       "ente": "Agenzia delle Entrate",
-      "data": "",
-      "url": ""
+      "data": "2026",
+      "url": "https://www.agenziaentrate.gov.it/portale/le-locazioni-brevi-e-la-cedolare-secca"
     },
     {
       "label": "Legge di Bilancio 2026 (disposizioni su locazioni brevi)",
       "ente": "Gazzetta Ufficiale",
       "data": "2026",
       "url": ""
+    },
+    {
+      "label": "Locazioni brevi: la disciplina fiscale e le regole per gli intermediari",
+      "ente": "Agenzia delle Entrate",
+      "data": "2026",
+      "url": "https://www.agenziaentrate.gov.it/portale/documents/d/guest/locazioni_brevi_disciplina_fiscale_e_regole_per_intermediari_aprile-2026"
     }
   ],
   "disclaimer": true,

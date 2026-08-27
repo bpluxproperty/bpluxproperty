@@ -55,19 +55,19 @@
     {
       "h2": "La ritenuta degli intermediari",
       "paragraphs": [
-        "Quando affitti tramite portali come Airbnb o Booking, o tramite un intermediario che incassa i canoni, di norma viene applicata una ritenuta del 21% sui canoni, a titolo di acconto o imposta.",
+        "Quando affitti tramite portali come Airbnb o Booking, o tramite un intermediario che incassa i canoni, di norma viene applicata una ritenuta del 21% sui canoni, sempre a titolo di acconto, qualunque sia il regime fiscale scelto.",
         "Non è una tassa in più: è un anticipo che ritrovi in dichiarazione. È utile saperlo per non farsi sorprendere dagli importi netti accreditati."
       ]
     },
     {
       "h2": "Cedolare o tassazione ordinaria: come scegliere",
       "paragraphs": [
-        "La cedolare conviene quando l'aliquota piatta è più bassa della tua aliquota IRPEF marginale e non hai molti costi da dedurre. Con redditi bassi o costi elevati, a volte la tassazione ordinaria può risultare più vantaggiosa.",
+        "La cedolare conviene quando l'aliquota piatta è più bassa della tua aliquota IRPEF marginale. Attenzione a un equivoco diffuso: le spese reali dell'immobile non si deducono in nessuno dei due regimi. In tassazione ordinaria opera soltanto una riduzione forfetaria del canone, slegata da quanto hai speso davvero, quindi il confronto si fa sulle aliquote e non sui costi.",
         "Non c'è una risposta valida per tutti: dipende dal tuo reddito complessivo. È una verifica da fare con il commercialista, numeri alla mano."
       ],
       "list": [
         "Cedolare: aliquota fissa, niente deduzione dei costi",
-        "Ordinaria (IRPEF): scaglioni progressivi, possibilità di dedurre alcune spese",
+        "Ordinaria (IRPEF): scaglioni progressivi, una riduzione forfetaria del canone, non la deduzione delle spese reali",
         "La scelta si valuta sul reddito complessivo, non solo sull'affitto"
       ]
     },
@@ -113,14 +113,20 @@
     {
       "label": "Cedolare secca sulle locazioni",
       "ente": "Agenzia delle Entrate",
-      "data": "",
-      "url": ""
+      "data": "2026",
+      "url": "https://www.agenziaentrate.gov.it/portale/le-locazioni-brevi-e-la-cedolare-secca"
     },
     {
       "label": "Aliquota 26% dal secondo immobile",
       "ente": "Legge di Bilancio 2024",
       "data": "2024",
       "url": ""
+    },
+    {
+      "label": "Cedolare secca sulle locazioni: scheda informativa",
+      "ente": "Agenzia delle Entrate",
+      "data": "2026",
+      "url": "https://www.agenziaentrate.gov.it/portale/schede/fabbricatiterreni/cedolare-secca/scheda-informativa-cedolare-secca"
     }
   ],
   "disclaimer": true,
