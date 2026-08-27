@@ -11,72 +11,161 @@
   "updatedAt": "2026-08-22",
   "heroKicker": "PREPARARE CASA",
   "sections": [
-    { "h2": "La serratura smart abilita il self check-in, ma prima va scelta bene",
+    {
+      "h2": "La serratura smart abilita il self check-in, ma prima va scelta bene",
       "paragraphs": [
         "La serratura smart è il dispositivo che rende possibile il self check-in, cioè l'arrivo autonomo dell'ospite a qualsiasi ora. Di come organizzare quell'arrivo parliamo in un articolo dedicato: qui ci concentriamo su un passo precedente e altrettanto decisivo, ovvero scegliere il dispositivo giusto.",
         "Una serratura sbagliata crea più problemi di quanti ne risolva: codici che non si aggiornano, batterie che si spengono nel weekend, un modello che non si monta sulla tua porta. La scelta fatta bene a monte evita quasi tutti questi grattacapi.",
         "Nella nostra esperienza da host, chi dedica mezz'ora a valutare tipo di apertura, backup e compatibilità si risparmia mesi di piccole seccature. È un acquisto che si fa una volta e si tiene per anni: vale davvero la pena farlo con criterio."
-      ] },
-    { "h2": "Tastierino, Bluetooth o Wi-Fi: i tre modi di aprire",
+      ]
+    },
+    {
+      "h2": "Tastierino, Bluetooth o Wi-Fi: i tre modi di aprire",
       "paragraphs": [
         "Le serrature smart si distinguono soprattutto per come si aprono e per come le gestisci. Le tre grandi famiglie sono il tastierino a codice, l'apertura via Bluetooth e quella via Wi-Fi, spesso combinate nello stesso dispositivo.",
         "Il tastierino a codice è semplice e diretto: l'ospite digita una sequenza di numeri e la porta si apre, senza scaricare nulla. Il Bluetooth aggiunge l'apertura dall'app dello smartphone, ma solo quando si è vicini alla porta. Il Wi-Fi, invece, collega la serratura a internet e ti permette di gestirla e cambiare i codici anche da un'altra città.",
         "Molti modelli uniscono tastierino e connessione, ed è spesso la scelta migliore: il codice resta il metodo principale per l'ospite, la connessione serve a te per amministrare tutto a distanza."
       ],
-      "table": { "headers": ["Tipo di apertura", "Come funziona", "Adatto se"],
+      "table": {
+        "headers": [
+          "Tipo di apertura",
+          "Come funziona",
+          "Adatto se"
+        ],
         "rows": [
-          ["Tastierino a codice", "L'ospite digita un codice numerico sulla porta", "Vuoi la massima semplicità per chi arriva"],
-          ["Bluetooth", "Apertura dall'app, ma solo da vicino", "Gestisci di persona e sei spesso sul posto"],
-          ["Wi-Fi", "Serratura connessa a internet, gestibile da remoto", "Amministri la casa a distanza"]
-        ] } },
-    { "h2": "I codici a tempo: un accesso diverso per ogni ospite",
+          [
+            "Tastierino a codice",
+            "L'ospite digita un codice numerico sulla porta",
+            "Vuoi la massima semplicità per chi arriva"
+          ],
+          [
+            "Bluetooth",
+            "Apertura dall'app, ma solo da vicino",
+            "Gestisci di persona e sei spesso sul posto"
+          ],
+          [
+            "Wi-Fi",
+            "Serratura connessa a internet, gestibile da remoto",
+            "Amministri la casa a distanza"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "I codici a tempo: un accesso diverso per ogni ospite",
       "paragraphs": [
         "La funzione che rende una serratura smart davvero adatta agli affitti brevi è il codice a tempo. A ogni prenotazione generi un codice valido solo per le date del soggiorno: si attiva al check-in e smette di funzionare al check-out, in automatico.",
         "Il vantaggio è doppio. L'ospite ha un accesso personale, che non passa di mano in mano come una chiave fisica; tu non devi ricordarti di ritirare nulla e sei certo che, finito il soggiorno, quella persona non possa più entrare. È un livello di controllo che con le chiavi tradizionali semplicemente non esiste.",
         "Le serrature connesse permettono di creare e revocare questi codici da remoto, anche all'ultimo minuto se una prenotazione cambia. Preferiamo sempre i modelli che gestiscono vari codici insieme: uno per l'ospite, uno per chi fa le pulizie, uno tuo di servizio."
       ],
-      "list": ["Codice valido solo per le date del soggiorno", "Attivazione e scadenza automatiche, senza interventi manuali", "Codici distinti per ospite, pulizie e manutenzione", "Possibilità di revocare un codice a distanza se qualcosa cambia"] },
-    { "h2": "Backup a chiave e batteria: cosa succede quando qualcosa non va",
+      "list": [
+        "Codice valido solo per le date del soggiorno",
+        "Attivazione e scadenza automatiche, senza interventi manuali",
+        "Codici distinti per ospite, pulizie e manutenzione",
+        "Possibilità di revocare un codice a distanza se qualcosa cambia"
+      ]
+    },
+    {
+      "h2": "Backup a chiave e batteria: cosa succede quando qualcosa non va",
       "paragraphs": [
         "Una serratura smart resta pur sempre un dispositivo elettronico, e va scelta pensando a cosa fare quando qualcosa si inceppa. Le due domande da porsi sono semplici: come si apre se si scarica la batteria, e cosa succede se salta la connessione.",
         "Sul fronte batteria, i modelli migliori funzionano a pile e avvisano con largo anticipo quando stanno per esaurirsi, con una spia o una notifica. Molti prevedono anche un'alimentazione di emergenza, per esempio una porta USB esterna che dà corrente il tempo di aprire. Diffidiamo dei dispositivi che si spengono senza preavviso.",
         "Sul fronte accesso, un buon modello conserva sempre una via alternativa: una serratura fisica a chiave, magari nascosta sotto il tastierino, oppure una chiave di servizio che tieni tu. Anche se il self check-in va a codici, quella chiave di riserva è un'assicurazione che consigliamo di non eliminare mai."
       ],
-      "list": ["Alimentazione a pile con avviso di batteria in esaurimento", "Alimentazione di emergenza, spesso via USB, per aprire comunque", "Serratura fisica a chiave come via di riserva", "Codici che restano validi anche se salta la connessione a internet"] },
-    { "h2": "Compatibilità con la porta: la verifica da fare prima di comprare",
+      "list": [
+        "Alimentazione a pile con avviso di batteria in esaurimento",
+        "Alimentazione di emergenza, spesso via USB, per aprire comunque",
+        "Serratura fisica a chiave come via di riserva",
+        "Codici che restano validi anche se salta la connessione a internet"
+      ]
+    },
+    {
+      "h2": "Compatibilità con la porta: la verifica da fare prima di comprare",
       "paragraphs": [
         "L'errore tipico è innamorarsi di un modello e scoprire troppo tardi che non si monta sulla propria porta. La compatibilità va verificata prima dell'acquisto, non dopo. Contano il tipo di serratura già presente, lo spessore della porta e lo spazio attorno alla maniglia.",
         "Molte serrature smart si installano sostituendo o affiancando il cilindro europeo, quello della maggior parte delle porte italiane. Altre sostituiscono l'intera maniglia. Se l'appartamento è in affitto o in un condominio con regole sul portone, conviene verificare anche cosa è permesso modificare.",
         "Prendere le misure e fotografare la serratura attuale, con un metro accanto, evita quasi tutti gli errori. È un controllo di cinque minuti che si ripaga da solo, e che ripetiamo a ogni nuovo appartamento che prepariamo."
       ],
-      "list": ["Tipo di serratura o cilindro già montato sulla porta", "Spessore della porta e spazio attorno alla maniglia", "Regole del condominio o del proprietario sulle modifiche consentite", "Misure e foto della serratura attuale prima di ordinare"] },
-    { "h2": "Sicurezza: cosa guardare oltre alla comodità",
+      "list": [
+        "Tipo di serratura o cilindro già montato sulla porta",
+        "Spessore della porta e spazio attorno alla maniglia",
+        "Regole del condominio o del proprietario sulle modifiche consentite",
+        "Misure e foto della serratura attuale prima di ordinare"
+      ]
+    },
+    {
+      "h2": "Sicurezza: cosa guardare oltre alla comodità",
       "paragraphs": [
         "Una serratura che apre a distanza deve anche proteggere. La comodità non può andare a scapito della sicurezza, e alcuni accorgimenti aiutano a riconoscere un modello serio da uno improvvisato.",
         "Guardiamo alla robustezza dei materiali e a come sono gestiti i codici: i modelli migliori accettano codici lunghi, li cambiano facilmente e alcuni consentono di digitare cifre casuali prima o dopo quelle corrette, così chi osserva non capisce la sequenza reale. Sul lato connessione contano gli aggiornamenti del produttore, segno che il dispositivo viene mantenuto nel tempo.",
         "Infine, una regola di buon senso: il codice va cambiato a ogni ospite, mai lasciato uguale per tutti. È esattamente ciò che i codici a tempo fanno in automatico, ed è il motivo per cui li consideriamo il cuore di una scelta ben fatta."
-      ] },
-    { "h2": "Come scegliere senza sbagliare: una sintesi",
+      ]
+    },
+    {
+      "h2": "Come scegliere senza sbagliare: una sintesi",
       "paragraphs": [
         "Se dovessimo riassumere, la serratura smart giusta per un affitto breve genera codici a tempo, ha un backup affidabile e si monta senza problemi sulla tua porta. Il tipo di connessione viene dopo e dipende da quanto gestisci la casa a distanza.",
         "Non è il modello caro a fare la differenza, ma quello che risponde alle tue esigenze reali. Meglio poche funzioni che usi davvero di una vetrina di comandi che non toccherai mai.",
         "Una volta scelto il dispositivo, il passo successivo è organizzare bene l'arrivo dell'ospite: di questo parliamo nell'articolo dedicato al self check-in."
       ],
-      "list": ["Genera codici a tempo, diversi per ogni ospite", "Ha un backup a chiave e avvisa quando la batteria cala", "È compatibile con la tua porta, verificato prima dell'acquisto", "Ha una connessione adatta a quanto gestisci da remoto"] }
+      "list": [
+        "Genera codici a tempo, diversi per ogni ospite",
+        "Ha un backup a chiave e avvisa quando la batteria cala",
+        "È compatibile con la tua porta, verificato prima dell'acquisto",
+        "Ha una connessione adatta a quanto gestisci da remoto"
+      ]
+    }
   ],
   "faq": [
-    { "q": "Quale tipo di serratura smart conviene per un affitto breve?", "a": "Quella con tastierino a codice e codici a tempo, perché l'ospite entra digitando una sequenza senza scaricare app e tu generi un codice diverso a ogni soggiorno. Se gestisci la casa a distanza, aggiungi la connessione Wi-Fi per creare e revocare i codici da remoto." },
-    { "q": "Cosa succede se la batteria della serratura smart si scarica?", "a": "I modelli affidabili avvisano con largo anticipo e prevedono un'alimentazione di emergenza, spesso una porta USB che dà corrente il tempo di aprire. Conviene comunque tenere sempre una chiave fisica di riserva come via alternativa, da usare in caso di imprevisti." },
-    { "q": "La serratura smart è compatibile con qualsiasi porta?", "a": "No, dipende dal tipo di serratura già presente, dallo spessore della porta e dallo spazio attorno alla maniglia. Molti modelli sostituiscono il cilindro europeo delle porte italiane, ma è essenziale prendere le misure e fotografare la serratura attuale prima di comprare." },
-    { "q": "I codici a tempo sono sicuri?", "a": "Sì, sono più sicuri di una chiave fisica: ogni ospite ha un codice valido solo per le sue date, che scade in automatico al check-out. Inoltre puoi revocarlo a distanza se una prenotazione cambia, cosa impossibile con una chiave già passata di mano." },
-    { "q": "Serve il Wi-Fi per usare una serratura smart?", "a": "No, non è indispensabile: le serrature a solo tastierino funzionano senza connessione e l'ospite entra con un codice. Il Wi-Fi serve a te per gestire e cambiare i codici da remoto, quindi è utile soprattutto se non abiti vicino all'appartamento." },
-    { "q": "Meglio una serratura smart o una key box per gli affitti brevi?", "a": "Dipende dal controllo che vuoi: la key box costa meno ma custodisce una chiave fisica uguale per tutti, mentre la serratura smart genera un codice diverso per ogni ospite e si gestisce da remoto. Per chi affitta con continuità, la serratura smart offre maggiore sicurezza." }
+    {
+      "q": "Quale tipo di serratura smart conviene per un affitto breve?",
+      "a": "Quella con tastierino a codice e codici a tempo, perché l'ospite entra digitando una sequenza senza scaricare app e tu generi un codice diverso a ogni soggiorno. Se gestisci la casa a distanza, aggiungi la connessione Wi-Fi per creare e revocare i codici da remoto."
+    },
+    {
+      "q": "Cosa succede se la batteria della serratura smart si scarica?",
+      "a": "I modelli affidabili avvisano con largo anticipo e prevedono un'alimentazione di emergenza, spesso una porta USB che dà corrente il tempo di aprire. Conviene comunque tenere sempre una chiave fisica di riserva come via alternativa, da usare in caso di imprevisti."
+    },
+    {
+      "q": "La serratura smart è compatibile con qualsiasi porta?",
+      "a": "No, dipende dal tipo di serratura già presente, dallo spessore della porta e dallo spazio attorno alla maniglia. Molti modelli sostituiscono il cilindro europeo delle porte italiane, ma è essenziale prendere le misure e fotografare la serratura attuale prima di comprare."
+    },
+    {
+      "q": "I codici a tempo sono sicuri?",
+      "a": "Sì, sono più sicuri di una chiave fisica: ogni ospite ha un codice valido solo per le sue date, che scade in automatico al check-out. Inoltre puoi revocarlo a distanza se una prenotazione cambia, cosa impossibile con una chiave già passata di mano."
+    },
+    {
+      "q": "Serve il Wi-Fi per usare una serratura smart?",
+      "a": "No, non è indispensabile: le serrature a solo tastierino funzionano senza connessione e l'ospite entra con un codice. Il Wi-Fi serve a te per gestire e cambiare i codici da remoto, quindi è utile soprattutto se non abiti vicino all'appartamento."
+    },
+    {
+      "q": "Meglio una serratura smart o una key box per gli affitti brevi?",
+      "a": "Dipende dal controllo che vuoi: la key box costa meno ma custodisce una chiave fisica uguale per tutti, mentre la serratura smart genera un codice diverso per ogni ospite e si gestisce da remoto. Per chi affitta con continuità, la serratura smart offre maggiore sicurezza."
+    }
   ],
-  "related": ["self-check-in-affitti-brevi", "smart-home-affitti-brevi", "checklist-primo-ospite-affitti-brevi"],
+  "related": [
+    "self-check-in-affitti-brevi",
+    "smart-home-affitti-brevi",
+    "checklist-primo-ospite-affitti-brevi"
+  ],
   "sources": [
-    { "label": "Trattamento dei dati personali degli ospiti", "ente": "Garante per la protezione dei dati personali", "data": "2023", "url": "" },
-    { "label": "Consigli per la sicurezza dell'abitazione", "ente": "Polizia di Stato", "data": "2024", "url": "" },
-    { "label": "Sicurezza dei prodotti connessi e dispositivi IoT", "ente": "Commissione europea", "data": "2024", "url": "" }
+    {
+      "label": "Trattamento dei dati personali degli ospiti",
+      "ente": "Garante per la protezione dei dati personali",
+      "data": "2023",
+      "url": ""
+    },
+    {
+      "label": "Consigli per la sicurezza dell'abitazione",
+      "ente": "Polizia di Stato",
+      "data": "2024",
+      "url": ""
+    },
+    {
+      "label": "Sicurezza dei prodotti connessi e dispositivi IoT",
+      "ente": "Commissione europea",
+      "data": "2024",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

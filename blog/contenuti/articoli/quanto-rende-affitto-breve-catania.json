@@ -15,14 +15,14 @@
       "h2": "Perché a Catania la resa può essere interessante",
       "paragraphs": [
         "Catania unisce due mondi che di solito non coincidono: è una città vera, viva tutto l'anno, ed è la porta della Sicilia orientale. Ai piedi dell'Etna, con un centro barocco che fa parte del patrimonio UNESCO del Val di Noto, attira turismo culturale, studenti e viaggiatori diretti verso Taormina, il mare e la Val di Noto.",
-        "Il motore che tiene alta la domanda è l'aeroporto di Fontanarossa, tra i più trafficati del Sud: porta ospiti in ogni stagione, complice un clima mite che allunga il calendario ben oltre l'estate. A questo si aggiunge un vantaggio strutturale: in molte zone i prezzi d'acquisto restano più contenuti rispetto alle grandi città del Nord. A parità di incasso, un capitale investito minore può tradursi in una redditività percentuale più alta."
+        "Il motore che tiene alta la domanda è l'aeroporto di Fontanarossa, tra i più trafficati del Sud: porta ospiti in ogni stagione, complice un clima mite che allunga il calendario ben oltre l'estate. A questo si aggiunge un vantaggio strutturale: in molte zone i prezzi d'acquisto restano più contenuti rispetto alle grandi città del Nord. La percentuale dipende anche da quanto si è speso per comprare."
       ]
     },
     {
       "h2": "Perché una risposta secca non esiste",
       "paragraphs": [
-        "Diffida di chi promette una percentuale valida per tutti. La resa reale resta una stima indicativa finché non si calcola sul tuo immobile: dipende da occupazione, tariffa media e costi effettivi.",
-        "La formula di base è semplice: quanto incassi (occupazione × tariffa media) meno i costi (pulizie, utenze, commissioni, gestione, imposte). Il risultato cambia molto da un appartamento all'altro, anche nella stessa via."
+        "Chi indica una percentuale universale non ha guardato la tua casa. Il numero diventa attendibile solo con occupazione, tariffa e costi effettivi.",
+        "Occupazione per tariffa media, poi via le spese ricorrenti e le imposte. Anche nello stesso palazzo i numeri divergono."
       ]
     },
     {
@@ -49,18 +49,18 @@
           ],
           [
             "Qualità di arredo e foto",
-            "Primo filtro con cui l'ospite sceglie l'annuncio",
+            "Su questo l'ospite si ferma o passa avanti",
             "Più prenotazioni e prezzo difendibile"
           ],
           [
             "Prezzi dinamici",
-            "Adeguare la tariffa a stagione, ponti ed eventi",
-            "Recupera ricavi che il prezzo fisso rinuncia al margine dei picchi"
+            "Muovere il prezzo con il calendario, non una volta l'anno",
+            "Recupera i ricavi che una tariffa fissa lascia sul mercato nei giorni di punta"
           ],
           [
             "Recensioni e reputazione",
             "Posizionamento nell'algoritmo dei portali",
-            "Più visibilità e meno notti sfitte"
+            "Cresce l'esposizione, calano i giorni vuoti"
           ],
           [
             "Stagionalità e clima",
@@ -87,7 +87,7 @@
     {
       "h2": "Le voci di spesa che riducono il lordo",
       "paragraphs": [
-        "La resa lorda inganna: conta quella netta. Prima di stimare il guadagno, elenca con onestà tutte le voci di costo, comprese quelle che si tende a dimenticare."
+        "Guardare il lordo porta fuori strada. Si parte dai costi, non dai ricavi: e si scrivono tutti."
       ],
       "list": [
         "Pulizie e biancheria a ogni cambio",
@@ -100,15 +100,15 @@
     {
       "h2": "Dal dato generico al tuo caso",
       "paragraphs": [
-        "L'unico modo serio per sapere quanto rende il tuo immobile è analizzarlo: zona, tipologia, stagionalità e concorrenza reale. Nella nostra esperienza le stime generiche prese online sbagliano quasi sempre, in un senso o nell'altro.",
-        "Per questo, prima di iniziare, analizziamo gratuitamente l'immobile e ti diamo una stima costruita sui suoi numeri, non su una media di città."
+        "Quattro cose da guardare sull'immobile: posizione, tipo, calendario, concorrenti veri. Le medie trovate in rete si allontanano dal caso concreto in entrambe le direzioni.",
+        "Prima di decidere conviene far analizzare l'appartamento, non leggere una media."
       ]
     }
   ],
   "faq": [
     {
       "q": "Quanto rende un affitto breve a Catania?",
-      "a": "Dipende dal singolo immobile: la resa reale si calcola su occupazione, tariffa media e costi. A Catania la domanda è distribuita su gran parte dell'anno, grazie all'aeroporto e alla doppia natura di città e base per la Sicilia orientale, ma qualsiasi percentuale valida «per tutti» resta una stima da verificare sul tuo appartamento."
+      "a": "Si calcola sull'appartamento, non sulla città: tre dati e nessuna media. A Catania la domanda è distribuita su gran parte dell'anno, grazie all'aeroporto e alla doppia natura di città e base per la Sicilia orientale, ma qualsiasi percentuale valida «per tutti» resta una stima da verificare sul tuo appartamento."
     },
     {
       "q": "Rende più a Catania o al Nord?",
@@ -124,7 +124,7 @@
     },
     {
       "q": "Come faccio a sapere la resa del mio immobile?",
-      "a": "Serve un'analisi sul singolo immobile: zona, tipologia, concorrenza e costi reali. Le stime generiche online sono spesso imprecise. Possiamo calcolare gratuitamente una stima costruita sui numeri effettivi del tuo appartamento, senza impegno."
+      "a": "Quattro dati sull'alloggio, non sulla città. Le medie di città dicono poco sul singolo appartamento. Su richiesta ricostruiamo la stima partendo dai dati della singola casa."
     }
   ],
   "related": [

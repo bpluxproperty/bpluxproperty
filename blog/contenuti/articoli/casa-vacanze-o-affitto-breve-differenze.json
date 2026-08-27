@@ -63,14 +63,42 @@
         "Messe una accanto all'altra, le due strade si distinguono su pochi punti chiari. La tabella sintetizza le differenze principali; i dettagli, soprattutto sui requisiti regionali, vanno sempre verificati caso per caso."
       ],
       "table": {
-        "headers": ["Caratteristica", "Locazione breve", "Casa vacanze imprenditoriale"],
+        "headers": [
+          "Caratteristica",
+          "Locazione breve",
+          "Casa vacanze imprenditoriale"
+        ],
         "rows": [
-          ["Servizi offerti", "Solo essenziali (pulizia a fine soggiorno, biancheria, utenze, wi-fi)", "Anche servizi alla persona (colazione, pulizia giornaliera, reception)"],
-          ["Abitualità e organizzazione", "Occasionale, non organizzata come impresa", "Attività abituale e organizzata"],
-          ["Partita IVA", "Di norma non necessaria", "Necessaria"],
-          ["SCIA al Comune", "Non prevista", "Prevista"],
-          ["Inquadramento", "Contratto tra privati", "Attività ricettiva extra-alberghiera"],
-          ["CIN", "Obbligatorio", "Obbligatorio"]
+          [
+            "Servizi offerti",
+            "Solo essenziali (pulizia a fine soggiorno, biancheria, utenze, wi-fi)",
+            "Anche servizi alla persona (colazione, pulizia giornaliera, reception)"
+          ],
+          [
+            "Abitualità e organizzazione",
+            "Occasionale, non organizzata come impresa",
+            "Attività abituale e organizzata"
+          ],
+          [
+            "Partita IVA",
+            "Di norma non necessaria",
+            "Necessaria"
+          ],
+          [
+            "SCIA al Comune",
+            "Non prevista",
+            "Prevista"
+          ],
+          [
+            "Inquadramento",
+            "Contratto tra privati",
+            "Attività ricettiva extra-alberghiera"
+          ],
+          [
+            "CIN",
+            "Obbligatorio",
+            "Obbligatorio"
+          ]
         ]
       }
     },
@@ -109,10 +137,24 @@
       "a": "Sì, la pulizia a fine soggiorno e il cambio biancheria rientrano tra i servizi essenziali ammessi nella locazione breve. È la pulizia giornaliera durante il soggiorno, insieme ad altri servizi da hotel, a spostare l'attività verso il ricettivo."
     }
   ],
-  "related": ["terzo-immobile-partita-iva-affitti-brevi", "contratto-locazione-breve", "cin-affitti-brevi-come-ottenerlo"],
+  "related": [
+    "terzo-immobile-partita-iva-affitti-brevi",
+    "contratto-locazione-breve",
+    "cin-affitti-brevi-come-ottenerlo"
+  ],
   "sources": [
-    { "label": "Locazioni brevi", "ente": "Agenzia delle Entrate", "data": "", "url": "" },
-    { "label": "Strutture ricettive e turismo (normativa regionale)", "ente": "Regione", "data": "", "url": "" }
+    {
+      "label": "Locazioni brevi",
+      "ente": "Agenzia delle Entrate",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Strutture ricettive e turismo (normativa regionale)",
+      "ente": "Regione",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": true,
   "note": ""

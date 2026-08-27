@@ -86,13 +86,13 @@
     {
       "h2": "Le regole da mettere a posto prima del primo ospite",
       "paragraphs": [
-        "Affittare in modo serio significa essere in regola. A Firenze, come nel resto d'Italia, ci sono adempimenti di base da conoscere prima di pubblicare un annuncio.",
-        "Le regole cambiano e vanno sempre verificate presso le fonti ufficiali. Qui trovi solo la sintesi, non un parere fiscale o legale."
+        "Prima di curare le foto conviene chiudere le pratiche. A Firenze, come nel resto d'Italia, ci sono adempimenti di base da conoscere prima di pubblicare un annuncio.",
+        "Prima di dare per chiuso un adempimento, controlla la pagina ufficiale aggiornata. Qui trovi solo la sintesi, non un parere fiscale o legale."
       ],
       "list": [
-        "CIN (Codice Identificativo Nazionale): obbligatorio per gli affitti brevi. Trovi tutti i dettagli nella nostra guida dedicata al CIN.",
+        "CIN: il codice nazionale dell'alloggio, spiegato passo per passo nella guida al CIN.",
         "Imposta di soggiorno: è un tributo comunale a carico dell'ospite, che l'host raccoglie e versa al Comune di Firenze secondo le sue regole.",
-        "Comunicazione degli ospiti: i dati vanno trasmessi tramite il portale Alloggiati Web della Polizia di Stato.",
+        "Ospiti da comunicare: i dati di chi dorme in casa vanno caricati su Alloggiati Web.",
         "Limiti locali: sul centro storico valgono i vincoli specifici del Comune, da verificare prima di partire."
       ]
     },
@@ -128,7 +128,7 @@
     },
     {
       "q": "Serve il CIN per affittare a Firenze?",
-      "a": "Sì. Il CIN, il Codice Identificativo Nazionale, è obbligatorio per gli affitti brevi in tutta Italia, Firenze compresa. Per la procedura completa rimandiamo alla nostra guida dedicata al CIN."
+      "a": "Sì. Il CIN, il Codice Identificativo Nazionale, è obbligatorio per gli affitti brevi in tutta Italia, Firenze compresa. Come si richiede lo spieghiamo nella guida al CIN."
     },
     {
       "q": "Come funziona l'imposta di soggiorno a Firenze?",

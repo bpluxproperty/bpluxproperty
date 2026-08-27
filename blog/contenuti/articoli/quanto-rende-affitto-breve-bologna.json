@@ -15,7 +15,7 @@
       "h2": "Quanto rende un affitto breve a Bologna: la risposta onesta",
       "paragraphs": [
         "Partiamo dalla verità: non esiste un numero unico. Un affitto breve a Bologna, se gestito bene, tende a rendere più di un affitto tradizionale a lungo termine. In cambio chiede più lavoro, più costi variabili e una gestione attiva. La forbice tra i due mondi si allarga o si stringe a seconda di quanto la casa resta occupata e a che tariffa.",
-        "Qualsiasi cifra tu legga in giro va presa come stima indicativa. La resa reale si misura solo sul singolo immobile, incrociando occupazione, tariffa media giornaliera (ADR) e costi. Per questo, invece di promettere numeri, in questa guida ti spieghiamo da cosa dipendono, così puoi leggere il tuo caso con occhio critico."
+        "Qualsiasi cifra tu legga in giro va presa come stima indicativa. La resa reale si misura sul singolo immobile, incrociando occupazione, tariffa media giornaliera e costi. Per questo, invece di promettere numeri, in questa guida ti spieghiamo da cosa dipendono, così puoi leggere il tuo caso con occhio critico."
       ]
     },
     {
@@ -56,7 +56,7 @@
           ],
           [
             "Qualità di arredo e foto",
-            "Primo filtro con cui l'ospite sceglie l'annuncio",
+            "È il primo criterio che l'ospite applica",
             "Più prenotazioni e margine per alzare il prezzo"
           ],
           [
@@ -102,7 +102,7 @@
     {
       "h2": "Come calcolare la resa reale del tuo immobile",
       "paragraphs": [
-        "La formula, a parole, è semplice: ricavo uguale tariffa media giornaliera per notti prenotate in un anno, meno i costi. Il difficile è stimare bene i due ingredienti, tariffa e occupazione, perché cambiano con zona, stagione, eventi e qualità dell'annuncio.",
+        "La formula è semplice: tariffa media giornaliera per notti prenotate in un anno, meno i costi. Il difficile è stimare bene i due ingredienti, tariffa e occupazione, perché cambiano con zona, stagione, eventi e qualità dell'annuncio.",
         "Un metodo prudente per non illudersi passa da quattro passi:"
       ],
       "list": [
@@ -115,7 +115,7 @@
     {
       "h2": "Il numero vero arriva solo dal tuo appartamento",
       "paragraphs": [
-        "È qui che l'analisi sul singolo appartamento fa la differenza: solo guardando dati reali di zona e calendario si passa da una stima indicativa a un numero su cui decidere. Il valore vero non è mai una media copiata da un articolo, ma la fotografia della tua casa: la sua zona, la sua metratura, il suo arredo e la stagione in cui apri le prenotazioni.",
+        "L'analisi sul singolo appartamento fa la differenza: servono i dati reali di zona e calendario. Il valore vero non è mai una media copiata da un articolo, ma la fotografia della tua casa: la sua zona, la sua metratura, il suo arredo e la stagione in cui apri le prenotazioni.",
         "Il nostro consiglio è di diffidare delle promesse tonde e uguali per tutti. Un affitto breve a Bologna può rendere molto bene, ma il 'molto bene' di un bilocale ristrutturato vicino a Piazza Maggiore non è quello di un appartamento da sistemare in periferia. Prima si fanno i conti seri, meglio si decide."
       ]
     }
@@ -123,7 +123,7 @@
   "faq": [
     {
       "q": "Quanto rende al mese un affitto breve a Bologna?",
-      "a": "Non esiste una cifra valida per tutti: è una stima indicativa che dipende da zona, immobile, stagione e gestione. A Bologna la domanda alta tutto l'anno aiuta, ma il rendimento mensile reale si ottiene solo incrociando tariffa media e occupazione del tuo specifico appartamento."
+      "a": "Non esiste una cifra valida per tutti: dipende da zona, immobile, stagione e gestione. A Bologna la domanda alta tutto l'anno aiuta, ma il rendimento mensile reale si ottiene solo incrociando tariffa media e occupazione del tuo specifico appartamento."
     },
     {
       "q": "Conviene più l'affitto breve o quello tradizionale a Bologna?",
@@ -139,7 +139,7 @@
     },
     {
       "q": "Come faccio a sapere quanto renderebbe casa mia?",
-      "a": "Serve un'analisi sul tuo specifico immobile: si parte da zona, tipologia e stagionalità, si stima un'occupazione realistica e una tariffa media, poi si sottraggono i costi. Solo così una stima indicativa diventa un numero affidabile su cui decidere se e come affittare a breve."
+      "a": "Serve un'analisi sul tuo specifico immobile: si parte da zona, tipologia e stagionalità, si stima un'occupazione realistica e una tariffa media, poi si sottraggono i costi. Solo così una stima indicativa diventa un numero su cui decidere."
     }
   ],
   "related": [

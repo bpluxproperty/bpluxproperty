@@ -30,9 +30,9 @@
     {
       "h2": "La resa dipende dal caso specifico",
       "paragraphs": [
-        "Diffida di chi promette una percentuale valida per tutti. La resa reale resta una stima indicativa finché non si calcola sul tuo immobile: dipende da occupazione, tariffa media e costi effettivi.",
-        "La formula di base è semplice: quanto incassi (occupazione × tariffa media) meno i costi (pulizie, utenze, commissioni, gestione, imposte). E vale una regola d'oro: si ragiona sul netto, non sul lordo.",
-        "A Sorrento c'è un elemento in più da mettere nel conto: i prezzi d'acquisto alti. Per chi la casa ce l'ha già, il confronto è con il canone di un affitto tradizionale; per chi compra per mettere a reddito, il ricavo va sempre rapportato al capitale investito, che qui pesa parecchio sul rendimento in percentuale. Il risultato cambia molto da un appartamento all'altro, anche nella stessa via."
+        "Chi indica una percentuale universale non ha guardato la tua casa. Prima del calcolo sulla casa vera si parla di ipotesi, non di resa.",
+        "Occupazione per tariffa media, poi via le spese ricorrenti e le imposte. E vale una regola d'oro: si ragiona sul netto, non sul lordo.",
+        "A Sorrento c'è un elemento in più da mettere nel conto: i prezzi d'acquisto alti. Per chi la casa ce l'ha già, il confronto è con il canone di un affitto tradizionale; per chi compra per mettere a reddito, il ricavo va sempre rapportato al capitale investito, che qui pesa parecchio sul rendimento in percentuale. Anche nello stesso palazzo i numeri divergono."
       ]
     },
     {
@@ -75,7 +75,7 @@
           [
             "Recensioni e reputazione",
             "Pesano sul posizionamento nell'algoritmo dei portali",
-            "Più visibilità e meno notti sfitte"
+            "Annuncio più in alto e calendario più pieno"
           ],
           [
             "Prezzo d'acquisto",
@@ -101,7 +101,7 @@
     {
       "h2": "Quanto se ne va in costi",
       "paragraphs": [
-        "La resa lorda inganna: conta quella netta. Prima di stimare il guadagno, elenca con onestà tutte le voci di costo, comprese quelle che si tende a dimenticare."
+        "Il lordo dice poco: il numero utile è il netto. Il primo lavoro è la lista delle spese, anche quelle scomode."
       ],
       "list": [
         "Pulizie e biancheria a ogni cambio ospite, più frequenti nei turnover fitti d'estate.",
@@ -114,15 +114,15 @@
     {
       "h2": "Dal dato generico al tuo caso",
       "paragraphs": [
-        "L'unico modo serio per sapere quanto rende il tuo immobile è analizzarlo: zona, affaccio, tipologia, stagionalità e concorrenza reale. Nella nostra esperienza le stime generiche prese online sbagliano quasi sempre, in un senso o nell'altro.",
-        "Per questo, prima di iniziare, analizziamo gratuitamente l'immobile e ti diamo una stima costruita sui suoi numeri, non su una media di città. È la differenza tra una percentuale copiata da un articolo e la fotografia reale della tua casa a Sorrento."
+        "L'unico modo serio per sapere quanto rende il tuo immobile è analizzarlo: zona, affaccio, tipologia, stagionalità e concorrenza reale. I calcolatori generici sovrastimano o sottostimano, raramente centrano.",
+        "Prima di decidere conviene far analizzare l'appartamento, non leggere una media. È la differenza tra una percentuale copiata da un articolo e la fotografia reale della tua casa a Sorrento."
       ]
     }
   ],
   "faq": [
     {
       "q": "Quanto rende un affitto breve a Sorrento?",
-      "a": "Dipende dal singolo immobile: la resa reale si calcola su occupazione, tariffa media e costi. A Sorrento la meta internazionale, la stagione lunga e le tariffe elevate aiutano, ma i prezzi d'acquisto alti vanno messi nel conto e qualsiasi percentuale valida «per tutti» resta una stima da verificare sul tuo appartamento."
+      "a": "La resa vera richiede i numeri di quella casa, non una stima di zona. A Sorrento la meta internazionale, la stagione lunga e le tariffe elevate aiutano, ma i prezzi d'acquisto alti vanno messi nel conto e qualsiasi percentuale valida «per tutti» resta una stima da verificare sul tuo appartamento."
     },
     {
       "q": "Quanto conta la vista mare sulla resa a Sorrento?",
@@ -138,7 +138,7 @@
     },
     {
       "q": "Come faccio a sapere la resa del mio immobile a Sorrento?",
-      "a": "Serve un'analisi sul singolo immobile: zona, affaccio, tipologia, stagionalità e concorrenza reale. Le stime generiche online sono spesso imprecise. Possiamo calcolare gratuitamente una stima costruita sui numeri effettivi del tuo appartamento, senza impegno."
+      "a": "Serve un'analisi sul singolo immobile: zona, affaccio, tipologia, stagionalità e concorrenza reale. Una stima costruita su medie non regge il confronto con i numeri reali. La stima sul tuo appartamento si costruisce sui suoi numeri, non su una media."
     }
   ],
   "related": [

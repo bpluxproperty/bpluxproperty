@@ -19,13 +19,31 @@
         "Ecco i piatti tipici che suggeriamo di cercare nel menù, con una nota su cosa aspettarsi:"
       ],
       "table": {
-        "headers": ["Piatto tipico", "Cos'è"],
+        "headers": [
+          "Piatto tipico",
+          "Cos'è"
+        ],
         "rows": [
-          ["Tagliatelle al ragù", "Sfoglia all'uovo fatta a mano con il classico ragù di carne."],
-          ["Tortellini in brodo", "Piccola pasta ripiena servita nel brodo, il piatto delle feste."],
-          ["Piadina romagnola", "Focaccia sottile farcita con squacquerone, salumi e verdure."],
-          ["Tagliere di salumi e formaggi", "Prosciutto, salame e formaggi locali, spesso con la piadina."],
-          ["Passatelli", "Pasta di pane, uovo e formaggio grattugiato, servita in brodo."]
+          [
+            "Tagliatelle al ragù",
+            "Sfoglia all'uovo fatta a mano con il classico ragù di carne."
+          ],
+          [
+            "Tortellini in brodo",
+            "Piccola pasta ripiena servita nel brodo, il piatto delle feste."
+          ],
+          [
+            "Piadina romagnola",
+            "Focaccia sottile farcita con squacquerone, salumi e verdure."
+          ],
+          [
+            "Tagliere di salumi e formaggi",
+            "Prosciutto, salame e formaggi locali, spesso con la piadina."
+          ],
+          [
+            "Passatelli",
+            "Pasta di pane, uovo e formaggio grattugiato, servita in brodo."
+          ]
         ]
       }
     },
@@ -93,7 +111,11 @@
       "a": "Colazione e aperitivo si fanno nei bar e nei locali del centro storico, tra i vicoli affrescati. Al mattino cornetto e cappuccino, al tramonto un calice di Sangiovese con un tagliere di salumi e formaggi. È il modo che consigliamo per vivere il borgo con il ritmo giusto, senza fretta."
     }
   ],
-  "related": ["cosa-vedere-a-dozza", "come-arrivare-a-dozza", "dove-dormire-a-dozza-appartamento"],
+  "related": [
+    "cosa-vedere-a-dozza",
+    "come-arrivare-a-dozza",
+    "dove-dormire-a-dozza-appartamento"
+  ],
   "sources": [
     {
       "label": "Dozza, il borgo dipinto e la tradizione del territorio",

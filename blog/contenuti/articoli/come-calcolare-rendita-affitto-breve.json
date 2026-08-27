@@ -146,8 +146,18 @@
     "quanto-costa-property-manager-affitti-brevi"
   ],
   "sources": [
-    {"label": "Locazioni brevi: disciplina fiscale e cedolare secca", "ente": "Agenzia delle Entrate", "data": "", "url": ""},
-    {"label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi", "ente": "Ministero del Turismo", "data": "", "url": ""}
+    {
+      "label": "Locazioni brevi: disciplina fiscale e cedolare secca",
+      "ente": "Agenzia delle Entrate",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Codice Identificativo Nazionale (CIN) per le locazioni brevi",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": false,
   "note": ""

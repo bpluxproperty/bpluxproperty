@@ -11,55 +11,114 @@
   "updatedAt": "2026-08-11",
   "heroKicker": "NORMATIVA & FISCO",
   "sections": [
-    { "h2": "Cos'è la cedolare secca",
+    {
+      "h2": "Cos'è la cedolare secca",
       "paragraphs": [
         "La cedolare secca è un regime fiscale opzionale: al posto dell'IRPEF, delle addizionali e di alcune imposte sul contratto, paghi un'unica imposta sostitutiva calcolata sul canone. È pensata per semplificare la tassazione degli affitti tra privati.",
         "Si applica ai redditi da locazione, compresi gli affitti brevi. Il rovescio della medaglia è che non puoi dedurre i costi: si tassa il canone, non l'utile."
-      ] },
-    { "h2": "Le aliquote: 21% e 26%",
+      ]
+    },
+    {
+      "h2": "Le aliquote: 21% e 26%",
       "paragraphs": [
         "Per gli affitti brevi l'aliquota ordinaria è il 21%. Dalla Legge di Bilancio 2024 è stato introdotto il 26% quando si destinano più immobili agli affitti brevi: resti al 21% su un immobile a tua scelta e passi al 26% sugli altri.",
         "In pratica: un solo appartamento a breve resta al 21%; dal secondo in poi si applica il 26%. La scelta di quale immobile tenere al 21% la fai tu, di norma in dichiarazione."
       ],
-      "table": { "headers": ["Situazione", "Aliquota cedolare"],
+      "table": {
+        "headers": [
+          "Situazione",
+          "Aliquota cedolare"
+        ],
         "rows": [
-          ["1 immobile affittato a breve", "21%"],
-          ["Dal 2° immobile in poi", "26%"],
-          ["Oltre la soglia d'impresa (dal 3°)", "Non applicabile: si va in regime d'impresa"]
-        ] } },
-    { "h2": "A chi si applica (e a chi no)",
+          [
+            "1 immobile affittato a breve",
+            "21%"
+          ],
+          [
+            "Dal 2° immobile in poi",
+            "26%"
+          ],
+          [
+            "Oltre la soglia d'impresa (dal 3°)",
+            "Non applicabile: si va in regime d'impresa"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "A chi si applica (e a chi no)",
       "paragraphs": [
         "La cedolare secca è riservata alle persone fisiche che affittano al di fuori di un'attività d'impresa. Superata la soglia degli immobili oltre cui si presume l'impresa, non è più possibile: si entra nel reddito d'impresa con partita IVA.",
         "Questo è lo spartiacque da conoscere prima di ampliare: fino a due immobili sei nel mondo della cedolare, dal terzo cambia tutto."
-      ] },
-    { "h2": "La ritenuta degli intermediari",
+      ]
+    },
+    {
+      "h2": "La ritenuta degli intermediari",
       "paragraphs": [
         "Quando affitti tramite portali come Airbnb o Booking, o tramite un intermediario che incassa i canoni, di norma viene applicata una ritenuta del 21% sui canoni, a titolo di acconto o imposta.",
         "Non è una tassa in più: è un anticipo che ritrovi in dichiarazione. È utile saperlo per non farsi sorprendere dagli importi netti accreditati."
-      ] },
-    { "h2": "Cedolare o tassazione ordinaria: come scegliere",
+      ]
+    },
+    {
+      "h2": "Cedolare o tassazione ordinaria: come scegliere",
       "paragraphs": [
         "La cedolare conviene quando l'aliquota piatta è più bassa della tua aliquota IRPEF marginale e non hai molti costi da dedurre. Con redditi bassi o costi elevati, a volte la tassazione ordinaria può risultare più vantaggiosa.",
         "Non c'è una risposta valida per tutti: dipende dal tuo reddito complessivo. È una verifica da fare con il commercialista, numeri alla mano."
       ],
-      "list": ["Cedolare: aliquota fissa, niente deduzione dei costi", "Ordinaria (IRPEF): scaglioni progressivi, possibilità di dedurre alcune spese", "La scelta si valuta sul reddito complessivo, non solo sull'affitto"] },
-    { "h2": "Come si opta per la cedolare",
+      "list": [
+        "Cedolare: aliquota fissa, niente deduzione dei costi",
+        "Ordinaria (IRPEF): scaglioni progressivi, possibilità di dedurre alcune spese",
+        "La scelta si valuta sul reddito complessivo, non solo sull'affitto"
+      ]
+    },
+    {
+      "h2": "Come si opta per la cedolare",
       "paragraphs": [
         "Per gli affitti brevi l'opzione si esercita in genere direttamente in dichiarazione dei redditi, indicando i canoni nel quadro dedicato. Non serve registrare un contratto quando la durata rientra nei limiti della locazione breve.",
         "Conserva sempre le certificazioni degli incassi e delle ritenute operate dagli intermediari: servono per la dichiarazione."
-      ] }
+      ]
+    }
   ],
   "faq": [
-    { "q": "Qual è l'aliquota della cedolare secca sugli affitti brevi?", "a": "L'aliquota è del 21% sul primo immobile destinato agli affitti brevi e del 26% dal secondo in poi. Puoi scegliere su quale immobile mantenere il 21%. Oltre la soglia d'impresa la cedolare non è più applicabile." },
-    { "q": "La cedolare secca conviene sempre?", "a": "No, non sempre. Conviene quando il 21% è inferiore alla tua aliquota IRPEF e non hai molti costi deducibili. Con redditi bassi o spese elevate la tassazione ordinaria può convenire di più. È una verifica da fare con il commercialista." },
-    { "q": "Cos'è la ritenuta del 21% di Airbnb?", "a": "È un acconto: gli intermediari che incassano i canoni applicano una ritenuta del 21% e la versano per tuo conto. Non è una tassa aggiuntiva, la ritrovi in dichiarazione dei redditi conguagliando quanto già trattenuto." },
-    { "q": "Posso usare la cedolare con più appartamenti?", "a": "Sì, ma dal secondo immobile l'aliquota sale al 26%. Superata la soglia oltre cui si presume l'attività d'impresa (dal terzo immobile), la cedolare non è più applicabile e serve la partita IVA con il regime d'impresa." },
-    { "q": "Con la cedolare devo pagare l'IRPEF sull'affitto?", "a": "No. La cedolare è sostitutiva: paghi l'imposta piatta al posto dell'IRPEF e delle addizionali su quel reddito. In cambio non puoi dedurre i costi sostenuti per l'immobile: si tassa il canone incassato." }
+    {
+      "q": "Qual è l'aliquota della cedolare secca sugli affitti brevi?",
+      "a": "L'aliquota è del 21% sul primo immobile destinato agli affitti brevi e del 26% dal secondo in poi. Puoi scegliere su quale immobile mantenere il 21%. Oltre la soglia d'impresa la cedolare non è più applicabile."
+    },
+    {
+      "q": "La cedolare secca conviene sempre?",
+      "a": "No, non sempre. Conviene quando il 21% è inferiore alla tua aliquota IRPEF e non hai molti costi deducibili. Con redditi bassi o spese elevate la tassazione ordinaria può convenire di più. È una verifica da fare con il commercialista."
+    },
+    {
+      "q": "Cos'è la ritenuta del 21% di Airbnb?",
+      "a": "È un acconto: gli intermediari che incassano i canoni applicano una ritenuta del 21% e la versano per tuo conto. Non è una tassa aggiuntiva, la ritrovi in dichiarazione dei redditi conguagliando quanto già trattenuto."
+    },
+    {
+      "q": "Posso usare la cedolare con più appartamenti?",
+      "a": "Sì, ma dal secondo immobile l'aliquota sale al 26%. Superata la soglia oltre cui si presume l'attività d'impresa (dal terzo immobile), la cedolare non è più applicabile e serve la partita IVA con il regime d'impresa."
+    },
+    {
+      "q": "Con la cedolare devo pagare l'IRPEF sull'affitto?",
+      "a": "No. La cedolare è sostitutiva: paghi l'imposta piatta al posto dell'IRPEF e delle addizionali su quel reddito. In cambio non puoi dedurre i costi sostenuti per l'immobile: si tassa il canone incassato."
+    }
   ],
-  "related": ["terzo-immobile-partita-iva-affitti-brevi", "cin-affitti-brevi-come-ottenerlo", "property-manager-affitti-brevi"],
+  "related": [
+    "terzo-immobile-partita-iva-affitti-brevi",
+    "cin-affitti-brevi-come-ottenerlo",
+    "property-manager-affitti-brevi"
+  ],
   "sources": [
-    { "label": "Cedolare secca sulle locazioni", "ente": "Agenzia delle Entrate", "data": "", "url": "" },
-    { "label": "Aliquota 26% dal secondo immobile", "ente": "Legge di Bilancio 2024", "data": "2024", "url": "" }
+    {
+      "label": "Cedolare secca sulle locazioni",
+      "ente": "Agenzia delle Entrate",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Aliquota 26% dal secondo immobile",
+      "ente": "Legge di Bilancio 2024",
+      "data": "2024",
+      "url": ""
+    }
   ],
   "disclaimer": true,
   "note": ""

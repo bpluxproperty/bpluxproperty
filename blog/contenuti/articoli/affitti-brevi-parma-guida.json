@@ -22,7 +22,7 @@
       "h2": "Le zone migliori per gli affitti brevi a Parma",
       "paragraphs": [
         "A Parma non esiste una sola zona giusta: esiste la zona giusta per ogni tipo di ospite. Il centro storico vive di turismo culturale e gastronomico tutto l'anno, l'Oltretorrente ha un'anima più popolare e autentica, mentre l'area vicino alla stazione e alle fiere intercetta la domanda business. Capire la vocazione dell'immobile è il primo passo.",
-        "Ecco una mappa sintetica delle principali zone, con la loro vocazione e il tipo di ospite che intercettano più spesso. Usala come punto di partenza prima di acquistare o mettere a reddito un appartamento: la posizione è una scelta che ti porti dietro per anni e pesa più di quasi ogni altra leva."
+        "Le zone principali, con quello che offrono e chi le prenota. Serve prima dell'acquisto, non dopo: la zona non si cambia, mentre arredo e tariffe sì."
       ],
       "table": {
         "headers": [
@@ -100,11 +100,11 @@
       "h2": "Permessi, tributi e comunicazioni obbligatorie",
       "paragraphs": [
         "Affittare a Parma in modo serio significa essere in regola. Come nel resto d'Italia ci sono adempimenti di base da conoscere prima ancora di pubblicare l'annuncio, e vanno seguiti con precisione: non sono formalità, ma condizioni per restare online e per evitare sanzioni, che si applicano per singolo immobile.",
-        "Le regole possono cambiare e vanno sempre verificate presso le fonti ufficiali, a partire dal Comune di Parma per l'imposta di soggiorno. Qui trovi solo la sintesi degli adempimenti principali, non un parere fiscale o legale. Per il CIN, primo passo per pubblicare un annuncio a norma, rimandiamo alla nostra guida dedicata, dove spieghiamo cos'è e come si ottiene."
+        "Le regole possono cambiare e vanno sempre verificate presso le fonti ufficiali, a partire dal Comune di Parma per l'imposta di soggiorno. Sono gli adempimenti principali in sintesi: il parere sul caso specifico lo dà un professionista. Per il CIN, primo passo per pubblicare un annuncio a norma, rimandiamo alla nostra guida dedicata, dove spieghiamo cos'è e come si ottiene."
       ],
       "list": [
-        "CIN (Codice Identificativo Nazionale): obbligatorio e da indicare negli annunci. Trovi tutti i dettagli nella nostra guida dedicata al CIN.",
-        "Comunicazione degli ospiti: i dati vanno trasmessi tramite il portale Alloggiati Web della Polizia di Stato.",
+        "CIN: obbligatorio per pubblicare, da riportare in ogni annuncio. La procedura sta nella guida al CIN.",
+        "Ospiti da comunicare: i dati di chi dorme in casa vanno caricati su Alloggiati Web.",
         "Imposta di soggiorno: tributo comunale a carico dell'ospite, che l'host raccoglie e versa al Comune di Parma secondo le sue regole."
       ]
     },
@@ -112,14 +112,14 @@
       "h2": "Perché a Parma molti proprietari scelgono di delegare",
       "paragraphs": [
         "Parma mette insieme una domanda varia e una gestione che cambia ritmo di continuo: weekend gastronomici, settimane di fiera, soggiorni culturali, ospiti che usano la città come base per la food valley. Ogni segmento vuole un prezzo diverso e tempi diversi. È proprio questa varietà a spingere molti proprietari a non gestire da soli.",
-        "B&P Lux Property nasce in Emilia-Romagna, dove cura immobili come property manager e Superhost. Il metodo non cambia da una città all'altra: prezzi allineati a eventi e stagioni, ospiti seguiti in più lingue, pulizie di standard alberghiero e adempimenti sempre in ordine. A Parma, dove i picchi si concentrano su food e fiere di settore, è questo lavoro costante a trasformare la domanda in prenotazioni e recensioni alte."
+        "La nostra attività di property manager si svolge in Emilia-Romagna. Lavoriamo su prezzi legati al calendario, ospiti seguiti nella loro lingua, pulizie verificate e adempimenti in regola. A Parma, dove i picchi si concentrano su food e fiere di settore, è questo lavoro costante a trasformare la domanda in prenotazioni e recensioni alte."
       ]
     }
   ],
   "faq": [
     {
       "q": "Conviene fare affitti brevi a Parma?",
-      "a": "Sì, Parma è un mercato interessante grazie alla sua identità di capitale del food e a una domanda distribuita nell'anno. Le richieste arrivano da turismo gastronomico e culturale, fiere del settore alimentare e università. La resa dipende però da zona, qualità dell'immobile e gestione."
+      "a": "Sì, Parma è un mercato interessante grazie alla sua identità di capitale del food e a una domanda distribuita nell'anno. Le richieste arrivano da turismo gastronomico e culturale, fiere del settore alimentare e università. Il risultato cambia con la zona, con le condizioni dell'appartamento e con la gestione."
     },
     {
       "q": "Quali sono le zone migliori per gli affitti brevi a Parma?",
@@ -127,7 +127,7 @@
     },
     {
       "q": "Serve il CIN per gli affitti brevi a Parma?",
-      "a": "Sì, il CIN, il Codice Identificativo Nazionale, è obbligatorio per pubblicare e gestire un affitto breve e va indicato negli annunci. A Parma si aggiungono la comunicazione dei dati degli ospiti tramite Alloggiati Web e l'imposta di soggiorno comunale. Tutti i dettagli sono nella nostra guida dedicata al CIN."
+      "a": "Sì, il CIN, il Codice Identificativo Nazionale, è obbligatorio per pubblicare e gestire un affitto breve e va indicato negli annunci. A Parma si aggiungono la comunicazione dei dati degli ospiti tramite Alloggiati Web e l'imposta di soggiorno comunale. Come si ottiene lo spieghiamo nella guida al CIN."
     },
     {
       "q": "Quando c'è più domanda di affitti brevi a Parma?",
@@ -135,7 +135,7 @@
     },
     {
       "q": "Parma è una buona base per visitare la food valley emiliana?",
-      "a": "Sì, ed è una delle sue leve più forti. Parma è nel cuore della food valley, tra caseifici del Parmigiano Reggiano e prosciuttifici, ed è ben collegata sulla via Emilia. Molti ospiti la scelgono come base per soggiorni enogastronomici, spesso più lunghi del singolo weekend."
+      "a": "Sì, e vale più di quanto sembri a prima vista. Parma è nel cuore della food valley, tra caseifici del Parmigiano Reggiano e prosciuttifici, ed è ben collegata sulla via Emilia. Molti ospiti la scelgono come base per soggiorni enogastronomici, spesso più lunghi del singolo weekend."
     }
   ],
   "related": [

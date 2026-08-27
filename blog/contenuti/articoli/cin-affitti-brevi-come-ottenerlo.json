@@ -11,57 +11,125 @@
   "updatedAt": "2026-08-11",
   "heroKicker": "NORMATIVA & FISCO",
   "sections": [
-    { "h2": "Cos'è il CIN e a cosa serve",
+    {
+      "h2": "Cos'è il CIN e a cosa serve",
       "paragraphs": [
         "Il Codice Identificativo Nazionale è un codice univoco assegnato all'immobile che affitti a breve termine o come casa vacanza. Serve allo Stato per censire e controllare gli alloggi turistici, e va reso visibile a chi prenota.",
         "Nasce per uniformare a livello nazionale i vecchi codici regionali (i CIR), che restano in uso in alcune regioni. In pratica oggi, per pubblicare un annuncio in regola, il CIN è il riferimento principale."
-      ] },
-    { "h2": "Chi deve richiederlo",
+      ]
+    },
+    {
+      "h2": "Chi deve richiederlo",
       "paragraphs": [
         "Deve richiederlo chiunque destini un immobile alla locazione breve o turistica, sia come privato sia come impresa. Vale per gli appartamenti interi e per le singole stanze, indipendentemente dal portale su cui pubblichi."
       ],
-      "list": ["Proprietari che affittano a breve come privati", "Gestori e property manager per conto dei proprietari", "Chi affitta anche una sola stanza", "Chi pubblica su Airbnb, Booking o altri portali"] },
-    { "h2": "Come si ottiene, passo per passo",
+      "list": [
+        "Proprietari che affittano a breve come privati",
+        "Gestori e property manager per conto dei proprietari",
+        "Chi affitta anche una sola stanza",
+        "Chi pubblica su Airbnb, Booking o altri portali"
+      ]
+    },
+    {
+      "h2": "Come si ottiene, passo per passo",
       "paragraphs": [
         "La richiesta è online e gratuita, sulla Banca Dati delle Strutture Ricettive del Ministero del Turismo. Serve un'identità digitale e i dati catastali dell'immobile."
       ],
-      "list": ["Accedi al portale del Ministero del Turismo con SPID o CIE", "Inserisci i dati dell'immobile (indirizzo e dati catastali)", "Compila le informazioni richieste e le autocertificazioni sui requisiti", "Ottieni il CIN generato dal sistema", "Esponi il CIN negli annunci e all'esterno dell'alloggio"] },
-    { "h2": "CIN e CIR: che differenza c'è",
+      "list": [
+        "Accedi al portale del Ministero del Turismo con SPID o CIE",
+        "Inserisci i dati dell'immobile (indirizzo e dati catastali)",
+        "Compila le informazioni richieste e le autocertificazioni sui requisiti",
+        "Ottieni il CIN generato dal sistema",
+        "Esponi il CIN negli annunci e all'esterno dell'alloggio"
+      ]
+    },
+    {
+      "h2": "CIN e CIR: che differenza c'è",
       "paragraphs": [
         "Il CIR è il codice identificativo regionale, previsto da alcune regioni già prima del CIN. Il CIN è nazionale e ha l'obiettivo di unificare il quadro. In diverse regioni oggi convivono: verifica sempre cosa richiede la tua regione, oltre al CIN.",
         "Nella nostra esperienza è uno dei punti che genera più confusione: molti proprietari pensano di essere a posto col solo codice regionale, e non lo sono."
-      ] },
-    { "h2": "Cosa serve prima di richiederlo: i requisiti di sicurezza",
+      ]
+    },
+    {
+      "h2": "Cosa serve prima di richiederlo: i requisiti di sicurezza",
       "paragraphs": [
         "La normativa collega al CIN alcuni requisiti di sicurezza dell'alloggio. In genere si richiede la presenza di estintori e di rilevatori di gas e di monossido di carbonio, oltre alla conformità degli impianti.",
         "Prima di avviare la pratica conviene verificare questi requisiti: sono dovuti a prescindere e, se mancano, l'immobile non è realmente in regola anche con il CIN ottenuto."
-      ] },
-    { "h2": "Cosa si rischia senza CIN",
+      ]
+    },
+    {
+      "h2": "Cosa si rischia senza CIN",
       "paragraphs": [
         "Le conseguenze sono due e si sommano: la rimozione dell'annuncio dalle piattaforme e le sanzioni pecuniarie. Gli importi sono rilevanti e si applicano per singolo immobile."
       ],
-      "table": { "headers": ["Violazione", "Sanzione indicativa"],
+      "table": {
+        "headers": [
+          "Violazione",
+          "Sanzione indicativa"
+        ],
         "rows": [
-          ["Assenza del CIN", "nell'ordine di 800 - 8.000 € per immobile"],
-          ["CIN non indicato negli annunci", "nell'ordine di 500 - 5.000 €"],
-          ["Annuncio online", "rimozione dalla piattaforma"]
-        ] } },
-    { "h2": "Dove va esposto il CIN",
+          [
+            "Assenza del CIN",
+            "nell'ordine di 800 - 8.000 € per immobile"
+          ],
+          [
+            "CIN non indicato negli annunci",
+            "nell'ordine di 500 - 5.000 €"
+          ],
+          [
+            "Annuncio online",
+            "rimozione dalla piattaforma"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Dove va esposto il CIN",
       "paragraphs": [
         "Il CIN va indicato in ogni annuncio, su tutti i portali dove pubblichi l'immobile, e va esposto all'esterno dell'alloggio. È un controllo semplice che le piattaforme ormai fanno in automatico: senza codice, l'annuncio non resta online."
-      ] }
+      ]
+    }
   ],
   "faq": [
-    { "q": "Il CIN è obbligatorio anche per una sola stanza?", "a": "Sì. Il CIN è obbligatorio per qualsiasi immobile o stanza destinati alla locazione breve o turistica, indipendentemente dal numero di alloggi e dal portale usato. Anche affittando una sola camera occorre richiederlo ed esporlo negli annunci." },
-    { "q": "Dove si richiede il CIN?", "a": "Il CIN si richiede online sulla Banca Dati delle Strutture Ricettive del Ministero del Turismo, accedendo con SPID o CIE. La procedura è gratuita e serve inserire i dati catastali dell'immobile e alcune autocertificazioni." },
-    { "q": "Quanto si rischia senza CIN?", "a": "Senza CIN l'annuncio viene rimosso dalle piattaforme e si rischiano sanzioni per singolo immobile, indicativamente nell'ordine di alcune migliaia di euro. Gli importi vanno verificati sulla normativa aggiornata: qui trovi solo un'indicazione." },
-    { "q": "CIN e CIR sono la stessa cosa?", "a": "No. Il CIR è il codice regionale previsto da alcune regioni, il CIN è nazionale. In diverse regioni convivono: avere il codice regionale non basta, occorre anche il CIN. Verifica sempre cosa richiede la tua regione." },
-    { "q": "Servono estintori e rilevatori per il CIN?", "a": "In genere sì. La normativa collega all'attività alcuni requisiti di sicurezza, tra cui estintori e rilevatori di gas e monossido di carbonio. Vanno verificati prima di avviare la pratica: sono dovuti a prescindere dal CIN." }
+    {
+      "q": "Il CIN è obbligatorio anche per una sola stanza?",
+      "a": "Sì. Il CIN è obbligatorio per qualsiasi immobile o stanza destinati alla locazione breve o turistica, indipendentemente dal numero di alloggi e dal portale usato. Anche affittando una sola camera occorre richiederlo ed esporlo negli annunci."
+    },
+    {
+      "q": "Dove si richiede il CIN?",
+      "a": "Il CIN si richiede online sulla Banca Dati delle Strutture Ricettive del Ministero del Turismo, accedendo con SPID o CIE. La procedura è gratuita e serve inserire i dati catastali dell'immobile e alcune autocertificazioni."
+    },
+    {
+      "q": "Quanto si rischia senza CIN?",
+      "a": "Senza CIN l'annuncio viene rimosso dalle piattaforme e si rischiano sanzioni per singolo immobile, indicativamente nell'ordine di alcune migliaia di euro. Gli importi vanno verificati sulla normativa aggiornata: qui trovi solo un'indicazione."
+    },
+    {
+      "q": "CIN e CIR sono la stessa cosa?",
+      "a": "No. Il CIR è il codice regionale previsto da alcune regioni, il CIN è nazionale. In diverse regioni convivono: avere il codice regionale non basta, occorre anche il CIN. Verifica sempre cosa richiede la tua regione."
+    },
+    {
+      "q": "Servono estintori e rilevatori per il CIN?",
+      "a": "In genere sì. La normativa collega all'attività alcuni requisiti di sicurezza, tra cui estintori e rilevatori di gas e monossido di carbonio. Vanno verificati prima di avviare la pratica: sono dovuti a prescindere dal CIN."
+    }
   ],
-  "related": ["terzo-immobile-partita-iva-affitti-brevi", "cedolare-secca-affitti-brevi", "property-manager-affitti-brevi"],
+  "related": [
+    "terzo-immobile-partita-iva-affitti-brevi",
+    "cedolare-secca-affitti-brevi",
+    "property-manager-affitti-brevi"
+  ],
   "sources": [
-    { "label": "Banca Dati Strutture Ricettive e CIN", "ente": "Ministero del Turismo", "data": "", "url": "" },
-    { "label": "Disciplina del Codice Identificativo Nazionale", "ente": "Normativa nazionale (DL 145/2013 e succ. mod.)", "data": "", "url": "" }
+    {
+      "label": "Banca Dati Strutture Ricettive e CIN",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Disciplina del Codice Identificativo Nazionale",
+      "ente": "Normativa nazionale (DL 145/2013 e succ. mod.)",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": true,
   "note": ""

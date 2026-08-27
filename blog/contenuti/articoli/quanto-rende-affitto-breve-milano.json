@@ -14,8 +14,8 @@
     {
       "h2": "Quanto rende un affitto breve a Milano: la risposta onesta",
       "paragraphs": [
-        "Partiamo dalla verità: non esiste un numero unico. Un affitto breve a Milano, se gestito bene, può rendere più di un affitto tradizionale a lungo termine. In cambio chiede più lavoro, più costi variabili e una gestione attiva. La forbice tra i due mondi si allarga o si stringe a seconda di quanto la casa resta occupata e a che tariffa.",
-        "Qualsiasi cifra tu legga in giro va presa come stima indicativa. La resa reale si misura solo sul singolo immobile, incrociando occupazione, tariffa media giornaliera (ADR) e costi. Per questo, invece di promettere numeri tondi, qui ti spieghiamo da cosa dipendono: così leggi il tuo caso con occhio critico."
+        "Chi cerca un numero secco resta deluso: non c'è. Un affitto breve a Milano, se gestito bene, può rendere più di un affitto tradizionale a lungo termine. Richiede presenza: senza gestione attiva il vantaggio si perde. Il vantaggio si misura su due numeri: notti occupate e prezzo medio.",
+        "Tratta ogni cifra trovata altrove come un riferimento largo. Si incrociano occupazione e tariffa media, poi si sottraggono i costi. Per questo, invece di promettere numeri tondi, qui ti spieghiamo da cosa dipendono: così leggi il tuo caso con occhio critico."
       ]
     },
     {
@@ -44,7 +44,7 @@
     {
       "h2": "Le variabili che contano davvero",
       "paragraphs": [
-        "Due appartamenti nello stesso palazzo possono rendere in modo molto diverso. Non è fortuna: è la somma di fattori che, in buona parte, puoi governare. Qui sotto i principali, con il perché contano e la direzione in cui spingono. Nessuna cifra: solo il segno, più o meno."
+        "Due appartamenti nello stesso palazzo possono rendere in modo molto diverso. Non è un sorteggio: è il prodotto di decisioni ripetute. Ecco su cosa si gioca il risultato. Solo il verso dell'effetto, non una quantificazione."
       ],
       "table": {
         "headers": [
@@ -56,7 +56,7 @@
           [
             "Zona",
             "Vicinanza a centro, distretti business e poli fieristici",
-            "Alza tariffa e occupazione nelle aree più richieste"
+            "Nelle zone forti spinge insieme prezzo e riempimento"
           ],
           [
             "Tipologia e dimensione",
@@ -65,23 +65,23 @@
           ],
           [
             "Qualità di arredo e foto",
-            "Primo filtro con cui l'ospite sceglie l'annuncio",
+            "Decide se l'annuncio viene aperto o scartato",
             "Più prenotazioni e margine per alzare il prezzo"
           ],
           [
             "Stagionalità ed eventi",
             "Picchi su Salone del Mobile, Fashion Week e congressi",
-            "Tariffe molto più alte nei giorni giusti"
+            "Nelle date forti il prezzo sale in modo netto"
           ],
           [
             "Prezzi dinamici",
             "Adeguare la tariffa a domanda, eventi e calendario",
-            "Recupera ricavi che il prezzo fisso rinuncia al margine dei picchi"
+            "Una tariffa che non si muove perde proprio i giorni che valgono"
           ],
           [
             "Recensioni e rating",
             "Reputazione e posizionamento nell'algoritmo",
-            "Più visibilità, meno notti sfitte, tariffa difendibile"
+            "Meno buchi in calendario e meno pressione a scontare"
           ]
         ]
       }
@@ -119,21 +119,21 @@
     {
       "h2": "Come si stima quanto può rendere una casa",
       "paragraphs": [
-        "La formula, a parole, è semplice: ricavo uguale tariffa media giornaliera per notti prenotate in un anno, meno i costi. Il difficile è stimare bene i due ingredienti, tariffa e occupazione, perché a Milano cambiano molto tra zona, stagione ed eventi.",
-        "È qui che l'analisi sul singolo appartamento fa la differenza: solo guardando dati reali di zona e calendario si passa da una stima indicativa a un numero su cui decidere. Il valore vero non è mai una media copiata da un articolo, ma la fotografia della tua casa: zona, metratura, arredo e stagione in cui apri le prenotazioni. Prima si fanno i conti seri, meglio si decide. Noi partiamo sempre da qui: analizziamo l'immobile e diciamo, con numeri realistici, quanto può rendere. Un metodo prudente, per non illudersi, passa da quattro passi:"
+        "Si moltiplica il prezzo medio per le notti occupate e si sottraggono le spese. Il difficile è stimare bene i due ingredienti, tariffa e occupazione, perché a Milano cambiano molto tra zona, stagione ed eventi.",
+        "Serve scendere sul singolo alloggio: zona, calendario, concorrenza reale. Il valore vero non è mai una media copiata da un articolo, ma la fotografia della tua casa: zona, metratura, arredo e stagione in cui apri le prenotazioni. Prima si fanno i conti seri, meglio si decide. Noi partiamo sempre da qui: analizziamo l'immobile e diciamo, con numeri realistici, quanto può rendere. Quattro passaggi, in ordine:"
       ],
       "list": [
-        "Stima l'occupazione realistica: quante notti l'anno riesci davvero a riempire, non lo scenario migliore.",
+        "Metti giù le notti vendibili con onestà, non con ottimismo.",
         "Definisci una tariffa media per stagione, tenendo conto dei picchi di fiere e moda e dei periodi lenti.",
         "Sottrai tutti i costi: pulizie, utenze, biancheria, commissioni delle piattaforme, manutenzione e imposte.",
-        "Rapporta il netto: al canone tradizionale se la casa è già tua, al prezzo d'acquisto se compri per investire."
+        "Il confronto cambia: con l'affitto lungo se la casa c'è già, con il capitale se la stai comprando."
       ]
     }
   ],
   "faq": [
     {
       "q": "Quanto rende al mese un affitto breve a Milano?",
-      "a": "Non esiste una cifra valida per tutti: è una stima indicativa che dipende da zona, immobile, stagione e gestione. A Milano la domanda alta tutto l'anno aiuta, ma il rendimento reale si ottiene solo incrociando tariffa media e occupazione del tuo specifico appartamento, al netto dei costi."
+      "a": "Una risposta unica non c'è: il risultato si costruisce su quattro fattori. A Milano la domanda alta tutto l'anno aiuta, ma il rendimento reale si ottiene solo incrociando tariffa media e occupazione del tuo specifico appartamento, al netto dei costi."
     },
     {
       "q": "Milano è davvero uno dei mercati più redditizi per gli affitti brevi?",
@@ -141,7 +141,7 @@
     },
     {
       "q": "Conviene più l'affitto breve o quello tradizionale a Milano?",
-      "a": "Di solito l'affitto breve ben gestito rende di più del canone tradizionale, ma con più costi e più lavoro. A Milano la domanda costante gioca a favore del breve; il confronto però va fatto sui numeri netti del tuo immobile, perché posizione e gestione cambiano tutto."
+      "a": "Rende in genere di più del canone tradizionale, con un margine che si paga in lavoro. A Milano la domanda costante gioca a favore del breve; il confronto però va fatto sui numeri netti del tuo immobile, perché posizione e gestione cambiano tutto."
     },
     {
       "q": "Quanto incidono il Salone del Mobile e la Fashion Week sui guadagni?",
@@ -149,7 +149,7 @@
     },
     {
       "q": "Come faccio a sapere quanto renderebbe casa mia a Milano?",
-      "a": "Serve un'analisi sul tuo specifico immobile: si parte da zona, tipologia e stagionalità, si stima un'occupazione realistica e una tariffa media, poi si sottraggono i costi. Solo così una stima indicativa diventa un numero affidabile su cui decidere se e come affittare a breve."
+      "a": "Serve un'analisi sul tuo specifico immobile: si parte da zona, tipologia e stagionalità, si stima un'occupazione realistica e una tariffa media, poi si sottraggono i costi. Da qui si passa dalla stima al calcolo."
     }
   ],
   "related": [

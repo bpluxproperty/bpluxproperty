@@ -11,59 +11,135 @@
   "updatedAt": "2026-08-11",
   "heroKicker": "GESTIONE",
   "sections": [
-    { "h2": "Cosa serve per gestire un affitto breve a distanza",
+    {
+      "h2": "Cosa serve per gestire un affitto breve a distanza",
       "paragraphs": [
         "La parte facile vive online. L'annuncio, il calendario, i prezzi e i messaggi li gestisci dal telefono, che tu sia nella stanza accanto o in un'altra regione. Non è lì il problema della distanza.",
         "Il problema è il mondo fisico. Una casa da affittare ha una porta da aprire, lenzuola da cambiare, un rubinetto che prima o poi perde. Gestire a distanza significa costruire un sistema che copra queste quattro cose, sempre."
       ],
-      "list": ["Accesso autonomo: serratura smart, key box o tastierino, così l'ospite entra senza di te", "Un team locale fisso per pulizie, cambio biancheria e piccola manutenzione", "Gestione da remoto di annuncio, prezzi, calendario e messaggi", "Un referente sul posto che può arrivare in fretta per un guasto o un ospite chiuso fuori"] },
-    { "h2": "I due modi: fai-da-te a distanza o property manager locale",
+      "list": [
+        "Accesso autonomo: serratura smart, key box o tastierino, così l'ospite entra senza di te",
+        "Un team locale fisso per pulizie, cambio biancheria e piccola manutenzione",
+        "Gestione da remoto di annuncio, prezzi, calendario e messaggi",
+        "Un referente sul posto che può arrivare in fretta per un guasto o un ospite chiuso fuori"
+      ]
+    },
+    {
+      "h2": "I due modi: fai-da-te a distanza o property manager locale",
       "paragraphs": [
         "Le strade sono due. Il fai-da-te a distanza è possibile: coordini tu i fornitori, gestisci codici e messaggi, tieni tutto sotto controllo. Funziona, ma ti lega a persone che non vedi e non controlli davvero.",
         "L'alternativa è affidarsi a un property manager che opera già sul territorio: ha un team, chiavi di scorta e strumenti pronti. Paghi una percentuale, ma scarichi tutta l'operatività fisica. La tabella mette a confronto i due approcci sugli aspetti che contano."
       ],
-      "table": { "headers": ["Aspetto", "Fai-da-te a distanza", "Property manager locale"],
+      "table": {
+        "headers": [
+          "Aspetto",
+          "Fai-da-te a distanza",
+          "Property manager locale"
+        ],
         "rows": [
-          ["Accesso e chiavi", "Installi tu il sistema e gestisci i codici da remoto", "Se ne occupa il gestore, con chiavi di scorta sul posto"],
-          ["Pulizie e biancheria", "Trovi e coordini tu i fornitori, sperando siano affidabili", "Team già rodato, con coperture se qualcuno salta"],
-          ["Imprevisti fisici", "Dipendi da chi riesci a raggiungere al momento", "Un referente interviene in fretta sul territorio"],
-          ["Prezzi e annuncio", "Li curi tu, col tuo tempo e la tua esperienza", "Prezzi dinamici e ottimizzazione dell'annuncio inclusi"],
-          ["Burocrazia", "La segui tu: CIN, comunicazione ospiti, imposta di soggiorno", "Gestita dal property manager"],
-          ["Costo", "Nessuna percentuale, ma ci metti tempo e stress", "Una percentuale sugli incassi, zero pensieri operativi"],
-          ["Controllo", "Massimo, però tutto pesa sulle tue spalle", "Deleghi l'operativo e tieni le decisioni chiave"]
-        ] } },
-    { "h2": "Tecnologia e self check-in: il cuore della gestione a distanza",
+          [
+            "Accesso e chiavi",
+            "Installi tu il sistema e gestisci i codici da remoto",
+            "Se ne occupa il gestore, con chiavi di scorta sul posto"
+          ],
+          [
+            "Pulizie e biancheria",
+            "Trovi e coordini tu i fornitori, sperando siano affidabili",
+            "Team già rodato, con coperture se qualcuno salta"
+          ],
+          [
+            "Imprevisti fisici",
+            "Dipendi da chi riesci a raggiungere al momento",
+            "Un referente interviene in fretta sul territorio"
+          ],
+          [
+            "Prezzi e annuncio",
+            "Li curi tu, col tuo tempo e la tua esperienza",
+            "Prezzi dinamici e ottimizzazione dell'annuncio inclusi"
+          ],
+          [
+            "Burocrazia",
+            "La segui tu: CIN, comunicazione ospiti, imposta di soggiorno",
+            "Gestita dal property manager"
+          ],
+          [
+            "Costo",
+            "Nessuna percentuale, ma ci metti tempo e stress",
+            "Una percentuale sugli incassi, zero pensieri operativi"
+          ],
+          [
+            "Controllo",
+            "Massimo, però tutto pesa sulle tue spalle",
+            "Deleghi l'operativo e tieni le decisioni chiave"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Tecnologia e self check-in: il cuore della gestione a distanza",
       "paragraphs": [
         "Il self check-in è ciò che rende possibile tutto il resto. Se l'ospite entra da solo con un codice, una key box o una serratura smart, non devi essere fisicamente lì a ogni arrivo. È il primo mattone da posare.",
         "La regola d'oro è cambiare il codice a ogni ospite e tenere sempre una chiave di scorta gestita da qualcuno sul posto. Un accesso che funziona sulla carta ma lascia l'ospite fuori alle undici di sera diventa subito un problema che non puoi risolvere da lontano.",
         "Il resto della gestione vive online e si automatizza: un gestionale che sincronizza i calendari dei portali per non prendere doppie prenotazioni, prezzi dinamici che si muovono con la domanda, messaggi automatici per conferme e istruzioni d'accesso. Da remoto puoi fare quasi tutto. Quasi."
-      ] },
-    { "h2": "Il team locale: pulizie, biancheria e piccola manutenzione",
+      ]
+    },
+    {
+      "h2": "Il team locale: pulizie, biancheria e piccola manutenzione",
       "paragraphs": [
         "Qui si gioca la partita vera. Tra un check-out e il check-in successivo la casa va pulita, la biancheria cambiata, i rifornimenti ripristinati, spesso in poche ore. A distanza dipendi interamente da chi lo fa al posto tuo.",
         "Il rischio del fai-da-te lontano è tutto qui: ti appoggi a fornitori che non controlli. Se l'addetto alle pulizie si ammala il giorno di un arrivo, o sparisce, resti scoperto e non hai un piano B a portata di mano.",
         "Noi in B&P Lux Property gestiamo immobili proprio per proprietari che non vivono in zona. La differenza la fa avere un team stabile sul territorio, in Emilia-Romagna, e non un fornitore diverso ogni volta: le stesse persone conoscono la casa, sanno dove sono le scorte e possono coprirsi a vicenda quando serve."
-      ] },
-    { "h2": "I rischi da gestire quando sei lontano",
+      ]
+    },
+    {
+      "h2": "I rischi da gestire quando sei lontano",
       "paragraphs": [
         "Gestire a distanza non è difficile quando tutto fila liscio. Lo diventa quando qualcosa va storto e tu sei a centinaia di chilometri. Questi sono gli imprevisti che mettono davvero alla prova un host non residente."
       ],
-      "list": ["Il guasto improvviso, dalla caldaia alla perdita d'acqua, senza nessuno che possa entrare", "L'ospite chiuso fuori a tarda notte, con te irraggiungibile o troppo lontano", "Le pulizie saltate tra un check-out e un check-in ravvicinati", "Il fornitore che sparisce o cambia condizioni e ti lascia scoperto all'ultimo", "La comunicazione degli ospiti alle autorità dimenticata nella fretta"] },
-    { "h2": "Quando conviene delegare a un property manager",
+      "list": [
+        "Il guasto improvviso, dalla caldaia alla perdita d'acqua, senza nessuno che possa entrare",
+        "L'ospite chiuso fuori a tarda notte, con te irraggiungibile o troppo lontano",
+        "Le pulizie saltate tra un check-out e un check-in ravvicinati",
+        "Il fornitore che sparisce o cambia condizioni e ti lascia scoperto all'ultimo",
+        "La comunicazione degli ospiti alle autorità dimenticata nella fretta"
+      ]
+    },
+    {
+      "h2": "Quando conviene delegare a un property manager",
       "paragraphs": [
         "Il fai-da-te a distanza ha senso se hai un solo immobile, un po' di tempo e una rete di contatti fidati già sul posto: un'impresa di pulizie affidabile, un idraulico che risponde, un vicino di cui ti fidi. In questo caso puoi gestire bene anche da lontano.",
         "Delegare conviene quando manca uno di questi pezzi. Se non hai una rete locale, se il tuo tempo vale più della percentuale che pagheresti, o se un imprevisto fisico a distanza ti costerebbe più di quanto risparmi facendo da solo, un gestore sul territorio ripaga in fretta.",
         "Il nostro approccio è partire da un'analisi onesta dell'immobile e della tua situazione. Se il fai-da-te a distanza ha senso per te, lo diciamo. La gestione professionale conviene quando toglie problemi reali, non quando li sposta soltanto."
-      ] }
+      ]
+    }
   ],
   "faq": [
-    { "q": "Si può davvero gestire un affitto breve in un'altra città?", "a": "Sì. La parte online (annuncio, prezzi, calendario, messaggi) la gestisci da ovunque. Il punto critico è il mondo fisico: accesso, pulizie e imprevisti. Serve un sistema con self check-in, un team locale affidabile e un referente che possa intervenire sul posto." },
-    { "q": "Come gestisco il check-in se non sono sul posto?", "a": "Con il self check-in: l'ospite entra da solo con un codice, una key box o una serratura smart, seguendo le istruzioni che gli mandi prima dell'arrivo. La regola è cambiare il codice a ogni ospite e tenere una chiave di scorta gestita da qualcuno sul territorio." },
-    { "q": "Meglio il fai-da-te a distanza o un property manager locale?", "a": "Il fai-da-te funziona se hai un solo immobile, tempo e una rete di contatti fidati già sul posto. Un property manager locale conviene quando non hai una rete sul territorio, il tuo tempo vale di più, o vuoi scaricare del tutto la gestione degli imprevisti fisici." },
-    { "q": "Cosa succede se si rompe qualcosa e sono lontano?", "a": "È il vero nodo della gestione a distanza. Da solo dipendi da chi riesci a raggiungere in quel momento, spesso senza nessuno che possa entrare in casa. Un team o un referente sul territorio interviene in fretta, ed è la ragione principale per cui molti proprietari non residenti scelgono di delegare." },
-    { "q": "Chi si occupa delle pulizie se gestisco da un'altra città?", "a": "Nel fai-da-te coordini tu un'impresa di pulizie locale, con il rischio di restare scoperto se salta all'ultimo. Con un property manager il team di pulizie e cambio biancheria è già organizzato, con coperture in caso di imprevisto. È spesso l'aspetto più delicato quando si gestisce da lontano." }
+    {
+      "q": "Si può davvero gestire un affitto breve in un'altra città?",
+      "a": "Sì. La parte online (annuncio, prezzi, calendario, messaggi) la gestisci da ovunque. Il punto critico è il mondo fisico: accesso, pulizie e imprevisti. Serve un sistema con self check-in, un team locale affidabile e un referente che possa intervenire sul posto."
+    },
+    {
+      "q": "Come gestisco il check-in se non sono sul posto?",
+      "a": "Con il self check-in: l'ospite entra da solo con un codice, una key box o una serratura smart, seguendo le istruzioni che gli mandi prima dell'arrivo. La regola è cambiare il codice a ogni ospite e tenere una chiave di scorta gestita da qualcuno sul territorio."
+    },
+    {
+      "q": "Meglio il fai-da-te a distanza o un property manager locale?",
+      "a": "Il fai-da-te funziona se hai un solo immobile, tempo e una rete di contatti fidati già sul posto. Un property manager locale conviene quando non hai una rete sul territorio, il tuo tempo vale di più, o vuoi scaricare del tutto la gestione degli imprevisti fisici."
+    },
+    {
+      "q": "Cosa succede se si rompe qualcosa e sono lontano?",
+      "a": "È il vero nodo della gestione a distanza. Da solo dipendi da chi riesci a raggiungere in quel momento, spesso senza nessuno che possa entrare in casa. Un team o un referente sul territorio interviene in fretta, ed è la ragione principale per cui molti proprietari non residenti scelgono di delegare."
+    },
+    {
+      "q": "Chi si occupa delle pulizie se gestisco da un'altra città?",
+      "a": "Nel fai-da-te coordini tu un'impresa di pulizie locale, con il rischio di restare scoperto se salta all'ultimo. Con un property manager il team di pulizie e cambio biancheria è già organizzato, con coperture in caso di imprevisto. È spesso l'aspetto più delicato quando si gestisce da lontano."
+    }
   ],
-  "related": ["property-manager-affitti-brevi", "gestione-affitti-brevi-fai-da-te-o-agenzia", "self-check-in-affitti-brevi"],
+  "related": [
+    "property-manager-affitti-brevi",
+    "gestione-affitti-brevi-fai-da-te-o-agenzia",
+    "self-check-in-affitti-brevi"
+  ],
   "sources": [],
   "disclaimer": false,
   "note": ""

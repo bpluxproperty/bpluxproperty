@@ -12,48 +12,128 @@
   "heroKicker": "DOZZA · IL NOSTRO ALLOGGIO",
   "heroImage": "/assets/dozza/dozza-1.jpg",
   "sections": [
-    { "h2": "Un loft nel cuore del borgo dipinto",
+    {
+      "h2": "Un loft nel cuore del borgo dipinto",
       "paragraphs": [
         "L'appartamento si trova nel centro storico di Dozza, raggiungibile a piedi dopo i portici affrescati del borgo. Si entra da una corte privata tradizionale: silenzio, riservatezza e il fascino di una casa d'epoca, ma con tutti i comfort di oggi.",
         "È pensato per due ospiti, con una camera matrimoniale e un salotto. Ogni dettaglio è curato come in un piccolo albergo di charme: quello che per noi fa la differenza tra un alloggio qualunque e un soggiorno che ti resta."
       ],
-      "list": ["Wi-Fi veloce e TV", "Cucina attrezzata", "Climatizzazione", "Lavatrice", "Self check-in (ingresso privato)", "Biancheria e asciugacapelli inclusi"] },
-    { "h2": "Dove si trova e perché è comodo",
+      "list": [
+        "Wi-Fi veloce e TV",
+        "Cucina attrezzata",
+        "Climatizzazione",
+        "Lavatrice",
+        "Self check-in (ingresso privato)",
+        "Biancheria e asciugacapelli inclusi"
+      ]
+    },
+    {
+      "h2": "Dove si trova e perché è comodo",
       "paragraphs": [
         "Dozza è un borgo collinare a pochi chilometri da Imola e a circa mezz'ora da Bologna. Da qui raggiungi in poco tempo l'Autodromo Enzo e Dino Ferrari, le cantine delle colline e le città d'arte della via Emilia.",
         "Il borgo è pedonale: si parcheggia appena fuori dalle mura e si entra a piedi. Nella nostra esperienza è proprio questo che gli ospiti apprezzano — arrivare, posteggiare e dimenticarsi dell'auto per tutto il soggiorno."
-      ] },
-    { "h2": "Per chi è perfetto",
+      ]
+    },
+    {
+      "h2": "Per chi è perfetto",
       "paragraphs": [
         "Funziona benissimo per le coppie in cerca di un weekend lento tra borgo, vino e buona cucina. Ed è una base ideale per chi va a una gara all'Autodromo di Imola e vuole dormire lontano dal traffico del circuito."
       ],
-      "list": ["Coppie e fughe romantiche", "Appassionati di motori (Autodromo di Imola)", "Turismo del vino e delle colline", "Chi visita Bologna, Ravenna e la via Emilia"] },
-    { "h2": "Cosa dicono gli ospiti",
+      "list": [
+        "Coppie e fughe romantiche",
+        "Appassionati di motori (Autodromo di Imola)",
+        "Turismo del vino e delle colline",
+        "Chi visita Bologna, Ravenna e la via Emilia"
+      ]
+    },
+    {
+      "h2": "Cosa dicono gli ospiti",
       "paragraphs": [
         "L'appartamento è valutato 4,97 su 5 su oltre trenta recensioni, ed è tra gli alloggi \"più amati dagli ospiti\". Le note più alte arrivano su comunicazione e check-in: è il nostro modo di lavorare, non un caso."
       ],
-      "table": { "headers": ["Aspetto", "Valutazione"], "rows": [["Pulizia", "4,9 / 5"], ["Check-in", "5,0 / 5"], ["Comunicazione", "5,0 / 5"], ["Posizione", "4,9 / 5"], ["Qualità-prezzo", "4,8 / 5"]] } },
-    { "h2": "Come prenotare",
+      "table": {
+        "headers": [
+          "Aspetto",
+          "Valutazione"
+        ],
+        "rows": [
+          [
+            "Pulizia",
+            "4,9 / 5"
+          ],
+          [
+            "Check-in",
+            "5,0 / 5"
+          ],
+          [
+            "Comunicazione",
+            "5,0 / 5"
+          ],
+          [
+            "Posizione",
+            "4,9 / 5"
+          ],
+          [
+            "Qualità-prezzo",
+            "4,8 / 5"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Come prenotare",
       "paragraphs": [
         "Puoi vedere tutte le foto, la disponibilità e i prezzi aggiornati direttamente sull'annuncio [Guarda il Loft su Airbnb](https://www.airbnb.it/rooms/1112801148439631438). L'alloggio è prenotabile anche [su Booking.com](https://www.booking.com/hotel/it/loft-elegante-nel-centro-di-dozza-citta-d-arte.it.html).",
         "L'immobile è in regola e pubblicato con il codice identificativo CIN IT037025C1838LH355. Per soggiorni lunghi o richieste particolari, scrivici: rispondiamo in giornata."
-      ] },
-    { "h2": "Cosa vedere intorno",
+      ]
+    },
+    {
+      "h2": "Cosa vedere intorno",
       "paragraphs": [
         "Dozza merita una passeggiata lenta tra i murales del Muro Dipinto e la Rocca Sforzesca, che custodisce l'Enoteca Regionale dell'Emilia-Romagna. Per organizzare il soggiorno abbiamo scritto una guida dedicata: cosa vedere, dove mangiare e come arrivare."
-      ] }
+      ]
+    }
   ],
   "faq": [
-    { "q": "Dove conviene dormire a Dozza?", "a": "Conviene dormire nel centro storico, dentro il borgo dipinto: è pedonale, silenzioso e vicino a tutto. Il nostro Loft è nella corte interna di una casa tradizionale sotto i portici affrescati, con parcheggio appena fuori dalle mura." },
-    { "q": "Quante persone ospita l'appartamento?", "a": "L'appartamento ospita due persone, con una camera matrimoniale e un salotto. È pensato per coppie o per chi viaggia in due e cerca un alloggio curato e riservato nel cuore del borgo." },
-    { "q": "È comodo per l'Autodromo di Imola?", "a": "Sì, molto. Dozza è a pochi chilometri da Imola: raggiungi l'Autodromo in poco tempo ma dormi in un borgo tranquillo, lontano dal traffico e dal rumore dei giorni di gara. È una delle ragioni per cui gli ospiti lo scelgono." },
-    { "q": "Come si fa il check-in?", "a": "Il check-in è autonomo, con ingresso privato: ti inviamo le istruzioni prima dell'arrivo e resti libero sugli orari. È uno degli aspetti che gli ospiti valutano più in alto, insieme alla comunicazione." },
-    { "q": "Si può prenotare su Booking oltre che su Airbnb?", "a": "Sì. L'alloggio è pubblicato su Airbnb, dove trovi foto, recensioni e disponibilità aggiornate, ed è prenotabile anche su Booking.com. Per richieste speciali puoi anche contattarci direttamente." }
+    {
+      "q": "Dove conviene dormire a Dozza?",
+      "a": "Conviene dormire nel centro storico, dentro il borgo dipinto: è pedonale, silenzioso e vicino a tutto. Il nostro Loft è nella corte interna di una casa tradizionale sotto i portici affrescati, con parcheggio appena fuori dalle mura."
+    },
+    {
+      "q": "Quante persone ospita l'appartamento?",
+      "a": "L'appartamento ospita due persone, con una camera matrimoniale e un salotto. È pensato per coppie o per chi viaggia in due e cerca un alloggio curato e riservato nel cuore del borgo."
+    },
+    {
+      "q": "È comodo per l'Autodromo di Imola?",
+      "a": "Sì, molto. Dozza è a pochi chilometri da Imola: raggiungi l'Autodromo in poco tempo ma dormi in un borgo tranquillo, lontano dal traffico e dal rumore dei giorni di gara. È una delle ragioni per cui gli ospiti lo scelgono."
+    },
+    {
+      "q": "Come si fa il check-in?",
+      "a": "Il check-in è autonomo, con ingresso privato: ti inviamo le istruzioni prima dell'arrivo e resti libero sugli orari. È uno degli aspetti che gli ospiti valutano più in alto, insieme alla comunicazione."
+    },
+    {
+      "q": "Si può prenotare su Booking oltre che su Airbnb?",
+      "a": "Sì. L'alloggio è pubblicato su Airbnb, dove trovi foto, recensioni e disponibilità aggiornate, ed è prenotabile anche su Booking.com. Per richieste speciali puoi anche contattarci direttamente."
+    }
   ],
-  "related": ["cosa-vedere-a-dozza", "dove-dormire-imola-autodromo", "affitti-brevi-bologna-guida"],
+  "related": [
+    "cosa-vedere-a-dozza",
+    "dove-dormire-imola-autodromo",
+    "affitti-brevi-bologna-guida"
+  ],
   "sources": [
-    { "label": "Loft Elegante nel centro di Dozza (annuncio)", "ente": "Airbnb", "data": "", "url": "https://www.airbnb.it/rooms/1112801148439631438" },
-    { "label": "Loft Elegante nel centro di Dozza (Booking)", "ente": "Booking.com", "data": "", "url": "https://www.booking.com/hotel/it/loft-elegante-nel-centro-di-dozza-citta-d-arte.it.html" }
+    {
+      "label": "Loft Elegante nel centro di Dozza (annuncio)",
+      "ente": "Airbnb",
+      "data": "",
+      "url": "https://www.airbnb.it/rooms/1112801148439631438"
+    },
+    {
+      "label": "Loft Elegante nel centro di Dozza (Booking)",
+      "ente": "Booking.com",
+      "data": "",
+      "url": "https://www.booking.com/hotel/it/loft-elegante-nel-centro-di-dozza-citta-d-arte.it.html"
+    }
   ],
   "disclaimer": false,
   "note": ""

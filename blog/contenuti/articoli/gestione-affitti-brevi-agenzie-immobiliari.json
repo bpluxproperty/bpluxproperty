@@ -33,14 +33,42 @@
         "La collaborazione funziona quando i confini sono chiari. L'agenzia porta l'immobile e mantiene il rapporto con il proprietario. Il property manager si occupa di tutto l'operativo dell'affitto breve, dalla A alla Z."
       ],
       "table": {
-        "headers": ["Attività", "Agenzia immobiliare", "B&P (property manager)"],
+        "headers": [
+          "Attività",
+          "Agenzia immobiliare",
+          "B&P (property manager)"
+        ],
         "rows": [
-          ["Relazione con il proprietario", "La mantiene", "Nessun contatto commerciale"],
-          ["Annuncio, foto e prezzi dinamici", "-", "A carico nostro"],
-          ["Ospiti, check-in e assistenza", "-", "A carico nostro"],
-          ["Pulizie e biancheria", "-", "A carico nostro"],
-          ["Adempimenti operativi (CIN, comunicazioni)", "-", "A carico nostro"],
-          ["Vendita o affitto lungo dell'immobile", "Prosegue in parallelo", "-"]
+          [
+            "Relazione con il proprietario",
+            "La mantiene",
+            "Nessun contatto commerciale"
+          ],
+          [
+            "Annuncio, foto e prezzi dinamici",
+            "-",
+            "A carico nostro"
+          ],
+          [
+            "Ospiti, check-in e assistenza",
+            "-",
+            "A carico nostro"
+          ],
+          [
+            "Pulizie e biancheria",
+            "-",
+            "A carico nostro"
+          ],
+          [
+            "Adempimenti operativi (CIN, comunicazioni)",
+            "-",
+            "A carico nostro"
+          ],
+          [
+            "Vendita o affitto lungo dell'immobile",
+            "Prosegue in parallelo",
+            "-"
+          ]
         ]
       }
     },
@@ -117,7 +145,11 @@
       "a": "Gestiamo affitti brevi in Emilia-Romagna e in Italia, con base operativa tra Dozza, Imola e Bologna. La collaborazione con le agenzie si valuta immobile per immobile, in base alla domanda della zona."
     }
   ],
-  "related": ["property-manager-affitti-brevi", "gestione-affitti-brevi-fai-da-te-o-agenzia", "affitti-brevi-bologna-guida"],
+  "related": [
+    "property-manager-affitti-brevi",
+    "gestione-affitti-brevi-fai-da-te-o-agenzia",
+    "affitti-brevi-bologna-guida"
+  ],
   "sources": [
     {
       "label": "Quota di affitti brevi gestiti da professionisti in Italia",

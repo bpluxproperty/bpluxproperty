@@ -44,13 +44,31 @@
         "Una polizza pensata per la locazione breve mette insieme le coperture che contano per questa attività. Le voci qui sotto sono i tipi di garanzia da valutare: i dettagli, i massimali e i costi vanno definiti con un assicuratore sul tuo caso."
       ],
       "table": {
-        "headers": ["Rischio", "Tipo di copertura da valutare"],
+        "headers": [
+          "Rischio",
+          "Tipo di copertura da valutare"
+        ],
         "rows": [
-          ["Danni causati a terzi o ai vicini", "Responsabilità civile verso terzi"],
-          ["Danni all'immobile e all'arredo", "Danni ai beni e ai contenuti"],
-          ["Infortunio dell'ospite nell'alloggio", "Responsabilità civile verso gli ospiti"],
-          ["Furto di dotazioni o oggetti", "Garanzia furto"],
-          ["Spese impreviste e assistenza", "Assistenza / tutela legale (opzionali)"]
+          [
+            "Danni causati a terzi o ai vicini",
+            "Responsabilità civile verso terzi"
+          ],
+          [
+            "Danni all'immobile e all'arredo",
+            "Danni ai beni e ai contenuti"
+          ],
+          [
+            "Infortunio dell'ospite nell'alloggio",
+            "Responsabilità civile verso gli ospiti"
+          ],
+          [
+            "Furto di dotazioni o oggetti",
+            "Garanzia furto"
+          ],
+          [
+            "Spese impreviste e assistenza",
+            "Assistenza / tutela legale (opzionali)"
+          ]
         ]
       }
     },
@@ -97,9 +115,18 @@
       "a": "No. La cauzione è un deposito che copre piccoli danni ed è limitata nell'importo; l'assicurazione interviene sugli eventi più seri e sulla responsabilità verso terzi. Sono strumenti complementari: usati insieme, coprono situazioni diverse."
     }
   ],
-  "related": ["property-manager-affitti-brevi", "cauzione-e-danni-affitti-brevi", "gestione-affitti-brevi-fai-da-te-o-agenzia"],
+  "related": [
+    "property-manager-affitti-brevi",
+    "cauzione-e-danni-affitti-brevi",
+    "gestione-affitti-brevi-fai-da-te-o-agenzia"
+  ],
   "sources": [
-    {"label": "Informazioni per i consumatori sui contratti assicurativi", "ente": "IVASS", "data": "", "url": ""}
+    {
+      "label": "Informazioni per i consumatori sui contratti assicurativi",
+      "ente": "IVASS",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": true,
   "note": ""

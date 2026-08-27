@@ -68,12 +68,27 @@
       ],
       "list": [],
       "table": {
-        "headers": ["Pro", "Contro"],
+        "headers": [
+          "Pro",
+          "Contro"
+        ],
         "rows": [
-          ["Più visibilità e badge dedicato nei risultati", "Lo sconto riduce il prezzo che incassi"],
-          ["Più prenotazioni, utili in avvio e bassa stagione", "Si somma alla commissione: due voci sullo stesso incasso"],
-          ["Accesso a clientela fedele e internazionale", "Rischio di scontare periodi che venderebbero comunque"],
-          ["Spinta a raccogliere recensioni più in fretta", "Margine da monitorare: conta solo il netto finale"]
+          [
+            "Più visibilità e badge dedicato nei risultati",
+            "Lo sconto riduce il prezzo che incassi"
+          ],
+          [
+            "Più prenotazioni, utili in avvio e bassa stagione",
+            "Si somma alla commissione: due voci sullo stesso incasso"
+          ],
+          [
+            "Accesso a clientela fedele e internazionale",
+            "Rischio di scontare periodi che venderebbero comunque"
+          ],
+          [
+            "Spinta a raccogliere recensioni più in fretta",
+            "Margine da monitorare: conta solo il netto finale"
+          ]
         ]
       }
     },
@@ -101,13 +116,31 @@
       ],
       "list": [],
       "table": {
-        "headers": ["Passaggio", "Cosa succede all'incasso"],
+        "headers": [
+          "Passaggio",
+          "Cosa succede all'incasso"
+        ],
         "rows": [
-          ["Tariffa di listino", "Il prezzo pieno da cui parti"],
-          ["Sconto Genius", "Riduce il prezzo: è dedicato al viaggiatore idoneo"],
-          ["Prezzo pagato dall'ospite", "La tariffa già scontata che l'ospite vede e paga"],
-          ["Commissione Booking", "Si calcola sul prezzo scontato, non su quello pieno"],
-          ["Netto per te", "Quello che resta davvero: il numero che conta"]
+          [
+            "Tariffa di listino",
+            "Il prezzo pieno da cui parti"
+          ],
+          [
+            "Sconto Genius",
+            "Riduce il prezzo: è dedicato al viaggiatore idoneo"
+          ],
+          [
+            "Prezzo pagato dall'ospite",
+            "La tariffa già scontata che l'ospite vede e paga"
+          ],
+          [
+            "Commissione Booking",
+            "Si calcola sul prezzo scontato, non su quello pieno"
+          ],
+          [
+            "Netto per te",
+            "Quello che resta davvero: il numero che conta"
+          ]
         ]
       }
     }

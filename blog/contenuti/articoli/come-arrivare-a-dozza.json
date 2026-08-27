@@ -50,11 +50,27 @@
         "Non esiste un modo giusto per tutti: dipende da dove parti e da come vuoi muoverti una volta qui. In sintesi, l'auto è la più flessibile, il treno è comodo per arrivare a Imola senza pensieri, l'aereo è la porta d'ingresso per chi viene da fuori regione o dall'estero. Ecco un quadro d'insieme, con tempi solo indicativi."
       ],
       "table": {
-        "headers": ["Mezzo", "Come arrivare", "Tempo indicativo"],
+        "headers": [
+          "Mezzo",
+          "Come arrivare",
+          "Tempo indicativo"
+        ],
         "rows": [
-          ["Auto", "Autostrada A14, uscita Imola, poi verso le colline", "La via più diretta"],
-          ["Treno", "Fino alla stazione di Imola, poi bus, taxi o auto", "Resta la breve salita al borgo"],
-          ["Aereo", "Aeroporto di Bologna, poi auto o treno", "Circa mezz'ora d'auto verso Imola"]
+          [
+            "Auto",
+            "Autostrada A14, uscita Imola, poi verso le colline",
+            "La via più diretta"
+          ],
+          [
+            "Treno",
+            "Fino alla stazione di Imola, poi bus, taxi o auto",
+            "Resta la breve salita al borgo"
+          ],
+          [
+            "Aereo",
+            "Aeroporto di Bologna, poi auto o treno",
+            "Circa mezz'ora d'auto verso Imola"
+          ]
         ]
       }
     },
@@ -88,7 +104,11 @@
       "a": "Non è indispensabile, ma è molto comoda. Dozza si raggiunge anche in treno fino a Imola e poi con l'ultimo tratto verso il borgo, però avere l'auto rende più facile esplorare le colline del vino, Imola e gli altri borghi dei dintorni. Per chi vuole muoversi, resta la scelta migliore."
     }
   ],
-  "related": ["cosa-vedere-a-dozza", "dove-dormire-a-dozza-appartamento", "cosa-vedere-a-imola"],
+  "related": [
+    "cosa-vedere-a-dozza",
+    "dove-dormire-a-dozza-appartamento",
+    "cosa-vedere-a-imola"
+  ],
   "sources": [
     {
       "label": "Come raggiungere Dozza e informazioni sul borgo",

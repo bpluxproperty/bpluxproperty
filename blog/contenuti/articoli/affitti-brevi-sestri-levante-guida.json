@@ -118,10 +118,10 @@
         "Le regole cambiano e vanno sempre verificate alle fonti ufficiali: il Comune di Sestri Levante per l'imposta di soggiorno e i regolamenti locali, la Regione Liguria per gli obblighi regionali."
       ],
       "list": [
-        "CIN (Codice Identificativo Nazionale): obbligatorio per gli affitti brevi e da indicare negli annunci. Trovi tutti i passaggi nella nostra guida dedicata al CIN.",
+        "CIN: il Codice Identificativo Nazionale è obbligatorio e va riportato in ogni inserzione. Come si richiede, passo per passo, lo spieghiamo nella guida al CIN.",
         "Imposta di soggiorno: è un tributo comunale a carico dell'ospite, che l'host raccoglie e versa al Comune secondo importi e modalità stabiliti localmente.",
         "Adempimenti regionali: la comunicazione dei dati e dei flussi turistici segue le modalità previste dalla Regione Liguria, da verificare aggiornate.",
-        "Comunicazione degli ospiti: i dati vanno trasmessi tramite il portale Alloggiati Web della Polizia di Stato.",
+        "Alloggiati Web: nome e documento di chi pernotta passano dal portale della Polizia di Stato.",
         "Regolamenti condominiali e vincoli edilizi: nel centro storico controlla cosa è ammesso prima di programmare lavori o cambi d'uso."
       ]
     },
@@ -149,7 +149,7 @@
     },
     {
       "q": "Serve il CIN per affittare a Sestri Levante?",
-      "a": "Sì. Il CIN, il Codice Identificativo Nazionale, è obbligatorio per gli affitti brevi in tutta Italia e va indicato negli annunci. A questo si aggiungono gli adempimenti locali: l'imposta di soggiorno stabilita dal Comune di Sestri Levante e le comunicazioni previste dalla Regione Liguria. Come si richiede, passo per passo, lo spieghiamo nella guida al CIN."
+      "a": "Sì. Il CIN identifica l'alloggio a livello nazionale ed è obbligatorio pubblicarlo negli annunci. A questo si aggiungono gli adempimenti locali: l'imposta di soggiorno stabilita dal Comune di Sestri Levante e le comunicazioni previste dalla Regione Liguria. Come si richiede, passo per passo, lo spieghiamo nella guida al CIN."
     },
     {
       "q": "Sestri Levante lavora solo d'estate?",
@@ -157,7 +157,7 @@
     },
     {
       "q": "Come funziona l'imposta di soggiorno a Sestri Levante?",
-      "a": "È un tributo comunale a carico dell'ospite, che l'host raccoglie e versa al Comune. Importi, esenzioni e scadenze sono stabiliti dal regolamento comunale e possono cambiare nel tempo, quindi vanno verificati direttamente presso il Comune di Sestri Levante. Meglio non anticipare cifre nell'annuncio senza aver controllato le regole in vigore."
+      "a": "È dovuta dall'ospite, ma se non la versa resta a carico di chi affitta. Importi, esenzioni e scadenze sono stabiliti dal regolamento comunale e possono cambiare nel tempo, quindi vanno verificati direttamente presso il Comune di Sestri Levante. Meglio non anticipare cifre nell'annuncio senza aver controllato le regole in vigore."
     }
   ],
   "related": [

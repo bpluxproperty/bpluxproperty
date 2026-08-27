@@ -62,14 +62,42 @@
         "Per sceglierlo, cerca un commercialista che conosca davvero la fiscalità degli affitti brevi e non solo la contabilità generica: chiedi se segue già altri host, come imposta il confronto tra cedolare e IRPEF e come gestisce gli adempimenti locali. Un buon segnale è la chiarezza con cui ti spiega le opzioni, senza promesse di risparmi miracolosi. Noi, come property manager Superhost, non facciamo consulenza fiscale e, per le imposte, ci affianchiamo sempre al commercialista del proprietario. Quello che possiamo dirti dall'esperienza è semplice: sul fisco degli affitti brevi dipende dalla tua situazione, e affrontarla con un professionista costa quasi sempre meno degli errori che evita."
       ],
       "table": {
-        "headers": ["La tua situazione", "Ti serve il commercialista?", "Perché"],
+        "headers": [
+          "La tua situazione",
+          "Ti serve il commercialista?",
+          "Perché"
+        ],
         "rows": [
-          ["Un immobile, cedolare secca, reddito semplice", "Spesso no", "Adempimenti lineari, gestibili con le istruzioni ufficiali"],
-          ["Dubbio tra cedolare e IRPEF", "Consigliato", "Confronta gli scenari sui tuoi redditi reali"],
-          ["Più immobili o ipotesi partita IVA", "Sì", "Va inquadrata bene la forma dell'attività e il regime"],
-          ["Casa in eredità o in comproprietà", "Sì", "Situazione mista, dichiarazione più complessa"],
-          ["Redditi di diversa natura da sommare", "Sì", "L'ottimizzazione richiede una visione d'insieme"],
-          ["Poca dimestichezza con la dichiarazione", "Consigliato", "Evita errori e sanzioni evitabili"]
+          [
+            "Un immobile, cedolare secca, reddito semplice",
+            "Spesso no",
+            "Adempimenti lineari, gestibili con le istruzioni ufficiali"
+          ],
+          [
+            "Dubbio tra cedolare e IRPEF",
+            "Consigliato",
+            "Confronta gli scenari sui tuoi redditi reali"
+          ],
+          [
+            "Più immobili o ipotesi partita IVA",
+            "Sì",
+            "Va inquadrata bene la forma dell'attività e il regime"
+          ],
+          [
+            "Casa in eredità o in comproprietà",
+            "Sì",
+            "Situazione mista, dichiarazione più complessa"
+          ],
+          [
+            "Redditi di diversa natura da sommare",
+            "Sì",
+            "L'ottimizzazione richiede una visione d'insieme"
+          ],
+          [
+            "Poca dimestichezza con la dichiarazione",
+            "Consigliato",
+            "Evita errori e sanzioni evitabili"
+          ]
         ]
       }
     }

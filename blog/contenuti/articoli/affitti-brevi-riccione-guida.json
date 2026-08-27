@@ -129,7 +129,7 @@
       "list": [
         "CIN (Codice Identificativo Nazionale): obbligatorio per gli affitti brevi e da indicare negli annunci. I passaggi completi sono nella nostra guida dedicata al CIN.",
         "Imposta di soggiorno: tributo comunale a carico dell'ospite, che l'host raccoglie e versa secondo modalità, importi e scadenze stabiliti dal Comune di Riccione.",
-        "Comunicazione degli ospiti: i dati vanno trasmessi tramite il portale Alloggiati Web della Polizia di Stato.",
+        "Comunicazione degli ospiti: la trasmissione alla Questura passa dal portale Alloggiati Web, per ogni arrivo.",
         "Adempimenti regionali: in Emilia-Romagna vanno verificati il codice identificativo regionale e la comunicazione dei dati statistici sui flussi turistici.",
         "Regolamento di condominio: prima di puntare sui gruppi, controlla cosa prevede il condominio su rumore e via vai."
       ]
@@ -162,11 +162,11 @@
     },
     {
       "q": "Serve il CIN per affittare a Riccione?",
-      "a": "Sì. Il CIN, il Codice Identificativo Nazionale, è obbligatorio per gli affitti brevi in tutta Italia e va indicato negli annunci. In Emilia-Romagna vanno verificati anche il codice identificativo regionale e la comunicazione dei dati statistici, oltre alla trasmissione degli ospiti su Alloggiati Web. Per la procedura completa rimandiamo alla nostra guida dedicata al CIN."
+      "a": "Sì. Il CIN è richiesto in tutta Italia e deve comparire negli annunci, sui portali e fuori dai portali. In Emilia-Romagna vanno verificati anche il codice identificativo regionale e la comunicazione dei dati statistici, oltre alla trasmissione degli ospiti su Alloggiati Web. Per la procedura completa rimandiamo alla nostra guida dedicata al CIN."
     },
     {
       "q": "Come funziona l'imposta di soggiorno a Riccione?",
-      "a": "È un tributo comunale a carico dell'ospite, che l'host raccoglie e versa al Comune. Importi, esenzioni, numero massimo di notti e scadenze sono fissati dal regolamento comunale e possono cambiare, quindi vanno verificati direttamente presso il Comune di Riccione. Indicala sempre con chiarezza nell'annuncio, per evitare discussioni al check-in."
+      "a": "Il costo lo sostiene l'ospite, ma la responsabilità del versamento al Comune è di chi affitta. Importi, esenzioni, numero massimo di notti e scadenze sono fissati dal regolamento comunale e possono cambiare, quindi vanno verificati direttamente presso il Comune di Riccione. Indicala sempre con chiarezza nell'annuncio, per evitare discussioni al check-in."
     }
   ],
   "related": [

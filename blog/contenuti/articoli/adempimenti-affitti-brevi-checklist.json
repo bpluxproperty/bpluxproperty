@@ -11,12 +11,15 @@
   "updatedAt": "2026-08-22",
   "heroKicker": "NORMATIVA & FISCO",
   "sections": [
-    { "h2": "Perché conviene partire da una checklist",
+    {
+      "h2": "Perché conviene partire da una checklist",
       "paragraphs": [
         "Chi inizia ad affittare a breve scopre presto che gli adempimenti non sono uno solo. Sono diversi, fanno capo a enti diversi e seguono tempi diversi: alcuni si assolvono una volta sola prima di pubblicare l'annuncio, altri tornano a ogni prenotazione, altri ancora una volta l'anno con la dichiarazione dei redditi.",
         "Nella nostra esperienza è proprio questa frammentazione a mettere in difficoltà i proprietari: ci si ricorda del CIN e si dimentica l'imposta di soggiorno, oppure si inviano le schedine alla Questura ma non si registrano i dati per l'ISTAT. Per questo abbiamo raccolto qui tutto in un'unica checklist, con il rimando alla guida dedicata di ogni voce."
-      ] },
-    { "h2": "La checklist completa degli adempimenti",
+      ]
+    },
+    {
+      "h2": "La checklist completa degli adempimenti",
       "paragraphs": [
         "Ecco, in ordine, tutto ciò che un proprietario deve mettere in conto per affittare a breve in regola. È una traccia generale: alcune voci dipendono dal Comune o dalla Regione, quindi vanno trattate come un promemoria da verificare sul territorio, non come un elenco valido ovunque allo stesso modo."
       ],
@@ -24,60 +27,143 @@
         "CIN (Codice Identificativo Nazionale): il codice che identifica l'immobile, si richiede al Ministero del Turismo e va esposto negli annunci",
         "Eventuale comunicazione o SCIA al Comune: dove prevista, la segnalazione di avvio dell'attività di locazione turistica; verifica sul sito del tuo Comune",
         "Requisiti di sicurezza dell'alloggio: rilevatori di fumo e monossido, estintore e impianti a norma, da sistemare prima di ospitare",
-        "Alloggiati Web: la comunicazione dei dati di ogni ospite alla Questura, tramite il portale della Polizia di Stato",
+        "Alloggiati Web: la comunicazione dei dati di ogni ospite alla Questura, tramite il portale della Polizia di Stato, entro 24 ore dall'arrivo e entro sei ore per i soggiorni che non superano le 24 ore",
         "Imposta di soggiorno: il tributo che riscuoti dall'ospite e versi al Comune, dove prevista",
         "Comunicazione ISTAT: la rilevazione statistica di arrivi e presenze, che molte Regioni raccolgono dal proprio portale turistico",
         "Adempimenti fiscali: la dichiarazione dei redditi da locazione, con cedolare secca o regime ordinario",
         "Assicurazione: una copertura adeguata per danni e responsabilità verso terzi, oltre alle garanzie delle piattaforme"
-      ] },
-    { "h2": "A chi si comunica ogni adempimento",
+      ]
+    },
+    {
+      "h2": "A chi si comunica ogni adempimento",
       "paragraphs": [
         "La confusione più comune riguarda l'ente giusto: ogni adempimento ha un interlocutore diverso, e assolvere l'uno non ti mette a posto con gli altri. Questa tabella riassume chi controlla cosa e dove trovi la guida di dettaglio."
       ],
-      "table": { "headers": ["Adempimento", "A chi si comunica", "Dove approfondire"],
+      "table": {
+        "headers": [
+          "Adempimento",
+          "A chi si comunica",
+          "Dove approfondire"
+        ],
         "rows": [
-          ["CIN", "Ministero del Turismo", "Guida al CIN e come ottenerlo"],
-          ["Comunicazione o SCIA", "Comune dove si trova l'immobile", "Sito del tuo Comune (dove prevista)"],
-          ["Requisiti di sicurezza", "Nessuna comunicazione: dotazione dell'alloggio", "Guida alla sicurezza dell'alloggio"],
-          ["Alloggiati Web", "Questura, via portale Polizia di Stato", "Guida ad Alloggiati Web"],
-          ["Imposta di soggiorno", "Comune dove si trova l'immobile", "Guida all'imposta di soggiorno"],
-          ["Comunicazione ISTAT", "Regione, di norma dal portale turistico", "Guida alla comunicazione ISTAT"],
-          ["Dichiarazione dei redditi", "Agenzia delle Entrate", "Guida alla cedolare secca"],
-          ["Assicurazione", "Compagnia assicurativa", "Guida all'assicurazione"]
-        ] } },
-    { "h2": "Prima di pubblicare l'annuncio",
+          [
+            "CIN",
+            "Ministero del Turismo",
+            "Guida al CIN e come ottenerlo"
+          ],
+          [
+            "Comunicazione o SCIA",
+            "Comune dove si trova l'immobile",
+            "Sito del tuo Comune (dove prevista)"
+          ],
+          [
+            "Requisiti di sicurezza",
+            "Nessuna comunicazione: dotazione dell'alloggio",
+            "Guida alla sicurezza dell'alloggio"
+          ],
+          [
+            "Alloggiati Web",
+            "Questura, via portale Polizia di Stato",
+            "Guida ad Alloggiati Web"
+          ],
+          [
+            "Imposta di soggiorno",
+            "Comune dove si trova l'immobile",
+            "Guida all'imposta di soggiorno"
+          ],
+          [
+            "Comunicazione ISTAT",
+            "Regione, di norma dal portale turistico",
+            "Guida alla comunicazione ISTAT"
+          ],
+          [
+            "Dichiarazione dei redditi",
+            "Agenzia delle Entrate",
+            "Guida alla cedolare secca"
+          ],
+          [
+            "Assicurazione",
+            "Compagnia assicurativa",
+            "Guida all'assicurazione"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Prima di pubblicare l'annuncio",
       "paragraphs": [
         "Alcuni adempimenti vengono prima di tutto: senza, l'annuncio non dovrebbe nemmeno andare online. Il primo è il CIN, il Codice Identificativo Nazionale: si richiede al Ministero del Turismo con SPID o CIE e va esposto in tutti gli annunci e all'esterno dell'alloggio. La nostra guida al CIN spiega la procedura passo per passo.",
         "Dove prevista, va presentata anche una comunicazione o SCIA al Comune per l'avvio dell'attività di locazione turistica: non è uguale ovunque, quindi verifica sul sito del tuo Comune cosa serve nella tua zona. Infine i requisiti di sicurezza dell'alloggio — rilevatori di fumo e monossido, estintore, impianti a norma — sono dovuti a prescindere: vanno sistemati prima di ospitare, non dopo la prima segnalazione."
-      ] },
-    { "h2": "A ogni prenotazione e a ogni soggiorno",
+      ]
+    },
+    {
+      "h2": "A ogni prenotazione e a ogni soggiorno",
       "paragraphs": [
-        "Con l'immobile in regola e l'annuncio online, iniziano gli obblighi che tornano a ogni ospite. Il primo è Alloggiati Web: entro i tempi previsti dalla normativa comunichi alla Questura i dati del documento di ogni persona che pernotta, tramite il portale della Polizia di Stato. È un obbligo di pubblica sicurezza e non viene sostituito dal self check-in.",
+        "Con l'immobile in regola e l'annuncio online, iniziano gli obblighi che tornano a ogni ospite. Il primo è Alloggiati Web: entro 24 ore dall'arrivo — e entro sei ore se il soggiorno non supera le 24 ore — comunichi alla Questura i dati del documento di ogni persona che pernotta, tramite il portale della Polizia di Stato. È un obbligo di pubblica sicurezza e non viene sostituito dal self check-in.",
         "Poi c'è l'imposta di soggiorno, dove prevista: la riscuoti dall'ospite e la versi al Comune con una dichiarazione periodica. E la comunicazione ISTAT del movimento turistico, cioè arrivi e presenze, che molte Regioni raccolgono dal proprio portale turistico. Tre adempimenti distinti, con tre enti diversi: la Questura, il Comune e la Regione. Verifica sempre le regole del Comune e della Regione dove si trova l'immobile."
-      ] },
-    { "h2": "Gli adempimenti fiscali e la tutela",
+      ]
+    },
+    {
+      "h2": "Gli adempimenti fiscali e la tutela",
       "paragraphs": [
         "I redditi da affitto breve vanno dichiarati. La strada più usata tra i privati è la cedolare secca, un'imposta sostitutiva dell'IRPEF; in alternativa c'è il regime ordinario, e oltre una certa soglia di immobili l'attività diventa d'impresa, con partita IVA. Qui non entriamo nelle aliquote: le trovi nella guida dedicata alla cedolare secca.",
         "Accanto agli obblighi verso lo Stato c'è una tutela che consigliamo sempre: l'assicurazione. Le garanzie offerte dalle piattaforme sono utili ma hanno limiti; una polizza dedicata copre danni all'immobile e responsabilità verso terzi. Non è un obbligo di legge come gli altri, ma per noi fa parte del mestiere di chi affitta a breve."
-      ] },
-    { "h2": "Perché gli obblighi cambiano da zona a zona",
+      ]
+    },
+    {
+      "h2": "Perché gli obblighi cambiano da zona a zona",
       "paragraphs": [
         "Se c'è una cosa da portare via da questa checklist è che gli affitti brevi non hanno un unico regolamento nazionale. Il CIN e Alloggiati Web sono uguali in tutta Italia, ma l'imposta di soggiorno, la comunicazione ISTAT e l'eventuale SCIA cambiano da Comune a Comune e da Regione a Regione: importi, esenzioni, scadenze e persino l'esistenza stessa dell'obbligo.",
         "Per questo, prima della prima prenotazione, conviene aprire il sito del Comune e della Regione dove si trova l'immobile e verificare voce per voce. È il passaggio che facciamo per ogni casa che prendiamo in gestione: una checklist vale solo se la si cala sul territorio giusto."
-      ] }
+      ]
+    }
   ],
   "faq": [
-    { "q": "Quali sono gli adempimenti degli affitti brevi?", "a": "In sintesi sono il CIN, l'eventuale comunicazione o SCIA al Comune, i requisiti di sicurezza dell'alloggio, la comunicazione degli ospiti ad Alloggiati Web, l'imposta di soggiorno, la comunicazione ISTAT, gli adempimenti fiscali e l'assicurazione. Alcuni valgono ovunque, altri dipendono dal Comune e dalla Regione: verifica sempre le regole locali." },
-    { "q": "A chi vanno comunicati i dati degli ospiti?", "a": "Alla Questura, tramite il portale Alloggiati Web della Polizia di Stato. È un obbligo di pubblica sicurezza, distinto dall'imposta di soggiorno e dalla comunicazione ISTAT, e vale per ogni persona che pernotta, a prescindere dal portale usato per l'annuncio." },
-    { "q": "Gli adempimenti sono uguali in tutta Italia?", "a": "No. CIN e Alloggiati Web valgono ovunque allo stesso modo, ma imposta di soggiorno, comunicazione ISTAT ed eventuale SCIA cambiano da Comune a Comune e da Regione a Regione. Importi, esenzioni e scadenze vanno letti nel regolamento locale, non dati per scontati." },
-    { "q": "Da quale adempimento si comincia?", "a": "Dal CIN e dai requisiti di sicurezza, prima di pubblicare l'annuncio. Il CIN si richiede al Ministero del Turismo e va esposto negli annunci, mentre rilevatori, estintore e impianti a norma sono dovuti a prescindere. Solo dopo si passa agli obblighi che tornano a ogni ospite." },
-    { "q": "Può gestirli un property manager al posto mio?", "a": "Sì. Un property manager può occuparsi della maggior parte degli adempimenti operativi: dall'accreditamento e l'invio ad Alloggiati Web alla riscossione e al versamento dell'imposta di soggiorno, fino alla comunicazione ISTAT. La responsabilità fiscale resta del proprietario, ma la gestione quotidiana può essere delegata." }
+    {
+      "q": "Quali sono gli adempimenti degli affitti brevi?",
+      "a": "In sintesi sono il CIN, l'eventuale comunicazione o SCIA al Comune, i requisiti di sicurezza dell'alloggio, la comunicazione degli ospiti ad Alloggiati Web, l'imposta di soggiorno, la comunicazione ISTAT, gli adempimenti fiscali e l'assicurazione. Alcuni valgono ovunque, altri dipendono dal Comune e dalla Regione: verifica sempre le regole locali."
+    },
+    {
+      "q": "A chi vanno comunicati i dati degli ospiti?",
+      "a": "Alla Questura, tramite il portale Alloggiati Web della Polizia di Stato. È un obbligo di pubblica sicurezza, distinto dall'imposta di soggiorno e dalla comunicazione ISTAT, e vale per ogni persona che pernotta, a prescindere dal portale usato per l'annuncio."
+    },
+    {
+      "q": "Gli adempimenti sono uguali in tutta Italia?",
+      "a": "No. CIN e Alloggiati Web valgono ovunque allo stesso modo, ma imposta di soggiorno, comunicazione ISTAT ed eventuale SCIA cambiano da Comune a Comune e da Regione a Regione. Importi, esenzioni e scadenze vanno letti nel regolamento locale, non dati per scontati."
+    },
+    {
+      "q": "Da quale adempimento si comincia?",
+      "a": "Dal CIN e dai requisiti di sicurezza, prima di pubblicare l'annuncio. Il CIN si richiede al Ministero del Turismo e va esposto negli annunci, mentre rilevatori, estintore e impianti a norma sono dovuti a prescindere. Solo dopo si passa agli obblighi che tornano a ogni ospite."
+    },
+    {
+      "q": "Può gestirli un property manager al posto mio?",
+      "a": "Sì. Un property manager può occuparsi della maggior parte degli adempimenti operativi: dall'accreditamento e l'invio ad Alloggiati Web alla riscossione e al versamento dell'imposta di soggiorno, fino alla comunicazione ISTAT. La responsabilità fiscale resta del proprietario, ma la gestione quotidiana può essere delegata."
+    }
   ],
-  "related": ["cin-affitti-brevi-come-ottenerlo", "alloggiati-web-comunicazione-ospiti", "imposta-di-soggiorno-affitti-brevi"],
+  "related": [
+    "cin-affitti-brevi-come-ottenerlo",
+    "alloggiati-web-comunicazione-ospiti",
+    "imposta-di-soggiorno-affitti-brevi"
+  ],
   "sources": [
-    { "label": "Banca Dati delle Strutture Ricettive e CIN", "ente": "Ministero del Turismo", "data": "", "url": "" },
-    { "label": "Portale Alloggiati Web", "ente": "Polizia di Stato", "data": "", "url": "" },
-    { "label": "Locazioni brevi: disciplina fiscale", "ente": "Agenzia delle Entrate", "data": "", "url": "" }
+    {
+      "label": "Banca Dati delle Strutture Ricettive e CIN",
+      "ente": "Ministero del Turismo",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Portale Alloggiati Web",
+      "ente": "Polizia di Stato",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Locazioni brevi: disciplina fiscale",
+      "ente": "Agenzia delle Entrate",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": true,
   "note": ""

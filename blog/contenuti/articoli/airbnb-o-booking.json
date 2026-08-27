@@ -56,14 +56,42 @@
       ],
       "list": [],
       "table": {
-        "headers": ["Criterio", "Airbnb", "Booking"],
+        "headers": [
+          "Criterio",
+          "Airbnb",
+          "Booking"
+        ],
         "rows": [
-          ["Pubblico prevalente", "Leisure, coppie e famiglie, viaggiatori giovani", "Internazionale, business e turismo, clientela da hotel"],
-          ["Tipologia forte", "Case intere e alloggi \"con carattere\"", "Alloggi gestiti come camere/hotel, anche brevi"],
-          ["Modello commissione", "Split host/ospite, host tipicamente ~3%", "Tutta sulla struttura, più alta (~15% o più)"],
-          ["Prenotazione", "Richiesta o istantanea, a scelta host", "Storicamente più orientato alla conferma immediata"],
-          ["Cancellazioni", "Policy graduate scelte dall'host", "Policy per tariffa/struttura, spesso flessibili per l'ospite"],
-          ["Pagamenti", "Gestiti da Airbnb con payout all'host", "Variabili: incasso struttura o tramite piattaforma secondo il setup"]
+          [
+            "Pubblico prevalente",
+            "Leisure, coppie e famiglie, viaggiatori giovani",
+            "Internazionale, business e turismo, clientela da hotel"
+          ],
+          [
+            "Tipologia forte",
+            "Case intere e alloggi \"con carattere\"",
+            "Alloggi gestiti come camere/hotel, anche brevi"
+          ],
+          [
+            "Modello commissione",
+            "Split host/ospite, host tipicamente ~3%",
+            "Tutta sulla struttura, più alta (~15% o più)"
+          ],
+          [
+            "Prenotazione",
+            "Richiesta o istantanea, a scelta host",
+            "Storicamente più orientato alla conferma immediata"
+          ],
+          [
+            "Cancellazioni",
+            "Policy graduate scelte dall'host",
+            "Policy per tariffa/struttura, spesso flessibili per l'ospite"
+          ],
+          [
+            "Pagamenti",
+            "Gestiti da Airbnb con payout all'host",
+            "Variabili: incasso struttura o tramite piattaforma secondo il setup"
+          ]
         ]
       }
     },

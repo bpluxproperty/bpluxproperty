@@ -128,11 +128,11 @@
         "Una precisazione utile: Milano Marittima non è un Comune, è una frazione di Cervia. Il riferimento amministrativo per regolamenti, imposta di soggiorno e comunicazioni è quindi il Comune di Cervia. Le regole cambiano nel tempo e vanno sempre verificate sulle fonti ufficiali: qui trovi la sintesi, non un parere fiscale o legale."
       ],
       "list": [
-        "CIN (Codice Identificativo Nazionale): obbligatorio per gli affitti brevi e da indicare negli annunci. Trovi tutti i passaggi nella nostra guida dedicata al CIN.",
+        "CIN: obbligatorio, da richiedere alla banca dati nazionale e da esporre negli annunci. Trovi la procedura nella nostra guida al CIN.",
         "Riferimento comunale: per Milano Marittima, Pinarella e Tagliata l'ente competente è il Comune di Cervia.",
         "Imposta di soggiorno: è un tributo comunale a carico dell'ospite, che l'host raccoglie e versa secondo modalità, importi ed eventuali esenzioni stabiliti dal Comune.",
         "Codice regionale e comunicazione dei dati turistici: l'Emilia-Romagna prevede propri adempimenti per le strutture ricettive e le locazioni, da verificare presso la Regione.",
-        "Comunicazione degli ospiti: i dati vanno trasmessi tramite il portale Alloggiati Web della Polizia di Stato.",
+        "Alloggiati Web: nome e documento di chi pernotta passano dal portale della Polizia di Stato.",
         "Regolamenti condominiali e di quartiere: in pineta e nelle traverse residenziali contano rumore, rifiuti e uso dei posti auto."
       ]
     },
@@ -164,7 +164,7 @@
     },
     {
       "q": "Serve il CIN per affittare a Milano Marittima?",
-      "a": "Sì. Il CIN, il Codice Identificativo Nazionale, è obbligatorio per gli affitti brevi in tutta Italia e va indicato negli annunci. Ricorda che Milano Marittima è una frazione di Cervia, quindi il riferimento amministrativo per regolamenti e adempimenti locali è il Comune di Cervia. Come si richiede, passo per passo, lo spieghiamo nella guida al CIN."
+      "a": "Sì. Serve il CIN: si ottiene dalla banca dati nazionale e si indica in ogni annuncio. Ricorda che Milano Marittima è una frazione di Cervia, quindi il riferimento amministrativo per regolamenti e adempimenti locali è il Comune di Cervia. Come si richiede, passo per passo, lo spieghiamo nella guida al CIN."
     },
     {
       "q": "Come funziona l'imposta di soggiorno a Milano Marittima?",

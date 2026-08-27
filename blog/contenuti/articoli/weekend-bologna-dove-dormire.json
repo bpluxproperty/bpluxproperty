@@ -18,14 +18,35 @@
         "La città è compatta: anche stando appena fuori dal cuore storico raggiungi i monumenti in pochi minuti. Prima di prenotare, parti da come ti muovi e dal ritmo che cerchi la sera."
       ],
       "table": {
-        "headers": ["Zona", "Ideale per"],
+        "headers": [
+          "Zona",
+          "Ideale per"
+        ],
         "rows": [
-          ["Centro storico (Piazza Maggiore, Quadrilatero)", "Chi vuole tutto a piedi e vivere le piazze"],
-          ["Santo Stefano", "Coppie e soggiorni curati, in un contesto elegante e quieto"],
-          ["Zona universitaria (via Zamboni)", "Chi ama la vita serale e l'atmosfera studentesca"],
-          ["Bolognina", "Chi arriva in treno: vicino alla stazione dell'Alta Velocità"],
-          ["Vicino alla Stazione Centrale", "Arrivi e partenze rapidi, tappe di passaggio"],
-          ["Dintorni e borghi (Dozza, colline)", "Chi cerca quiete e un weekend slow, muovendosi in auto"]
+          [
+            "Centro storico (Piazza Maggiore, Quadrilatero)",
+            "Chi vuole tutto a piedi e vivere le piazze"
+          ],
+          [
+            "Santo Stefano",
+            "Coppie e soggiorni curati, in un contesto elegante e quieto"
+          ],
+          [
+            "Zona universitaria (via Zamboni)",
+            "Chi ama la vita serale e l'atmosfera studentesca"
+          ],
+          [
+            "Bolognina",
+            "Chi arriva in treno: vicino alla stazione dell'Alta Velocità"
+          ],
+          [
+            "Vicino alla Stazione Centrale",
+            "Arrivi e partenze rapidi, tappe di passaggio"
+          ],
+          [
+            "Dintorni e borghi (Dozza, colline)",
+            "Chi cerca quiete e un weekend slow, muovendosi in auto"
+          ]
         ]
       }
     },

@@ -11,12 +11,15 @@
   "updatedAt": "2026-08-11",
   "heroKicker": "NORMATIVA & FISCO",
   "sections": [
-    { "h2": "Cos'è l'imposta di soggiorno",
+    {
+      "h2": "Cos'è l'imposta di soggiorno",
       "paragraphs": [
         "L'imposta di soggiorno (o tassa di soggiorno) è un tributo comunale che si applica ai pernottamenti negli alloggi turistici, affitti brevi compresi. Non la stabilisce lo Stato in modo uniforme: la istituisce e la regola ogni singolo Comune.",
         "Questo è il filo conduttore di tutto l'articolo. Importo, durata massima tassata ed esenzioni non sono uguali in tutta Italia: cambiano da Comune a Comune e vanno letti nel regolamento locale. Per questo qui trovi il metodo, non le cifre."
-      ] },
-    { "h2": "Chi la paga e chi la versa al Comune",
+      ]
+    },
+    {
+      "h2": "Chi la paga e chi la versa al Comune",
       "paragraphs": [
         "La paga l'ospite: è lui il soggetto su cui grava il tributo, in base alle notti di soggiorno. Ma non la versa direttamente al Comune.",
         "A riscuoterla e a riversarla è l'host, o il gestore che opera per suo conto. In pratica l'host incassa l'importo dall'ospite, lo mette da parte e lo gira al Comune con una dichiarazione periodica. La responsabilità del versamento resta in capo all'host.",
@@ -27,22 +30,45 @@
         "L'host: riscuote l'importo, lo versa al Comune e presenta la dichiarazione",
         "Il property manager: può gestire riscossione e versamenti per conto del proprietario",
         "Il Comune: definisce importo, esenzioni, tetto di notti e regole di versamento"
-      ] },
-    { "h2": "Come si calcola: cosa cambia da Comune a Comune",
+      ]
+    },
+    {
+      "h2": "Come si calcola: cosa cambia da Comune a Comune",
       "paragraphs": [
         "L'importo si calcola in genere per persona e per notte, spesso con un tetto massimo di notti oltre il quale non si paga più. Ma quanto, per quante notti e con quali eccezioni lo decide il singolo Comune.",
         "Per questo qui non trovi numeri: sarebbero sbagliati per la maggior parte dei lettori. Trovi invece le voci da controllare nel regolamento del tuo Comune, prima della prima prenotazione."
       ],
       "table": {
-        "headers": ["Voce che cambia da Comune a Comune", "Cosa verificare nel regolamento locale"],
+        "headers": [
+          "Voce che cambia da Comune a Comune",
+          "Cosa verificare nel regolamento locale"
+        ],
         "rows": [
-          ["Importo per persona a notte", "Quanto si applica e se varia per tipo o categoria di alloggio"],
-          ["Tetto massimo di notti tassate", "Dopo quante notti consecutive l'imposta non si applica più"],
-          ["Esenzioni", "Le categorie che non pagano (es. minori entro una certa età e altri casi)"],
-          ["Periodicità di dichiarazione e versamento", "Ogni quanto dichiarare e versare gli importi al Comune"],
-          ["Modalità di versamento", "Il canale e i riferimenti indicati dal Comune"]
-        ] } },
-    { "h2": "Quando e come si versa al Comune",
+          [
+            "Importo per persona a notte",
+            "Quanto si applica e se varia per tipo o categoria di alloggio"
+          ],
+          [
+            "Tetto massimo di notti tassate",
+            "Dopo quante notti consecutive l'imposta non si applica più"
+          ],
+          [
+            "Esenzioni",
+            "Le categorie che non pagano (es. minori entro una certa età e altri casi)"
+          ],
+          [
+            "Periodicità di dichiarazione e versamento",
+            "Ogni quanto dichiarare e versare gli importi al Comune"
+          ],
+          [
+            "Modalità di versamento",
+            "Il canale e i riferimenti indicati dal Comune"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Quando e come si versa al Comune",
       "paragraphs": [
         "L'host versa quanto riscosso e presenta una dichiarazione periodica con il numero di pernottamenti e gli importi incassati. Scadenze, modulistica e canale di pagamento dipendono dal Comune.",
         "Il flusso, in sintesi, è sempre lo stesso, anche se i dettagli locali cambiano:"
@@ -53,8 +79,10 @@
         "Metti da parte le somme incassate: non sono tue, sono destinate al Comune",
         "Versa al Comune secondo la periodicità prevista dal regolamento",
         "Presenta la dichiarazione periodica dei pernottamenti e degli importi"
-      ] },
-    { "h2": "Le esenzioni: dipendono dal Comune",
+      ]
+    },
+    {
+      "h2": "Le esenzioni: dipendono dal Comune",
       "paragraphs": [
         "Quasi tutti i regolamenti prevedono delle esenzioni, ma chi ne ha diritto cambia da Comune a Comune. La categoria più ricorrente riguarda i minori entro una certa età: non è però una regola nazionale, e l'età limite varia.",
         "Altri casi di esenzione o riduzione dipendono dal singolo regolamento. L'unico modo per esserne certi è leggere il regolamento del Comune: non dare per scontato che valga ciò che hai visto in un'altra città."
@@ -63,30 +91,67 @@
         "Minori entro l'età stabilita dal singolo Comune",
         "Altre categorie eventualmente previste dal regolamento locale",
         "Possibili riduzioni legate al tetto di notti tassate"
-      ] },
-    { "h2": "Non confonderla con CIN e Alloggiati Web",
+      ]
+    },
+    {
+      "h2": "Non confonderla con CIN e Alloggiati Web",
       "paragraphs": [
         "L'imposta di soggiorno viene spesso confusa con altri due obblighi degli affitti brevi. Sono cose diverse, con finalità diverse, e vanno rispettate separatamente.",
         "Il CIN identifica l'immobile e va esposto negli annunci. La comunicazione ad Alloggiati Web serve a trasmettere i dati degli ospiti alla Questura. L'imposta di soggiorno, invece, è un tributo: si riscuote dall'ospite e si versa al Comune. Tre adempimenti distinti, che non si sostituiscono a vicenda."
-      ] },
-    { "h2": "Cosa succede se non la versi",
+      ]
+    },
+    {
+      "h2": "Cosa succede se non la versi",
       "paragraphs": [
         "Il rischio è concreto e ricade sull'host, non sull'ospite. Se gli importi riscossi non arrivano al Comune, o se manca la dichiarazione periodica, scattano le sanzioni previste dal regolamento e dalle norme locali.",
         "C'è anche un aspetto delicato da non sottovalutare: l'host incassa dall'ospite somme che sono destinate al Comune. Trattenerle o non versarle non è solo una sanzione amministrativa da mettere in conto, è denaro di terzi. Conviene impostare bene riscossione, registro dei pernottamenti e versamenti fin dalla prima prenotazione: la dichiarazione periodica diventa quasi automatica."
-      ] }
+      ]
+    }
   ],
   "faq": [
-    { "q": "Chi paga l'imposta di soggiorno, l'ospite o l'host?", "a": "La paga l'ospite, in base alle notti di soggiorno. L'host però la riscuote e la versa al Comune, presentando la dichiarazione periodica. La responsabilità del versamento è dell'host: se l'ospite l'ha pagata ma la somma non arriva al Comune, il problema resta suo." },
-    { "q": "Quanto costa l'imposta di soggiorno?", "a": "Dipende dal Comune. L'importo è di norma per persona a notte, spesso con un tetto massimo di notti, ma quanto si paga lo decide ogni singolo Comune. Non esiste una cifra valida per tutta Italia: verifica il regolamento del Comune dove si trova l'immobile." },
-    { "q": "L'imposta di soggiorno è uguale in tutta Italia?", "a": "No. È un tributo comunale: importo, tetto di notti ed esenzioni cambiano da Comune a Comune. Anche due città vicine possono avere regole molto diverse. Per questo va sempre controllato il regolamento locale, non quello di un'altra città." },
-    { "q": "Devo farla pagare anche per i soggiorni lunghi?", "a": "Molti Comuni prevedono un tetto massimo di notti oltre il quale l'imposta non si applica più: dopo quel limite le notti aggiuntive non si tassano. Il numero di notti però varia da Comune a Comune: verificalo nel regolamento locale." },
-    { "q": "L'imposta di soggiorno è la stessa cosa del CIN?", "a": "No. Il CIN identifica l'immobile e va esposto negli annunci; Alloggiati Web serve a comunicare gli ospiti alla Questura. L'imposta di soggiorno è invece un tributo che si versa al Comune. Sono tre obblighi distinti e vanno rispettati separatamente." },
-    { "q": "Cosa rischio se non verso l'imposta di soggiorno?", "a": "Le sanzioni previste dal Comune, che ricadono sull'host. Ricorda che gli importi riscossi dall'ospite sono destinati al Comune: non versarli espone a contestazioni. Meglio impostare riscossione e versamenti fin dalla prima prenotazione e verificare le scadenze nel regolamento locale." }
+    {
+      "q": "Chi paga l'imposta di soggiorno, l'ospite o l'host?",
+      "a": "La paga l'ospite, in base alle notti di soggiorno. L'host però la riscuote e la versa al Comune, presentando la dichiarazione periodica. La responsabilità del versamento è dell'host: se l'ospite l'ha pagata ma la somma non arriva al Comune, il problema resta suo."
+    },
+    {
+      "q": "Quanto costa l'imposta di soggiorno?",
+      "a": "Dipende dal Comune. L'importo è di norma per persona a notte, spesso con un tetto massimo di notti, ma quanto si paga lo decide ogni singolo Comune. Non esiste una cifra valida per tutta Italia: verifica il regolamento del Comune dove si trova l'immobile."
+    },
+    {
+      "q": "L'imposta di soggiorno è uguale in tutta Italia?",
+      "a": "No. È un tributo comunale: importo, tetto di notti ed esenzioni cambiano da Comune a Comune. Anche due città vicine possono avere regole molto diverse. Per questo va sempre controllato il regolamento locale, non quello di un'altra città."
+    },
+    {
+      "q": "Devo farla pagare anche per i soggiorni lunghi?",
+      "a": "Molti Comuni prevedono un tetto massimo di notti oltre il quale l'imposta non si applica più: dopo quel limite le notti aggiuntive non si tassano. Il numero di notti però varia da Comune a Comune: verificalo nel regolamento locale."
+    },
+    {
+      "q": "L'imposta di soggiorno è la stessa cosa del CIN?",
+      "a": "No. Il CIN identifica l'immobile e va esposto negli annunci; Alloggiati Web serve a comunicare gli ospiti alla Questura. L'imposta di soggiorno è invece un tributo che si versa al Comune. Sono tre obblighi distinti e vanno rispettati separatamente."
+    },
+    {
+      "q": "Cosa rischio se non verso l'imposta di soggiorno?",
+      "a": "Le sanzioni previste dal Comune, che ricadono sull'host. Ricorda che gli importi riscossi dall'ospite sono destinati al Comune: non versarli espone a contestazioni. Meglio impostare riscossione e versamenti fin dalla prima prenotazione e verificare le scadenze nel regolamento locale."
+    }
   ],
-  "related": ["cin-affitti-brevi-come-ottenerlo", "cedolare-secca-affitti-brevi", "alloggiati-web-comunicazione-ospiti"],
+  "related": [
+    "cin-affitti-brevi-come-ottenerlo",
+    "cedolare-secca-affitti-brevi",
+    "alloggiati-web-comunicazione-ospiti"
+  ],
   "sources": [
-    { "label": "Regolamento dell'imposta di soggiorno", "ente": "Comune di riferimento", "data": "", "url": "" },
-    { "label": "Delibera comunale con importi, esenzioni e scadenze", "ente": "Comune di riferimento", "data": "", "url": "" }
+    {
+      "label": "Regolamento dell'imposta di soggiorno",
+      "ente": "Comune di riferimento",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Delibera comunale con importi, esenzioni e scadenze",
+      "ente": "Comune di riferimento",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": true,
   "note": ""

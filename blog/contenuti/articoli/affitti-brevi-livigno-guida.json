@@ -112,9 +112,9 @@
         "Le regole cambiano e vanno verificate presso le fonti ufficiali: qui trovi la sintesi, non un parere fiscale o legale."
       ],
       "list": [
-        "CIN (Codice Identificativo Nazionale): obbligatorio per gli affitti brevi e da indicare negli annunci. Trovi tutti i passaggi nella nostra guida dedicata al CIN.",
+        "Codice Identificativo Nazionale (CIN): senza di esso l'annuncio è irregolare. I passaggi sono nella guida al CIN che abbiamo scritto a parte.",
         "Imposta di soggiorno: è un tributo comunale a carico dell'ospite, che l'host raccoglie e versa al Comune. Importi e modalità si verificano presso il Comune di Livigno.",
-        "Comunicazione degli ospiti: i dati vanno trasmessi tramite il portale Alloggiati Web della Polizia di Stato.",
+        "Ospiti da comunicare: i dati di chi dorme in casa vanno caricati su Alloggiati Web.",
         "Flussi turistici: in Lombardia le presenze si comunicano anche al sistema regionale di rilevazione, con modalità da verificare.",
         "Regime extra-doganale: riguarda gli acquisti, non sostituisce né riduce gli adempimenti dell'host. Agevolazioni e limiti si verificano presso l'Agenzia delle Dogane e dei Monopoli.",
         "Regole di paese: raccolta rifiuti, parcheggi invernali e regolamenti condominiali cambiano da zona a zona, informati prima del primo ospite."
@@ -123,7 +123,7 @@
     {
       "h2": "Dal nostro lavoro: le dotazioni che in montagna fanno la recensione",
       "paragraphs": [
-        "La nostra esperienza da property manager Superhost porta a una conclusione precisa. La sede è in Emilia-Romagna, però le regole del gioco cambiano poco da una meta all'altra.",
+        "La nostra esperienza da property manager Superhost porta a una conclusione precisa. La sede è in Emilia-Romagna: qui portiamo un metodo, non una presenza sul posto.",
         "L'osservazione che ci portiamo dietro da anni di gestione è questa: in montagna le recensioni non le decide la vista, le decide cosa succede nei venti minuti dopo il rientro dalle piste. Sei paia di scarponi bagnati, giacche che gocciolano, guanti da asciugare e una casa che deve essere calda subito. Un deposito attrezzatura chiuso, un asciuga-scarponi, ganci e stendibiancheria veri e un riscaldamento che scalda in fretta valgono, nei voti, più di qualsiasi dettaglio d'arredo.",
         "Vale anche per l'estate, con oggetti diversi: bici da chiudere in sicurezza, un punto dove sciacquarle, spazio per asciugare l'abbigliamento tecnico. E vale per l'ingresso: una zona dove togliere scarponi e scarpe sporche di fango protegge la casa e riduce il lavoro delle pulizie tra un ospite e l'altro.",
         "Zona e tipo di ospite vengono prima di qualunque calcolo di redditività. A Livigno vince chi sfrutta due stagioni invece di una, è onesto su come si arriva e attrezza la casa per gente che rientra bagnata e stanca. Poi si tratta solo di eseguire con costanza."
@@ -149,7 +149,7 @@
     },
     {
       "q": "Serve il CIN per affittare a Livigno?",
-      "a": "Sì. Il CIN, il Codice Identificativo Nazionale, è obbligatorio per gli affitti brevi in tutta Italia e va indicato negli annunci. A Livigno vanno aggiunti l'imposta di soggiorno comunale, la comunicazione degli ospiti tramite Alloggiati Web e la comunicazione dei flussi turistici prevista in Lombardia. I passaggi per ottenerlo sono nella guida al CIN che abbiamo scritto a parte."
+      "a": "Sì. Il CIN è richiesto in tutta Italia e deve comparire negli annunci, sui portali e fuori dai portali. A Livigno vanno aggiunti l'imposta di soggiorno comunale, la comunicazione degli ospiti tramite Alloggiati Web e la comunicazione dei flussi turistici prevista in Lombardia. I passaggi per ottenerlo sono nella guida al CIN che abbiamo scritto a parte."
     },
     {
       "q": "Quali dotazioni servono davvero in una casa a Livigno?",

@@ -11,54 +11,118 @@
   "updatedAt": "2026-08-11",
   "heroKicker": "GESTIONE",
   "sections": [
-    { "h2": "Cosa fa un property manager",
+    {
+      "h2": "Cosa fa un property manager",
       "paragraphs": [
         "Un property manager si occupa dell'intero ciclo dell'affitto breve, dalla pubblicazione dell'annuncio all'accoglienza dell'ospite fino al rendiconto mensile. In pratica sostituisce te in tutte le attività operative e strategiche che fanno rendere una casa.",
         "La differenza rispetto a un semplice servizio di pulizie è la regia: prezzi dinamici, ottimizzazione dell'annuncio e gestione delle recensioni sono ciò che separa un immobile che rende da uno vuoto metà anno."
       ],
-      "table": { "headers": ["Area", "Cosa comprende"],
+      "table": {
+        "headers": [
+          "Area",
+          "Cosa comprende"
+        ],
         "rows": [
-          ["Annuncio", "Foto, testi, pubblicazione su Airbnb, Booking e altri portali"],
-          ["Prezzi", "Tariffe dinamiche per stagione, giorni e domanda"],
-          ["Ospiti", "Messaggi, check-in/out, assistenza durante il soggiorno"],
-          ["Casa", "Pulizie, biancheria, rifornimenti, piccola manutenzione"],
-          ["Burocrazia", "CIN, comunicazione ospiti, imposta di soggiorno"],
-          ["Report", "Rendiconto mensile con incassi e costi"]
-        ] } },
-    { "h2": "Quanto costa: il modello a percentuale",
+          [
+            "Annuncio",
+            "Foto, testi, pubblicazione su Airbnb, Booking e altri portali"
+          ],
+          [
+            "Prezzi",
+            "Tariffe dinamiche per stagione, giorni e domanda"
+          ],
+          [
+            "Ospiti",
+            "Messaggi, check-in/out, assistenza durante il soggiorno"
+          ],
+          [
+            "Casa",
+            "Pulizie, biancheria, rifornimenti, piccola manutenzione"
+          ],
+          [
+            "Burocrazia",
+            "CIN, comunicazione ospiti, imposta di soggiorno"
+          ],
+          [
+            "Report",
+            "Rendiconto mensile con incassi e costi"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Quanto costa: il modello a percentuale",
       "paragraphs": [
         "Il costo di un property manager si esprime quasi sempre come percentuale sugli incassi, non come canone fisso. Significa che il gestore guadagna solo quando guadagni tu, e ha tutto l'interesse a far rendere di più l'immobile.",
         "La percentuale varia in base ai servizi inclusi e alla zona. Attenzione ai costi nascosti: chiedi sempre cosa è compreso (pulizie, biancheria, foto) e cosa è extra, così confronti mele con mele."
-      ] },
-    { "h2": "Cosa resta comunque a te",
+      ]
+    },
+    {
+      "h2": "Cosa resta comunque a te",
       "paragraphs": [
         "Delegare non vuol dire sparire. Restano tue le decisioni importanti: quali periodi tenere per uso personale, il livello di prezzo minimo, gli interventi di manutenzione straordinaria e la proprietà del rapporto con l'immobile.",
         "Un buon gestore ti aggiorna con un rendiconto chiaro e ti coinvolge sulle scelte, senza scaricarti addosso l'operatività quotidiana."
-      ] },
-    { "h2": "Quando conviene affidarsi (e quando no)",
+      ]
+    },
+    {
+      "h2": "Quando conviene affidarsi (e quando no)",
       "paragraphs": [
         "Affidarsi conviene se hai più di un immobile, se la casa è in un'altra città, se hai poco tempo o se vuoi passare a una gestione davvero professionale. In questi casi la resa in più e il tempo risparmiato ripagano ampiamente la percentuale."
       ],
-      "list": ["Conviene: più immobili, casa in un'altra città, poco tempo, vuoi massimizzare la resa", "Forse no: un solo immobile sotto casa, tanto tempo libero e ti piace gestire gli ospiti di persona", "Da valutare: immobile molto stagionale o in zona a bassa domanda"] },
-    { "h2": "Come scegliere il property manager giusto",
+      "list": [
+        "Conviene: più immobili, casa in un'altra città, poco tempo, vuoi massimizzare la resa",
+        "Forse no: un solo immobile sotto casa, tanto tempo libero e ti piace gestire gli ospiti di persona",
+        "Da valutare: immobile molto stagionale o in zona a bassa domanda"
+      ]
+    },
+    {
+      "h2": "Come scegliere il property manager giusto",
       "paragraphs": [
         "Non tutti i gestori sono uguali. Prima di firmare, guarda i risultati reali sugli immobili che già gestiscono e come comunicano con gli ospiti: la qualità delle recensioni racconta molto."
       ],
-      "list": ["Recensioni e valutazioni degli immobili gestiti (meglio se Superhost)", "Trasparenza su percentuale e costi inclusi", "Contratto chiaro, senza esclusive capestro e con uscita semplice", "Gestione della burocrazia inclusa (CIN, ospiti, imposta di soggiorno)", "Un rendiconto mensile leggibile"] },
-    { "h2": "Come lavoriamo noi",
+      "list": [
+        "Recensioni e valutazioni degli immobili gestiti (meglio se Superhost)",
+        "Trasparenza su percentuale e costi inclusi",
+        "Contratto chiaro, senza esclusive capestro e con uscita semplice",
+        "Gestione della burocrazia inclusa (CIN, ospiti, imposta di soggiorno)",
+        "Un rendiconto mensile leggibile"
+      ]
+    },
+    {
+      "h2": "Come lavoriamo noi",
       "paragraphs": [
         "In B&P Lux Property gestiamo gli immobili a 360 gradi e siamo Superhost: annuncio, prezzi dinamici, ospiti, pulizie, recensioni e burocrazia sono nostri. Lavoriamo solo a percentuale, con zero costi iniziali: guadagniamo solo se guadagni tu.",
         "Prima di iniziare analizziamo l'immobile e ti diciamo, con numeri realistici, quanto può rendere. Senza impegno: se non ha senso per te, te lo diciamo."
-      ] }
+      ]
+    }
   ],
   "faq": [
-    { "q": "Quanto costa un property manager per affitti brevi?", "a": "Il costo è quasi sempre una percentuale sugli incassi, non un canone fisso: così il gestore guadagna solo se guadagni tu. La percentuale dipende dai servizi inclusi e dalla zona. Chiedi sempre cosa comprende e cosa è extra." },
-    { "q": "Cosa fa esattamente un property manager?", "a": "Gestisce tutto il ciclo dell'affitto breve: annuncio e foto, prezzi dinamici, comunicazione con gli ospiti, check-in e check-out, pulizie e biancheria, burocrazia (CIN, comunicazioni, imposta di soggiorno) e rendiconto mensile degli incassi." },
-    { "q": "Conviene davvero rispetto a gestire da soli?", "a": "Conviene quando la resa in più e il tempo risparmiato superano la percentuale del gestore: tipicamente con più immobili, casa in un'altra città o poco tempo. Con un solo immobile sotto casa e molto tempo libero, il fai-da-te può bastare." },
-    { "q": "Perdo il controllo del mio immobile?", "a": "No. Restano tue le decisioni chiave: periodi per uso personale, prezzo minimo, manutenzioni importanti. Il gestore si occupa dell'operatività quotidiana e ti aggiorna con un rendiconto, ma le scelte di fondo restano tue." },
-    { "q": "Serve un contratto lungo e vincolante?", "a": "Non dovrebbe. Un buon gestore propone contratti chiari, senza esclusive troppo rigide e con la possibilità di uscire. Diffida di chi ti lega le mani: la fiducia si costruisce sui risultati, non sui vincoli." }
+    {
+      "q": "Quanto costa un property manager per affitti brevi?",
+      "a": "Il costo è quasi sempre una percentuale sugli incassi, non un canone fisso: così il gestore guadagna solo se guadagni tu. La percentuale dipende dai servizi inclusi e dalla zona. Chiedi sempre cosa comprende e cosa è extra."
+    },
+    {
+      "q": "Cosa fa esattamente un property manager?",
+      "a": "Gestisce tutto il ciclo dell'affitto breve: annuncio e foto, prezzi dinamici, comunicazione con gli ospiti, check-in e check-out, pulizie e biancheria, burocrazia (CIN, comunicazioni, imposta di soggiorno) e rendiconto mensile degli incassi."
+    },
+    {
+      "q": "Conviene davvero rispetto a gestire da soli?",
+      "a": "Conviene quando la resa in più e il tempo risparmiato superano la percentuale del gestore: tipicamente con più immobili, casa in un'altra città o poco tempo. Con un solo immobile sotto casa e molto tempo libero, il fai-da-te può bastare."
+    },
+    {
+      "q": "Perdo il controllo del mio immobile?",
+      "a": "No. Restano tue le decisioni chiave: periodi per uso personale, prezzo minimo, manutenzioni importanti. Il gestore si occupa dell'operatività quotidiana e ti aggiorna con un rendiconto, ma le scelte di fondo restano tue."
+    },
+    {
+      "q": "Serve un contratto lungo e vincolante?",
+      "a": "Non dovrebbe. Un buon gestore propone contratti chiari, senza esclusive troppo rigide e con la possibilità di uscire. Diffida di chi ti lega le mani: la fiducia si costruisce sui risultati, non sui vincoli."
+    }
   ],
-  "related": ["gestione-affitti-brevi-fai-da-te-o-agenzia", "gestione-affitti-brevi-agenzie-immobiliari", "come-diventare-superhost"],
+  "related": [
+    "gestione-affitti-brevi-fai-da-te-o-agenzia",
+    "gestione-affitti-brevi-agenzie-immobiliari",
+    "come-diventare-superhost"
+  ],
   "sources": [],
   "disclaimer": false,
   "note": ""

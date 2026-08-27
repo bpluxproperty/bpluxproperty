@@ -44,15 +44,39 @@
       ],
       "list": [],
       "table": {
-        "headers": ["Funzione", "Beneficio per l'host"],
+        "headers": [
+          "Funzione",
+          "Beneficio per l'host"
+        ],
         "rows": [
-          ["Sincronizzazione dei calendari", "Le date si bloccano ovunque insieme: niente doppie prenotazioni"],
-          ["Aggiornamento unico della disponibilità", "Cambi una volta sola e vale su tutti i portali"],
-          ["Allineamento dei prezzi", "Stessa tariffa sui canali, senza riscriverla a mano"],
-          ["Dashboard unica", "Gestisci tutti gli annunci da un solo posto"],
-          ["Gestione multi-immobile", "Più case sotto controllo dalla stessa schermata"],
-          ["Integrazione con PMS e prezzi dinamici", "Prenotazioni, pulizie e tariffe collegate tra loro"],
-          ["Meno inserimenti manuali", "Meno errori e tempo risparmiato ogni giorno"]
+          [
+            "Sincronizzazione dei calendari",
+            "Le date si bloccano ovunque insieme: niente doppie prenotazioni"
+          ],
+          [
+            "Aggiornamento unico della disponibilità",
+            "Cambi una volta sola e vale su tutti i portali"
+          ],
+          [
+            "Allineamento dei prezzi",
+            "Stessa tariffa sui canali, senza riscriverla a mano"
+          ],
+          [
+            "Dashboard unica",
+            "Gestisci tutti gli annunci da un solo posto"
+          ],
+          [
+            "Gestione multi-immobile",
+            "Più case sotto controllo dalla stessa schermata"
+          ],
+          [
+            "Integrazione con PMS e prezzi dinamici",
+            "Prenotazioni, pulizie e tariffe collegate tra loro"
+          ],
+          [
+            "Meno inserimenti manuali",
+            "Meno errori e tempo risparmiato ogni giorno"
+          ]
         ]
       }
     },

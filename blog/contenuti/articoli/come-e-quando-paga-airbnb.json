@@ -25,11 +25,23 @@
         "I tempi di accredito dipendono poi dal metodo di payout scelto."
       ],
       "table": {
-        "headers": ["Aspetto", "Nota"],
+        "headers": [
+          "Aspetto",
+          "Nota"
+        ],
         "rows": [
-          ["Quando arriva", "Di norma dopo il check-in dell'ospite, in genere entro circa un giorno dall'arrivo; non alla prenotazione"],
-          ["Come arriva", "Sul metodo di payout impostato nel profilo (bonifico o altri metodi); i tempi variano per metodo e Paese"],
-          ["Quanto arriva (netto)", "L'importo al netto della commissione della piattaforma: è il numero che conta per la resa"]
+          [
+            "Quando arriva",
+            "Di norma dopo il check-in dell'ospite, in genere entro circa un giorno dall'arrivo; non alla prenotazione"
+          ],
+          [
+            "Come arriva",
+            "Sul metodo di payout impostato nel profilo (bonifico o altri metodi); i tempi variano per metodo e Paese"
+          ],
+          [
+            "Quanto arriva (netto)",
+            "L'importo al netto della commissione della piattaforma: è il numero che conta per la resa"
+          ]
         ]
       }
     },
@@ -82,12 +94,32 @@
       ],
       "list": [],
       "table": {
-        "headers": ["Aspetto", "Airbnb", "Booking"],
+        "headers": [
+          "Aspetto",
+          "Airbnb",
+          "Booking"
+        ],
         "rows": [
-          ["Chi incassa dall'ospite", "La piattaforma, alla prenotazione", "Spesso la struttura, in modo diretto"],
-          ["Quando ricevi i soldi", "Di norma dopo il check-in", "Quando incassi tu dall'ospite"],
-          ["La commissione", "Già trattenuta prima del payout", "Di norma versata o scalata dopo, a parte"],
-          ["Cosa arriva a te", "L'importo netto della prenotazione", "Il lordo, da cui togliere la commissione"]
+          [
+            "Chi incassa dall'ospite",
+            "La piattaforma, alla prenotazione",
+            "Spesso la struttura, in modo diretto"
+          ],
+          [
+            "Quando ricevi i soldi",
+            "Di norma dopo il check-in",
+            "Quando incassi tu dall'ospite"
+          ],
+          [
+            "La commissione",
+            "Già trattenuta prima del payout",
+            "Di norma versata o scalata dopo, a parte"
+          ],
+          [
+            "Cosa arriva a te",
+            "L'importo netto della prenotazione",
+            "Il lordo, da cui togliere la commissione"
+          ]
         ]
       }
     },

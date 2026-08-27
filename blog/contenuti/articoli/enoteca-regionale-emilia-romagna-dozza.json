@@ -44,13 +44,37 @@
         "L'Emilia-Romagna è una delle regioni del vino più ricche d'Italia, e all'Enoteca lo si capisce a colpo d'occhio. Vale la pena arrivare con qualche nome in testa, così da orientare la degustazione. Ecco i principali da cui partire:"
       ],
       "table": {
-        "headers": ["Vino", "Zona", "Carattere"],
+        "headers": [
+          "Vino",
+          "Zona",
+          "Carattere"
+        ],
         "rows": [
-          ["Albana", "Romagna", "Bianco strutturato, primo bianco italiano a DOCG"],
-          ["Sangiovese", "Romagna", "Il rosso simbolo del territorio, versatile a tavola"],
-          ["Lambrusco", "Emilia (Modena, Reggio)", "Rosso frizzante, fresco e conviviale"],
-          ["Pignoletto", "Colli bolognesi", "Bianco vivace, spesso frizzante"],
-          ["Trebbiano di Romagna", "Romagna", "Bianco quotidiano, fresco e beverino"]
+          [
+            "Albana",
+            "Romagna",
+            "Bianco strutturato, primo bianco italiano a DOCG"
+          ],
+          [
+            "Sangiovese",
+            "Romagna",
+            "Il rosso simbolo del territorio, versatile a tavola"
+          ],
+          [
+            "Lambrusco",
+            "Emilia (Modena, Reggio)",
+            "Rosso frizzante, fresco e conviviale"
+          ],
+          [
+            "Pignoletto",
+            "Colli bolognesi",
+            "Bianco vivace, spesso frizzante"
+          ],
+          [
+            "Trebbiano di Romagna",
+            "Romagna",
+            "Bianco quotidiano, fresco e beverino"
+          ]
         ]
       }
     },
@@ -91,7 +115,11 @@
       "a": "Dipende dal periodo: orari, visite guidate e degustazioni possono cambiare durante l'anno. Prima di andare conviene verificare le informazioni aggiornate sui canali ufficiali dell'Enoteca e del Comune di Dozza, soprattutto per gruppi o degustazioni dedicate."
     }
   ],
-  "related": ["cosa-vedere-a-dozza", "dove-dormire-a-dozza-appartamento", "dove-mangiare-a-dozza"],
+  "related": [
+    "cosa-vedere-a-dozza",
+    "dove-dormire-a-dozza-appartamento",
+    "dove-mangiare-a-dozza"
+  ],
   "sources": [
     {
       "label": "Sede e attività dell'Enoteca Regionale nella Rocca di Dozza",

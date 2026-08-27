@@ -63,13 +63,37 @@
       ],
       "list": [],
       "table": {
-        "headers": ["Tipo di policy", "Cosa comporta", "Quando conviene"],
+        "headers": [
+          "Tipo di policy",
+          "Cosa comporta",
+          "Quando conviene"
+        ],
         "rows": [
-          ["Flessibile", "Rimborso pieno fino a ridosso del soggiorno", "Avvio dell'annuncio, bassa stagione, immobili da last minute"],
-          ["Moderata", "Equilibrio tra libertà per l'ospite e protezione per te", "Situazioni miste, quando cerchi un compromesso"],
-          ["Rigida / ferma", "Rimborso pieno solo con largo anticipo", "Alta stagione, immobili con prenotazioni pianificate"],
-          ["Molto rigida", "Massima protezione, poca flessibilità vicino alla data", "Forte domanda, eventi e date molto richieste"],
-          ["Per soggiorni lunghi", "Logica dedicata alle prenotazioni di lungo periodo", "Medio-lungo termine, ospiti che si fermano a lungo"]
+          [
+            "Flessibile",
+            "Rimborso pieno fino a ridosso del soggiorno",
+            "Avvio dell'annuncio, bassa stagione, immobili da last minute"
+          ],
+          [
+            "Moderata",
+            "Equilibrio tra libertà per l'ospite e protezione per te",
+            "Situazioni miste, quando cerchi un compromesso"
+          ],
+          [
+            "Rigida / ferma",
+            "Rimborso pieno solo con largo anticipo",
+            "Alta stagione, immobili con prenotazioni pianificate"
+          ],
+          [
+            "Molto rigida",
+            "Massima protezione, poca flessibilità vicino alla data",
+            "Forte domanda, eventi e date molto richieste"
+          ],
+          [
+            "Per soggiorni lunghi",
+            "Logica dedicata alle prenotazioni di lungo periodo",
+            "Medio-lungo termine, ospiti che si fermano a lungo"
+          ]
         ]
       }
     },

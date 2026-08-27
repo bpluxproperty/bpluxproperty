@@ -46,14 +46,42 @@
         "Questa è la struttura che usiamo come base. Ogni riga è un messaggio della sequenza, con il momento di invio e le informazioni da non dimenticare. Personalizza i contenuti sul tuo alloggio, ma tieni gli agganci temporali."
       ],
       "table": {
-        "headers": ["Momento", "Messaggio", "Cosa includere"],
+        "headers": [
+          "Momento",
+          "Messaggio",
+          "Cosa includere"
+        ],
         "rows": [
-          ["Alla prenotazione", "Conferma e benvenuto", "Grazie, conferma date, chi sei, che sei a disposizione per domande"],
-          ["2-3 giorni prima", "Istruzioni pre-arrivo", "Indirizzo esatto, come entrare o self check-in, parcheggio, Wi-Fi, orario di arrivo"],
-          ["Giorno del check-in", "Promemoria arrivo", "Orario, codice o modalità accesso, un recapito per emergenze"],
-          ["Durante il soggiorno", "Controllo gentile", "Chiedere se è tutto ok, se serve qualcosa, senza essere invadenti"],
-          ["Giorno prima del check-out", "Istruzioni di uscita", "Orario di check-out, dove lasciare le chiavi, cosa fare di rifiuti e riscaldamento"],
-          ["Dopo la partenza", "Ringraziamento", "Saluto caloroso, invito a lasciare una recensione, porta aperta per un ritorno"]
+          [
+            "Alla prenotazione",
+            "Conferma e benvenuto",
+            "Grazie, conferma date, chi sei, che sei a disposizione per domande"
+          ],
+          [
+            "2-3 giorni prima",
+            "Istruzioni pre-arrivo",
+            "Indirizzo esatto, come entrare o self check-in, parcheggio, Wi-Fi, orario di arrivo"
+          ],
+          [
+            "Giorno del check-in",
+            "Promemoria arrivo",
+            "Orario, codice o modalità accesso, un recapito per emergenze"
+          ],
+          [
+            "Durante il soggiorno",
+            "Controllo gentile",
+            "Chiedere se è tutto ok, se serve qualcosa, senza essere invadenti"
+          ],
+          [
+            "Giorno prima del check-out",
+            "Istruzioni di uscita",
+            "Orario di check-out, dove lasciare le chiavi, cosa fare di rifiuti e riscaldamento"
+          ],
+          [
+            "Dopo la partenza",
+            "Ringraziamento",
+            "Saluto caloroso, invito a lasciare una recensione, porta aperta per un ritorno"
+          ]
         ]
       }
     },

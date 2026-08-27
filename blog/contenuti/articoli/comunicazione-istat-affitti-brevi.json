@@ -39,11 +39,27 @@
         "Nella nostra esperienza è l'equivoco più frequente tra chi inizia ad affittare a breve: si pensa che una comunicazione valga per tutte. Sono invece tre adempimenti separati, e vanno gestiti uno per uno fin dalla prima prenotazione."
       ],
       "table": {
-        "headers": ["Adempimento", "A cosa serve", "A chi si comunica"],
+        "headers": [
+          "Adempimento",
+          "A cosa serve",
+          "A chi si comunica"
+        ],
         "rows": [
-          ["Comunicazione ISTAT", "Rilevare arrivi e presenze a fini statistici", "Regione, tramite il portale turistico regionale"],
-          ["Alloggiati Web", "Trasmettere i dati nominativi degli ospiti per la pubblica sicurezza", "Questura, tramite il portale della Polizia di Stato"],
-          ["Imposta di soggiorno", "Tributo sui pernottamenti pagato dall'ospite", "Comune dove si trova l'alloggio"]
+          [
+            "Comunicazione ISTAT",
+            "Rilevare arrivi e presenze a fini statistici",
+            "Regione, tramite il portale turistico regionale"
+          ],
+          [
+            "Alloggiati Web",
+            "Trasmettere i dati nominativi degli ospiti per la pubblica sicurezza",
+            "Questura, tramite il portale della Polizia di Stato"
+          ],
+          [
+            "Imposta di soggiorno",
+            "Tributo sui pernottamenti pagato dall'ospite",
+            "Comune dove si trova l'alloggio"
+          ]
         ]
       }
     },
@@ -107,10 +123,24 @@
       "a": "No. La comunicazione ISTAT è una rilevazione statistica che va alla Regione; l'imposta di soggiorno è un tributo che l'ospite paga e l'host versa al Comune. Sono adempimenti distinti, con enti e finalità diverse, e vanno gestiti separatamente."
     }
   ],
-  "related": ["alloggiati-web-comunicazione-ospiti", "imposta-di-soggiorno-affitti-brevi", "cin-affitti-brevi-come-ottenerlo"],
+  "related": [
+    "alloggiati-web-comunicazione-ospiti",
+    "imposta-di-soggiorno-affitti-brevi",
+    "cin-affitti-brevi-come-ottenerlo"
+  ],
   "sources": [
-    { "label": "Rilevazione sul movimento dei clienti negli esercizi ricettivi", "ente": "ISTAT", "data": "", "url": "" },
-    { "label": "Portale turistico regionale per la comunicazione dei dati statistici", "ente": "Regione di riferimento", "data": "", "url": "" }
+    {
+      "label": "Rilevazione sul movimento dei clienti negli esercizi ricettivi",
+      "ente": "ISTAT",
+      "data": "",
+      "url": ""
+    },
+    {
+      "label": "Portale turistico regionale per la comunicazione dei dati statistici",
+      "ente": "Regione di riferimento",
+      "data": "",
+      "url": ""
+    }
   ],
   "disclaimer": true,
   "note": ""

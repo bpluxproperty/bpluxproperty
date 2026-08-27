@@ -22,7 +22,7 @@
     {
       "h2": "Un dato solo non basta",
       "paragraphs": [
-        "Diffida di chi promette una percentuale valida per tutti. La resa reale è una stima indicativa finché non si calcola sul tuo immobile: dipende da occupazione, tariffa media giornaliera e costi effettivi.",
+        "Le promesse a percentuale fissa vanno prese con cautela. La resa reale è una stima indicativa finché non si calcola sul tuo immobile: dipende da occupazione, tariffa media giornaliera e costi effettivi.",
         "La formula, a parole, è semplice: quanto incassi (occupazione × tariffa media) meno i costi (pulizie, utenze, commissioni, gestione, imposte). Il risultato cambia molto da un appartamento all'altro, e a Genova può cambiare persino tra due immobili nello stesso vicolo.",
         "Conta poi la differenza tra lordo e netto. Il ricavo lordo dell'affitto è solo il punto di partenza: la cifra su cui decidere è quella netta, dopo aver tolto tutte le spese. E va sempre rapportata al canone di un affitto tradizionale, se la casa è già tua, o al prezzo d'acquisto, se compri per investire."
       ]
@@ -47,12 +47,12 @@
           [
             "Tipologia e dimensione",
             "Monolocali e bilocali per coppie e city break, tagli più grandi per famiglie",
-            "Cambia il pubblico e la tariffa media raggiungibile"
+            "Modifica il segmento servito e il listino possibile"
           ],
           [
             "Qualità di arredo e foto",
             "Primo filtro con cui l'ospite sceglie l'annuncio",
-            "Più prenotazioni e margine per alzare il prezzo"
+            "Più richieste, quindi meno bisogno di svendere"
           ],
           [
             "Prezzi dinamici",
@@ -80,7 +80,7 @@
     {
       "h2": "Dove si concentra la domanda",
       "paragraphs": [
-        "La zona è il fattore che pesa di più, perché decide sia quanto puoi chiedere sia quanto spesso prenoti. A Genova, però, la geografia è particolare: la città è stretta tra mare e collina e cambia volto in pochi metri.",
+        "La posizione tira due leve alla volta, prezzo e riempimento. A Genova, però, la geografia è particolare: la città è stretta tra mare e collina e cambia volto in pochi metri.",
         "Un'osservazione dal campo. Da property manager Superhost abbiamo imparato che a Genova il centro storico va scelto vicolo per vicolo: strade molto vive e frequentate convivono con altre più difficili a pochi passi di distanza, e per l'ospite la differenza è enorme. La doppia natura della città — meta in sé e base per la Riviera — è ciò che tiene viva la domanda anche fuori dai mesi di punta."
       ],
       "list": [
@@ -116,7 +116,7 @@
   "faq": [
     {
       "q": "Quanto rende un affitto breve a Genova?",
-      "a": "Dipende dal singolo immobile: la resa reale si calcola su occupazione, tariffa media e costi. A Genova la domanda turistica cresce e i prezzi d'acquisto contenuti per un capoluogo aiutano la redditività, ma qualsiasi percentuale valida «per tutti» resta una stima indicativa da verificare sul tuo appartamento."
+      "a": "La resa vera richiede i numeri di quella casa, non una stima di zona. A Genova la domanda turistica cresce e i prezzi d'acquisto contenuti per un capoluogo aiutano la redditività, ma qualsiasi percentuale valida «per tutti» resta una stima indicativa da verificare sul tuo appartamento."
     },
     {
       "q": "Conviene più l'affitto breve o quello tradizionale a Genova?",
@@ -136,7 +136,7 @@
     },
     {
       "q": "Come faccio a sapere quanto renderebbe casa mia a Genova?",
-      "a": "Serve un'analisi sul tuo specifico immobile: zona, tipologia, concorrenza e costi reali. Le stime generiche online sono spesso imprecise. Possiamo calcolare gratuitamente una stima costruita sui numeri effettivi del tuo appartamento, senza impegno."
+      "a": "Serve un'analisi sul tuo specifico immobile: zona, tipologia, concorrenza e costi reali. Una stima costruita su medie non regge il confronto con i numeri reali. La stima sul tuo appartamento si costruisce sui suoi numeri, non su una media."
     }
   ],
   "related": [

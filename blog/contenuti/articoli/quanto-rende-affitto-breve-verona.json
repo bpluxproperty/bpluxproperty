@@ -29,8 +29,8 @@
     {
       "h2": "Quanto rende un affitto breve a Verona: la risposta onesta",
       "paragraphs": [
-        "Partiamo dalla verità: non esiste un numero unico. Un affitto breve a Verona, se gestito bene, tende a rendere più di un affitto tradizionale a lungo termine. In cambio chiede più lavoro, più costi variabili e una gestione attiva. La forbice tra i due mondi si allarga o si stringe a seconda di quanto la casa resta occupata e a che tariffa.",
-        "La formula, a parole, è semplice: ricavo uguale tariffa media giornaliera per notti prenotate in un anno, meno i costi. Il difficile è stimare bene i due ingredienti, occupazione e tariffa, perché a Verona cambiano molto tra zona, stagione ed eventi. E conta sempre il netto, non il lordo: qualsiasi cifra tu legga in giro va presa come stima indicativa, da verificare sul singolo immobile."
+        "Nessuna percentuale è valida per ogni appartamento. Un affitto breve a Verona, se gestito bene, tende a rendere più di un affitto tradizionale a lungo termine. In cambio chiede più lavoro, più costi variabili e una gestione attiva. Il vantaggio si misura su due numeri: notti occupate e prezzo medio.",
+        "Si moltiplica il prezzo medio per le notti occupate e si sottraggono le spese. Il difficile è stimare bene i due ingredienti, occupazione e tariffa, perché a Verona cambiano molto tra zona, stagione ed eventi. E conta sempre il netto, non il lordo: qualsiasi cifra tu legga in giro va presa come stima indicativa, da verificare sul singolo immobile."
       ]
     },
     {
@@ -48,7 +48,7 @@
           [
             "Zona",
             "Vicinanza al centro storico, all'Arena e alla stazione",
-            "Alza tariffa e occupazione nelle aree più richieste"
+            "Nelle zone forti spinge insieme prezzo e riempimento"
           ],
           [
             "Tipologia e dimensione",
@@ -57,7 +57,7 @@
           ],
           [
             "Qualità di arredo e foto",
-            "Primo filtro con cui l'ospite sceglie l'annuncio",
+            "Decide se l'annuncio viene aperto o scartato",
             "Più prenotazioni e margine per alzare il prezzo"
           ],
           [
@@ -125,10 +125,10 @@
       "h2": "Come si stima quanto può rendere una casa",
       "paragraphs": [
         "A parole la formula è semplice: ricavo uguale tariffa media giornaliera per notti prenotate in un anno, meno i costi. Il difficile è stimare bene ogni ingrediente, perché a Verona tariffa, occupazione e costi cambiano molto tra centro storico, zona fiera e semicentro, e tra alta stagione e periodi più lenti.",
-        "È qui che l'analisi sul singolo appartamento fa la differenza: solo guardando dati reali di zona e calendario si passa da una stima indicativa a un numero su cui decidere. Il valore vero non è mai una media copiata da un articolo, ma la fotografia della tua casa: zona, metratura, arredo e stagione in cui apri le prenotazioni. Come property manager partiamo sempre da qui, con un'analisi dell'immobile senza impegno che traduce la stima in numeri realistici. Un metodo prudente, per non illudersi, passa da quattro passi:"
+        "Serve scendere sul singolo alloggio: zona, calendario, concorrenza reale. Il valore vero non è mai una media copiata da un articolo, ma la fotografia della tua casa: zona, metratura, arredo e stagione in cui apri le prenotazioni. Come property manager partiamo sempre da qui, con un'analisi dell'immobile senza impegno che traduce la stima in numeri realistici. Quattro passaggi, in ordine:"
       ],
       "list": [
-        "Stima l'occupazione realistica: quante notti l'anno riesci davvero a riempire, non lo scenario migliore.",
+        "Metti giù le notti vendibili con onestà, non con ottimismo.",
         "Definisci una tariffa media per stagione, tenendo conto dei picchi di stagione lirica e fiere e dei periodi più lenti.",
         "Sottrai tutti i costi: pulizie, utenze, biancheria, commissioni, manutenzione, gestione e imposte.",
         "Rapporta il netto: al canone tradizionale se la casa è già tua, al prezzo d'acquisto se compri per investire."
@@ -138,7 +138,7 @@
   "faq": [
     {
       "q": "Quanto rende al mese un affitto breve a Verona?",
-      "a": "Non esiste una cifra valida per tutti: è una stima indicativa che dipende da zona, immobile, stagione e gestione. A Verona la domanda forte tutto l'anno e i picchi degli eventi aiutano, ma il rendimento reale si ottiene solo incrociando tariffa media e occupazione del tuo specifico appartamento, al netto dei costi."
+      "a": "Una risposta unica non c'è: il risultato si costruisce su quattro fattori. A Verona la domanda forte tutto l'anno e i picchi degli eventi aiutano, ma il rendimento reale si ottiene solo incrociando tariffa media e occupazione del tuo specifico appartamento, al netto dei costi."
     },
     {
       "q": "Verona è un buon mercato per gli affitti brevi?",
@@ -150,11 +150,11 @@
     },
     {
       "q": "Conviene più l'affitto breve o quello tradizionale a Verona?",
-      "a": "Di solito l'affitto breve ben gestito rende di più del canone tradizionale, ma con più costi e più lavoro. A Verona la domanda costante e i picchi degli eventi giocano a favore del breve; il confronto però va fatto sui numeri netti del tuo immobile, perché posizione e gestione cambiano tutto."
+      "a": "Il breve tende a rendere più del lungo, a patto di lavorarci. A Verona la domanda costante e i picchi degli eventi giocano a favore del breve; il confronto però va fatto sui numeri netti del tuo immobile, perché posizione e gestione cambiano tutto."
     },
     {
       "q": "Come faccio a sapere quanto renderebbe casa mia a Verona?",
-      "a": "Serve un'analisi sul tuo specifico immobile: si parte da zona, tipologia e stagionalità, si stima un'occupazione realistica e una tariffa media, poi si sottraggono tutti i costi. Solo così una stima indicativa diventa un numero affidabile su cui decidere se e come affittare a breve."
+      "a": "Serve un'analisi sul tuo specifico immobile: si parte da zona, tipologia e stagionalità, si stima un'occupazione realistica e una tariffa media, poi si sottraggono tutti i costi. Solo così una stima indicativa diventa un numero su cui decidere."
     }
   ],
   "related": [
