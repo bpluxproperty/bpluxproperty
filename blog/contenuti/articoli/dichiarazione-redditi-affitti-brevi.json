@@ -1,0 +1,174 @@
+{
+  "slug": "dichiarazione-redditi-affitti-brevi",
+  "keyword": "dichiarazione redditi affitti brevi",
+  "category": "normativa-fisco",
+  "title": "Dichiarazione redditi affitti brevi: cosa controllare",
+  "metaDescription": "Come si dichiarano gli affitti brevi: quale modello si usa, quali dati trasmettono le piattaforme al precompilato e che cosa controllare prima di confermare.",
+  "h1": "Come si dichiarano gli affitti brevi: modello, precompilato e documenti da avere",
+  "excerpt": "Gli incassi degli affitti brevi non si fermano al bonifico della piattaforma: vanno dichiarati, con la ritenuta scomputata come acconto. Quale modello si usa, che cosa il precompilato sa già, quali documenti servono e quali controlli fare prima di confermare.",
+  "opening": "Gli affitti brevi si dichiarano ogni anno anche quando la piattaforma ha già trattenuto il 21%: quella ritenuta è un acconto, non un conto chiuso. Il reddito del proprietario va indicato nel quadro dei fabbricati del modello che si utilizza, 730 o Redditi Persone fisiche, e le ritenute subite si scomputano in un rigo dedicato. Da lì in poi conta la qualità dei numeri.",
+  "publishedAt": "2026-08-27",
+  "updatedAt": "2026-08-27",
+  "heroKicker": "FISCO",
+  "sections": [
+    {
+      "h2": "Perché va dichiarato anche se la piattaforma ha già trattenuto",
+      "paragraphs": [
+        "Quando un portale incassa il corrispettivo e lo gira al proprietario, trattiene il 21%. Dopo la legge di bilancio 2024 quella ritenuta è mantenuta al 21% e operata sempre a titolo d'acconto, indipendentemente dal regime fiscale scelto dal beneficiario. Un acconto non chiude nulla: entro il termine per il versamento a saldo il contribuente deve determinare, per ciascun periodo d'imposta, l'imposta dovuta — ordinaria o sostitutiva — e versare l'eventuale differenza dopo aver scomputato le ritenute già subite.",
+        "Da qui nasce l'errore più costoso, cioè dare per tassato il netto arrivato sul conto e non dichiarare niente. Le istruzioni ufficiali arrivano a un caso limite che chiarisce il principio: il reddito della locazione effettuata nell'anno va riportato in dichiarazione anche se il corrispettivo non è ancora stato riscosso, e anche se non compare nella Certificazione Unica trasmessa dall'intermediario. L'obbligo dichiarativo non dipende da quando i soldi si muovono.",
+        "C'è poi una ragione più tecnica per cui i conti non tornano mai da soli. La certificazione degli intermediari è compilata per cassa, cioè sull'anno in cui il pagamento è stato incassato, mentre il reddito fondiario del proprietario si tassa per competenza, cioè sull'anno in cui il soggiorno è avvenuto. Sono due criteri diversi applicati agli stessi euro. Commissioni, meccanica della ritenuta e riconciliazione dell'estratto conto sono trattate nell'articolo dedicato alla ritenuta delle piattaforme."
+      ]
+    },
+    {
+      "h2": "Quale modello si usa, e quando il più semplice non basta",
+      "paragraphs": [
+        "Per il proprietario o il titolare di altro diritto reale il reddito da locazione breve è reddito fondiario e finisce nel quadro dei fabbricati: quadro B nel modello 730, quadro RB nel modello Redditi Persone fisiche. Il 730 è la strada più corta, ma è costruito per lavoratori dipendenti, pensionati e le altre categorie elencate nelle istruzioni; il modello Redditi PF resta comunque utilizzabile in alternativa da chiunque, anche da chi potrebbe presentare il 730.",
+        "Le istruzioni del 730 per i redditi 2025 elencano le situazioni in cui il modello semplificato non si può usare e serve il Redditi PF. Fra queste: aver percepito redditi d'impresa, anche in forma di partecipazione, o redditi di lavoro autonomo per i quali è richiesta la partita IVA; non essere residenti in Italia nell'anno d'imposta o in quello di presentazione; dover presentare anche la dichiarazione IVA, la dichiarazione IRAP o il modello 770.",
+        "Un caso riguarda direttamente chi affitta. Chi ha destinato alla locazione breve più di quattro appartamenti nel 2025 non può usare il 730, perché l'attività si presume svolta in forma imprenditoriale, e dichiara nel terzo fascicolo del modello Redditi PF. La soglia però si è mossa: la legge di bilancio 2026 l'ha portata a non più di due appartamenti per ciascun periodo d'imposta, con effetto dal 2026. È il tipo di dettaglio da rileggere ogni anno prima di aprire il modello."
+      ]
+    },
+    {
+      "h2": "Che cosa il precompilato sa già e che cosa non sa",
+      "paragraphs": [
+        "La dichiarazione precompilata contiene i dati delle locazioni brevi — corrispettivi e ritenute — presi dalla Certificazione Unica inviata dagli intermediari immobiliari. Non è poco: gli intermediari comunicano all'Agenzia delle Entrate nome, cognome e codice fiscale del locatore, durata del contratto, indirizzo dell'immobile, codice identificativo nazionale, anno di riferimento e importo del corrispettivo lordo. È abbastanza per popolare la sezione, non abbastanza per chiuderla.",
+        "Quei dati arrivano con una logica loro. Il CIN è la chiave che lega il corrispettivo all'immobile giusto, e le istruzioni della Certificazione Unica chiedono espressamente di verificarlo sulla banca dati delle strutture ricettive del Ministero del Turismo: se è sbagliato o assente, il dato non si aggancia dove dovrebbe. La certificazione, poi, segue il criterio di cassa, mentre il reddito del proprietario si tassa per competenza: un soggiorno a cavallo di dicembre e gennaio va diviso sui giorni dei due anni.",
+        "Resta tutto quello che nessuno ha trasmesso: gli incassi diretti fuori piattaforma, le quote reali di comproprietà, e la scelta di quale immobile tenere ad aliquota ridotta quando se ne affitta più di uno, scelta che il contribuente esercita in dichiarazione e che non esiste in nessun archivio prima di quel momento. Va tenuto a mente anche un limite del vantaggio: l'esonero dai controlli documentali sulla precompilata riguarda gli oneri detraibili e deducibili trasmessi da terzi, non i redditi dichiarati."
+      ],
+      "list": [
+        "Che i corrispettivi lordi corrispondano ai soggiorni dell'anno, non ai pagamenti incassati nell'anno",
+        "Che i soggiorni a cavallo di dicembre e gennaio siano divisi sui giorni di competenza di ciascun anno",
+        "Che gli incassi ricevuti fuori dalle piattaforme siano stati aggiunti a mano",
+        "Che il CIN riportato coincida con quello rilasciato dal Ministero del Turismo per quell'immobile",
+        "Che le ritenute indicate siano quelle certificate e riferite all'anno che si sta dichiarando",
+        "Che, con più immobili affittati, sia indicato quello su cui si applica l'aliquota ridotta",
+        "Che quote di possesso e situazioni di comproprietà siano quelle reali",
+        "Che depositi cauzionali, caparre e penali non siano finiti dentro il corrispettivo"
+      ]
+    },
+    {
+      "h2": "La documentazione da avere davanti",
+      "paragraphs": [
+        "Compilare la sezione dei fabbricati richiede pochi numeri, ma quei numeri vengono da carte diverse, prodotte da soggetti diversi, disponibili in momenti diversi dell'anno. Chi le ha raccolte entro marzo compila in mezz'ora. Chi le cerca a settembre passa due settimane a incrociare estratti conto e ricevute, e in genere è lì che nascono le differenze fra quello che risulta all'Agenzia delle Entrate e quello che il proprietario ricorda di avere incassato.",
+        "Una novità pratica va segnata: dalla Certificazione Unica di quest'anno non è più richiesta l'indicazione dei dati catastali dell'immobile locato. Chi era abituato a leggerli da lì deve procurarseli altrove, perché il quadro dei fabbricati li vuole comunque. Discorso opposto per il codice identificativo nazionale: la sua indicazione nella certificazione è diventata obbligatoria, e nei modelli dichiarativi ha una sezione dedicata dentro lo stesso quadro dei fabbricati."
+      ],
+      "table": {
+        "headers": [
+          "Documento",
+          "Da dove arriva",
+          "A che cosa serve quando si dichiara"
+        ],
+        "rows": [
+          [
+            "Certificazione Unica, sezione locazioni brevi",
+            "Intermediario o portale che ha incassato",
+            "Corrispettivi lordi e ritenute, riferiti all'anno indicato nella certificazione"
+          ],
+          [
+            "Estratti conto e riepiloghi dei pagamenti",
+            "Portali e strumenti di incasso utilizzati",
+            "Ricostruire soggiorni, commissioni e somme incassate direttamente"
+          ],
+          [
+            "Attestazioni dei versamenti dell'imposta di soggiorno",
+            "Comune dove si trova l'immobile",
+            "Documentare la dichiarazione annuale al Comune, separata da quella dei redditi"
+          ],
+          [
+            "Dati catastali e quote di possesso",
+            "Catasto e atti di proprietà",
+            "Compilare la sezione dei fabbricati, ora che la certificazione non li riporta più"
+          ],
+          [
+            "CIN e archivio delle prenotazioni",
+            "Banca dati del Ministero del Turismo e proprio gestionale",
+            "Indicare il codice corretto e ricostruire le date esatte dei soggiorni"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "I casi che complicano il quadro",
+      "paragraphs": [
+        "La comproprietà è la situazione che genera più equivoci. Se il contratto è stipulato da uno solo dei proprietari, la ritenuta viene operata e certificata unicamente nei suoi confronti: sarà lui a scomputarla, o a chiederne il rimborso se non ha imposta sufficiente. Gli altri comproprietari assoggettano comunque a tassazione il reddito loro imputabile pro quota, senza avere una ritenuta da scomputare. Il netto arrivato sul conto di uno non misura quello che devono dichiarare gli altri.",
+        "Cambia il quadro anche quando chi affitta non è il proprietario. Per il sublocatore e per il comodatario il corrispettivo non è reddito fondiario ma reddito diverso, va in un altro quadro e si tassa nell'anno in cui è stato percepito; il proprietario continua a dichiarare la rendita catastale dell'immobile. Con più appartamenti entrano invece in gioco le soglie, l'individuazione dell'immobile ad aliquota ridotta e, oltre il limite, il passaggio all'attività d'impresa.",
+        "Restano i cambi in corsa: un immobile che passa dall'affitto lungo al breve a metà anno, un incasso diretto che non compare in nessuna certificazione, più contratti fra le stesse parti che superano complessivamente i trenta giorni. Le istruzioni ufficiali segnalano inoltre che il Comune di Venezia può individuare autonomamente limiti massimi e presupposti per destinare gli immobili residenziali alla locazione breve. Ognuna di queste situazioni è un motivo concreto per farsi leggere la posizione da un commercialista prima di compilare."
+      ]
+    },
+    {
+      "h2": "Le scadenze, senza inventarle",
+      "paragraphs": [
+        "Le date di presentazione e di versamento cambiano di anno in anno e si spostano per motivi banali: i termini che scadono di sabato o in un giorno festivo sono prorogati al primo giorno feriale successivo. L'unico posto dove leggerle è lo scadenzario fiscale dell'Agenzia delle Entrate, insieme alle istruzioni del modello dell'anno in corso. Copiare una data da un articolo dell'anno precedente è il modo più rapido per arrivare tardi.",
+        "Un esempio di quanto si muovano, riferito ai redditi 2025: il 730 si presenta entro il 30 settembre, mentre il modello Redditi Persone fisiche per via telematica ha la finestra dal 15 aprile al 2 novembre 2026, perché il 31 ottobre cade di sabato. Il saldo si versa entro il 30 giugno 2026, oppure entro il 30 luglio 2026 maggiorando le somme dello 0,40 per cento a titolo di interesse corrispettivo.",
+        "Vanno segnate anche le date che non riguardano la dichiarazione dei redditi ma servono per compilarla. La Certificazione Unica va consegnata al percipiente entro il 16 marzo dell'anno successivo a quello dei redditi certificati: chi non la trova entro quel termine ha il tempo per sollecitarla. L'imposta di soggiorno ha una dichiarazione propria, telematica e diretta al Comune, con termine al 30 giugno dell'anno successivo: è un adempimento separato, che non si risolve dentro il modello dei redditi."
+      ]
+    },
+    {
+      "h2": "Il lavoro che facciamo durante l'anno perché a giugno non si ricostruisca nulla",
+      "paragraphs": [
+        "Siamo property manager in Emilia-Romagna e gestiamo, fra le altre case, un appartamento a Dozza. Per noi la dichiarazione non è un lavoro di giugno: è la conseguenza di dodici mesi in cui ogni soggiorno viene registrato con le sue date, il suo corrispettivo lordo e il suo canale di incasso. Quando il proprietario o il suo commercialista chiedono i numeri, li chiediamo a un archivio, non a una memoria.",
+        "Nei proprietari che tengono i conti a mente l'abitudine ricorrente è ragionare sul bonifico: si guarda quanto è arrivato sul conto e si dà per buono che quello sia il reddito. Ma il bonifico è già al netto delle commissioni e della ritenuta, e capita che sommi soggiorni appartenenti a due anni diversi. Il numero da dichiarare non è quello che arriva sul conto: è il corrispettivo lordo del soggiorno.",
+        "In concreto teniamo aperto un registro per immobile: arrivo e partenza, corrispettivo lordo, commissioni trattenute, ritenuta certificata, imposta di soggiorno versata, e la nota di che cosa è stato incassato fuori piattaforma. A dicembre lo chiudiamo separando i soggiorni a cavallo d'anno, che sono la voce che manda fuori strada più spesso i controlli sul precompilato. È un lavoro noioso di dieci minuti al mese che evita una settimana di archeologia contabile.",
+        "Il nostro mestiere si ferma dove inizia quello del commercialista: prepariamo carte ordinate e coerenti, non pareri fiscali. Su quale regime scegliere, come trattare una comproprietà, che cosa fare se un anno è stato gestito male, la risposta la dà un professionista che guarda l'intera posizione del proprietario e non soltanto l'appartamento."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Devo dichiarare gli affitti brevi se la piattaforma ha già trattenuto il 21%?",
+      "a": "Sì. La ritenuta operata dagli intermediari è sempre a titolo d'acconto, quindi non chiude i conti: il reddito va indicato in dichiarazione, l'imposta dovuta va determinata per l'anno d'imposta e la ritenuta subita si scomputa, versando l'eventuale saldo o recuperando l'eccedenza."
+    },
+    {
+      "q": "Per gli affitti brevi posso usare il 730 o serve il modello Redditi PF?",
+      "a": "Il 730 va bene per molti proprietari, ma non per tutti: serve il modello Redditi Persone fisiche, per esempio, in presenza di redditi d'impresa o di lavoro autonomo con partita IVA, se non si è residenti in Italia, se si deve presentare anche IVA, IRAP o il modello 770, oppure se nell'anno sono stati destinati alla locazione breve più appartamenti della soglia consentita."
+    },
+    {
+      "q": "Il precompilato contiene già i dati degli affitti brevi?",
+      "a": "In parte sì: la dichiarazione precompilata riporta corrispettivi e ritenute presi dalla Certificazione Unica inviata dagli intermediari immobiliari. Non contiene però gli incassi diretti fuori piattaforma, la scelta dell'immobile ad aliquota ridotta e le eventuali correzioni di competenza, quindi va verificata voce per voce prima di confermarla."
+    },
+    {
+      "q": "Come si dichiara un soggiorno iniziato a dicembre e finito a gennaio?",
+      "a": "Il corrispettivo va diviso sui giorni di competenza dei due anni e dichiarato in parte in ciascun anno d'imposta. Il reddito fondiario del proprietario segue infatti l'anno in cui la locazione è avvenuta, non quello in cui il pagamento è stato incassato, e le istruzioni del modello riportano un esempio di calcolo proporzionale ai giorni."
+    },
+    {
+      "q": "Quali documenti bisogna avere per dichiarare gli affitti brevi?",
+      "a": "Servono la Certificazione Unica con la sezione dedicata alle locazioni brevi, gli estratti dei pagamenti delle piattaforme, i dati catastali e le quote di possesso dell'immobile, il CIN e le attestazioni dei versamenti dell'imposta di soggiorno. I dati catastali, in particolare, non sono più richiesti nella certificazione e vanno recuperati a parte."
+    },
+    {
+      "q": "Se l'immobile è in comproprietà, chi dichiara il reddito e chi scomputa la ritenuta?",
+      "a": "Ogni comproprietario dichiara il reddito che gli è imputabile pro quota, ma la ritenuta la scomputa solo chi ha stipulato il contratto, perché è nei suoi confronti che è stata operata e certificata. Chi non l'ha subita dichiara la propria quota senza acconti da recuperare, e questo cambia sensibilmente il saldo di ciascuno."
+    }
+  ],
+  "related": [
+    "cedolare-secca-affitti-brevi",
+    "tasse-affitti-brevi-quanto-si-paga",
+    "ritenuta-piattaforme-affitti-brevi"
+  ],
+  "sources": [
+    {
+      "label": "Locazioni brevi: la disciplina fiscale e le regole per gli intermediari",
+      "ente": "Agenzia delle Entrate",
+      "data": "2026",
+      "url": "https://www.agenziaentrate.gov.it/portale/documents/d/guest/locazioni_brevi_disciplina_fiscale_e_regole_per_intermediari_aprile-2026"
+    },
+    {
+      "label": "Modello 730/2026: modello e istruzioni per la compilazione",
+      "ente": "Agenzia delle Entrate",
+      "data": "2026",
+      "url": "https://www.agenziaentrate.gov.it/portale/730-2026/modello-e-istruzioni"
+    },
+    {
+      "label": "Modello Redditi Persone fisiche 2026: modello e istruzioni",
+      "ente": "Agenzia delle Entrate",
+      "data": "2026",
+      "url": "https://www.agenziaentrate.gov.it/portale/modello-redditi-persone-fisiche-2026/modello-e-istruzioni"
+    },
+    {
+      "label": "Dichiarazione precompilata: cosa contiene",
+      "ente": "Agenzia delle Entrate",
+      "data": "2026",
+      "url": "https://infoprecompilata.agenziaentrate.gov.it/portale/web/guest/cosa-contiene"
+    }
+  ],
+  "disclaimer": true,
+  "note": ""
+}

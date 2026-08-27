@@ -26,7 +26,7 @@
       "list": [
         "CIN (Codice Identificativo Nazionale): il codice che identifica l'immobile, si richiede al Ministero del Turismo e va esposto negli annunci",
         "Eventuale comunicazione o SCIA al Comune: dove prevista, la segnalazione di avvio dell'attività di locazione turistica; verifica sul sito del tuo Comune",
-        "Requisiti di sicurezza dell'alloggio: rilevatori di fumo e monossido, estintore e impianti a norma, da sistemare prima di ospitare",
+        "Dotazioni di sicurezza dell'alloggio: rilevatori di gas combustibili e di monossido di carbonio funzionanti ed estintori portatili a norma, richiesti a tutte le unità destinate a locazione breve, in forma imprenditoriale o no; i requisiti degli impianti riguardano invece chi opera in forma imprenditoriale",
         "Alloggiati Web: la comunicazione dei dati di ogni ospite alla Questura, tramite il portale della Polizia di Stato, entro 24 ore dall'arrivo e entro sei ore per i soggiorni che non superano le 24 ore",
         "Imposta di soggiorno: il tributo che riscuoti dall'ospite e versi al Comune, dove prevista",
         "Comunicazione ISTAT: la rilevazione statistica di arrivi e presenze, che molte Regioni raccolgono dal proprio portale turistico",
@@ -93,7 +93,7 @@
       "h2": "Prima di pubblicare l'annuncio",
       "paragraphs": [
         "Alcuni adempimenti vengono prima di tutto: senza, l'annuncio non dovrebbe nemmeno andare online. Il primo è il CIN, il Codice Identificativo Nazionale: si richiede al Ministero del Turismo con SPID o CIE e va esposto in tutti gli annunci e all'esterno dell'alloggio. La nostra guida al CIN spiega la procedura passo per passo.",
-        "Dove prevista, va presentata anche una comunicazione o SCIA al Comune per l'avvio dell'attività di locazione turistica: non è uguale ovunque, quindi verifica sul sito del tuo Comune cosa serve nella tua zona. Infine i requisiti di sicurezza dell'alloggio — rilevatori di fumo e monossido, estintore, impianti a norma — sono dovuti a prescindere: vanno sistemati prima di ospitare, non dopo la prima segnalazione."
+        "Dove prevista, va presentata anche una comunicazione o SCIA al Comune per l'avvio dell'attività di locazione turistica: non è uguale ovunque, quindi verifica sul sito del tuo Comune cosa serve nella tua zona. Infine le dotazioni di sicurezza, ed è il punto su cui si sbaglia più spesso: i rilevatori di gas combustibili e di monossido di carbonio e gli estintori portatili sono richiesti a tutte le unità destinate a locazione breve, che l'attività sia imprenditoriale o no. I requisiti di sicurezza degli impianti, invece, sono legati alla forma imprenditoriale. Le due cose vengono confuse continuamente, e la dotazione va sistemata prima di ospitare."
       ]
     },
     {
@@ -133,7 +133,7 @@
     },
     {
       "q": "Da quale adempimento si comincia?",
-      "a": "Dal CIN e dai requisiti di sicurezza, prima di pubblicare l'annuncio. Il CIN si richiede al Ministero del Turismo e va esposto negli annunci, mentre rilevatori, estintore e impianti a norma sono dovuti a prescindere. Solo dopo si passa agli obblighi che tornano a ogni ospite."
+      "a": "Dal CIN e dai requisiti di sicurezza, prima di pubblicare l'annuncio. Il CIN si richiede al Ministero del Turismo e va esposto negli annunci; rilevatori di gas e monossido ed estintori sono richiesti a tutte le unità in locazione breve, mentre i requisiti degli impianti dipendono dalla forma dell'attività. Solo dopo si passa agli obblighi che tornano a ogni ospite."
     },
     {
       "q": "Può gestirli un property manager al posto mio?",
@@ -143,7 +143,10 @@
   "related": [
     "cin-affitti-brevi-come-ottenerlo",
     "alloggiati-web-comunicazione-ospiti",
-    "imposta-di-soggiorno-affitti-brevi"
+    "imposta-di-soggiorno-affitti-brevi",
+    "codice-identificativo-regionale-cir",
+    "scia-cia-locazioni-turistiche",
+    "dispositivi-sicurezza-affitti-brevi"
   ],
   "sources": [
     {

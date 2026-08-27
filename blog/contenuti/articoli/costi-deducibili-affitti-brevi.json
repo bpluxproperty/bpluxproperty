@@ -1,0 +1,176 @@
+{
+  "slug": "costi-deducibili-affitti-brevi",
+  "keyword": "costi deducibili affitti brevi",
+  "category": "normativa-fisco",
+  "title": "Costi deducibili affitti brevi: cosa si scarica",
+  "metaDescription": "Con la cedolare secca sugli affitti brevi i costi non si deducono: si paga sull'intero canone. Come cambia nella tassazione ordinaria e nell'impresa.",
+  "h1": "Costi deducibili negli affitti brevi: quando si scaricano e quando no",
+  "excerpt": "Pulizie, biancheria, commissioni dei portali, utenze: chi affitta a breve scopre al primo anno che con la cedolare secca queste voci non si scaricano, perché l'imposta si calcola sul canone lordo. La deducibilità cambia da regime a regime, ed è un criterio di scelta che quasi nessuno guarda.",
+  "opening": "Con la cedolare secca sugli affitti brevi i costi non si deducono: l'imposta sostitutiva si calcola sull'intero importo del canone indicato nel contratto, e sul reddito così tassato non si fanno valere oneri deducibili né detrazioni. Pulizie, biancheria, commissioni dei portali, utenze e manutenzione restano a carico del proprietario. Il trattamento cambia nella tassazione ordinaria e cambia di più nel reddito d'impresa.",
+  "publishedAt": "2026-08-27",
+  "updatedAt": "2026-08-27",
+  "heroKicker": "FISCO",
+  "sections": [
+    {
+      "h2": "La domanda che arriva sempre al primo anno",
+      "paragraphs": [
+        "È la domanda che arriva puntuale alla prima dichiarazione, quando il proprietario mette in fila gli incassi dell'anno e accanto la colonna delle spese: le pulizie a ogni cambio ospite, il cambio biancheria, la percentuale trattenuta dal portale, le utenze dei mesi pieni. La somma non è piccola, e sembra naturale poterla sottrarre dagli incassi prima di calcolare l'imposta. La risposta, però, non dipende dal tipo di spesa: dipende dal regime fiscale in cui quel reddito viene tassato.",
+        "Il malinteso nasce da un'analogia sbagliata. Nel reddito d'impresa i costi sostenuti per produrre i ricavi abbattono la base su cui si calcola l'imposta, e il ragionamento è così diffuso da sembrare universale. La locazione, quando è svolta da una persona fisica fuori dall'esercizio di attività d'impresa, segue però un binario diverso: il reddito si determina a partire dal canone, non dal margine. Le spese sostenute per rendere quella casa affittabile stanno fuori dal calcolo.",
+        "Da qui la conseguenza che sorprende: due proprietari con gli stessi incassi e costi molto diversi possono trovarsi a pagare la stessa imposta. Chi ha molti cambi ospite, e quindi molte pulizie e molte commissioni, non trova alcuno sconto nel regime che tutti descrivono come il più semplice. Vale la pena capire dove la deducibilità esiste e dove non esiste, prima di scegliere."
+      ]
+    },
+    {
+      "h2": "Con la cedolare secca l'imposta si calcola sul lordo",
+      "paragraphs": [
+        "Quando si opta per la cedolare secca, l'imposta sostitutiva prende il posto dell'IRPEF e delle relative addizionali. Sulla base imponibile l'Agenzia delle Entrate è esplicita: l'aliquota va applicata sull'intero importo del canone indicato nel contratto, senza considerare l'abbattimento forfettario del 5% previsto nel regime di tassazione ordinaria dei canoni di locazione. E sul reddito assoggettato a cedolare, come sulla cedolare stessa, non possono essere fatti valere rispettivamente oneri deducibili e detrazioni.",
+        "C'è un secondo passaggio, meno noto e più insidioso. Se il contratto prevede, oltre al canone, un corrispettivo per la fornitura di altri servizi calcolato forfettariamente, la base imponibile è costituita dall'intero importo corrisposto dal locatario: la quota chiesta all'ospite per le pulizie finisce dentro l'imponibile. Le spese per i servizi accessori non concorrono al corrispettivo lordo soltanto quando sono sostenute direttamente dal conduttore, oppure quando gli sono riaddebitate sulla base dei costi e dei consumi effettivamente sostenuti.",
+        "Le istruzioni ufficiali al modello 730 chiudono il cerchio. Per un contratto di locazione breve con opzione per la cedolare, l'importo da dichiarare è pari al 100% del corrispettivo lordo: la somma non va diminuita delle spese sostenute dal locatore, né delle somme addebitate a titolo forfettario all'ospite per prestazioni accessorie. Non esiste una casella in cui indicare quanto è costato produrre quell'incasso.",
+        "L'effetto pratico si vede su una casa con molti soggiorni brevi. Ogni cambio ospite genera una pulizia, un cambio biancheria, una commissione: costi variabili che crescono con il numero di prenotazioni e che non entrano mai nel calcolo dell'imposta. Lo stesso appartamento affittato per periodi lunghi avrebbe pochissime di quelle voci, e a parità di incasso l'imposta sarebbe la stessa. È il paradosso di un prelievo che ignora il lavoro necessario a generare il ricavo."
+      ]
+    },
+    {
+      "h2": "Nella tassazione ordinaria: che cosa cambia",
+      "paragraphs": [
+        "Rinunciando alla cedolare, il reddito della locazione rientra nel reddito complessivo e viene tassato con l'IRPEF e le relative addizionali. Qui un abbattimento esiste, ma è forfettario e non ha nulla a che vedere con le spese effettivamente sostenute: il testo unico delle imposte sui redditi, all'articolo 37, comma 4-bis, prevede che il canone risultante dal contratto sia ridotto forfettariamente del 5%, e che il reddito sia pari al canone al netto di quella riduzione quando risulta superiore al reddito medio ordinario dell'immobile.",
+        "La riduzione sale in due casi individuati dalla norma stessa: al 25% per i fabbricati situati nella città di Venezia centro e nelle isole della Giudecca, di Murano e di Burano, e al 35% per gli immobili riconosciuti di interesse storico o artistico ai sensi del codice dei beni culturali. Nel secondo caso conta un riconoscimento formale, non una valutazione sull'età o sul pregio dell'edificio.",
+        "Che l'abbattimento riguardi anche le locazioni brevi si legge nelle istruzioni al modello 730. Il codice utilizzo dell'immobile locato in regime di libero mercato comprende espressamente i periodi non superiori a 30 giorni, e il codice canone da abbinare prevede il 95% del canone in caso di tassazione ordinaria, contro il 100% in caso di opzione per la cedolare. Quel 5% resta comunque un forfait: copre in via convenzionale una quota di spese, non le spese vere.",
+        "La compilazione dipende poi da elementi che cambiano da immobile a immobile: quote di possesso, giorni di locazione, pertinenze accatastate separatamente, presenza della certificazione rilasciata dal portale. Per questo il riferimento operativo restano le istruzioni pubblicate ogni anno dall'Agenzia delle Entrate insieme al modello, e la verifica del caso concreto con chi segue la dichiarazione."
+      ]
+    },
+    {
+      "h2": "Nel reddito d'impresa i costi tornano a contare",
+      "paragraphs": [
+        "Quando l'attività si svolge in forma imprenditoriale il criterio si ribalta: si tassa un risultato, non un canone. Nel reddito d'impresa vale il principio di inerenza, che l'articolo 109, comma 5, del testo unico esprime così: le spese e gli altri componenti negativi sono deducibili se e nella misura in cui si riferiscono ad attività o beni da cui derivano ricavi o altri proventi che concorrono a formare il reddito. Pulizie, biancheria, commissioni, utenze e manutenzione tornano quindi a incidere sull'imposta.",
+        "Il passaggio da un mondo all'altro non è sempre una scelta. Dal 2026 il regime fiscale delle locazioni brevi può essere applicato solo destinando a questa finalità non più di due appartamenti per ciascun periodo d'imposta: il limite, che fino al 31 dicembre 2025 era di quattro, è stato modificato dalla legge n. 199/2025 all'articolo 1, comma 17. Superata la soglia, l'attività di locazione breve, da chiunque esercitata, si presume svolta in forma imprenditoriale.",
+        "Attenzione però a non tradurre «impresa» con «tutto deducibile». La deducibilità analitica appartiene al regime ordinario del reddito d'impresa; nel regime forfettario, che è una delle scelte possibili, il reddito si determina applicando ai ricavi percepiti un coefficiente di redditività differenziato secondo il codice attività, e i costi effettivi non si deducono uno per uno. Anche dentro l'attività d'impresa, quindi, la domanda sulla deducibilità ha più di una risposta.",
+        "È questo il punto che cambia il confronto fra le tre situazioni. Un immobile con costi contenuti sopporta bene un'imposta calcolata sul canone; un immobile con molti cambi ospite può trovarsi a pagare su ricavi che in buona parte se ne vanno in spese. La deducibilità non è un dettaglio tecnico: è una delle variabili che distinguono un regime dall'altro, e va pesata sul caso concreto insieme a un professionista."
+      ]
+    },
+    {
+      "h2": "Il quadro a confronto",
+      "paragraphs": [
+        "Le situazioni si distinguono per due soli elementi: la grandezza su cui si calcola l'imposta e il trattamento riservato ai costi. Tenerli separati aiuta a leggere il proprio caso senza confondere la semplicità di un adempimento con il peso effettivo del prelievo. Lo schema che segue riassume i criteri richiamati sopra, ciascuno riconducibile alle fonti ufficiali citate in fondo alla pagina.",
+        "Una precisazione utile sul reddito assoggettato a cedolare: non concorre al reddito complessivo ai fini dell'IRPEF, ma va comunque considerato quando si quantifica il reddito in base al quale si determinano la condizione di familiare fiscalmente a carico, la misura di deduzioni e detrazioni e la spettanza di benefici collegati a requisiti reddituali, fra cui l'ISEE. Uscire dall'IRPEF non significa dunque uscire da ogni conteggio."
+      ],
+      "table": {
+        "headers": [
+          "Situazione fiscale",
+          "Su che cosa si calcola l'imposta",
+          "Trattamento dei costi"
+        ],
+        "rows": [
+          [
+            "Cedolare secca sulla locazione breve",
+            "Intero importo del canone indicato nel contratto, servizi accessori forfettari compresi",
+            "Nessuna deduzione dei costi e nessuna detrazione sull'imposta"
+          ],
+          [
+            "Tassazione ordinaria IRPEF, caso generale",
+            "Canone ridotto forfettariamente del 5%, se superiore al reddito medio ordinario dell'immobile",
+            "Solo l'abbattimento forfettario: le spese reali non entrano nel calcolo"
+          ],
+          [
+            "Tassazione ordinaria, immobile di interesse storico o artistico",
+            "Canone ridotto del 35%, previo riconoscimento formale ai sensi del codice dei beni culturali",
+            "Riduzione più ampia, ma sempre forfettaria e slegata dalle spese sostenute"
+          ],
+          [
+            "Attività imprenditoriale, regime ordinario",
+            "Risultato dell'attività: ricavi al netto dei componenti negativi",
+            "Costi deducibili secondo il principio di inerenza del reddito d'impresa"
+          ],
+          [
+            "Attività imprenditoriale, regime forfettario",
+            "Ricavi percepiti moltiplicati per il coefficiente di redditività di legge",
+            "Costi effettivi non deducibili uno per uno"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Le voci di spesa che pesano davvero su un affitto breve",
+      "paragraphs": [
+        "Le voci che seguono hanno una caratteristica comune: crescono con il numero di prenotazioni, non con i metri quadri né con i mesi dell'anno. È la ragione per cui un affitto breve ha una struttura di costi diversa da quella di una locazione lunga, e per cui l'assenza di deducibilità si sente di più proprio dove il lavoro è maggiore.",
+        "Nessuna di queste voci, nei regimi che tassano il canone, riduce l'imposta dovuta. Questo non le rende irrilevanti: determinano il risultato economico della casa, cioè quello che resta davvero al proprietario alla fine dell'anno. Reddito fiscale e risultato economico, in un affitto breve, possono divergere in modo notevole, e confonderli è il modo più rapido per sopravvalutare la resa di un immobile."
+      ],
+      "list": [
+        "Pulizie e cambio biancheria: si ripetono a ogni partenza, quindi il costo segue il numero di soggiorni e non la durata complessiva della stagione.",
+        "Commissioni dei portali: sono una quota di ogni prenotazione, per cui molte prenotazioni brevi al posto di poche lunghe significano più commissioni sullo stesso incasso.",
+        "Utenze: il consumo si concentra nei giorni occupati, e un calendario fitto di arrivi e partenze pesa più di un inquilino stabile con abitudini regolari.",
+        "Manutenzione e piccoli guasti: serrature, tapparelle, rubinetti e caldaia si usurano in proporzione a quante persone diverse li usano nel corso dell'anno.",
+        "Sostituzioni di arredo e dotazioni: asciugamani, lenzuola, stoviglie e piccoli elettrodomestici hanno vita breve quando ruotano molti ospiti, e vanno rimpiazzati prima che si veda.",
+        "Assicurazione: una casa con ospiti in rotazione pone esigenze di copertura diverse da una seconda casa chiusa o affittata a un unico inquilino per anni.",
+        "Gestione: ogni prenotazione porta messaggi, consegna delle chiavi, controlli e adempimenti, e il tempo cresce con il numero di soggiorni, sia facendo da sé sia affidandosi a terzi.",
+        "Tributi e adempimenti comunali: dove il Comune applica l'imposta di soggiorno, questa non è un margine del proprietario ma una somma che segue regole locali di riscossione, dichiarazione e versamento, diverse da Comune a Comune e da verificare presso l'ente."
+      ]
+    },
+    {
+      "h2": "Come tracciamo le spese durante l'anno",
+      "paragraphs": [
+        "Teniamo un conto ordinato delle spese di ogni appartamento che gestiamo, anche quando il proprietario è in cedolare secca e sa già che quelle spese non gli faranno risparmiare un euro di imposta. La ragione è semplice: un registro delle spese non serve solo alla dichiarazione, serve a capire se la casa sta funzionando o se sta lavorando molto per restituire poco.",
+        "Il tracciamento lo facciamo per voce e per prenotazione, non per totale annuo. Sapere quanto costa in media un cambio ospite in quell'appartamento cambia decisioni concrete: la durata minima del soggiorno, la stagionalità su cui puntare, se sostituire una lavatrice che si guasta ogni tre mesi o continuare a chiamare il tecnico. Sono scelte che nascono dai numeri raccolti mese per mese, non da una stima improvvisata a dicembre.",
+        "L'errore più frequente è confondere l'incasso lordo con il guadagno, e capita più spesso proprio a chi sta in cedolare, dove la dichiarazione si compila guardando un solo importo. La cedolare secca semplifica la dichiarazione, non la gestione: le spese vanno comunque contate, una per una. Ricostruirle dodici mesi dopo, con le ricevute sparse fra fornitori, portali e movimenti bancari, è un lavoro che quasi nessuno riesce a fare bene.",
+        "Sul regime fiscale, invece, non ci sostituiamo a chi ha il titolo per valutarlo. Portiamo al proprietario e al suo commercialista i dati dell'anno divisi per voce, e lasciamo che la scelta fra cedolare e tassazione ordinaria, o l'eventuale passaggio a un'attività d'impresa, la faccia chi conosce il resto della sua posizione fiscale. Il nostro contributo è che quella conversazione avvenga su numeri veri e non su impressioni."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Con la cedolare secca posso dedurre le pulizie e le commissioni dei portali?",
+      "a": "No: con la cedolare secca l'imposta si applica sull'intero importo del canone indicato nel contratto, e sul reddito così tassato non si fanno valere oneri deducibili né detrazioni. Pulizie, biancheria, commissioni dei portali, utenze e manutenzione restano interamente a carico del proprietario. Le spese per servizi accessori escono dal corrispettivo lordo solo quando sono sostenute direttamente dall'ospite, oppure gli sono riaddebitate sulla base dei costi e dei consumi effettivamente sostenuti."
+    },
+    {
+      "q": "La quota chiesta all'ospite per le pulizie va tassata?",
+      "a": "Sì, se è addebitata a titolo forfettario: in quel caso la base imponibile della cedolare è costituita dall'intero importo corrisposto dall'ospite, quota pulizie compresa. Quella spesa resta fuori soltanto se è sostenuta direttamente dall'ospite, oppure se gli viene riaddebitata sulla base dei costi e dei consumi effettivamente sostenuti. È il punto in cui molti proprietari scoprono di pagare l'imposta anche su una somma che girano interamente a chi fa le pulizie."
+    },
+    {
+      "q": "Nella tassazione ordinaria esiste una riduzione del canone, e si applica anche agli affitti brevi?",
+      "a": "Sì, esiste ed è una riduzione forfettaria del 5% del canone, e si applica anche ai contratti non superiori a 30 giorni tassati in via ordinaria. L'articolo 37, comma 4-bis, del testo unico delle imposte sui redditi la fissa al 5%, elevandola al 25% per Venezia centro e le isole della Giudecca, di Murano e di Burano, e al 35% per gli immobili riconosciuti di interesse storico o artistico. Le istruzioni al modello 730 confermano il meccanismo: 95% del canone in tassazione ordinaria, 100% con la cedolare."
+    },
+    {
+      "q": "Con la partita IVA i costi degli affitti brevi diventano deducibili?",
+      "a": "Dipende dal regime scelto: nel regime ordinario del reddito d'impresa i costi sono deducibili secondo il principio di inerenza, mentre nel regime forfettario il reddito si calcola applicando ai ricavi un coefficiente di redditività stabilito per legge e i costi effettivi non si deducono uno per uno. L'articolo 109, comma 5, del testo unico prevede che le spese siano deducibili se e nella misura in cui si riferiscono ad attività o beni da cui derivano ricavi che concorrono a formare il reddito."
+    },
+    {
+      "q": "Il reddito tassato con la cedolare secca è invisibile per detrazioni e ISEE?",
+      "a": "No: pur non concorrendo al reddito complessivo ai fini dell'IRPEF, va considerato nel quantificare il reddito in base al quale si determinano la condizione di familiare fiscalmente a carico, la misura di deduzioni e detrazioni e la spettanza di benefici collegati a requisiti reddituali, fra cui l'ISEE. La cedolare toglie quel reddito dagli scaglioni, non da ogni conteggio in cui il reddito conta."
+    },
+    {
+      "q": "Se i costi non si scaricano, tenere le ricevute serve a qualcosa?",
+      "a": "Sì: serve a conoscere il risultato economico della casa, che è una cosa diversa dal reddito tassato. Un registro delle spese permette di capire quanto costa ogni cambio ospite, di decidere su durata minima del soggiorno, stagionalità e sostituzioni, e di portare dati completi a chi valuta il regime fiscale. Per la scelta del regime e per la compilazione della dichiarazione il riferimento restano le istruzioni ufficiali e il professionista che segue la posizione."
+    }
+  ],
+  "related": [
+    "cedolare-secca-affitti-brevi",
+    "tasse-affitti-brevi-quanto-si-paga",
+    "terzo-immobile-partita-iva-affitti-brevi"
+  ],
+  "sources": [
+    {
+      "label": "Locazioni brevi: la disciplina fiscale e le regole per gli intermediari",
+      "ente": "Agenzia delle Entrate",
+      "data": "2026",
+      "url": "https://www.agenziaentrate.gov.it/portale/documents/d/guest/locazioni_brevi_disciplina_fiscale_e_regole_per_intermediari_aprile-2026"
+    },
+    {
+      "label": "Cedolare secca: scheda informativa per i cittadini",
+      "ente": "Agenzia delle Entrate",
+      "data": "2026",
+      "url": "https://www.agenziaentrate.gov.it/portale/schede/fabbricatiterreni/cedolare-secca/scheda-informativa-cedolare-secca-cittadini"
+    },
+    {
+      "label": "Modello 730/2026: modello e istruzioni per la compilazione",
+      "ente": "Agenzia delle Entrate",
+      "data": "2026",
+      "url": "https://www.agenziaentrate.gov.it/portale/730-2026/modello-e-istruzioni"
+    },
+    {
+      "label": "Testo unico delle imposte sui redditi, articolo 37 (redditi dei fabbricati)",
+      "ente": "Normattiva",
+      "data": "2026",
+      "url": "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=1986-12-31&atto.codiceRedazionale=086U0917&atto.articolo.numero=37&atto.articolo.sottoArticolo=1"
+    }
+  ],
+  "disclaimer": true,
+  "note": ""
+}

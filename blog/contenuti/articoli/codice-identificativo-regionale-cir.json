@@ -1,0 +1,163 @@
+{
+  "slug": "codice-identificativo-regionale-cir",
+  "keyword": "codice identificativo regionale",
+  "category": "normativa-fisco",
+  "title": "Codice identificativo regionale: sigle e chi lo rilascia",
+  "metaDescription": "Il CIN non sostituisce il codice identificativo regionale: CIR, CUSR, IUN cambiano nome per regione. Chi lo rilascia, dove si chiede, dove va scritto.",
+  "h1": "Codice identificativo regionale: le sigle regione per regione e perché il CIN da solo non basta",
+  "excerpt": "CIR, CUSR, CIS, IUN: il codice che identifica l'alloggio presso la Regione ha sigle diverse da regione a regione, in un caso lo rilascia il Comune, e quasi sempre va ottenuto prima del CIN nazionale. Come si legge la mappa delle sigle e in che ordine si mettono i codici.",
+  "opening": "Il codice identificativo regionale è il codice che la Regione, o in alcuni casi il Comune, assegna all'alloggio quando lo registra nella propria banca dati turistica. Non è il CIN e il CIN non lo sostituisce: dove è previsto, va ottenuto prima e va esposto insieme al codice nazionale. La sigla cambia da regione a regione.",
+  "publishedAt": "2026-08-27",
+  "updatedAt": "2026-08-27",
+  "heroKicker": "ADEMPIMENTI",
+  "sections": [
+    {
+      "h2": "Due codici, non uno: perché il CIN da solo spesso non basta",
+      "paragraphs": [
+        "Il Codice Identificativo Nazionale nasce con l'articolo 13-ter del decreto-legge 18 ottobre 2023, n. 145, convertito dalla legge 15 dicembre 2023, n. 191, e si richiede sulla Banca Dati nazionale delle Strutture Ricettive del Ministero del Turismo. Il codice regionale è un'altra cosa: identifica l'alloggio nella banca dati della Regione o della Provincia autonoma, che la usa per conoscere l'offerta ricettiva del territorio, alimentare le statistiche e indirizzare la vigilanza. Due registri distinti, due codici distinti, due procedure distinte.",
+        "Sul punto il Ministero del Turismo è esplicito: chi è soggetto all'obbligo del codice regionale o provinciale deve richiedere anche il CIN, ed è tenuto a esporre entrambi i codici. Il CIN non sostituisce il codice identificativo regionale o provinciale, e le disposizioni delle Regioni, delle Province autonome e dei Comuni sui codici identificativi restano valide, obblighi di esposizione compresi. Avere solo il CIN, dove la Regione prevede un proprio codice, non mette l'alloggio in regola.",
+        "Nella maggior parte dei casi il rapporto fra i due è di sequenza: prima il codice locale, poi quello nazionale. La Regione Puglia scrive che il codice attribuito dalla banca dati regionale è propedeutico all'ottenimento del CIN; la Toscana che il codice regionale è presupposto per ottenere quello nazionale; il Lazio che il proprio CIR è propedeutico al rilascio del CIN. Anche i tempi sono scanditi: dall'attribuzione del codice regionale o provinciale ci sono trenta giorni per richiedere il CIN, e chi supera il termine è esposto a sanzione.",
+        "Dove invece la Regione o la Provincia autonoma non prevede alcun codice proprio, oppure non lo prevede per quella tipologia di struttura, il CIN va richiesto all'avvio dell'attività: non c'è un passaggio locale da attendere. È il motivo per cui la prima domanda utile non riguarda il CIN, ma la propria Regione: esiste un codice, come si chiama, e chi lo rilascia."
+      ]
+    },
+    {
+      "h2": "Le sigle cambiano da regione a regione",
+      "paragraphs": [
+        "Non esiste una sigla nazionale per il codice locale. In diverse regioni si chiama CIR, Codice Identificativo Regionale, ma altrove il nome è del tutto diverso e cercare «CIR» sul portale della Regione non porta a nulla di utile. Chi ha case in più regioni si trova quindi a maneggiare sigle, piattaforme e procedure differenti per lo stesso adempimento, con l'aggravante che il nome del codice cambia anche dentro la stessa regione a seconda della tipologia di struttura.",
+        "La tabella raccoglie solo i casi verificati sui portali istituzionali, e non è un elenco completo delle venti regioni: denominazioni e piattaforme sono state modificate più volte negli ultimi anni, e la fonte da cui partire resta la sezione turismo del sito della propria Regione o Provincia autonoma. Un esempio del perché conviene controllare: in Puglia il registro delle strutture non alberghiere attribuisce il CIS, mentre la banca dati regionale delle locazioni turistiche parla di CIR.",
+        "Due precisazioni, perché in rete circolano informazioni sbagliate. In Campania il codice non si chiama CIR: la sigla corretta è CUSR e a generarlo è il Comune. E il CIPAT non è un codice regionale: era il codice identificativo provinciale della Provincia autonoma di Trento, quindi non serve cercarlo se l'immobile sta altrove."
+      ],
+      "table": {
+        "headers": [
+          "Regione",
+          "Come si chiama il codice",
+          "Dove si chiede"
+        ],
+        "rows": [
+          [
+            "Campania",
+            "CUSR, Codice Unico Identificativo delle Strutture Ricettive",
+            "Lo genera il Comune nel sistema regionale Sinfonia Turismo Smart"
+          ],
+          [
+            "Puglia",
+            "CIR nella banca dati regionale; CIS nel registro delle strutture non alberghiere",
+            "Piattaforma telematica DMS Puglia"
+          ],
+          [
+            "Sardegna",
+            "IUN, Identificativo Univoco Numerico",
+            "SUAPE per le strutture ricettive, piattaforma RLO per le locazioni brevi"
+          ],
+          [
+            "Sicilia",
+            "CIR, Codice Identificativo Regionale",
+            "Sistema di gestione dei flussi turistici Turist@t"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Chi lo rilascia: la Regione, il Comune, o entrambi in sequenza",
+      "paragraphs": [
+        "Il percorso tipico ha tre gradini, ed è quello indicato dal Ministero del Turismo. Primo: la comunicazione al Comune, dove la normativa locale la prevede, con SCIA, CIA o altra comunicazione di inizio attività. Secondo: la registrazione dell'alloggio nella banca dati della Regione o della Provincia autonoma, che attribuisce il codice identificativo regionale o il codice equivalente. Terzo: la richiesta del CIN sulla Banca Dati nazionale delle Strutture Ricettive, con identità digitale.",
+        "La Campania rompe lo schema in un punto preciso: il CUSR non lo rilascia la Regione. La generazione e l'attribuzione del codice sono affidate ai Comuni in cui si trova la struttura, che operano dentro il sistema regionale Sinfonia Turismo Smart, nella sezione destinata ai Comuni. Chi affitta trasmette al proprio Comune il modello di comunicazione con i dati richiesti e attende che il codice venga generato lì.",
+        "Altrove il Comune resta il primo passaggio ma non produce il codice. In Sicilia le strutture di nuova istituzione inviano a Turist@t copia della SCIA presentata al Comune e chiedono l'inserimento in anagrafica e il rilascio del CIR; le case vacanza, nuove o già esistenti, si registrano direttamente sulla piattaforma. In Sardegna lo IUN arriva dall'Assessorato regionale del Turismo, in numerazione progressiva, contestualmente alla registrazione avviata tramite SUAPE o sulla piattaforma RLO.",
+        "Un caso che conviene conoscere in anticipo riguarda i ritardi. Se il codice regionale è previsto ma non viene attribuito entro il termine di conclusione del procedimento regionale, il Ministero concede dieci giorni da quella scadenza per richiedere comunque il CIN. L'attesa dell'ufficio locale, in altre parole, non sospende l'obbligo nazionale: va gestita come una scadenza, non come una pausa."
+      ]
+    },
+    {
+      "h2": "Dove va scritto il codice, e le conseguenze di non farlo",
+      "paragraphs": [
+        "Un codice ottenuto e mai scritto da nessuna parte non serve a niente, e in molte regioni la mancata pubblicazione è una violazione autonoma, distinta dal non avere il codice. Gli obblighi sono in genere due: l'esposizione fisica presso l'immobile e l'indicazione in ogni annuncio, su qualunque canale. Le formule usate dalle norme regionali sono volutamente ampie, così da coprire anche i canali che nel frattempo non esistevano ancora.",
+        "In Sicilia il decreto assessoriale impone di pubblicare il CIR di ogni struttura negli annunci, nelle pubblicità e nelle prenotazioni, ben visibile accanto alla denominazione, su qualsiasi mezzo promozionale, comprese le piattaforme ospitate su server fuori dall'Unione europea. In Campania le locazioni brevi devono usare il CUSR in tutte le attività di commercializzazione, comunicazione e promozione, e anche per accedere ai contributi regionali. In Puglia l'obbligo riguarda ogni singola unità pubblicizzata, su carta o su supporto digitale.",
+        "Sul versante nazionale gli importi sono quelli dell'articolo 13-ter, comma 9: da 800 a 8.000 euro per l'assenza del CIN, e da 500 a 5.000 euro per la mancata esposizione e indicazione, per ciascuna struttura o unità immobiliare, con la rimozione immediata dell'annuncio irregolare. Le sanzioni sui codici locali sono invece fissate dalle norme delle singole Regioni e vanno lette lì: il decreto siciliano, per esempio, prevede da 500 a 5.000 euro."
+      ],
+      "list": [
+        "Verificare sulla sezione turismo del portale della propria Regione o Provincia autonoma se esiste un codice locale e come si chiama",
+        "Presentare al Comune la comunicazione richiesta dalla normativa locale, dove prevista: SCIA, CIA o altra comunicazione di inizio attività",
+        "Registrare l'alloggio nella banca dati regionale o provinciale e attendere l'attribuzione del codice",
+        "Richiedere il CIN sulla Banca Dati nazionale delle Strutture Ricettive entro trenta giorni dall'attribuzione del codice regionale",
+        "Scrivere entrambi i codici in ogni annuncio, su tutti i portali e sul sito proprio, prima di rimettere l'alloggio in vendita",
+        "Esporre il CIN all'esterno dello stabile, aggiungendo l'esposizione eventualmente richiesta dalla normativa regionale",
+        "Conservare gli estremi dell'attribuzione: servono nei controlli e nelle segnalazioni di struttura mancante sulla banca dati nazionale"
+      ]
+    },
+    {
+      "h2": "Il codice regionale non è l'unico obbligo che passa dalla Regione",
+      "paragraphs": [
+        "Registrato l'alloggio, dalla Regione arriva un secondo adempimento: la trasmissione dei dati sul movimento turistico a fini statistici. È un obbligo di risposta, non una collaborazione facoltativa. In Emilia-Romagna la Regione lo fonda sull'articolo 7 del decreto legislativo n. 322 del 1989 e sul Programma statistico nazionale, e ricorda che anche la legge regionale n. 16 del 2004, all'articolo 21, mette la comunicazione dei dati sul movimento dei clienti fra gli obblighi del gestore.",
+        "Canali e cadenze cambiano da regione a regione. In Emilia-Romagna i dati si trasmettono con l'applicazione Ross1000, che molti conoscono ancora come Turismo5, e la rilevazione sul movimento dei clienti è mensile, condotta dalla Regione per conto dell'Istat come organo intermedio. In Sicilia il decreto sul CIR impone di comunicare arrivi e presenze giornalmente, entro ventiquattro ore dall'arrivo o dalla partenza, tramite Turist@t. In Sardegna, insieme allo IUN, arrivano le credenziali per la piattaforma statistica regionale.",
+        "Questa comunicazione non è la comunicazione alla Questura, e nessuna delle due copre l'altra. Le generalità degli ospiti si trasmettono alle questure territorialmente competenti attraverso il Servizio Alloggiati della Polizia di Stato, ai sensi dell'articolo 109 del Testo unico delle leggi di pubblica sicurezza, con termini propri indicati sul portale del servizio. Destinatari diversi, canali diversi, scadenze diverse: chi sovrappone i due adempimenti finisce per farne uno solo."
+      ]
+    },
+    {
+      "h2": "Come rimettiamo in fila i codici di una casa già pubblicata",
+      "paragraphs": [
+        "Le case che arrivano da noi già online hanno quasi sempre lo stesso difetto, e non è un codice mancante: è l'ordine in cui i codici sono stati chiesti. C'è il CIN, ottenuto per primo perché è quello di cui parlano tutti, e manca il passaggio locale che in quella regione dovrebbe precederlo. L'annuncio è pubblicato da mesi, le recensioni ci sono, e la pratica in Comune o in Regione non è mai partita.",
+        "Il CIN è l'ultimo gradino della scala, non il primo. Chi comincia da lì si accorge del gradino mancante quando arriva un controllo, o quando la Regione completa la verifica sulla banca dati nazionale e la posizione non torna. È un problema di sequenza, non di buona fede, e infatti riguarda spesso proprietari convinti di essere perfettamente a posto.",
+        "Per questo, prima di toccare il calendario, ricostruiamo la sequenza dall'inizio: guardiamo sul portale della Regione come si chiama il codice e chi lo rilascia, controlliamo se al Comune risulta una comunicazione di inizio attività, poi verifichiamo che l'alloggio esista davvero nella banca dati regionale. Solo dopo confrontiamo la posizione nazionale. Nella pratica il collo di bottiglia è quasi sempre il passaggio comunale, non quello regionale.",
+        "Sul merito non improvvisiamo: siamo gestori di affitti brevi, non uno studio fiscale o legale. Sigle, piattaforme e procedure regionali sono cambiate abbastanza spesso da rendere fragile qualunque riassunto, questo compreso: quello che facciamo è portare il proprietario alla pagina giusta del portale regionale e mettere in fila i passaggi. Sulla qualificazione dell'attività e sui casi di confine chiediamo che si pronunci un professionista, con i documenti dell'immobile davanti."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Il CIN sostituisce il codice identificativo regionale?",
+      "a": "No, non lo sostituisce. Il Ministero del Turismo chiarisce che il CIN non prende il posto del codice regionale o provinciale: dove il codice locale è previsto, i due codici convivono e vanno esposti entrambi. Le disposizioni di Regioni, Province autonome e Comuni sui codici identificativi restano valide, obblighi di esposizione inclusi."
+    },
+    {
+      "q": "Devo chiedere prima il codice regionale o prima il CIN?",
+      "a": "Prima il codice regionale, poi il CIN, dove la Regione prevede un codice proprio. Dall'attribuzione del codice regionale o provinciale ci sono trenta giorni per richiedere il CIN sulla banca dati nazionale; se invece la Regione non prevede alcun codice, il CIN va richiesto all'avvio dell'attività."
+    },
+    {
+      "q": "Come si chiama il codice nella mia regione?",
+      "a": "Dipende dalla regione, perché non esiste una sigla unica. In Sicilia si chiama CIR, in Campania CUSR, in Sardegna IUN; in Puglia il codice viene attribuito sulla piattaforma DMS e il registro delle strutture non alberghiere usa la sigla CIS. La verifica va fatta sul portale turismo della propria Regione o Provincia autonoma."
+    },
+    {
+      "q": "Chi rilascia il codice, la Regione o il Comune?",
+      "a": "Di regola la Regione, attraverso la propria banca dati turistica, ma non sempre: in Campania la generazione e l'attribuzione del CUSR spettano ai Comuni, che operano nel sistema regionale Sinfonia Turismo Smart. Il Comune resta comunque il primo passaggio quasi ovunque, per la comunicazione di inizio attività prevista dalla normativa locale."
+    },
+    {
+      "q": "Il codice regionale va indicato negli annunci?",
+      "a": "Sì, dove la normativa regionale lo prevede, e non basta indicarlo su un portale solo. In Sicilia il CIR va pubblicato negli annunci, nelle pubblicità e nelle prenotazioni, ben visibile accanto alla denominazione e su qualsiasi mezzo promozionale; in Campania il CUSR va usato in tutte le attività di commercializzazione, comunicazione e promozione."
+    },
+    {
+      "q": "Esistono regioni senza codice identificativo regionale?",
+      "a": "Sì, e il Ministero del Turismo disciplina espressamente il caso. Se la normativa della Regione o Provincia autonoma non prevede un codice proprio, o non lo prevede per quella tipologia di struttura, il CIN va richiesto all'avvio dell'attività. Quali territori si trovino in questa situazione va verificato sul portale regionale, perché il quadro si è modificato più volte."
+    }
+  ],
+  "related": [
+    "cin-affitti-brevi-come-ottenerlo",
+    "adempimenti-affitti-brevi-checklist",
+    "casa-vacanze-o-affitto-breve-differenze"
+  ],
+  "sources": [
+    {
+      "label": "FAQ Banca Dati Strutture Ricettive (BDSR): CIN, codici regionali, termini e sanzioni",
+      "ente": "Ministero del Turismo",
+      "data": "2026",
+      "url": "https://www.ministeroturismo.gov.it/faq-banca-dati-strutture-ricettive-bdsr/"
+    },
+    {
+      "label": "CUSR per le locazioni brevi: generazione e attribuzione da parte dei Comuni",
+      "ente": "Regione Campania - SURAP",
+      "data": "2026",
+      "url": "https://surap.regione.campania.it/index.php/faq/112-faq-e-pareri/affitti-brevi/460-per-gli-affitti-brevi-e-prevista-l-attribuzione-del-il-codice-unico-identificativo-delle-strutture-ricettive-cusr.html"
+    },
+    {
+      "label": "Banca dati regionale delle strutture ricettive e delle locazioni turistiche",
+      "ente": "Regione Puglia",
+      "data": "2026",
+      "url": "https://www.regione.puglia.it/web/turismo/banca-dati-regionale-delle-strutture-ricettive-e-delle-locazioni-turistiche"
+    },
+    {
+      "label": "Rilevazioni statistiche sul turismo e applicazione Ross1000",
+      "ente": "Regione Emilia-Romagna - Ufficio di Statistica",
+      "data": "2026",
+      "url": "https://statistica.regione.emilia-romagna.it/documentazione/rilevazioni/turismo"
+    }
+  ],
+  "disclaimer": true,
+  "note": ""
+}

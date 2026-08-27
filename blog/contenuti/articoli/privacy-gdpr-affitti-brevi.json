@@ -1,0 +1,174 @@
+{
+  "slug": "privacy-gdpr-affitti-brevi",
+  "keyword": "privacy affitti brevi gdpr",
+  "category": "normativa-fisco",
+  "title": "Privacy affitti brevi e GDPR: i documenti degli ospiti",
+  "metaDescription": "Chi affitta a breve è titolare del trattamento: raccogliere i dati del documento è dovuto, conservarne la copia dopo l'invio alla Questura no.",
+  "h1": "Privacy e GDPR negli affitti brevi: come trattare i documenti degli ospiti",
+  "excerpt": "Raccogliere i dati del documento degli ospiti è un obbligo di pubblica sicurezza; tenerne la copia in galleria, in chat o in una cartella condivisa è un'altra cosa. Che dice il Garante sulla conservazione, quando serve l'informativa e come si valuta una violazione dei dati.",
+  "opening": "Chi affitta a breve raccoglie i dati del documento d'identità degli ospiti perché una norma di pubblica sicurezza lo impone, e questo lo rende titolare del trattamento. L'obbligo riguarda però la comunicazione dei dati alla Questura, non la conservazione della copia del documento: secondo il Garante, dopo il rilascio della ricevuta la copia va cancellata o distrutta.",
+  "publishedAt": "2026-08-27",
+  "updatedAt": "2026-08-27",
+  "heroKicker": "PRIVACY",
+  "sections": [
+    {
+      "h2": "Affittare a breve significa trattare dati personali",
+      "paragraphs": [
+        "La disciplina di pubblica sicurezza non guarda al numero di prenotazioni. L'articolo 109 del Testo unico delle leggi di pubblica sicurezza impone a chi dà alloggio di accogliere solo persone munite di carta d'identità o di altro documento idoneo ad attestarne l'identità, e di comunicare le generalità delle persone alloggiate alla questura competente. Una norma di interpretazione autentica del 2018 ha chiarito che gli stessi obblighi valgono anche per chi loca immobili o parti di essi con contratti di durata inferiore a trenta giorni. Due settimane l'anno bastano.",
+        "Da qui nasce la conseguenza che sorprende molti proprietari. Il regolamento europeo definisce titolare del trattamento chi determina finalità e mezzi del trattamento dei dati personali: chi affitta decide come chiedere il documento, con quale strumento, dove finiscono i dati e per quanto tempo restano. È titolare, anche senza partita IVA e anche affidando le prenotazioni a un portale. Nel comunicato del 29 aprile 2026 il Garante richiama espressamente il «preciso dovere dei titolari del trattamento» di garantire la sicurezza dei dati personali.",
+        "I dati che passano dalle mani di chi ospita sono elencati nell'allegato tecnico del decreto del Ministro dell'Interno del 7 gennaio 2013, come modificato nel settembre 2021: data di arrivo, giorni di permanenza, cognome, nome, sesso, data e luogo di nascita, cittadinanza, tipo, numero e luogo di rilascio del documento. Per i componenti di un nucleo familiare o di un gruppo l'elenco previsto è più corto e gli estremi del documento non vi figurano. La base giuridica è l'obbligo legale dell'articolo 6, paragrafo 1, lettera c) del regolamento: il consenso dell'ospite non c'entra, e chiederlo confonde le idee a entrambi."
+      ]
+    },
+    {
+      "h2": "Raccogliere non è conservare",
+      "paragraphs": [
+        "L'obbligo dell'articolo 109 riguarda la comunicazione dei dati all'autorità di pubblica sicurezza. La nota di chiarimento del Garante lo dice in modo diretto: quell'obbligo non comporta anche la necessità di conservare i dati presso la struttura ricettiva, perché la conservazione dei dati comunicati avviene per cinque anni sui sistemi del Ministero dell'Interno. L'archivio, in altre parole, esiste già, ed è pubblico: non è quello di chi affitta.",
+        "Il decreto ministeriale è ancora più esplicito. All'articolo 4-bis, comma 2, prevede che i gestori cancellino i dati digitali trasmessi e distruggano la copia cartacea degli elenchi non appena il sistema genera la ricevuta di avvenuta comunicazione, ricevuta che va conservata per cinque anni. Le informative della Polizia di Stato rivolte alle strutture ripetono lo stesso passaggio: cancellazione dei dati trasmessi, conservazione della sola ricevuta.",
+        "Sulla copia del documento la nota del 2026 chiude il cerchio: la normativa di pubblica sicurezza non richiede forme di raccolta e conservazione della copia del documento di identità al di fuori di quelle strumentali all'inserimento dei dati nel portale, e al rilascio della ricevuta di accettazione deve conseguire necessariamente la cancellazione digitale o la distruzione materiale della copia eventualmente acquisita. Il comunicato che accompagna la nota è ancora più asciutto: nessuna conservazione oltre il tempo strettamente necessario alla comunicazione.",
+        "Vale la pena precisare che cosa copre questa indicazione, perché è il punto in cui si sbaglia: copre la finalità di pubblica sicurezza, cioè la ragione per cui il documento viene chiesto. Nel materiale dell'Autorità qui richiamato non compare un elenco di altre finalità che autorizzino a trattenere l'immagine di un documento, né una durata alternativa. Chi ritenesse di avere una ragione diversa dovrebbe giustificarla per conto proprio, senza appoggiarsi all'obbligo di comunicazione, e conviene verificare il caso concreto sulle pagine del Garante prima di costruire qualsiasi archivio."
+      ]
+    },
+    {
+      "h2": "Dove finiscono materialmente i documenti degli ospiti",
+      "paragraphs": [
+        "La distanza fra la regola e la pratica si misura nei posti in cui le immagini dei documenti si accumulano. Il Garante segnala che la raccolta e l'archiviazione dell'immagine del documento, con foto scattate da dispositivi mobili oppure inviate attraverso servizi di messaggistica istantanea, è stata oggetto di segnalazione soprattutto per case e appartamenti per vacanze e affittacamere: è la prassi tipica di chi gestisce da solo, con il telefono in mano al momento del check-in.",
+        "Il problema non è di stile, è tecnico. Una foto in galleria finisce nei backup automatici, un allegato in posta si sincronizza su ogni dispositivo, il link a una cartella condivisa vale per chiunque lo riceva. Ogni copia in più è una copia che può essere perduta, e il rischio che l'Autorità mette al centro del ragionamento è il furto d'identità. Sotto, i luoghi che ricorrono più spesso e l'alternativa praticabile."
+      ],
+      "list": [
+        "Galleria del telefono: la foto del passaporto resta lì e viaggia nei backup automatici. Meglio leggere i dati e digitarli nel portale, senza scattare.",
+        "Chat di messaggistica: il Garante indica l'invio tramite servizi come WhatsApp fra le modalità da evitare. Se l'immagine arriva comunque, si estraggono i dati e si cancella il messaggio.",
+        "Casella di posta: gli allegati restano archiviati per anni e sfuggono a ogni pulizia. La richiesta del documento per email va sostituita dalla raccolta dei soli dati necessari.",
+        "Cartelle condivise senza password: chi ha il link ha i documenti. L'unico file che serve conservare è la ricevuta rilasciata dal portale.",
+        "Gestionale o servizio esterno che acquisisce i documenti: il rapporto con il fornitore va regolato ai sensi dell'articolo 28 del regolamento, con attenzione a come tratta le immagini.",
+        "Schede cartacee nel cassetto di casa: la copia su carta va distrutta appena arriva la ricevuta, non archiviata per prudenza a fine stagione.",
+        "Telefono di chi fa i check-in: al personale addetto vanno date istruzioni puntuali sul divieto di trattenere copie, analogiche o digitali, dopo la comunicazione."
+      ]
+    },
+    {
+      "h2": "L'informativa: cosa deve dire e quando si consegna",
+      "paragraphs": [
+        "L'informativa è il testo con cui il titolare spiega all'interessato che cosa fa dei suoi dati. Il regolamento la richiede nel momento in cui i dati personali sono ottenuti e ne elenca i contenuti minimi: identità e contatti del titolare, finalità e base giuridica, eventuali destinatari, periodo di conservazione o i criteri per determinarlo, diritti esercitabili, possibilità di reclamo all'autorità di controllo e indicazione che il conferimento dei dati risponde a un obbligo legale, con le conseguenze di un rifiuto.",
+        "Sulla forma il regolamento è meno rigido di quanto si creda. Le informazioni vanno fornite in forma concisa, trasparente, intelligibile e facilmente accessibile, con un linguaggio semplice e chiaro, per iscritto o con altri mezzi, anche elettronici; su richiesta dell'interessato possono essere fornite oralmente, purché ne sia comprovata l'identità. Non è prescritto un supporto unico: il foglio consegnato all'arrivo, il testo dentro la conferma di prenotazione e la pagina richiamata da un link sono tutte forme scritte.",
+        "Il momento, invece, è determinato: quando i dati vengono ottenuti. Se i dati del documento si chiedono in fase di prenotazione o di pre check-in, l'informativa deve arrivare lì; se si raccolgono all'arrivo, va consegnata all'arrivo. Consegnarla alla partenza non ripara niente, perché la raccolta è già avvenuta e l'ospite non è più in condizione di scegliere.",
+        "La nota del Garante aggiunge un'indicazione operativa per il check-in svolto con dispositivi capaci di acquisire e conservare copia digitale del documento: in quel caso occorre chiarire agli ospiti che la struttura non archivierà le immagini. È un dettaglio che dice molto sull'impostazione generale, perché sposta l'informativa dal terreno del modulo da far firmare a quello della descrizione di ciò che accade davvero in casa."
+      ]
+    },
+    {
+      "h2": "I trattamenti che si aggiungono senza accorgersene",
+      "paragraphs": [
+        "La comunicazione alla Questura è solo uno dei trattamenti che una casa in affitto breve genera. Gli altri nascono per strade diverse, e ognuno porta con sé una finalità propria, una base giuridica propria e tempi di conservazione propri. Confonderli è il modo più rapido per tenere dati che non servono e per non tenere, invece, quello che servirebbe davvero: la prova di aver adempiuto.",
+        "Due avvertenze prima della tabella. La prima: i termini di conservazione dei documenti contabili e fiscali non discendono dalle regole di pubblica sicurezza e vanno verificati sulla disciplina tributaria, con l'assistenza di chi la applica di mestiere. La seconda: la videosorveglianza è una materia a sé, con regole proprie su aree inquadrate, informativa e conservazione delle immagini, e non si risolve dentro la procedura di check-in."
+      ],
+      "table": {
+        "headers": [
+          "Trattamento",
+          "Da dove nasce",
+          "Che cosa richiede in più"
+        ],
+        "rows": [
+          [
+            "Comunicazione alla Questura",
+            "Obbligo di pubblica sicurezza sull'identificazione degli alloggiati",
+            "Cancellare i dati trasmessi appena arriva la ricevuta e conservare solo quella"
+          ],
+          [
+            "Fatturazione e ricevute",
+            "Rapporto con l'ospite e disciplina fiscale",
+            "Termini di conservazione stabiliti dalle norme tributarie, non da quelle di pubblica sicurezza"
+          ],
+          [
+            "Gestione della cauzione",
+            "Accordo sui danni all'immobile",
+            "Finalità e durata definite in anticipo; la copia del documento non è lo strumento"
+          ],
+          [
+            "Marketing verso ex ospiti",
+            "Scelta commerciale, non obbligo di legge",
+            "Base giuridica autonoma: di regola il consenso, salva l'eccezione limitata per servizi analoghi"
+          ],
+          [
+            "Videosorveglianza",
+            "Tutela dell'immobile e delle sue pertinenze",
+            "Regole proprie su aree inquadrate, informativa e conservazione: materia da trattare a parte"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Che cosa succede se qualcosa va perso",
+      "paragraphs": [
+        "Una violazione dei dati personali non è soltanto l'attacco informatico. È anche il telefono smarrito con la galleria piena di documenti, la cartella condivisa rimasta aperta, l'allegato inviato alla persona sbagliata. Il primo dovere, in questi casi, è valutare l'evento: capire quali dati sono coinvolti, quante persone riguardano, quale rischio ne deriva per loro. La valutazione va fatta subito, perché da essa dipende tutto il resto.",
+        "Il regolamento prevede che la violazione sia notificata all'autorità di controllo senza ingiustificato ritardo e, ove possibile, entro settantadue ore dal momento in cui il titolare ne è venuto a conoscenza, a meno che sia improbabile che presenti un rischio per i diritti e le libertà delle persone fisiche; se la notifica arriva più tardi, va corredata dei motivi del ritardo. Quando la violazione è suscettibile di presentare un rischio elevato, va comunicata anche agli interessati.",
+        "È qui che la copia del documento si paga. La nota del Garante osserva che la perdita di riservatezza delle immagini dei documenti d'identità della clientela espone la struttura proprio a quegli obblighi, e ricorda un'istruttoria ancora in corso su strutture che, per identificare gli ospiti, si erano avvalse di dispositivi scanner capaci di acquisire e conservare copia per immagine dei documenti. Chi non conserva copie ha meno da notificare; e l'entità delle conseguenze dipende dal caso concreto, non da un importo fisso da mettere in preventivo."
+      ]
+    },
+    {
+      "h2": "Come gestiamo i documenti degli ospiti nelle case che seguiamo",
+      "paragraphs": [
+        "Nelle case che seguiamo il documento dell'ospite non diventa mai un file. I dati si leggono, si inseriscono nel portale, si scarica la ricevuta, e quella sì viene archiviata: è l'unico documento che resta. Se un ospite manda spontaneamente la foto del passaporto in chat, estraiamo i dati, completiamo la comunicazione e cancelliamo il messaggio. Non esiste, fra le nostre cartelle, una voce «documenti ospiti», e questo è voluto.",
+        "L'abitudine più rischiosa che vediamo nei proprietari che gestiscono da soli è la raccolta che cresce da sola: una cartella nella galleria del telefono, oppure un thread di chat, dove le immagini dei documenti si accumulano stagione dopo stagione perché nessuno le cancella. La copia del documento non è una garanzia in caso di danni: è un rischio che resta in casa dopo che l'ospite è partito. Basta un telefono dimenticato su un treno perché diventi il problema più grande dell'anno.",
+        "La seconda cosa che manca quasi sempre è l'informativa. Quando c'è, spesso è un modello generico preso altrove, che descrive trattamenti inesistenti e tace su quello che accade davvero. Preferiamo un testo corto che dica tre cose: quali dati raccogliamo, perché li raccogliamo, che cosa ne facciamo dopo l'invio alla Questura. Un ospite che legge tre righe chiare fa meno domande all'arrivo di uno che riceve quattro pagine da firmare in fretta.",
+        "L'indicazione di riferimento su questa materia è la nota di chiarimento del Garante, ed è lì che conviene tornare prima di impostare una procedura: le posizioni dell'Autorità si aggiornano e i documenti restano pubblicati sul suo sito. Noi ci fermiamo sul piano operativo, cioè come si raccolgono i dati, dove non devono finire e che cosa si conserva. Il singolo caso, dal contenzioso alla violazione già avvenuta, lo valuta un professionista."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Chi affitta un appartamento per pochi giorni all'anno è titolare del trattamento?",
+      "a": "Sì. Il titolare del trattamento è chi determina finalità e mezzi del trattamento dei dati personali, e chi affitta decide come raccogliere i dati del documento, con che strumento e dove tenerli. La qualifica non dipende dal numero di prenotazioni né dall'avere una partita IVA: la disciplina di pubblica sicurezza è stata estesa anche a chi loca per periodi inferiori a trenta giorni."
+    },
+    {
+      "q": "Si può conservare la fotocopia o la scansione del documento dopo aver inviato i dati alla Questura?",
+      "a": "No, non per quella finalità, e il Garante lo ha chiarito in modo esplicito. La normativa di pubblica sicurezza non richiede forme di raccolta e conservazione della copia del documento al di fuori di quelle strumentali all'inserimento dei dati nel portale: al rilascio della ricevuta deve seguire la cancellazione digitale o la distruzione materiale della copia. Chi ritiene di avere una finalità diversa deve verificarla a monte sulle pagine dell'Autorità."
+    },
+    {
+      "q": "L'ospite può mandare il documento su WhatsApp o per email?",
+      "a": "È una prassi che il Garante indica espressamente fra quelle da evitare, insieme alla foto scattata con il telefono. L'Autorità l'ha segnalata come diffusa soprattutto tra case per vacanze e affittacamere e la considera un fattore che aumenta il rischio di furto d'identità. Se l'immagine arriva comunque, la strada praticabile è estrarre i dati, completare la comunicazione e cancellare il messaggio."
+    },
+    {
+      "q": "Per quanto tempo va conservata la ricevuta della comunicazione?",
+      "a": "Cinque anni. Il decreto ministeriale prevede che i gestori cancellino i dati digitali trasmessi e distruggano la copia cartacea degli elenchi non appena il sistema genera la ricevuta di avvenuta comunicazione, e che la ricevuta sia conservata per cinque anni. È l'unico elemento che resta legittimamente in mano a chi ospita, e serve a dimostrare l'adempimento."
+    },
+    {
+      "q": "Serve il consenso dell'ospite per comunicare i suoi dati alla Questura?",
+      "a": "No: la base giuridica è l'obbligo legale previsto dall'articolo 6, paragrafo 1, lettera c) del regolamento europeo. Il consenso non c'entra e non va chiesto per questo trattamento, perché lascerebbe intendere che l'ospite possa rifiutarlo. Serve invece l'informativa, che deve dire anche che il conferimento dei dati risponde a un obbligo di legge."
+    },
+    {
+      "q": "E i dati dei minori che dormono in casa?",
+      "a": "Vengono trasmessi anche loro, ma con un elenco di informazioni più corto. Per i nuclei familiari il decreto ammette la compilazione da parte di uno dei coniugi, che indica l'altro coniuge e i figli minorenni, e per i componenti del nucleo o del gruppo gli estremi del documento non figurano tra i dati previsti. Le regole sulla cancellazione delle copie valgono identiche; per il dettaglio dei campi il riferimento è il portale della Polizia di Stato."
+    }
+  ],
+  "related": [
+    "alloggiati-web-comunicazione-ospiti",
+    "adempimenti-affitti-brevi-checklist",
+    "contratto-locazione-breve"
+  ],
+  "sources": [
+    {
+      "label": "Nota di chiarimento in materia di trattamento dei documenti di identità degli ospiti di esercizi alberghieri o di altre strutture ricettive",
+      "ente": "Garante per la protezione dei dati personali",
+      "data": "2026",
+      "url": "https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10244289"
+    },
+    {
+      "label": "Comunicato stampa: no alla conservazione di copia dei documenti degli ospiti",
+      "ente": "Garante per la protezione dei dati personali",
+      "data": "2026",
+      "url": "https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10244195"
+    },
+    {
+      "label": "Articolo 109 del Testo unico delle leggi di pubblica sicurezza, testo aggiornato",
+      "ente": "Polizia di Stato",
+      "data": "2026",
+      "url": "https://questure.poliziadistato.it/statics/05/art.109-tulps-aggiornato.pdf"
+    },
+    {
+      "label": "Regolamento (UE) 2016/679 (GDPR), testo integrale",
+      "ente": "Garante per la protezione dei dati personali",
+      "data": "2026",
+      "url": "https://www.garanteprivacy.it/regolamentoue"
+    }
+  ],
+  "disclaimer": true,
+  "note": ""
+}

@@ -1,0 +1,177 @@
+{
+  "slug": "regime-forfettario-affitti-brevi",
+  "keyword": "regime forfettario affitti brevi",
+  "category": "normativa-fisco",
+  "title": "Regime forfettario affitti brevi: quando si applica",
+  "metaDescription": "Il regime forfettario riguarda il reddito d'impresa: sugli affitti brevi il reddito resta spesso fondiario. Come distinguere i due casi e cosa cambia.",
+  "h1": "Regime forfettario e affitti brevi: prima il tipo di reddito, poi il regime",
+  "excerpt": "Prima di chiedersi se il forfettario sia applicabile, va stabilito che tipo di reddito produce l'attività: fondiario se si affitta e nulla più, d'impresa se subentrano organizzazione o servizi alla persona. Da quella distinzione dipendono partita IVA, regime e adempimenti.",
+  "opening": "Il regime forfettario riguarda chi produce reddito d'impresa o di lavoro autonomo. Un appartamento affittato per soggiorni brevi, senza servizi alla persona, produce di norma reddito fondiario: in quel caso il forfettario non entra in gioco e non serve aprire partita IVA solo per gli affitti brevi. La domanda da porsi prima riguarda il tipo di reddito, non il regime.",
+  "publishedAt": "2026-08-27",
+  "updatedAt": "2026-08-27",
+  "heroKicker": "FISCO",
+  "sections": [
+    {
+      "h2": "La domanda arriva sempre dopo quella sbagliata",
+      "paragraphs": [
+        "Chi sente parlare di fisco degli affitti brevi arriva al forfettario per associazione di idee: partita IVA e forfettario viaggiano insieme nel linguaggio comune, e il secondo sembra la versione semplificata della prima. Ma chi chiede se il forfettario sia applicabile ha già dato per scontato il passaggio precedente, cioè di dover aprire una partita IVA. Nella maggior parte dei casi quel passaggio non è affatto scontato, e tutto il ragionamento che segue dipende da come si risponde alla domanda precedente.",
+        "La disciplina fiscale delle locazioni brevi nasce, per definizione, fuori dall'impresa. L'Agenzia delle Entrate la descrive come l'insieme dei contratti di locazione di immobili a uso abitativo situati in Italia, di durata non superiore a 30 giorni, stipulati da persone fisiche al di fuori dell'esercizio di attività d'impresa: una condizione che riguarda entrambe le parti del contratto, locatore e conduttore. Un regime pensato per il reddito d'impresa, quindi, non può essere la porta d'ingresso naturale a un'attività che la legge colloca altrove.",
+        "L'ordine corretto delle domande è un altro. Prima si stabilisce se quello che si fa sia una locazione o un'attività ricettiva organizzata; solo dopo, e solo se la risposta è la seconda, si discute di quale regime scegliere per il reddito d'impresa. La soglia numerica di appartamenti che innesca la presunzione di impresa merita un discorso a sé, ed è trattata nell'articolo dedicato al terzo immobile: qui il tema è il regime."
+      ]
+    },
+    {
+      "h2": "Reddito fondiario o reddito d'impresa: la biforcazione che decide tutto",
+      "paragraphs": [
+        "Sul piano delle imposte sui redditi esistono due caselle diverse, non due varianti della stessa. Da un lato i redditi fondiari, disciplinati dagli articoli 36 e 37 del TUIR, che seguono la casa e il suo possesso; dall'altro il reddito d'impresa dell'articolo 55, che segue un'attività organizzata. In una risposta a interpello del 2020 l'Agenzia delle Entrate ha scritto che l'attività di locazione produce redditi d'impresa e non redditi fondiari soltanto quando è organizzata in forma di impresa, e ha indicato come indizi il personale dipendente, l'impiego di un vero e proprio ufficio, l'uso di un'organizzazione di mezzi e risorse umane.",
+        "Il secondo indizio riguarda i servizi. Biancheria, pulizia dei locali, utenze, wi-fi e aria condizionata sono considerati funzionali all'esigenza abitativa di breve periodo e restano dentro la locazione breve. Escono invece dalla disciplina i contratti in cui il locatore fornisce colazione, somministrazione di alimenti e bevande, auto a noleggio, guide turistiche o interpreti: secondo l'Agenzia, in quei casi la prestazione è qualificabile come attività d'impresa anche se svolta in maniera occasionale. Se l'attività commerciale non è abituale, il TUIR la colloca fra i redditi diversi.",
+        "A questa lettura, dal 2026, si aggiunge una presunzione di legge. La legge di bilancio 2026 (legge 199/2025, articolo 1, comma 17) ha stabilito che il regime fiscale delle locazioni brevi previsto dall'articolo 4 del decreto-legge 50/2017 si applica solo destinando a quella finalità non più di due appartamenti per ciascun periodo d'imposta; superata la soglia, l'attività si presume svolta in forma imprenditoriale, da chiunque esercitata. Fino al 31 dicembre 2025 il limite era di quattro appartamenti.",
+        "Le due strade divergono presto e si riconoscono da segnali concreti, non da etichette. Il prospetto che segue affianca le situazioni più comuni e per ciascuna indica come viene letto il reddito e se serve una partita IVA: è il passaggio da fare prima di qualsiasi ragionamento sul regime da adottare."
+      ],
+      "table": {
+        "headers": [
+          "Che cosa si sta facendo davvero",
+          "Come viene letto il reddito",
+          "Partita IVA e regime"
+        ],
+        "rows": [
+          [
+            "Un appartamento locato con biancheria, pulizia e wi-fi",
+            "Reddito fondiario: cedolare secca oppure IRPEF ordinaria",
+            "Nessuna partita IVA richiesta dalla disciplina delle locazioni brevi"
+          ],
+          [
+            "Due appartamenti nello stesso periodo d'imposta, senza servizi alla persona",
+            "Reddito fondiario, entro il limite dei due appartamenti in vigore dal 2026",
+            "Nessuna partita IVA; il forfettario non entra in gioco"
+          ],
+          [
+            "Dal terzo appartamento destinato alla locazione breve",
+            "Presunzione di attività imprenditoriale (legge 199/2025)",
+            "Inquadramento d'impresa da definire con il commercialista"
+          ],
+          [
+            "Colazione, pasti, noleggio auto, guide o interpreti agli ospiti",
+            "Attività commerciale: reddito d'impresa, o reddito diverso se non abituale",
+            "Partita IVA e adempimenti d'impresa: qui il forfettario diventa un'ipotesi"
+          ],
+          [
+            "Personale, un ufficio, un'organizzazione di mezzi e risorse",
+            "Reddito d'impresa per organizzazione, a prescindere dal numero di case",
+            "Partita IVA; regime da valutare fra forfettario e ordinario"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Quando il forfettario entra in gioco, e quando è escluso",
+      "paragraphs": [
+        "Il forfettario è riservato dall'Agenzia delle Entrate alle persone fisiche esercenti attività d'impresa, arti o professioni. Servono due requisiti letti sull'anno precedente: ricavi o compensi, ragguagliati ad anno, non superiori a 85.000 euro, e spese per lavoro accessorio, lavoro dipendente e compensi a collaboratori non superiori a 20.000 euro lordi. L'imposta è unica, nella misura del 15%, sostitutiva delle imposte sui redditi, delle addizionali regionale e comunale e dell'IRAP; scende al 5% per i primi cinque anni in presenza dei requisiti previsti per le nuove attività.",
+        "Il reddito, nel forfettario, non si calcola sui costi effettivi: si applica ai ricavi percepiti un coefficiente di redditività che dipende dal codice attività. Per il gruppo di settore delle attività dei servizi di alloggio e di ristorazione, codici ATECO 55 e 56, l'allegato al regime indica un coefficiente del 40%. Sul codice puntuale da usare per un'attività ricettiva è prudente non improvvisare: la classificazione si sceglie in sede di apertura, con chi cura la posizione fiscale.",
+        "Le cause di esclusione che intercettano più spesso un proprietario sono tre. La prima: redditi di lavoro dipendente e assimilati superiori a 30.000 euro nell'anno precedente, limite elevato a 35.000 euro per il 2025 e il 2026, salvo il caso in cui il rapporto di lavoro sia cessato nell'anno precedente. La seconda: partecipazioni in società di persone, associazioni professionali o imprese familiari, o il controllo di una srl che svolge attività riconducibili. La terza: l'uso di regimi speciali ai fini IVA o di altri regimi forfetari di determinazione del reddito.",
+        "Prima di fissare un appuntamento conviene rispondere in privato alle domande che seguono, perché sono le stesse che un professionista porrà nei primi minuti. Sono formulate come verifiche personali e non come soglie da memorizzare: gli importi si muovono con le leggi di bilancio, mentre le categorie di controllo restano le stesse."
+      ],
+      "list": [
+        "Nell'anno precedente i ricavi o i compensi, ragguagliati ad anno, sono rimasti entro il limite previsto per l'accesso?",
+        "A quanto ammontano i redditi da lavoro dipendente o assimilati percepiti nell'anno precedente, e quel rapporto è ancora in corso?",
+        "Esistono quote in società di persone, imprese familiari o associazioni professionali, o il controllo di una srl che fa qualcosa di riconducibile alla stessa attività?",
+        "Le spese sostenute per lavoro dipendente, lavoro accessorio e compensi a collaboratori superano il tetto fissato per il regime?",
+        "L'attività si rivolgerebbe in prevalenza a un datore di lavoro attuale o a uno dei due periodi d'imposta precedenti?",
+        "È già in uso un regime speciale ai fini IVA o un altro regime forfetario di determinazione del reddito?",
+        "Quale codice attività descrive davvero ciò che viene offerto agli ospiti, e quale coefficiente di redditività porta con sé?"
+      ]
+    },
+    {
+      "h2": "Che cosa cambia in concreto passando all'impresa",
+      "paragraphs": [
+        "Il primo blocco di lavoro è l'apertura: partita IVA, scelta del codice attività, iscrizione presso gli enti competenti. Accanto agli adempimenti fiscali ce ne sono altri che non dipendono dall'Agenzia delle Entrate ma dal Comune e dalla Regione, perché la forma imprenditoriale di un'attività ricettiva ha requisiti propri, diversi da territorio a territorio. Quali siano, e con quali procedure, va verificato sul sito del Comune e su quello della Regione in cui si trova l'immobile: qui non si può generalizzare.",
+        "Il secondo blocco è documentale. Il forfettario esonera dall'addebito dell'IVA in fattura, dalla liquidazione e dal versamento dell'imposta e dalla dichiarazione annuale, ma non dalla fattura: dal 1° gennaio 2024 l'obbligo di fatturazione elettronica riguarda anche i contribuenti forfetari fino ad allora esonerati. Restano la numerazione e la conservazione delle fatture di acquisto e delle bollette doganali, e l'integrazione delle fatture per le operazioni in cui il forfetario risulta debitore d'imposta.",
+        "Il terzo blocco è contributivo. Un'attività d'impresa comporta l'iscrizione alla gestione previdenziale competente e il versamento dei contributi obbligatori, con regole e misure che dipendono dalla gestione in cui si ricade e non dal regime fiscale scelto. Sul piano del calcolo, i contributi previdenziali obbligatori si deducono dal reddito determinato forfetariamente e l'eventuale eccedenza è deducibile dal reddito complessivo: un dettaglio che pesa nel confronto fra le strade possibili.",
+        "Il quarto blocco è il meno visibile e il più costante: scadenze periodiche, adempimenti annuali, una contabilità da tenere allineata e un professionista che segue la posizione. Non è una spesa una volta sola, è un impegno che si rinnova ogni anno finché la partita IVA resta aperta."
+      ]
+    },
+    {
+      "h2": "Perché la cedolare secca resta spesso la strada più leggera in adempimenti",
+      "paragraphs": [
+        "Finché il reddito è fondiario, l'alternativa è fra IRPEF ordinaria e cedolare secca. Dal 1° gennaio 2024, per effetto della legge di bilancio 2024 (legge 213/2023), l'imposta sostitutiva in forma di cedolare secca si applica con aliquota del 26%, ridotta al 21% per i redditi riferiti ai contratti di locazione breve stipulati per una sola unità immobiliare per ciascun periodo d'imposta, a scelta del contribuente; l'unità va individuata nella dichiarazione dei redditi del periodo interessato. L'opzione è aperta anche ai contratti che comprendono servizi accessori e, per espressa previsione di legge, ai corrispettivi di sublocazioni e di comodati onerosi.",
+        "La cedolare non è però una scorciatoia in ogni caso. L'aliquota si applica sull'intero importo del canone indicato nel contratto, senza l'abbattimento forfettario del 5% previsto nel regime ordinario di tassazione dei canoni, e senza deduzione dei costi sostenuti sull'immobile. Su una casa con spese rilevanti il conto può girare diversamente, e il confronto va fatto sui propri numeri: incassi lordi, costi reali, altri redditi che concorrono all'IRPEF.",
+        "Il vantaggio misurabile della cedolare non sta nell'aliquota ma nella quantità di lavoro che non richiede: nessuna partita IVA, nessun registro, nessuna fatturazione, nessun contributo legato all'attività, nessuna dichiarazione IVA. I contratti di durata non superiore a 30 giorni non vanno registrati, i dati dell'immobile si riportano nel quadro B del modello 730 o nel quadro RB del modello Redditi PF, e la ritenuta eventualmente operata dagli intermediari si scomputa dall'imposta dovuta."
+      ]
+    },
+    {
+      "h2": "Le tre domande da portare al commercialista",
+      "paragraphs": [
+        "Una consulenza vale la parcella quando arriva su dati, non su impressioni. Il materiale minimo da preparare è breve: quanti immobili sono destinati alla locazione breve nel periodo d'imposta e a che titolo, cioè in proprietà, in sublocazione o in comodato; gli incassi lordi immobile per immobile, comprese le somme trattenute dai portali; gli altri redditi personali, dal lavoro dipendente alla pensione; le partecipazioni societarie eventualmente possedute, anche piccole e anche ereditate.",
+        "Va aggiunto l'elenco di quello che gli ospiti ricevono davvero, distinguendo con precisione due gruppi: da una parte biancheria, pulizia, utenze e wi-fi; dall'altra colazione, pasti, trasporti, escursioni o assistenza continua. È utile anche descrivere come l'attività è gestita: in autonomia, tramite un gestore, con collaboratori, con o senza personale. Sono gli elementi su cui si decide se il reddito è fondiario o d'impresa, e non si ricostruiscono a memoria.",
+        "Le tre domande sono queste. Che tipo di reddito produce, oggi, l'attività così com'è organizzata? Se il reddito è d'impresa, quali regimi restano aperti alla luce delle cause di esclusione personali? Quanto costa ciascuna strada nei prossimi tre anni, mettendo insieme imposte, contributi e parcelle, e non soltanto l'aliquota? Una risposta che non tenga conto di tutte e tre non è una risposta utilizzabile."
+      ]
+    },
+    {
+      "h2": "Quando la partita IVA arriva prima dei numeri",
+      "paragraphs": [
+        "Ci capita con una certa regolarità di parlare con proprietari che hanno aperto la partita IVA prima di sapere quanto avrebbero incassato, convinti che fosse il passaggio obbligato per mettere una casa su un portale. Poi la stagione chiude con numeri modesti, i contributi e le parcelle restano, e il vantaggio ipotizzato non c'è mai stato. La partita IVA è la conseguenza di un'attività organizzata, non il primo passo per affittare una casa.",
+        "Per questo, quando ci chiedono un'opinione, suggeriamo di misurare prima. Un anno di dati veri, con incassi lordi per immobile, notti vendute, costi di pulizia e biancheria, dice più di qualsiasi simulazione fatta a preventivo. Se in quell'anno l'attività resta una locazione con servizi funzionali al soggiorno, il tema del regime d'impresa non si pone; se cresce e si organizza, i numeri per valutarla sono già pronti e la consulenza costa meno tempo.",
+        "Nel nostro lavoro in Emilia-Romagna, compreso l'appartamento che gestiamo a Dozza, teniamo separate due categorie di servizi: quelli che accompagnano il soggiorno e quelli che, offerti in proprio, cambiano la natura dell'attività. È una distinzione operativa prima che fiscale, e tenerla chiara evita di scoprire a fine anno di aver cambiato inquadramento senza averlo deciso.",
+        "Una precisazione dovuta: quanto scritto qui è la lettura, alla data di questo articolo, delle pagine e dei documenti dell'Agenzia delle Entrate elencati in fondo, e regimi, soglie e aliquote si muovono con le leggi di bilancio. Siamo property manager, non uno studio fiscale: l'inquadramento di un caso concreto lo firma un commercialista, e gli adempimenti verso Comune e Regione si verificano sull'ente competente per l'immobile."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Si può usare il regime forfettario per gli affitti brevi?",
+      "a": "Solo se l'attività produce reddito d'impresa: il forfettario è riservato alle persone fisiche esercenti attività d'impresa, arti o professioni. Finché la locazione breve non è organizzata in forma di impresa il reddito resta fondiario, si tassa con cedolare secca o IRPEF ordinaria e il forfettario non entra in gioco."
+    },
+    {
+      "q": "Serve la partita IVA per affittare casa per brevi periodi?",
+      "a": "No, non per il solo fatto di affittare: la disciplina delle locazioni brevi si applica ai contratti di durata non superiore a 30 giorni stipulati da persone fisiche al di fuori dell'esercizio di attività d'impresa. La partita IVA entra in scena quando l'attività è organizzata in forma d'impresa o quando scatta la presunzione di imprenditorialità prevista dalla legge."
+    },
+    {
+      "q": "Quanti appartamenti si possono destinare alla locazione breve senza presunzione di impresa?",
+      "a": "Dal 2026 il regime fiscale delle locazioni brevi si applica destinando a quella finalità non più di due appartamenti per ciascun periodo d'imposta; oltre quel numero l'attività si presume svolta in forma imprenditoriale, da chiunque esercitata. Fino al 31 dicembre 2025 il limite era di quattro appartamenti, e il conteggio è approfondito nell'articolo dedicato alla soglia."
+    },
+    {
+      "q": "Quali servizi agli ospiti fanno diventare l'affitto un'attività d'impresa?",
+      "a": "Colazione, somministrazione di alimenti e bevande, auto a noleggio, guide turistiche o interpreti: secondo l'Agenzia delle Entrate queste prestazioni portano fuori dalla disciplina delle locazioni brevi, perché configurano un'attività d'impresa anche se svolta in maniera occasionale. Biancheria, pulizia dei locali, utenze e wi-fi restano invece compatibili con la locazione."
+    },
+    {
+      "q": "Un lavoratore dipendente può accedere al regime forfettario?",
+      "a": "Dipende da quanto ha percepito nell'anno precedente: sono esclusi dal forfettario i contribuenti con redditi di lavoro dipendente e assimilati superiori a 30.000 euro, limite elevato a 35.000 euro per il 2025 e il 2026, salvo il caso in cui il rapporto di lavoro sia cessato nell'anno precedente. Vale anche il divieto di lavorare in prevalenza per un ex datore di lavoro recente."
+    },
+    {
+      "q": "Con il forfettario si pagano meno tasse sugli affitti brevi?",
+      "a": "Non è una domanda con una risposta generale, perché i due regimi tassano basi diverse: il forfettario applica ai ricavi un coefficiente di redditività, pari al 40% per il gruppo dei servizi di alloggio e di ristorazione, e poi un'imposta sostitutiva; la cedolare secca colpisce l'intero canone al 26% o al 21%. Il confronto dipende da incassi, costi, contributi e altri redditi, e si fa con un commercialista."
+    }
+  ],
+  "related": [
+    "terzo-immobile-partita-iva-affitti-brevi",
+    "cedolare-secca-affitti-brevi",
+    "tasse-affitti-brevi-quanto-si-paga"
+  ],
+  "sources": [
+    {
+      "label": "Le locazioni brevi e la cedolare secca (limite di due appartamenti dal 2026, aliquote 21% e 26%)",
+      "ente": "Agenzia delle Entrate",
+      "data": "2026",
+      "url": "https://www.agenziaentrate.gov.it/portale/le-locazioni-brevi-e-la-cedolare-secca"
+    },
+    {
+      "label": "Guida Locazioni brevi: la disciplina fiscale e le regole per gli intermediari (aprile 2026)",
+      "ente": "Agenzia delle Entrate",
+      "data": "2026",
+      "url": "https://www.agenziaentrate.gov.it/portale/documents/d/guest/locazioni_brevi_disciplina_fiscale_e_regole_per_intermediari_aprile-2026"
+    },
+    {
+      "label": "Regime forfetario: requisiti di accesso e cause di esclusione",
+      "ente": "Agenzia delle Entrate",
+      "data": "2026",
+      "url": "https://www.agenziaentrate.gov.it/portale/regime-forfetario-le-regole-2020-/infogen-regime-forfetario-le-regole-2020-imprese"
+    },
+    {
+      "label": "Risposta a interpello n. 278 del 26 agosto 2020: locazione breve, redditi fondiari e reddito d'impresa",
+      "ente": "Agenzia delle Entrate",
+      "data": "2026",
+      "url": "https://www.agenziaentrate.gov.it/portale/documents/20143/2412781/Risposta+n.+278+del+26+agosto+2020.pdf/594590f6-aab7-c494-6e6d-5cef5122c12e"
+    }
+  ],
+  "disclaimer": true,
+  "note": ""
+}

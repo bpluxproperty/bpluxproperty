@@ -143,7 +143,10 @@
   "related": [
     "cedolare-secca-affitti-brevi",
     "terzo-immobile-partita-iva-affitti-brevi",
-    "imposta-di-soggiorno-affitti-brevi"
+    "imposta-di-soggiorno-affitti-brevi",
+    "dichiarazione-redditi-affitti-brevi",
+    "imu-tari-affitti-brevi",
+    "costi-deducibili-affitti-brevi"
   ],
   "sources": [
     {
