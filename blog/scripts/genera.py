@@ -99,8 +99,8 @@ def _quotabile(q):
     # Una citazione deve reggere letta da sola: niente auto-presentazioni aziendali,
     # niente connettivi o pronomi che rimandano alla frase precedente.
     if not (45 <= len(q) <= 200): return False
-    if re.search(r"(B&P Lux Property|gestiamo (?:affitti|appartamenti|case|immobili)|lavoriamo ogni giorno|con base in Emilia-Romagna|siamo Superhost|come Superhost e|property manager in Emilia-Romagna)", q, re.I): return False
-    if re.search(r"^(?:Per\u00f2|Quindi|Invece|Cos\u00ec|Dunque|Tuttavia|Eppure|Anche|Al contrario|Questo|Questa|Questi|Queste|Ci\u00f2|Lo stesso|La stessa|E|Ma|Oppure|Inoltre|Per questo)\b", q): return False
+    if re.search(r"(B&P Lux Property|gestiamo (?:affitti|appartamenti|case|immobili)|lavoriamo ogni giorno|con base in Emilia-Romagna|siamo Superhost|come Superhost e|property manager in Emilia-Romagna|le case che (?:seguiamo|gestiamo)|i proprietari che seguiamo|sono in questa regione)", q, re.I): return False
+    if re.search(r"^(?:Per\u00f2|Quindi|Invece|Cos\u00ec|Dunque|Tuttavia|Eppure|Anche|Al contrario|Questo|Questa|Questi|Queste|Ci\u00f2|Lo stesso|La stessa|E|Ma|Oppure|Inoltre|Per questo|In pratica|Vale|Valgono|\u00c8|Nel dubbio|In ogni caso|Di conseguenza|Da qui|Detto questo|Sul resto|Idem|Altrettanto|La prima|La seconda|La terza|Il primo|Il secondo|Il terzo|Cambia|Cambiano|Aggiunge|Aggiungono|Succede|Capita|Resta|Restano)\b", q): return False
     if re.search(r"\b(?:per\u00f2|invece|al contrario)\b", q, re.I): return False
     if not re.match(r"^[\u00ab\"\u201c]?[A-Z\u00c0\u00c8\u00c9\u00cc\u00d2\u00d9]", q): return False
     if q.count(chr(171)) != q.count(chr(187)): return False
@@ -135,19 +135,32 @@ def pullquote_for(a):
     #    prende quello con il segnale piu' forte, non il primo che passa.
     FORTI = re.compile(r"(?:\bsi difende\b|\bvale (?:di pi\u00f9|il doppio)\b|\bnon converte\b|\bnon si (?:prenota|riempie|recupera|improvvisa|compra)\b|\bnon perde ospiti\b|\bvale pi\u00f9 di\b|\bpesa pi\u00f9 di\b)", re.I)
     DEBOLI = re.compile(r"(?:,\s*non\s|\bnon si\b|\bvale\b|\bpesa\b|\bconta (?:pi\u00f9|piu)\b|\bnon basta\b|\bnon \u00e8 (?:quanto|quello|come|una questione)\b)", re.I)
+    # La sezione esperienziale e' l'ULTIMA: si esaurisce quella prima di scendere
+    # alla penultima, che negli articoli citta' e' quella degli adempimenti e
+    # produce citazioni burocratiche. Il nome del luogo vale un punto: le frasi
+    # migliori nominano il posto di cui parlano.
+    # SOLO l'ultima sezione, quella esperienziale. Scendere alla penultima
+    # pescava dagli adempimenti: frasi corrette ma burocratiche, e il bonus sul
+    # nome del luogo le premiava proprio perche' citano Comune e tributi.
+    # Una frase senza segnale resta ammissibile come ultima scelta, purche' sia
+    # un'affermazione compiuta: meglio quella della riga sull'imposta di soggiorno.
+    if not secs: return "", -1
+    luogo = (a.get("heroKicker") or "").strip().title()
+    si = len(secs) - 1
+    sec = secs[si]
     cand = []
-    for si in range(len(secs) - 1, max(len(secs) - 3, -1), -1):
-        sec = secs[si]
-        for i, p in enumerate(sec.get("paragraphs", [])):
-            for m in re.finditer(r"[^.!?]+[.!?]", p):
-                if i == 0 and m.start() == 0: continue
-                q = m.group(0).strip()
-                if not _quotabile(q): continue
-                punti = 2 if FORTI.search(q) else (1 if DEBOLI.search(q) else 0)
-                if not punti: continue
-                cand.append((-punti, len(q), si, i, m))
-    for _, _, si, i, m in sorted(cand, key=lambda x: (x[0], x[1])):
-        r = _stacca(secs[si], i, 0, m, si)
+    for i, p in enumerate(sec.get("paragraphs", [])):
+        for m in re.finditer(r"[^.!?]+[.!?]", p):
+            if i == 0 and m.start() == 0: continue
+            q = m.group(0).strip()
+            if not _quotabile(q): continue
+            punti = 2 if FORTI.search(q) else (1 if DEBOLI.search(q) else 0)
+            if luogo and len(luogo) > 3 and luogo in q: punti += 1
+            if not punti and not (60 <= len(q) <= 190 and re.search(r"\b\w{3,}(?:a|e|ono|isce|iscono|anno)\b", q)):
+                continue
+            cand.append((-punti, len(q), si, i, m))
+    for _, _, sj, i, m in sorted(cand, key=lambda x: (x[0], x[1])):
+        r = _stacca(secs[sj], i, 0, m, sj)
         if r: return r
     return "", -1
 
