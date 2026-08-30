@@ -135,7 +135,9 @@
   "related": [
     "gestione-affitti-brevi-a-distanza",
     "pulizie-e-biancheria-affitti-brevi",
-    "recensioni-5-stelle-affitti-brevi"
+    "recensioni-5-stelle-affitti-brevi",
+    "emergenze-notturne-affitti-brevi",
+    "turnover-ospiti-affitti-brevi"
   ],
   "sources": [
     {

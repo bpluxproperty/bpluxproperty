@@ -99,9 +99,11 @@ def _quotabile(q):
     # Una citazione deve reggere letta da sola: niente auto-presentazioni aziendali,
     # niente connettivi o pronomi che rimandano alla frase precedente.
     if not (45 <= len(q) <= 200): return False
-    if re.search(r"(B&P Lux Property|gestiamo (?:affitti|appartamenti|case|immobili)|lavoriamo ogni giorno|con base in Emilia-Romagna|siamo Superhost|come Superhost e|property manager in Emilia-Romagna|le case che (?:seguiamo|gestiamo)|i proprietari che seguiamo|sono in questa regione)", q, re.I): return False
-    if re.search(r"^(?:Per\u00f2|Quindi|Invece|Cos\u00ec|Dunque|Tuttavia|Eppure|Anche|Al contrario|Questo|Questa|Questi|Queste|Ci\u00f2|Lo stesso|La stessa|E|Ma|Oppure|Inoltre|Per questo|In pratica|Vale|Valgono|\u00c8|Nel dubbio|In ogni caso|Di conseguenza|Da qui|Detto questo|Sul resto|Idem|Altrettanto|La prima|La seconda|La terza|Il primo|Il secondo|Il terzo|Cambia|Cambiano|Aggiunge|Aggiungono|Succede|Capita|Resta|Restano)\b", q): return False
+    if re.search(r"(B&P Lux Property|gestiamo (?:affitti|appartamenti|case|immobili)|lavoriamo ogni giorno|con base in Emilia-Romagna|siamo Superhost|come Superhost e|property manager in Emilia-Romagna|le case che (?:seguiamo|gestiamo)|i proprietari che seguiamo|sono in questa regione|dove lavoriamo|seguiamo un appartamento|un appartamento a Dozza|nel nostro lavoro)", q, re.I): return False
+    if re.search(r"^(?:Per\u00f2|Quindi|Invece|Cos\u00ec|Dunque|Tuttavia|Eppure|Anche|Al contrario|Questo|Questa|Questi|Queste|Ci\u00f2|Lo stesso|La stessa|E|Ma|Oppure|Inoltre|Per questo|In pratica|Vale|Valgono|\u00c8|Nel dubbio|In ogni caso|Di conseguenza|Da qui|Detto questo|Sul resto|Idem|Altrettanto|La prima|La seconda|La terza|Il primo|Il secondo|Il terzo|Cambia|Cambiano|Aggiunge|Aggiungono|Succede|Capita|Resta|Restano|Va detto|Bisogna dire|Ce ne|Ci si|Se ne|Lo si|La si|Ne deriva|Da questo|Per farlo|A quel punto|Lì|Là|Da lì|Di lì)\b", q): return False
     if re.search(r"\b(?:per\u00f2|invece|al contrario)\b", q, re.I): return False
+    # preposizione + dimostrativo: la frase riprende un sostantivo della precedente
+    if re.match(r"^(?:Da|Di|In|Su|Con|Per|A|Fra|Tra)\s+(?:quel|quella|quello|quelli|quelle|questo|questa|questi|queste)\b", q, re.I): return False
     if not re.match(r"^[\u00ab\"\u201c]?[A-Z\u00c0\u00c8\u00c9\u00cc\u00d2\u00d9]", q): return False
     if q.count(chr(171)) != q.count(chr(187)): return False
     if re.search(r"\b(?:lo|la|li|le|ci|ne)\s+(?:consider|ved|trov|fac|mett|tien|chiam)\w*", q, re.I): return False

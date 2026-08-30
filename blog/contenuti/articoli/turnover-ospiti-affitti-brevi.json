@@ -1,0 +1,175 @@
+{
+  "slug": "turnover-ospiti-affitti-brevi",
+  "keyword": "turnover affitti brevi",
+  "category": "gestione",
+  "title": "Turnover affitti brevi: la catena fra un ospite e l'altro",
+  "metaDescription": "Fra check-out e check-in le operazioni stanno in fila, non in parallelo: come leggere la catena del turnover e scegliere gli orari dell'annuncio.",
+  "h1": "Il turnover negli affitti brevi: perché è un problema di orari, non di pulizia",
+  "excerpt": "Il cambio fra un ospite e l'altro non si risolve pulendo più in fretta: le operazioni stanno in sequenza e si bloccano a vicenda. Come leggere la catena del turnover, riconoscere l'anello che detta il ritmo e scegliere di conseguenza gli orari dell'annuncio.",
+  "opening": "Fra l'uscita di un ospite e l'entrata del successivo ci sono poche ore, e dentro quelle ore le operazioni non si svolgono insieme: si aspettano. Finché la casa non è vuota non parte la pulizia, finché la biancheria non è rientrata non si rifà il letto. Il turnover si progetta leggendo questa catena, non sommando i minuti.",
+  "publishedAt": "2026-08-30",
+  "updatedAt": "2026-08-30",
+  "heroKicker": "TURNOVER",
+  "sections": [
+    {
+      "h2": "Il turnover è una catena, e ha un anello più lento",
+      "paragraphs": [
+        "Il modo più comune di stimare un cambio è sommare: tanto per svuotare la casa, tanto per pulire, tanto per rifare i letti, tanto per il controllo finale. Il numero che esce da quella somma non descrive quasi mai la giornata reale, perché dà per scontato che le operazioni si possano affiancare. Nella finestra fra un'uscita e un'entrata non funziona così: quasi ogni fase ha bisogno che la precedente sia conclusa, e finché non lo è resta ferma ad aspettare.",
+        "Una sequenza di operazioni legate fra loro non dura quanto la media dei suoi passaggi: dura quanto la fila di quelli che si aspettano a vicenda, e il ritmo lo detta il più lento. Nel cambio l'anello più lento non è quasi mai la pulizia in sé, che è la parte più visibile e anche la più prevedibile. È molto più spesso qualcosa che non dipende da chi sta lavorando in casa: la biancheria che deve rientrare, una persona che sta finendo un altro appartamento, un ospite che esce oltre l'orario.",
+        "Da qui discende l'unica misura che serve davvero: quanto passa da quando la porta si chiude alle spalle di chi esce a quando la casa è pronta e verificata. Quel dato non si prende da una media di settore, si prende sulla casa vera, perché cambia con la metratura, con i piani e le scale, con la capienza della lavatrice, con la distanza di chi porta e ritira la biancheria. Due appartamenti identici sulla carta possono avere catene molto diverse."
+      ]
+    },
+    {
+      "h2": "Che cosa succede davvero fra un'uscita e un'entrata",
+      "paragraphs": [
+        "Scrivere la sequenza per esteso, una volta sola, vale più di qualunque stima a occhio. Non serve a fare ordine sulla carta: serve a mettere in colonna le dipendenze, cioè le condizioni che devono essere già vere perché una fase possa cominciare. Sono quelle condizioni, e non la bravura di chi lavora, a decidere se il cambio si chiude in tempo o se sfora.",
+        "Guardando la sequenza per intero si scopre anche quanto poco si possa fare davvero in parallelo. Due persone possono dividersi le stanze e guadagnare tempo sulla pulizia, ma nessuno può rifare un letto prima che le lenzuola pulite siano in casa, né verificare un bagno mentre lo si sta ancora lavando. La prima fase, poi, non la esegue chi gestisce l'immobile: la esegue l'ospite che parte, ed è la sola su cui non si ha comando diretto.",
+        "Il modo utile di leggere lo schema qui sotto è partire dalla terza colonna. Ogni voce lì dentro è un vincolo: se la condizione non è soddisfatta, la fase resta in attesa e tutto quello che viene dopo slitta della stessa quantità. L'ultima colonna raccoglie i motivi per cui, nella pratica quotidiana, quella condizione salta."
+      ],
+      "table": {
+        "headers": [
+          "Fase del cambio",
+          "Chi la esegue",
+          "Che cosa deve essere già finito",
+          "Che cosa la blocca più spesso"
+        ],
+        "rows": [
+          [
+            "Uscita dell'ospite e riconsegna dell'accesso",
+            "L'ospite che parte",
+            "Nulla: è la fase che apre la catena",
+            "Un'uscita oltre l'orario, o le valigie lasciate in casa fino al pomeriggio"
+          ],
+          [
+            "Svuotamento, rifiuti e ritiro della biancheria usata",
+            "Chi pulisce",
+            "La casa deve essere libera e accessibile",
+            "L'ospite ancora dentro, o un accesso legato a un incontro di persona"
+          ],
+          [
+            "Pulizia degli ambienti",
+            "Chi pulisce",
+            "Rifiuti e biancheria usata devono essere già fuori",
+            "Prodotti e consumabili finiti, o custoditi fuori dall'appartamento"
+          ],
+          [
+            "Letti rifatti, bagno allestito, riassetto",
+            "Chi pulisce",
+            "La biancheria pulita deve essere già in casa",
+            "Il set ancora nella lavatrice o non rientrato dalla lavanderia"
+          ],
+          [
+            "Controllo finale e sblocco dell'accesso",
+            "Chi segue la casa",
+            "La pulizia deve essere conclusa",
+            "Un guasto scoperto all'ultimo, quando non resta margine per rimediare"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "L'orario dell'annuncio è un vincolo di produzione, non una preferenza",
+      "paragraphs": [
+        "Gli orari di check-out e check-in scritti nell'annuncio sembrano una scelta commerciale, e in parte lo sono. Sul piano operativo definiscono però una cosa sola: quanto dura la finestra dentro cui deve stare l'intera catena. Se la catena misurata sulla casa è più lunga di quella finestra, nessuna organizzazione la comprime davvero, e il ritardo smette di essere un incidente: diventa una condizione che si ripresenta ogni volta che due prenotazioni si toccano.",
+        "Spostare l'orario di un'ora nell'uno o nell'altro senso non produce lo stesso effetto. Anticipare il check-out allunga la finestra e sposta il costo su chi parte, che deve alzarsi prima e a volte preferisce una casa meno rigida. Posticipare il check-in allunga la stessa finestra e sposta il costo su chi arriva, che aspetta più a lungo, entra con il buio e scrive più messaggi. La domanda utile non è quale orario suoni meglio, ma quale dei due costi quella casa può sostenere.",
+        "C'è poi il caso in cui la finestra non basta e l'orario non si vuole toccare. Allora il margine si compra altrove: bloccando il passaggio fra due prenotazioni, cioè rinunciando a vendere una notte, oppure escludendo l'incastro fra un'uscita e un'entrata nella stessa giornata. Le piattaforme lo prevedono: su Airbnb esiste un'impostazione dedicata al tempo di preparazione, che blocca il calendario prima e dopo ogni prenotazione. Rinunciare a una notte è una decisione di produzione come le altre, e conviene prenderla a freddo."
+      ]
+    },
+    {
+      "h2": "Le decisioni che accorciano il turnover senza abbassare lo standard",
+      "paragraphs": [
+        "Accorciare il cambio non vuol dire lavorare più in fretta. Chi va di corsa salta il controllo finale, che è l'unica fase capace di intercettare gli errori di tutte le altre, e il tempo risparmiato torna indietro sotto forma di recensione. Le decisioni che accorciano davvero la catena si prendono prima del giorno del cambio, e agiscono su una cosa sola: togliere passaggi dalla fila, oppure togliere attese fra un passaggio e l'altro.",
+        "La logica è sempre la stessa. Ogni volta che qualcosa deve arrivare, aprire, essere comprato o essere consegnato mentre il cambio è già iniziato, quella è un'attesa piazzata nel punto peggiore possibile. Spostarla al giorno prima non fa risparmiare lavoro complessivo, ma lo toglie dalla finestra stretta, che è l'unico posto in cui il tempo vale doppio.",
+        "Anche la geografia del lavoro conta più di quanto sembri. Se chi pulisce deve passare da un deposito a prendere il materiale, o attendere che qualcuno gli apra il portone, quel tratto di strada e quell'attesa stanno dentro la finestra esattamente come il tempo passato a lavare i pavimenti. Le voci qui sotto agiscono quasi tutte lì: sui passaggi che non si vedono e che non compaiono in nessuna checklist di pulizia."
+      ],
+      "list": [
+        "Un ricambio di biancheria in più per ogni letto, tenuto in casa: il lavaggio esce dalla finestra del cambio e smette di dettare l'orario di ingresso.",
+        "Il materiale dove serve: detergenti, ricambi e consumabili in un armadio chiuso dentro l'appartamento, non nel bagagliaio di chi arriva.",
+        "Un accesso indipendente per chi pulisce, con codice o chiave propri, così il lavoro comincia all'ora prevista e non a quella di un appuntamento.",
+        "Tutto quello che si può fare il giorno prima si fa il giorno prima: scorte reintegrate, set pulito già in casa, piccoli guasti segnalati e chiusi.",
+        "Un ordine di lavoro sempre uguale e scritto: chi entra non deve decidere da dove cominciare e chi controlla sa che cosa è già stato fatto.",
+        "Un posto dove lasciare i bagagli: l'uscita dell'ospite si stacca dall'orario del treno e la catena parte quando deve partire.",
+        "Le fasi che non si fanno mai di corsa restano intoccabili: bagno, letti e controllo finale. Se il tempo manca si toglie altro, non queste.",
+        "Una regola già scritta per quando la catena salta: chi decide se avvisare l'ospite, spostare l'arrivo o mandare una seconda persona."
+      ]
+    },
+    {
+      "h2": "La biancheria decide: è l'unica cosa che esce di casa e deve tornare",
+      "paragraphs": [
+        "Ogni altra operazione del cambio si svolge dentro l'appartamento. La biancheria no: esce sporca e deve rientrare pulita, e nel frattempo passa da un lavaggio, da un'asciugatura e spesso da una stiratura, oppure da un ritiro e da una riconsegna. È l'unico anello che attraversa il confine della casa, ed è per questo che finisce quasi sempre a dettare il ritmo di tutto il resto.",
+        "Una lavatrice è una macchina seriale: lavora un carico alla volta e non si lascia mettere fretta. L'asciugatura è la parte più lenta e la più esposta al meteo e allo spazio disponibile, e in un appartamento arredato per gli ospiti raramente c'è dove stendere senza che si veda. Se il set che serve per il letto è lo stesso che sta girando nel cestello, il cambio non si chiude prima della fine del ciclo, per quanto sia stata veloce la pulizia.",
+        "La via d'uscita non è lavare più in fretta, è avere abbastanza set perché il ciclo avvenga fuori dalla finestra del cambio. Quanti ne servano non si ricava dai posti letto: si ricava da quanti cambi cadono uno dietro l'altro prima che il primo set torni pulito e disponibile. Vale allo stesso modo con la biancheria di proprietà e con quella che arriva da fuori, perché la domanda operativa non è da dove viene, ma se il momento in cui rientra cade dentro o fuori le ore del cambio."
+      ]
+    },
+    {
+      "h2": "Il giorno peggiore: quando uscite ed entrate cadono tutte insieme",
+      "paragraphs": [
+        "I calendari degli affitti brevi non si distribuiscono in modo uniforme. Un weekend lungo, una fiera, un concerto, un soggiorno minimo impostato uguale su tutte le date: basta poco perché una fila di prenotazioni scada nello stesso giorno. In quella giornata la catena non gira una volta, gira più volte, con le stesse persone, la stessa lavatrice e la stessa auto che si sposta da un indirizzo all'altro.",
+        "Con una casa sola e cambi distanziati il problema non esiste, e chi abita vicino fa benissimo a occuparsene da sé: la catena è corta e il margine abbondante. Il giorno critico arriva quando un'uscita e un'entrata cadono nella stessa data e la finestra si riduce al minimo previsto dall'annuncio. Con più immobili cambia proprio la natura del problema: la sequenza diventa una coda, la seconda casa non aspetta il proprio turno ma la fine della prima, e un ritardo nato al mattino arriva intero sull'ultimo ospite della giornata.",
+        "Su una giornata così le scelte vanno fatte prima, non nel mezzo. L'ordine di lavorazione si decide sul primo arrivo previsto e non sulla comodità del percorso; si stabilisce in anticipo a chi verrà detto che la casa sarà pronta più tardi, invece di lasciarlo scoprire davanti al portone; si decide che cosa si accetta di rimandare, perché qualcosa andrà rimandato per forza. E si mette in conto l'ipotesi più impopolare di tutte: non vendere una delle notti, quando la giornata non regge."
+      ]
+    },
+    {
+      "h2": "Perché guardiamo il calendario prima di scrivere gli orari nell'annuncio",
+      "paragraphs": [
+        "Gli orari li scriviamo per ultimi. Prima apriamo il calendario, guardiamo dove le prenotazioni si toccheranno e proviamo la sequenza sulla casa reale, cronometrando il tratto che va dalla porta che si chiude al controllo finale. Solo dopo decidiamo che cosa mettere nell'annuncio, perché un orario scelto per somiglianza con gli altri annunci della zona è una promessa che poi tocca a qualcuno mantenere, sempre di corsa.",
+        "Sull'appartamento che curiamo a Dozza il conto lo abbiamo rifatto più di una volta, perché in un borgo la distanza fra chi porta la biancheria e la porta di casa non è quella di una via cittadina, e questo sposta l'anello più lento in un punto diverso da quello che ci si aspetta. Da lì è nata la regola che applichiamo ovunque: prima si stabilisce quanto dura la catena, poi si sceglie l'orario che le sta intorno, mai il contrario.",
+        "Un turnover non si improvvisa: si progetta con il calendario aperto, prima che l'orario finisca scritto nell'annuncio. In concreto significa tenere un ricambio di biancheria già dentro casa, dare a chi pulisce un accesso proprio e chiudere il giorno prima tutto quello che il giorno prima può essere chiuso. Vale anche per l'appartamento di Dozza, dove il profilo Superhost si regge su cambi che arrivano puntuali molto più che su singole giornate perfette.",
+        "La parte meno intuitiva sta nel non trattare il giorno storto come un'eccezione. Le uscite in ritardo, i cicli di lavaggio che finiscono tardi e i guasti scoperti durante il controllo non sono rarità: sono la normalità di chiunque affitti per periodi brevi. E affidare il cambio a qualcun altro non accorcia la catena, sposta soltanto chi la percorre: se la finestra scritta nell'annuncio resta più corta della catena misurata, il ritardo si presenta comunque, con chiunque al lavoro."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quanto dura il turnover fra un ospite e l'altro?",
+      "a": "Dipende dalla casa e va misurato su quella, perché la durata reale non è la somma dei tempi delle singole operazioni ma la lunghezza della catena, dove ogni fase aspetta che la precedente sia finita. Metratura, piani e scale, capienza della lavatrice e distanza di chi porta la biancheria cambiano il risultato più di qualunque media generale. L'unico dato affidabile è quello cronometrato dalla porta che si chiude al controllo finale."
+    },
+    {
+      "q": "Perché sommare i tempi delle singole operazioni dà un numero sbagliato?",
+      "a": "Perché la somma presuppone che le operazioni possano avvenire insieme, e nel cambio quasi nessuna può. Il letto non si rifà prima che la biancheria pulita sia in casa, il controllo finale non parte prima che la pulizia sia conclusa, la pulizia non comincia finché l'appartamento non è libero. Quello che va misurato è la catena delle attese, non il lavoro netto di ciascuna fase."
+    },
+    {
+      "q": "Conviene anticipare il check-out o posticipare il check-in?",
+      "a": "Le due mosse comprano lo stesso margine, ma lo fanno pagare a ospiti diversi. Anticipare l'uscita pesa su chi parte, che deve organizzarsi prima; posticipare l'entrata pesa su chi arriva, che aspetta di più e spesso entra con il buio. La scelta si fa guardando il tipo di ospite che prenota quella casa e la lunghezza reale della catena, non l'abitudine degli altri annunci della zona."
+    },
+    {
+      "q": "Qual è la fase che blocca più spesso il turnover?",
+      "a": "Di regola è la biancheria, perché è l'unica cosa che esce di casa e deve rientrare. Un lavaggio, un'asciugatura o un giro di ritiro e riconsegna hanno tempi propri che non si comprimono, e se il set necessario è ancora fuori il cambio si ferma lì, per quanto veloce sia stata la pulizia. Subito dopo vengono le uscite oltre l'orario e i guasti scoperti al controllo finale."
+    },
+    {
+      "q": "Quanti set di biancheria servono per non rallentare il cambio?",
+      "a": "Tanti quanti bastano perché il lavaggio avvenga fuori dalla finestra del cambio, e il numero non si ricava dai posti letto. Si ricava da quanti cambi cadono uno dietro l'altro prima che il primo set torni pulito e disponibile: una casa con uscite ravvicinate ha bisogno di più scorta di una casa con soggiorni lunghi e distanziati. Il ragionamento vale sia con la biancheria di proprietà sia con quella che arriva da fuori."
+    },
+    {
+      "q": "Come si gestisce un giorno con più uscite e più entrate?",
+      "a": "Decidendo prima l'ordine di lavorazione e accettando che qualcosa vada rimandato. L'ordine si stabilisce sul primo arrivo previsto e non sulla comodità del percorso, chi riceverà la casa più tardi va avvisato in anticipo e non davanti al portone, e quando la giornata non regge resta l'opzione di non vendere una delle notti bloccando il calendario fra due prenotazioni. Airbnb prevede un'impostazione dedicata al tempo di preparazione proprio per questo."
+    }
+  ],
+  "related": [
+    "pulizie-e-biancheria-affitti-brevi",
+    "check-in-check-out-affitti-brevi",
+    "manutenzione-affitti-brevi"
+  ],
+  "sources": [
+    {
+      "label": "Come impostare e modificare gli orari di check-in e check-out di un annuncio",
+      "ente": "Airbnb",
+      "data": "2026",
+      "url": "https://www.airbnb.com/help/article/1296"
+    },
+    {
+      "label": "Tempo di preparazione fra una prenotazione e l'altra: blocco del calendario prima e dopo il soggiorno",
+      "ente": "Airbnb",
+      "data": "2026",
+      "url": "https://www.airbnb.com/help/article/2923"
+    },
+    {
+      "label": "Impostare gli orari di check-in e check-out della struttura",
+      "ente": "Booking.com for Partners",
+      "data": "",
+      "url": "https://partner.booking.com/it/aiuto"
+    }
+  ],
+  "disclaimer": false,
+  "note": "REFERTO — turnover-ospiti-affitti-brevi (30 ago 2026)\n\nARTICOLI VICINI LETTI PRIMA DI SCRIVERE (per non ripetere tesi già occupate):\n- pulizie-e-biancheria-affitti-brevi: ha già lo standard da hotel, la checklist ambiente per ambiente e la tabella acquisto/noleggio biancheria. Qui la biancheria è trattata SOLO come variabile di sequenza (l'unica che esce di casa e torna); la frase «la domanda operativa non è da dove viene, ma se il momento in cui rientra cade dentro o fuori le ore del cambio» è messa apposta per non riaprire il confronto acquisto/noleggio. Nessuna checklist di pulizia in questo articolo: la lista della sez. 4 è di decisioni organizzative, e il paragrafo che la introduce dice esplicitamente che agisce «sui passaggi che non compaiono in nessuna checklist di pulizia».\n- check-in-check-out-affitti-brevi: ha già gli orari visti dal lato dell'ospite, la flessibilità, il messaggio pre-arrivo, il self check-in e la tabella self vs. accoglienza di persona. Qui l'orario è trattato solo come vincolo di produzione (quanto dura la finestra), non come leva di esperienza; non ho ripetuto lo standard «pomeriggio / tarda mattinata», non ho parlato di messaggio pre-arrivo né di modalità di accesso se non come dipendenza della catena (accesso indipendente per chi pulisce).\n- manutenzione-affitti-brevi: ha già i controlli preventivi nel turnover, la rete di artigiani e la scorta di ricambi. Qui il guasto compare solo come evento che blocca il controllo finale (ultima riga della tabella), senza checklist tecnica e senza parlare di artigiani.\n- Controllato anche affitti-brevi-lido-di-jesolo-guida, che ha un h2 «Il sabato del turnover: il vero collo di bottiglia dell'estate»: ho evitato l'espressione «collo di bottiglia» e «percorso critico» (già usate nel corpus) e ho tenuto la sez. 6 su un piano generale (una casa sola vs. più immobili), senza la cornice località-di-mare.\n\nVINCOLO «NESSUN TEMPO IN MINUTI» — come l'ho rispettato:\nZero durate dichiarate. Nessun «la pulizia richiede X minuti/ore», nessuna stima di quanto duri un cambio. I tempi sono resi in tre modi: (1) come ORDINE e DIPENDENZE (la tabella ha una colonna «che cosa deve essere già finito»: è lì che sta l'informazione temporale, in forma di precedenza e non di durata); (2) come RITMO dell'anello più lento; (3) come metodo di misura sulla casa vera, con l'elenco esplicito delle variabili che la spostano (metratura, piani e scale, capienza della lavatrice, distanza di chi porta la biancheria). L'unica quantità che compare è «un'ora» nella sez. 3, ma solo come unità di spostamento dell'orario dell'annuncio (indicata dalla specifica), non come durata di un'operazione. Anche l'opening chiude con «non sommando i minuti», che è la negazione del dato, non il dato.\n\nALTRI CONTROLLI:\n- Nessuna tariffa, nessun euro, nessuna percentuale, nessuna quota di mercato, nessuna promessa di risultato. Nessun cliente o immobile inventato: l'unica casa citata è l'appartamento di Dozza, e su di essa non affermo nulla di verificabile oltre a ciò che è già pubblico (profilo Superhost); l'osservazione sulla distanza della biancheria in un borgo è una constatazione geografica, non un aneddoto con protagonisti.\n- Caso fai-da-te fatto sul serio: sez. 6, «Con una casa sola e cambi distanziati il problema non esiste, e chi abita vicino fa benissimo a occuparsene da sé».\n- Che cosa la delega NON risolve: ultimo paragrafo della sez. 7, «affidare il cambio a qualcun altro non accorcia la catena, sposta soltanto chi la percorre».\n- Prima persona plurale: solo nella sez. 7. Verificato che non compaia in opening, excerpt, sezioni 1-6 e FAQ.\n- Nessun contatto, nessun invito a scrivere: la CTA la mette il generatore.\n- Formule vietate: verificate una per una e assenti (incluse le chiusure «Come lavoriamo noi», «Dalla pratica:», «Sul campo, casa per casa», «Un appunto dai nostri annunci», e l'apertura «L'errore che vediamo»). H2 confrontati con quelli già presenti nei 247 articoli: nessun duplicato.\n- Frase citabile della sez. 7 pensata per reggere da sola e per passare il filtro del generatore: «Un turnover non si improvvisa: si progetta con il calendario aperto, prima che l'orario finisca scritto nell'annuncio» — nessun connettivo iniziale, nessun pronome che rimandi indietro, nessuna autopresentazione aziendale. La menzione di Superhost è collocata in una frase che inizia con «Vale», quindi non viene estratta al suo posto.\n\nFONTI — che cosa ho verificato in sessione (30 ago 2026):\n- https://www.airbnb.com/help/article/1296 — recuperata e letta: pagina reale del Centro assistenza Airbnb, titolo «Change the check-in and checkout times for your listing», spiega che l'host imposta orari di inizio/fine check-in e orario di check-out dall'editor dell'annuncio. URL tenuto.\n- https://www.airbnb.com/help/article/2923 — recuperata e letta: «Preparation time between reservations», conferma l'esistenza dell'impostazione che blocca il calendario prima e dopo ogni prenotazione. È l'unico fatto di prodotto che affermo nell'articolo (sez. 3 e FAQ 6) ed è verificato. URL tenuto.\n- partner.booking.com (pagina sugli orari di check-in/check-out): il server ha risposto 403 e non ho potuto leggere il contenuto, quindi ho lasciato url vuoto come da regola. Anche airbnb.it/resources e partner.booking.com/it/aiuto rispondono 403: nessun URL non verificato è finito nel file.\n- NON ho affermato: percentuali di ospiti insoddisfatti, durate medie di pulizia, dati di settore sul turnover, né alcun orario «standard» presentato come regola. La riga sull'anello più lento («non è quasi mai la pulizia») è dichiarata come osservazione di mestiere, non come statistica.\n\nPUNTI NORMATIVI: l'articolo non tocca Alloggiati Web, imposta di soggiorno, cedolare, CIN o durata dei contratti, quindi non c'era nulla da verificare su quel fronte e non ho introdotto affermazioni normative di passaggio."
+}

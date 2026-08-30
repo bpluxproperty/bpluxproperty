@@ -3,10 +3,10 @@
   "keyword": "cedolare secca affitti brevi",
   "category": "normativa-fisco",
   "title": "Cedolare secca affitti brevi: come funziona",
-  "metaDescription": "Cedolare secca sugli affitti brevi: aliquota 21% sul primo immobile e 26% dal secondo. Come funziona, a chi conviene e come si sceglie. Guida chiara.",
+  "metaDescription": "Cedolare secca sugli affitti brevi: aliquota del 26%, ridotta al 21% su un solo immobile a tua scelta. Come funziona, a chi conviene e come si sceglie.",
   "h1": "Cedolare secca sugli affitti brevi: aliquote, regole e quando conviene",
   "excerpt": "La cedolare secca è il regime più usato per gli affitti brevi tra privati: un'imposta sostitutiva al posto dell'IRPEF. Aliquote, limiti e come sceglierla.",
-  "opening": "La cedolare secca sugli affitti brevi è un'imposta sostitutiva che sostituisce l'IRPEF e le addizionali sui redditi da locazione. L'aliquota è del 21% sul primo immobile destinato agli affitti brevi e sale al 26% dal secondo. È riservata a chi affitta come privato, entro la soglia oltre cui scatta l'attività d'impresa.",
+  "opening": "La cedolare secca sugli affitti brevi è un'imposta sostitutiva che sostituisce l'IRPEF e le addizionali sui redditi da locazione. L'aliquota ordinaria è del 26%, ridotta al 21% sui redditi di una sola unità immobiliare per periodo d'imposta, che scegli tu. È riservata a chi affitta come privato, entro la soglia oltre cui scatta l'attività d'impresa.",
   "publishedAt": "2026-08-11",
   "updatedAt": "2026-08-11",
   "heroKicker": "NORMATIVA & FISCO",
@@ -21,8 +21,8 @@
     {
       "h2": "Le aliquote: 21% e 26%",
       "paragraphs": [
-        "Per gli affitti brevi l'aliquota ordinaria è il 21%. Dalla Legge di Bilancio 2024 è stato introdotto il 26% quando si destinano più immobili agli affitti brevi: resti al 21% su un immobile a tua scelta e passi al 26% sugli altri.",
-        "In pratica: un solo appartamento a breve resta al 21%; dal secondo in poi si applica il 26%. La scelta di quale immobile tenere al 21% la fai tu, di norma in dichiarazione."
+        "Dalla Legge di Bilancio 2024 l'aliquota per gli affitti brevi è del 26%, ridotta al 21% sui redditi di una sola unità immobiliare per ciascun periodo d'imposta: tieni l'aliquota ridotta sulla casa che scegli tu e paghi il 26% sulle altre.",
+        "In pratica: se destini agli affitti brevi una casa sola, quella sta al 21%; se ne destini altre, sulle altre si applica il 26%. Quale tenere al 21% lo decidi tu, e lo individui in dichiarazione."
       ],
       "table": {
         "headers": [
@@ -82,7 +82,7 @@
   "faq": [
     {
       "q": "Qual è l'aliquota della cedolare secca sugli affitti brevi?",
-      "a": "L'aliquota è del 21% sul primo immobile destinato agli affitti brevi e del 26% dal secondo in poi. Puoi scegliere su quale immobile mantenere il 21%. Oltre la soglia d'impresa la cedolare non è più applicabile."
+      "a": "L'aliquota è del 26%, ridotta al 21% per una sola unità immobiliare per ciascun periodo d'imposta. Puoi scegliere su quale immobile mantenere il 21%. Oltre la soglia d'impresa la cedolare non è più applicabile."
     },
     {
       "q": "La cedolare secca conviene sempre?",

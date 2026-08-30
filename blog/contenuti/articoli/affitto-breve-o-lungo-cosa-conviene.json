@@ -93,7 +93,7 @@
     {
       "h2": "Fiscalità in sintesi",
       "paragraphs": [
-        "La cedolare secca esiste per entrambe le formule: è un'imposta sostitutiva dell'IRPEF calcolata sul canone. Cambia però l'aliquota. Sugli affitti brevi è il 21% sul primo immobile e sale al 26% dal secondo destinato a questa attività.",
+        "La cedolare secca esiste per entrambe le formule: è un'imposta sostitutiva dell'IRPEF calcolata sul canone. Cambia però l'aliquota. Sugli affitti brevi l'aliquota è del 26%, ridotta al 21% per un solo immobile per ciascun anno: quale, lo scegli tu e lo indichi in dichiarazione.",
         "Sull'affitto lungo la cedolare resta disponibile con la propria aliquota dedicata. Le regole incidono sul netto, quindi vanno pesate prima di scegliere. Abbiamo dedicato una guida a parte alla cedolare secca sugli affitti brevi; per il tuo caso specifico, la verifica va fatta con il commercialista, numeri alla mano."
       ]
     },
@@ -135,7 +135,7 @@
     },
     {
       "q": "Come funziona la cedolare secca nei due casi?",
-      "a": "La cedolare è un'imposta sostitutiva dell'IRPEF disponibile per entrambe le formule, con aliquote diverse. Sugli affitti brevi è il 21% sul primo immobile e il 26% dal secondo. Sull'affitto lungo l'aliquota è dedicata. La verifica sul tuo caso va fatta con il commercialista."
+      "a": "La cedolare è un'imposta sostitutiva dell'IRPEF disponibile per entrambe le formule, con aliquote diverse. Sugli affitti brevi è del 26%, ridotta al 21% su una sola unità immobiliare per anno, scelta da te in dichiarazione. Sull'affitto lungo l'aliquota è dedicata. La verifica sul tuo caso va fatta con il commercialista."
     },
     {
       "q": "Quando è meglio scegliere l'affitto lungo?",
@@ -145,7 +145,8 @@
   "related": [
     "property-manager-affitti-brevi",
     "quanto-rende-affitto-breve-bologna",
-    "cedolare-secca-affitti-brevi"
+    "cedolare-secca-affitti-brevi",
+    "affitto-breve-o-vendere-casa"
   ],
   "sources": [],
   "disclaimer": false,
