@@ -159,7 +159,9 @@
     "property-manager-affitti-brevi",
     "self-check-in-affitti-brevi",
     "recensioni-5-stelle-affitti-brevi",
-    "turnover-ospiti-affitti-brevi"
+    "turnover-ospiti-affitti-brevi",
+    "bagno-affitti-brevi-dettagli",
+    "biancheria-e-materassi-affitti-brevi"
   ],
   "sources": [],
   "disclaimer": false,

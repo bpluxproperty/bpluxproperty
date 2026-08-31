@@ -45,12 +45,37 @@
         "Messe una accanto all'altra, le tre etichette si distinguono meno per quello che permettono di fare e più per il piano su cui stanno e per chi le definisce. La tabella tiene insieme i tre piani e serve a capire a quale domanda ciascuna risponde; i requisiti puntuali del terzo, quello ricettivo, vanno letti sulla normativa della propria Regione e verificati allo sportello del Comune prima di aprire qualunque pratica."
       ],
       "table": {
-        "headers": ["Il punto di confronto", "Locazione breve", "Locazione turistica", "Casa vacanze e altre ricettive"],
+        "headers": [
+          "Il punto di confronto",
+          "Locazione breve",
+          "Locazione turistica",
+          "Casa vacanze e altre ricettive"
+        ],
         "rows": [
-          ["Che cosa è, in una riga", "Un perimetro fiscale", "Un contratto di locazione", "Un'attività ricettiva"],
-          ["Chi ne detta la definizione", "Norma fiscale statale (art. 4 del D.L. 50/2017)", "Codice civile, per rinvio del Codice del turismo", "Legge della Regione o della Provincia autonoma"],
-          ["Che ruolo ha la durata", "Decisiva: non oltre 30 giorni per singolo contratto", "Nessun tetto, ma sopra i 30 giorni cambia il piano fiscale", "Non è la durata a qualificare l'attività"],
-          ["Chi può starci dentro", "Persone fisiche fuori dall'esercizio d'impresa, da entrambe le parti", "Chiunque possa stipulare un contratto di locazione", "Chi apre l'attività con i requisiti richiesti dalla Regione"]
+          [
+            "Che cosa è, in una riga",
+            "Un perimetro fiscale",
+            "Un contratto di locazione",
+            "Un'attività ricettiva"
+          ],
+          [
+            "Chi ne detta la definizione",
+            "Norma fiscale statale (art. 4 del D.L. 50/2017)",
+            "Codice civile, per rinvio del Codice del turismo",
+            "Legge della Regione o della Provincia autonoma"
+          ],
+          [
+            "Che ruolo ha la durata",
+            "Decisiva: non oltre 30 giorni per singolo contratto",
+            "Nessun tetto, ma sopra i 30 giorni cambia il piano fiscale",
+            "Non è la durata a qualificare l'attività"
+          ],
+          [
+            "Chi può starci dentro",
+            "Persone fisiche fuori dall'esercizio d'impresa, da entrambe le parti",
+            "Chiunque possa stipulare un contratto di locazione",
+            "Chi apre l'attività con i requisiti richiesti dalla Regione"
+          ]
         ]
       }
     },
@@ -120,7 +145,8 @@
   "related": [
     "scia-cia-locazioni-turistiche",
     "destinazione-uso-catasto-affitti-brevi",
-    "cedolare-secca-affitti-brevi"
+    "cedolare-secca-affitti-brevi",
+    "requisiti-igienico-sanitari-casa-vacanze"
   ],
   "sources": [
     {

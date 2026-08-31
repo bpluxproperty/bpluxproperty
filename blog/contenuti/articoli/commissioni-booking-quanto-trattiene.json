@@ -1,0 +1,187 @@
+{
+  "slug": "commissioni-booking-quanto-trattiene",
+  "keyword": "commissioni booking",
+  "category": "piattaforme",
+  "title": "Commissioni Booking: quanto paghi davvero",
+  "metaDescription": "Commissioni Booking: la percentuale del contratto è solo il punto di partenza. Come si somma il costo reale, su quale importo si calcola e dove si legge.",
+  "h1": "Commissioni Booking: come si forma il costo reale di ogni prenotazione",
+  "excerpt": "Su Booking la percentuale scritta nel contratto è un punto di partenza, non il costo. Programmi di visibilità, sconti, servizio di pagamento e IVA si sommano uno alla volta, e la base su cui la percentuale si applica sposta il conto più di qualche punto di commissione.",
+  "opening": "Su Booking la commissione non è un numero unico e pubblico: dipende dal Paese, dal tipo di struttura e dal contratto firmato. Sopra quella base si aggiungono strati che il proprietario attiva uno alla volta, in pagine diverse dell'extranet. Nessuna di quelle pagine mostra il totale, e la base di calcolo pesa più della percentuale.",
+  "publishedAt": "2026-08-31",
+  "updatedAt": "2026-08-31",
+  "heroKicker": "COMMISSIONI",
+  "sections": [
+    {
+      "h2": "La percentuale del contratto non è quello che paghi",
+      "paragraphs": [
+        "Booking descrive la commissione come una percentuale fissa dell'importo totale della prenotazione, addebitata per ogni prenotazione ricevuta tramite la piattaforma e applicata al momento del check-out dell'ospite. La percentuale esatta dipende dal Paese, dal tipo di struttura e dal contratto per le strutture ricettive firmato all'adesione. Non esiste quindi un valore unico da confrontare con quello della casa di un conoscente: quel confronto non dice niente.",
+        "Il passaggio che sfugge è un altro. Quella percentuale può essere superata senza che nessuno la riscriva nel contratto, e la piattaforma lo mette nero su bianco: se la percentuale che compare nel resoconto prenotazioni è più alta di quella indicata nel contratto, il motivo può essere la partecipazione a un programma di marketing come Partner Preferiti o Visibility Booster. Il numero firmato è un pavimento, non un tetto.",
+        "Da qui nasce l'unico confronto che regge: il totale trattenuto in un periodo, non la percentuale dichiarata. Due appartamenti con lo stesso contratto possono lasciare margini molto diversi, perché hanno attivato strati diversi e hanno costruito il prezzo su basi di calcolo diverse. La percentuale racconta una parte piccola; il totale trattenuto racconta tutto il resto."
+      ],
+      "list": [],
+      "table": null
+    },
+    {
+      "h2": "Su quale importo si calcola: la base che sposta il conto",
+      "paragraphs": [
+        "La commissione non si applica soltanto alla tariffa della notte. Nella descrizione ufficiale entrano la tariffa dell'alloggio e tutti i costi extra che addebiti all'ospite: pulizia, servizio, penali di cancellazione e di mancata presentazione. Sono voci che il proprietario legge come costi da recuperare, non come ricavo, e che invece finiscono dentro l'importo su cui la percentuale lavora.",
+        "Fuori dalla base restano le tasse locali: la piattaforma dichiara di non addebitare commissioni sulle imposte locali, come la tassa di soggiorno. Attenzione al passaggio successivo, però: nella maggior parte dei Paesi la commissione viene addebitata sull'IVA o sulla GST, a seconda della normativa fiscale locale, e per sapere che cosa si applica alla singola struttura la stessa pagina rimanda alle Clausole Generali e a un commercialista.",
+        "La conseguenza pratica sta nella classificazione. Nel sistema convivono due famiglie di costi extra: le tasse imposte dalla giurisdizione locale e i costi decisi dalla struttura, come pulizia, biancheria e servizio. Il modo in cui una voce è classificata decide se entra nella base o ne resta fuori, e le impostazioni in vigore si controllano nell'extranet, alla voce IVA/tasse/supplementi del menù Struttura.",
+        "È qui che la base pesa più della percentuale. Alzare il costo di pulizia per proteggere il margine alza anche l'importo su cui la commissione si calcola, mentre spostare la stessa cifra dentro la tariffa lascia il totale identico. Prima di limare qualche punto di commissione conviene guardare com'è composto l'importo su cui quei punti si applicano."
+      ],
+      "list": [],
+      "table": null
+    },
+    {
+      "h2": "Gli strati che si sommano",
+      "paragraphs": [
+        "Nessuno di questi strati si attiva per sbaglio. Si attivano uno alla volta, in momenti diversi, da pagine diverse dell'extranet, e ognuno preso da solo ha una giustificazione ragionevole. Quello che non arriva mai è il momento in cui si rifà il conto complessivo: ogni leva vive nella sua schermata, la somma non ha una schermata.",
+        "Leggerli in fila una volta all'anno cambia la prospettiva, soprattutto segnando accanto a ciascuno quando è stato attivato e per rispondere a quale problema. Alcuni si tolgono con un clic, altri hanno tempi e condizioni per uscire, e il costo di uno può dipendere da un'impostazione che vive in un'altra pagina."
+      ],
+      "list": [
+        "Programma Partner Preferiti, e il livello Preferiti Plus sopra di esso: più visibilità nei risultati di ricerca e un'icona di approvazione sull'annuncio, in cambio di un aumento della commissione. Preso da solo sembra un investimento contenuto, perché l'aumento è descritto come piccolo e l'adesione si può lasciare.",
+        "Visibility Booster: un cursore con cui scegli tu la percentuale di commissione da applicare, su date di check-in e Paesi selezionati. Sembra circoscritto perché riguarda solo le date che hai indicato, e su quelle date la commissione è quella nuova.",
+        "Genius: uno sconto riservato ai viaggiatori idonei, che abbassa il prezzo incassato mentre la commissione resta agganciata all'importo effettivamente pagato. Sembra una rinuncia una volta sola; livelli, requisiti e convenienza del programma Genius hanno una trattazione a parte.",
+        "Prenotazioni Smart Flex: estende la finestra di cancellazione gratuita su alcune camere. L'eventuale costo della flessibilità lo paga l'ospite e non aumenta la commissione, ma il rimborso di una notte cancellata e non rivenduta segue le condizioni di cancellazione che hai impostato tu, e vale solo se l'alloggio resta aperto e prenotabile senza restrizioni.",
+        "Pagamenti tramite Booking.com: sui pagamenti ricevuti per bonifico si applica un costo di transazione pari a una percentuale del valore totale di ogni prenotazione completata, con importo legato alla posizione della struttura. Sembra una commissione bancaria come le altre, e vive accanto alla commissione, non dentro.",
+        "IVA sulla fattura delle commissioni: senza una partita IVA valida per le transazioni nella UE, la piattaforma applica l'IVA italiana alla fattura delle commissioni e la versa per intero alle autorità fiscali. Le risposte ufficiali la definiscono un possibile costo aggiuntivo per chi la riceve.",
+        "Penali e mancate presentazioni: la commissione è dovuta anche sulla penale che incassi, e non è dovuta se rinunci al costo e segnali la modifica nell'extranet entro i termini. Sembra un dettaglio amministrativo, e diventa una voce quando la segnalazione arriva tardi."
+      ],
+      "table": null
+    },
+    {
+      "h2": "Come si legge quanto stai pagando davvero",
+      "paragraphs": [
+        "Il costo reale non sta in un documento unico, e questa è la ragione per cui tanti proprietari non lo conoscono. Le informazioni esistono tutte, distribuite fra il contratto, i documenti mensili e le pagine dei singoli programmi. Leggerle in sequenza, sempre nello stesso ordine, è ciò che trasforma schermate separate in un numero.",
+        "Le fatture delle commissioni seguono le date di check-out: la fattura mensile raccoglie i soggiorni chiusi nel mese precedente. Il dettaglio prenotazione per prenotazione sta nel resoconto prenotazioni, scaricabile in XLS o CSV dalla sezione Contabilità, e serve anche a verificare che tutti i soggiorni siano stati inclusi correttamente prima di contestare qualcosa.",
+        "Una regola di lettura aiuta più di qualsiasi calcolo: ogni volta che un documento dice un numero, la domanda è quale altro documento contenga la parte che quel numero non copre. La fattura non racconta i soggiorni ancora in corso, il resoconto non isola il peso dei programmi, la pagina dei programmi non dice che cosa sarebbe successo senza. Il conto vero nasce dall'incrocio."
+      ],
+      "list": [],
+      "table": {
+        "headers": [
+          "Dove si guarda",
+          "Che cosa ci trovi",
+          "Che cosa non dice",
+          "Ogni quanto tornarci"
+        ],
+        "rows": [
+          [
+            "Contratto per le strutture ricettive",
+            "La percentuale di partenza, legata al Paese e al tipo di struttura",
+            "Nulla sui programmi attivati dopo la firma",
+            "Quando cambia la struttura o il profilo fiscale"
+          ],
+          [
+            "Contabilità, Resoconto prenotazioni",
+            "Prenotazione per prenotazione: importo, commissione e saldo, scaricabili in XLS o CSV",
+            "Non isola quanto pesa ciascun programma di visibilità",
+            "Ogni mese, prima di pagare la fattura"
+          ],
+          [
+            "Fattura mensile delle commissioni",
+            "Il totale dovuto per i soggiorni con check-out nel mese precedente",
+            "Non contiene i soggiorni ancora in corso",
+            "Ogni mese, entro i termini per contestarla"
+          ],
+          [
+            "Pagina Migliora la tua performance",
+            "Quali programmi sono attivi e la percentuale totale di commissione che ne risulta",
+            "Non dice quanto avresti incassato senza quei programmi",
+            "Prima di ogni attivazione e qualche settimana dopo"
+          ],
+          [
+            "Contabilità, Supporto contabilità",
+            "Tempistica dei pagamenti e costo di transazione, per chi usa i Pagamenti tramite Booking.com",
+            "Non riguarda la commissione, che resta una voce separata",
+            "Quando cambia il metodo con cui vieni pagato"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Chi incassa dall'ospite e quando arrivano i soldi",
+      "paragraphs": [
+        "L'incasso può seguire due strade, e la scelta cambia il conto più di quanto sembri. Con i Pagamenti tramite Booking.com l'ospite paga attraverso la piattaforma con il metodo che preferisce, e i fondi arrivano dopo il check-out per bonifico o su carta di credito virtuale, a seconda di dove si trova la struttura e delle impostazioni scelte. Sulle prenotazioni senza pagamento anticipato la piattaforma verifica le carte e gestisce le penali che spettano alla struttura.",
+        "Sull'altra strada incassa chi affitta. Disattivando il servizio bisogna riscuotere personalmente ogni pagamento e pagare la commissione manualmente alla fine di ogni mese: la commissione smette di essere una trattenuta e diventa una fattura da saldare. Le fatture delle commissioni non pagate possono portare alla chiusura temporanea della struttura, quindi la domanda non è solo quando entrano i soldi, ma anche quando devono uscire.",
+        "Il costo del servizio segue la stessa logica a strati. L'adesione non ha costi di attivazione; sui pagamenti per bonifico si applica un costo di transazione pari a una percentuale del valore totale di ogni prenotazione completata, legato alla posizione della struttura. Con la carta di credito virtuale la commissione di transazione la applica la banca o il fornitore di servizi di pagamento, e la piattaforma dichiara di non averne il controllo.",
+        "Due dettagli valgono la lettura del contratto prima di decidere. Il passaggio dalla carta di credito virtuale al bonifico non è reversibile. E il costo del servizio viene addebitato solo sui soggiorni effettivamente completati: rinunciando al costo di cancellazione di un ospite, quel costo di servizio non viene applicato."
+      ],
+      "list": [],
+      "table": null
+    },
+    {
+      "h2": "Quando la commissione conviene comunque, e quando si toglie uno strato",
+      "paragraphs": [
+        "La commissione compra distribuzione, e la domanda utile non è se sia alta. È se le notti che riempie sarebbero state vendute comunque. Una notte che senza quel canale restava vuota vale la sua trattenuta; una notte che si sarebbe venduta a prezzo pieno paga una trattenuta per niente. La risposta cambia per periodo e per immobile, non in generale.",
+        "Prima di lasciare un canale conviene provare a togliere uno strato. Gli strati però non si tolgono tutti allo stesso modo: l'adesione a Partner Preferiti è facoltativa e si lascia dall'extranet, ma l'idoneità viene misurata ogni novanta giorni e chi viene rimosso perché non soddisfa più i requisiti resta fuori per un periodo prima di poter rientrare. Il Visibility Booster, invece, resta legato alle date già selezionate.",
+        "Il modo meno rischioso di provare è uno strato alla volta, su un periodo confrontabile con lo stesso periodo dell'anno precedente, guardando il netto per notte e non il numero di prenotazioni. Se le notti calano ma il netto per notte sale abbastanza, la sottrazione ha funzionato. Se calano entrambi, quello strato stava pagando una visibilità che serviva davvero."
+      ],
+      "list": [],
+      "table": null
+    },
+    {
+      "h2": "A stagione finita rifacciamo il conto da zero",
+      "paragraphs": [
+        "A stagione finita rifacciamo il conto da zero, invece di aggiornare quello dell'anno prima. Scarichiamo i resoconti prenotazioni mese per mese, li affianchiamo alle fatture delle commissioni e ricostruiamo che cosa è stato trattenuto su ogni singola notte venduta. È un lavoro noioso e serve esattamente a una cosa: separare quello che abbiamo scelto di pagare da quello che ci siamo trovati addosso senza deciderlo.",
+        "Il numero che teniamo non è la percentuale media, è il netto per notte, diviso per periodo. Il netto per notte è l'unico numero che sopravvive al cambio di percentuale, di programma e di stagione. Una percentuale più bassa, da sola, non aggiunge niente al conto di fine stagione, e capita spesso che il periodo con la trattenuta più alta sia anche quello che ha reso di più.",
+        "L'altra cosa che ricalcoliamo è la base. Controlliamo come sono classificate le voci extra, perché un costo di pulizia spostato di categoria cambia l'importo su cui la percentuale lavora, e nessun documento avvisa quando quella classificazione è imprecisa. Poi rileggiamo la pagina dei programmi attivi e ci chiediamo, per ognuno, se lo riattiveremmo oggi sapendo com'è andata.",
+        "Quello che evitiamo è decidere in mezzo alla stagione. Togliere uno strato ad agosto cancella il termine di confronto e lascia solo l'impressione di aver risparmiato. Le prove si aprono nei periodi in cui un errore costa poco e si chiudono con due stagioni sovrapposte, quando i numeri smettono di dipendere dal meteo e dagli eventi."
+      ],
+      "list": [],
+      "table": null
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quanto trattiene Booking su una prenotazione?",
+      "a": "Non esiste una percentuale unica e pubblica: dipende dal Paese, dal tipo di struttura e dal contratto per le strutture ricettive firmato all'adesione, e si legge nel contratto stesso e nella sezione Contabilità, alla voce Resoconto prenotazioni. Se la percentuale del resoconto è più alta di quella del contratto, la spiegazione ufficiale è la partecipazione a un programma di marketing. Le condizioni cambiano nel tempo e per Paese, quindi il valore che conta è quello applicato alla propria struttura."
+    },
+    {
+      "q": "Su quale importo si calcola la commissione di Booking?",
+      "a": "Sull'importo totale della prenotazione, che comprende la tariffa dell'alloggio e i costi extra addebitati all'ospite, come pulizia e servizio, oltre alle penali di cancellazione e di mancata presentazione. Le tasse locali, come la tassa di soggiorno, restano fuori dalla base. Nella maggior parte dei Paesi, invece, la commissione viene addebitata sull'IVA o sulla GST a seconda della normativa fiscale locale: le condizioni della singola struttura stanno nelle Clausole Generali."
+    },
+    {
+      "q": "La commissione di Booking include l'IVA e chi la versa?",
+      "a": "Commissione e IVA sono due voci separate, e chi versa l'IVA dipende dalla partita IVA comunicata alla piattaforma. Con una partita IVA valida per le transazioni nella UE, l'IVA non viene applicata alla fattura delle commissioni e resta a carico di chi affitta l'obbligo di dichiarare l'imposta dovuta; senza quella partita IVA, oppure con una non valida per le transazioni nella UE, la piattaforma applica l'IVA italiana alla fattura e la versa per intero alle autorità fiscali. Nel secondo caso le risposte ufficiali la definiscono un possibile costo aggiuntivo: come incida sul proprio regime va verificato con un commercialista."
+    },
+    {
+      "q": "Perché la percentuale nel resoconto prenotazioni è più alta di quella del contratto?",
+      "a": "Perché sopra la percentuale contrattuale possono esserci programmi attivati in un secondo momento. La spiegazione indicata dalla piattaforma è la partecipazione a programmi di marketing come Partner Preferiti o Visibility Booster, che aumentano la commissione in cambio di visibilità. Quali sono attivi e quale percentuale totale ne risulta si controllano nell'extranet, nella pagina Migliora la tua performance."
+    },
+    {
+      "q": "Booking prende la commissione anche sulle cancellazioni?",
+      "a": "Dipende da che cosa viene addebitato all'ospite. La commissione è dovuta sulle penali di cancellazione e di mancata presentazione effettivamente incassate, e sulle prenotazioni non rimborsabili o parzialmente rimborsabili indipendentemente dal soggiorno; non è dovuta se si rinuncia al costo di cancellazione, oppure sulle mancate presentazioni segnalate nell'extranet rinunciando alla penale. Le modifiche vanno segnalate entro quarantotto ore dal check-out, altrimenti viene addebitata la commissione intera sulla prenotazione originale."
+    },
+    {
+      "q": "Conviene disattivare i Pagamenti tramite Booking.com per risparmiare?",
+      "a": "Dipende da che cosa si mette sull'altro piatto. Disattivando il servizio si eliminano i costi di transazione legati al servizio di pagamento, ma bisogna riscuotere personalmente ogni pagamento e pagare la commissione manualmente alla fine di ogni mese, con fatture il cui mancato pagamento può portare alla chiusura temporanea della struttura. Va valutato anche un vincolo tecnico: il passaggio dalla carta di credito virtuale al bonifico non è reversibile."
+    }
+  ],
+  "related": [
+    "commissioni-airbnb-quanto-trattiene",
+    "programma-genius-booking",
+    "airbnb-o-booking"
+  ],
+  "sources": [
+    {
+      "label": "Come funziona la commissione",
+      "ente": "Booking.com — Partner Help",
+      "data": "2026",
+      "url": "https://partner.booking.com/it/aiuto/commissioni-fatture-e-tasse/fatture/come-funziona-la-commissione"
+    },
+    {
+      "label": "IVA sulle fatture per le commissioni in Italia: Domande Frequenti",
+      "ente": "Booking.com — Partner Help",
+      "data": "2026",
+      "url": "https://partner.booking.com/it/aiuto/commissioni-fatture-e-tasse/tasse-locali/iva-sulle-fatture-le-commissioni-italia-domande"
+    },
+    {
+      "label": "Aderire ai Pagamenti tramite Booking.com",
+      "ente": "Booking.com — Partner Help",
+      "data": "2026",
+      "url": "https://partner.booking.com/it/aiuto/soluzioni-pagamento-fatture/pagamenti-tramite-bookingcom/aderire-ai-pagamenti-tramite"
+    }
+  ],
+  "disclaimer": false,
+  "note": "REFERTO VERIFICHE (31 ago 2026). Tutte le pagine aperte in sessione col browser: WebFetch su partner.booking.com risponde 403, serve il browser.\n\nZERO PERCENTUALI DI COMMISSIONE SCRITTE. La pagina ufficiale «Come funziona la commissione» non pubblica alcun numero: dice che «la percentuale esatta dipende dal Paese, dal tipo di struttura e dal contratto per le strutture ricettive che hai firmato al momento dell'adesione». Non ho quindi scritto né 15% né altro: il 15% circola sui blog di settore ma non è confermato dalla fonte ufficiale, e sarebbe stato un numero non verificato. Le due sole quantità numeriche dell'articolo sono termini procedurali verbalizzati in lettere: «quarantotto ore» dal check-out per segnalare modifiche (fonte 1, verbatim: «Se non vengono segnalate entro 48 ore, ti verrà addebitata l'intera commissione sulla prenotazione originale») e «ogni novanta giorni» per la misurazione dell'idoneità a Partner Preferiti (pagina Partner Preferiti: «Misuriamo la tua idoneità per il Programma Partner Preferiti ogni 90 giorni»).\n\nVERIFICATO SU https://partner.booking.com/it/aiuto/commissioni-fatture-e-tasse/fatture/come-funziona-la-commissione — «La commissione è una percentuale fissa dell'importo totale della prenotazione... Include la tariffa dell'alloggio e tutti gli eventuali costi extra che addebiti, come quelli per la pulizia, il servizio, le mancate presentazioni o le cancellazioni, e viene applicata al momento del check-out dell'ospite». Commissione dovuta su: soggiorni confermati; prenotazioni non rimborsabili e parzialmente rimborsabili «indipendentemente dal fatto che l'ospite abbia soggiornato o meno»; penali di cancellazione e mancata presentazione; overbooking. NON dovuta su: penali a cui si rinuncia; mancate presentazioni segnalate rinunciando ai costi; carte di credito non valide segnalate in extranet. Tasse: «Non addebitiamo commissioni sulle tasse locali, come la tassa di soggiorno. Tuttavia, nella maggior parte dei Paesi, la commissione viene addebitata sull'IVA o sulla GST, a seconda della normativa fiscale locale. Per verificare cosa si applica alla struttura, consulta le Clausole Generali». Dove si legge la percentuale: contratto, Contabilità > Resoconto prenotazioni, e Supporto contabilità per chi usa i Pagamenti. «Se la percentuale della commissione presente nel resoconto prenotazioni è superiore a quella indicata nel contratto, il motivo potrebbe essere che partecipi a uno dei nostri programmi di marketing come Partner Preferiti o Visibility Booster» + pagina «Migliora la tua performance» per vedere «la percentuale totale di commissione pagata». Fattura mensile sui check-out del mese precedente; fatture non pagate = possibile chiusura temporanea della struttura.\n\nBASE DI CALCOLO / CLASSIFICAZIONE — https://partner.booking.com/it/aiuto/commissioni-fatture-e-tasse/fatture/comprendere-i-costi-extra: due categorie di costi extra, «Tasse locali» imposte dalla giurisdizione (tassa di soggiorno, tassa comunale, ecc.) e «Costi imposti dalla struttura» (pulizia, biancheria, servizio, supplementi resort). Impostazioni verificabili in extranet > Struttura > IVA/tasse/supplementi. Questa pagina è il fondamento della sezione 2: la classificazione decide se una voce entra nella base commissionabile. Ho evitato ogni esempio numerico: nessun calcolo con cifre inventate.\n\nSTRATI — Partner Preferiti (https://partner.booking.com/it/aiuto/sviluppare-la-tua-attivit%C3%A0/aumentare-guadagni/tutto-quello-che-devi-sapere-sul-programma): «in cambio di un piccolo aumento della commissione otterrai una maggiore visibilità nei risultati di ricerca e la speciale icona di approvazione del pollice in su»; adesione facoltativa, si entra e si esce dall'extranet; idoneità misurata ogni 90 giorni; periodo di sospensione per chi viene rimosso (la pagina dice 180 giorni con condizioni specifiche: ho scritto «resta fuori per un periodo» per non semplificare una regola condizionata). Visibility Booster (https://partner.booking.com/it/aiuto/sviluppare-la-tua-attivit%C3%A0/aumentare-guadagni/tutto-quello-che-devi-sapere-sul-visibility): è letteralmente un cursore, «Seleziona poi la percentuale di commissione che vorresti applicare, utilizzando il cerchio blu sul cursore», su date di check-in e Paese scelti. Smart Flex (https://partner.booking.com/it/aiuto/prenotazioni/gestione/prenotazioni-smart-flex-domande-frequenti): il costo della flessibilità lo paga l'ospite e NON aumenta la commissione — verbatim: «No. Facciamo pagare la commissione come faremmo normalmente, in base alla tariffa originale che hai impostato per la camera»; il risarcimento per una notte cancellata e non rivenduta avviene «in base alle condizioni di cancellazione originali che hai impostato» e solo se l'alloggio resta «aperto e prenotabile senza restrizioni». Questo è il punto meno intuitivo di tutti e l'ho messo nella list per intero. Ho scartato di proposito i numeri promozionali della pagina Partner Preferiti (65% di visualizzazioni in più, 20% di prenotazioni in più): sono claim di marketing della piattaforma, non dati verificabili.\n\nPAGAMENTI — https://partner.booking.com/it/aiuto/soluzioni-pagamento-fatture/pagamenti-tramite-bookingcom/aderire-ai-pagamenti-tramite: fondi «dopo il check-out dell'ospite tramite bonifico o carta di credito virtuale»; nessun costo di attivazione; bonifico = «un costo di transazione pari a una percentuale del valore totale per ogni prenotazione completata», dipendente dalla posizione della struttura; CCV = commissione di transazione pagata alla propria banca o PSP, «Booking.com non ha alcun controllo sull'importo finale»; addebito solo sui soggiorni completati e nessun costo di servizio se si rinuncia al costo di cancellazione; disattivando, «dovrai riscuotere tu tutti i pagamenti per ogni ospite e pagare la commissione manualmente alla fine di ogni mese»; il passaggio da CCV a bonifico è irreversibile. Non ho scritto la percentuale del costo di transazione perché la fonte non la pubblica (dice solo che dipende dal Paese).\n\nIVA — CHIUSA CON CERTEZZA, e sono DUE domande distinte che i blog confondono. (a) IVA DENTRO la base commissionabile: nella maggior parte dei Paesi la commissione è addebitata sull'IVA/GST secondo la normativa locale, da verificare nelle Clausole Generali (fonte 1). (b) IVA SULLA FATTURA delle commissioni, https://partner.booking.com/it/aiuto/commissioni-fatture-e-tasse/tasse-locali/iva-sulle-fatture-le-commissioni-italia-domande: dal 1° maggio 2023, ex regolamento UE 282/2011, chi fornisce una partita IVA valida per le transazioni nella UE (convalidata VIES) non riceve IVA sulla fattura commissioni e «Rimarrai invece responsabile di dichiarare qualunque imposta IVA dovuta alle autorità fiscali italiane»; chi non la fornisce o ne fornisce una non valida riceve la fattura con IVA al 22%, che Booking versa «alle autorità fiscali italiane per intero». La stessa pagina risponde «Sì» alla domanda se l'IVA sulle fatture delle commissioni sia un costo extra per chi non è registrato ai fini delle transazioni UE. NELL'ARTICOLO NON HO SCRITTO IL 22%: ho descritto il meccanismo («l'IVA italiana») e rimandato al commercialista per l'effetto sul singolo regime, coerentemente con la regola di non mettere percentuali. Il dato è verificato e sta qui nel referto, disponibile se si volesse aggiungere.\n\nCOSA HO SCELTO DI NON AFFERMARE: (1) nessuna percentuale di commissione, né di base né di alcun programma — la fonte ufficiale non le pubblica; (2) nessun importo del costo di transazione dei Pagamenti; (3) non ho affermato che l'IVA sulla commissione sia sempre detraibile o sempre un costo: la deducibilità dipende dal regime del contribuente e la fonte parla solo di «possibile costo aggiuntivo» per chi non è registrato per le transazioni UE — rimando esplicito al commercialista nella FAQ 3; (4) non ho affermato che la commissione si applichi al lordo comprensivo di tassa di soggiorno (la fonte dice il contrario) né che sia sempre esclusa l'IVA (la fonte dice il contrario); (5) non ho scritto che il resoconto prenotazioni separa il contributo di ciascun programma: la fonte non lo afferma, e in tabella l'ho messo tra le cose che quel documento NON dice; (6) non ho quantificato di quanto Partner Preferiti o Preferiti Plus alzino la commissione; (7) niente claim di performance dei programmi.\n\nCOME HO EVITATO IL CONFRONTO AIRBNB/BOOKING GIÀ PUBBLICATO: la stringa «Airbnb» non compare nel corpo dell'articolo, in nessuna sezione, in nessuna FAQ e in nessuna voce di lista — compare solo negli slug dei related, che sono link e non testo. Nessuna sezione mette a confronto le due piattaforme, nessuna frase dice «a differenza di Airbnb» o simili. Il pezzo resta interamente dentro Booking: base di calcolo, strati opzionali, documenti dell'extranet, flussi di incasso. Genius è nominato una sola volta, come uno degli strati, con esplicito rimando a una trattazione a parte (related programma-genius-booking) e senza ripetere livelli, requisiti né pro e contro. Il confronto fra le due piattaforme e la scelta fra le due restano rispettivamente in commissioni-airbnb-quanto-trattiene e airbnb-o-booking.\n\nVINCOLI FORMALI: 7 sezioni, 2-4 paragrafi ciascuna nei limiti 45-110 parole; una list di 7 voci nella sezione 3; una table 4 colonne x 5 righe nella sezione 4 con header propri (Dove si guarda / Che cosa ci trovi / Che cosa non dice / Ogni quanto tornarci); 6 FAQ con chiavi q/a e risposta nella prima frase, comprese le due domande a due metà (FAQ 3 e FAQ 5); prima persona plurale solo nella sezione 7; nessun contatto, telefono, email o invito a scrivere; nessuna formula della lista vietata; frase autonoma e citabile nella sezione 7: «Il netto per notte è l'unico numero che sopravvive al cambio di percentuale, di programma e di stagione»."
+}

@@ -1,0 +1,180 @@
+{
+  "slug": "multicanale-airbnb-booking-overbooking",
+  "keyword": "airbnb e booking insieme",
+  "category": "piattaforme",
+  "title": "Airbnb e Booking insieme: come evitare l'overbooking",
+  "metaDescription": "Tenere lo stesso appartamento su Airbnb e Booking apre una finestra fra la prenotazione e l'aggiornamento dell'altro calendario: quanto dura e come si riduce.",
+  "h1": "Come tenere lo stesso appartamento su Airbnb e Booking senza doppie prenotazioni",
+  "excerpt": "Il rischio del multicanale non è la sincronizzazione in sé, ma il tempo che passa fra una prenotazione su un portale e la chiusura di quella data sull'altro. Quella finestra si stringe, non si chiude: qui trovi quanto ti espone davvero e come ridurla con le impostazioni.",
+  "opening": "Pubblicare la stessa casa su Airbnb e Booking moltiplica la domanda che raggiungi. Apre anche un intervallo di tempo: quello fra la prenotazione confermata su un portale e la chiusura della stessa data sull'altro. In quell'intervallo la notte risulta libera in due posti. La doppia prenotazione nasce lì, e la domanda utile riguarda quanta esposizione ti puoi permettere.",
+  "publishedAt": "2026-08-31",
+  "updatedAt": "2026-08-31",
+  "heroKicker": "MULTICANALE",
+  "sections": [
+    {
+      "h2": "Il rischio non è la sincronizzazione: è la finestra",
+      "paragraphs": [
+        "Una doppia prenotazione non nasce da una sincronizzazione assente. Nasce da un intervallo. Quando un ospite conferma una notte su un portale, l'altro portale non lo sa nello stesso istante: lo scopre quando riceve l'aggiornamento. Fra i due momenti la stessa notte resta acquistabile in due vetrine diverse. Chiamare quell'intervallo finestra aiuta a ragionarci sopra, perché una finestra ha una durata, e una durata si può accorciare invece di sperare che nessuno la colpisca.",
+        "Quanto dura dipende da come i due canali sono collegati. Con l'importazione di un calendario esterno, cioè il link che ogni portale mette a disposizione, l'aggiornamento arriva a intervalli regolari: il Centro assistenza di Airbnb indica un aggiornamento automatico ogni tre ore, l'assistenza per i partner di Booking.com dichiara un'importazione dei calendari collegati ogni due ore e avverte in modo esplicito che la sincronizzazione non avviene in tempo reale. Sono valori dichiarati dalle piattaforme e possono cambiare: vanno riletti sulle pagine ufficiali prima di costruirci sopra una decisione.",
+        "Con una connessione diretta fra i canali la situazione cambia di scala: la data si chiude praticamente subito su tutti i portali, ed è la ragione per cui quel collegamento è lo standard di chi vende molte notti. Resta però un tempo tecnico, breve, fra la conferma su un canale e la propagazione dell'informazione sugli altri. La finestra si stringe fino a diventare trascurabile, non si chiude. Su Booking.com, in più, la prenotazione dell'ospite è confermata immediatamente: nessun passaggio umano rallenta la seconda vendita."
+      ],
+      "list": [],
+      "table": null
+    },
+    {
+      "h2": "Quanto sei esposto davvero",
+      "paragraphs": [
+        "L'esposizione al rischio non è una qualità dell'appartamento: è il prodotto di due grandezze. La prima è la durata della finestra. La seconda è la frequenza con cui arrivano le prenotazioni, perché una finestra viene colpita solo se qualcuno prenota mentre è aperta. Un alloggio che riceve una richiesta ogni tanto può convivere con un aggiornamento lento per stagioni intere senza incidenti. Lo stesso alloggio in un weekend di eventi, con prenotazioni che arrivano nella stessa ora, ci cade dentro molto più facilmente.",
+        "Alcune condizioni allungano la finestra o moltiplicano le occasioni di colpirla. Il numero di canali conta in modo più che proporzionale, perché ogni coppia di portali va tenuta allineata. Le notti vendute contano: più calendario pieno significa più aggiornamenti in circolazione. Le prenotazioni ravvicinate e quelle sotto data sono le più insidiose, perché arrivano quando non c'è tempo materiale per accorgersi di niente. I soggiorni corti aumentano il numero di transazioni a parità di notti vendute, e ogni transazione è un'occasione in più.",
+        "Da qui la domanda che conviene porsi prima di aprire il secondo portale: quanta esposizione è accettabile. Chi vende poche notti l'anno, prenotate mesi prima, può stare su due canali con strumenti semplici e un controllo periodico. Chi vende molte notti brevi in una città con domanda continua ha bisogno di una finestra tecnica, non di attenzione personale. L'attenzione personale, di notte, dorme."
+      ],
+      "list": [],
+      "table": null
+    },
+    {
+      "h2": "I tre modi di stare su due canali",
+      "paragraphs": [
+        "I modi di stare su due portali si riducono a tre famiglie, e si distinguono per quanta finestra lasciano aperta. La prima è il presidio manuale: due calendari aperti, aggiornati a mano appena arriva una prenotazione. Funziona finché i volumi sono bassi e finché chi controlla le notifiche è sempre la stessa persona. Qui la finestra coincide con un tempo di reazione umano, e un tempo di reazione umano non è mai uniforme sulle ventiquattro ore.",
+        "La seconda famiglia viene usata poco e merita più credito: dividere la disponibilità invece di duplicarla. Il secondo portale non riceve tutto il calendario, ma soltanto i periodi che il primo non riesce a riempire, oppure soltanto le date lontane. Sulle date chiuse la finestra non esiste, perché non c'è niente da vendere due volte. Il prezzo di questa scelta è la visibilità: un annuncio con poche date aperte viene proposto meno, e va accettato come costo consapevole.",
+        "La terza famiglia è il collegamento tecnico, in due varianti. L'importazione del calendario dell'altro portale è gratuita e alla portata di chiunque, ma lavora a intervalli. La connessione diretta dei canali a un gestionale accorcia la finestra al minimo e regge volumi che le altre soluzioni non reggono, in cambio di una configurazione da fare bene e di un abbonamento. La tabella mette le quattro strade in fila, con quello che chiedono e quello che lasciano scoperto."
+      ],
+      "list": [],
+      "table": {
+        "headers": [
+          "Come stai su due canali",
+          "Che cosa richiede",
+          "Quanta finestra lascia aperta",
+          "Per chi ha senso"
+        ],
+        "rows": [
+          [
+            "Due calendari aperti, aggiornati a mano",
+            "Controllo quotidiano e una regola fissa su chi tocca il calendario",
+            "Lunga: dura quanto il tuo tempo di reazione",
+            "Poche notti l'anno, prenotate con largo anticipo"
+          ],
+          [
+            "Disponibilità divisa, con periodi aperti su un canale solo",
+            "Decidere in anticipo quali date vendere e dove",
+            "Nessuna sulle date chiuse, invariata sulle altre",
+            "Chi vuole due vetrine senza sorvegliare due calendari"
+          ],
+          [
+            "Importazione del calendario dell'altro portale",
+            "Un link per canale e la verifica che la connessione resti attiva",
+            "Breve ma periodica: l'aggiornamento arriva a intervalli",
+            "Un alloggio, volumi medi, soggiorni non troppo corti"
+          ],
+          [
+            "Connessione diretta dei canali a un gestionale",
+            "Configurazione iniziale, mappature corrette, un costo ricorrente",
+            "Ridotta al minimo tecnico",
+            "Molte notti vendute, soggiorni corti, più alloggi"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Che cosa va allineato oltre al calendario",
+      "paragraphs": [
+        "Il collegamento fra due portali muove le date, non le condizioni. Un calendario importato dice a un canale che una notte è occupata o chiusa; non gli dice quale sia la durata minima del soggiorno, quali regole valgano dentro casa, che cosa succede se l'ospite disdice. Tutto quello che non passa dal calendario resta duplicato a mano. E i disallineamenti che nascono lì non producono overbooking: producono ospiti che arrivano con aspettative diverse da quelle che hai in testa.",
+        "Sono problemi meno drammatici e più frequenti. Un soggiorno minimo diverso fra i due canali fa entrare prenotazioni che sul primo portale avresti rifiutato. Una politica di cancellazione più morbida su un canale sposta lì tutte le disdette. Una dotazione dichiarata su una vetrina e dimenticata sull'altra genera una recensione che parla di qualcosa che l'ospite non ha trovato. Vale la pena riguardare l'elenco ogni volta che si cambia qualcosa su un portale soltanto."
+      ],
+      "list": [
+        "Durata minima del soggiorno e finestra di prenotazione: se differiscono, il canale più permissivo detta le regole a tutti.",
+        "Regole della casa: animali, feste, fumo, numero di ospiti, orari. Devono dire la stessa cosa su entrambe le vetrine.",
+        "Politica di cancellazione: condizioni diverse concentrano le disdette sul canale più morbido.",
+        "Prezzo e chi lo modifica: una sola fonte decide la tariffa, altrimenti i due annunci si fanno concorrenza da soli.",
+        "Testo e foto: la stessa casa raccontata in due modi produce due aspettative diverse, e una delle due resterà delusa.",
+        "Dotazioni dichiarate: ogni servizio spuntato su un portale va spuntato anche sull'altro, se c'è davvero.",
+        "Chi risponde ai messaggi e in quanto tempo: due caselle diverse, un solo presidio, tempi di risposta che i portali misurano."
+      ],
+      "table": null
+    },
+    {
+      "h2": "Che cosa fare quando succede",
+      "paragraphs": [
+        "Quando due prenotazioni si sovrappongono, le prime ore contano più di tutto il resto. Il primo passo è chiudere immediatamente la disponibilità su entrambi i canali, perché al problema non si aggiunga una terza prenotazione. Il secondo è verificare quale delle due sia davvero confermata e con quali condizioni, leggendo le prenotazioni e non la memoria. Il terzo è avvisare la piattaforma: l'assistenza per i partner di Booking.com chiede espressamente di essere avvertita e di segnalare la prenotazione come doppia.",
+        "La decisione vera è quale prenotazione sacrificare, e va presa sapendo che le conseguenze non sono simmetriche. Airbnb tratta l'annullamento da parte dell'host come un fatto grave: la pagina sui termini di cancellazione dell'host prevede costi di cancellazione a carico di chi annulla, il blocco delle date annullate sul calendario e, senza un motivo valido, fino alla perdita dello status di Superhost e alla sospensione dell'annuncio o dell'account. Esistono esoneri per motivi validi e per eventi gravi, ma passano dalla piattaforma e non da una decisione autonoma.",
+        "Booking.com imposta la questione in un altro modo. La pagina dedicata alle doppie prenotazioni non parla di penali sull'annuncio, ma di responsabilità verso l'ospite: se non c'è un'altra unità equivalente da offrire, trovare all'ospite una sistemazione di pari livello o migliore è a carico della struttura, spese comprese, e anche il trasporto può finire sullo stesso conto. La commissione può restare dovuta: l'esonero esiste, ma è limitato a condizioni indicate nella stessa pagina. In pratica un canale punisce l'annullamento, l'altro presenta il conto della soluzione.",
+        "Da questa asimmetria segue un criterio operativo. Si guarda a quale dei due ospiti si riesce a offrire una soluzione accettabile, non a quale prenotazione incassa di più. Un arrivo fra tre mesi si riorganizza con una comunicazione onesta e tempestiva. Un arrivo domani sera va sistemato, e quanto costa sistemarlo dipende da quanto è pieno il paese quella notte."
+      ],
+      "list": [],
+      "table": null
+    },
+    {
+      "h2": "Prevenire con le impostazioni, non con l'attenzione",
+      "paragraphs": [
+        "L'attenzione personale è la difesa più fragile, perché regge finché non serve. Le impostazioni lavorano anche quando nessuno guarda. La prima leva è il tempo di preparazione fra un soggiorno e l'altro: uno stacco fra un check-out e il check-in successivo assorbe una parte degli errori di calendario, oltre a dare respiro alle pulizie. La seconda è il preavviso minimo per prenotare, che toglie dal mercato proprio le prenotazioni sotto data, quelle che la finestra intercetta più spesso.",
+        "La terza leva è decidere quale canale comanda. Un solo posto in cui si aprono e si chiudono le date, e gli altri che lo seguono, riduce le occasioni di sbagliare più di qualsiasi controllo incrociato. La quarta riguarda le prenotazioni che nascono fuori dai portali: una notte concessa a voce a un conoscente non entra in nessuna sincronizzazione e va bloccata a mano prima di dire sì. Nessun collegamento tecnico può chiudere una data di cui non sa niente.",
+        "Restano due controlli che si dimenticano. Il primo è lo stato della connessione fra i calendari: un link non più valido o un errore di servizio smettono di funzionare in silenzio, e il calendario continua a sembrare aggiornato. Il secondo è il riempimento automatico della disponibilità: su Booking.com una prenotazione annullata può rimettere l'unità in vendita da sola, perché l'impostazione risulta attiva per i nuovi partner, e va guardata quando il calendario si riapre senza che nessuno l'abbia toccato."
+      ],
+      "list": [],
+      "table": null
+    },
+    {
+      "h2": "Perché su una casa nuova non apriamo due canali il primo giorno",
+      "paragraphs": [
+        "Su un appartamento appena affidato apriamo un canale solo, e il secondo arriva settimane dopo. Non è prudenza generica: nelle prime settimane cambiano ancora troppe cose. Correggiamo la durata minima, riscriviamo pezzi di descrizione dopo le prime domande degli ospiti, aggiungiamo foto di dettagli che avevamo sottovalutato, tariamo il prezzo sulle richieste vere invece che sulle stime. Fare tutto questo due volte, su due vetrine, moltiplica gli errori invece delle prenotazioni.",
+        "Prima di aggiungere il secondo portale guardiamo tre cose. Quanto è stabile la configurazione, cioè da quanto tempo non tocchiamo più le condizioni di base. Come arrivano le prenotazioni: se si concentrano sotto data, la finestra pesa di più e il collegamento fra i calendari va sistemato prima di pubblicare, non dopo. E chi presidia i messaggi, perché due caselle senza un responsabile chiaro diventano due tempi di risposta lenti.",
+        "Un secondo canale raddoppia la domanda raggiungibile e raddoppia anche gli errori di configurazione che si porta dietro. Per questo lo apriamo quando il primo ha smesso di generare sorprese, e non quando il calendario mostra qualche buco da riempire. La fretta di riempire un vuoto resta il motivo per cui tante doppie prenotazioni arrivano nei primi mesi di attività.",
+        "Sull'appartamento di Dozza il secondo canale è arrivato quando le prime recensioni erano già in pagina e il calendario si muoveva con un ritmo prevedibile. Da allora il metodo non è cambiato: una sola fonte per aprire e chiudere le date, un controllo fisso sullo stato del collegamento, e nessuna notte promessa a voce prima di averla bloccata."
+      ],
+      "list": [],
+      "table": null
+    }
+  ],
+  "faq": [
+    {
+      "q": "Posso pubblicare lo stesso appartamento su Airbnb e Booking insieme?",
+      "a": "Sì, ed è la scelta più comune fra chi vuole raggiungere due tipi di ospite. Il punto da risolvere prima di farlo è il tempo che passa fra una prenotazione su un portale e la chiusura di quella data sull'altro: in quell'intervallo la stessa notte è acquistabile due volte. Accorciare l'intervallo, oppure ridurre le date esposte su entrambi i canali, è la parte del lavoro che si tende a saltare."
+    },
+    {
+      "q": "Quanto tempo passa prima che una prenotazione si veda sull'altro portale?",
+      "a": "Dipende da come i due canali sono collegati, e non è mai un tempo nullo. Con l'importazione del calendario esterno il Centro assistenza di Airbnb indica un aggiornamento automatico ogni tre ore, mentre l'assistenza per i partner di Booking.com dichiara un'importazione dei calendari collegati ogni due ore e avverte che la sincronizzazione non avviene in tempo reale. Sono valori dichiarati dalle piattaforme e possono cambiare: conviene verificarli sulle pagine ufficiali."
+    },
+    {
+      "q": "Che cosa rischio se annullo una prenotazione per risolvere un overbooking?",
+      "a": "Dipende dal portale su cui annulli, perché le conseguenze non sono simmetriche. Airbnb prevede costi di cancellazione a carico dell'host, il blocco delle date annullate e, senza un motivo valido, fino alla perdita dello status di Superhost e alla sospensione dell'annuncio. Booking.com chiede invece di avvisare l'assistenza e mette a carico della struttura la sistemazione dell'ospite in un alloggio di pari livello o migliore, spese comprese."
+    },
+    {
+      "q": "Basta la sincronizzazione dei calendari o serve un channel manager?",
+      "a": "Serve guardare quante notti vendi e quanto ravvicinate arrivano le prenotazioni: l'importazione dei calendari regge volumi bassi, la connessione diretta regge quelli alti. Con poche prenotazioni distanti fra loro un aggiornamento a intervalli non viene quasi mai colpito. Con soggiorni corti, alta stagione e richieste sotto data la finestra periodica diventa il punto debole, e il collegamento diretto smette di essere un lusso."
+    },
+    {
+      "q": "Ha senso tenere il calendario aperto su un canale e chiuderlo sull'altro?",
+      "a": "Sì, è una strategia legittima e sottovalutata: sulle date chiuse su un canale la doppia prenotazione non può nascere. Si può riservare al secondo portale soltanto i periodi che il primo non riempie, oppure soltanto le date lontane, dove c'è tempo per accorgersi di un errore. Il costo è la visibilità, perché un annuncio con poche date aperte viene proposto meno: è uno scambio, non una soluzione gratuita."
+    },
+    {
+      "q": "Come si sceglie quale delle due prenotazioni annullare?",
+      "a": "Si parte da quale ospite si riesce a sistemare in modo accettabile, non da quale prenotazione vale più soldi. Un arrivo lontano nel tempo si riorganizza con una comunicazione tempestiva e una proposta concreta; un arrivo imminente richiede un alloggio equivalente, e su alcuni portali quella sistemazione è un obbligo della struttura. Prima di annullare vanno lette le condizioni della piattaforma su cui si annulla."
+    }
+  ],
+  "related": [
+    "channel-manager-affitti-brevi",
+    "airbnb-o-booking",
+    "pubblicare-casa-su-booking"
+  ],
+  "sources": [
+    {
+      "label": "Sincronizza il tuo calendario di host di alloggi con quelli di altri siti web",
+      "ente": "Airbnb — Centro assistenza",
+      "data": "consultato il 31 agosto 2026",
+      "url": "https://www.airbnb.it/help/article/99"
+    },
+    {
+      "label": "Termini di cancellazione da parte dell'host per gli alloggi",
+      "ente": "Airbnb — Centro assistenza",
+      "data": "consultato il 31 agosto 2026",
+      "url": "https://www.airbnb.it/help/article/990"
+    },
+    {
+      "label": "Gestione dei problemi di overbooking",
+      "ente": "Booking.com for Partners — Assistenza partner",
+      "data": "consultato il 31 agosto 2026",
+      "url": "https://partner.booking.com/it/aiuto/prenotazioni/gestione/gestione-dei-problemi-di-overbooking"
+    }
+  ],
+  "disclaimer": false,
+  "note": "REFERTO VERIFICHE (31 ago 2026).\n\n1) SINCRONIZZAZIONE DEI CALENDARI — verificata alla fonte, due valori dichiarati e attribuiti.\n- Airbnb, Centro assistenza art. 99 (aperto in sessione, https://www.airbnb.it/help/article/99): «Il tuo calendario di Airbnb si aggiorna automaticamente ogni 3 ore e si sincronizza con le informazioni degli altri che hai collegato»; l'aggiornamento manuale esiste ma è limitato nel numero di richieste. La stessa pagina avverte che «Non è detto, tuttavia, che le notti che contrassegni come non disponibili su un altro calendario vengano bloccate su quello Airbnb» — da qui l'affermazione dell'articolo che il collegamento muove le date e non le condizioni.\n- Booking.com for Partners, «Come sincronizzare i calendari attraverso i vari canali» (aperto in sessione col browser, https://partner.booking.com/it/aiuto/tariffe-disponibilita/calendario-extranet/come-sincronizzare-i-calendari-attraverso-i-vari): «Tieni presente che la sincronizzazione del calendario non avviene in tempo reale» e «La nostra piattaforma importa automaticamente ogni due ore qualsiasi calendario connesso, ma puoi aggiornare manualmente i dati importati cliccando su Importa ora». Questa pagina NON è fra le sources per rispettare il tetto di 3: il valore delle due ore e il «non in tempo reale» sono ripetuti anche nella pagina sull'overbooking che è citata (FAQ «Why did I get an overbooking after syncing calendars?»: «Calendar sync can help, but it is not real time. Updates can take up to two hours to refresh across platforms»).\n- Entrambi i valori sono presentati nell'articolo come dichiarati dalle piattaforme e soggetti a cambiare, con invito a rileggerli sulle pagine ufficiali, come chiesto dalla specifica.\n\n2) CONSEGUENZE DELL'ANNULLAMENTO DA PARTE DELL'HOST — verificate, ma senza cifre.\n- Airbnb, «Termini di cancellazione da parte dell'host per gli alloggi», art. 990 (aperto in sessione, https://www.airbnb.it/help/article/990): costi di cancellazione a carico dell'host, blocco delle date annullate («impedire all'host di accettare un'altra prenotazione per le date interessate»), possibile perdita dello status di Superhost, possibile sospensione o rimozione dell'annuncio o dell'account; esoneri per motivi validi e per eventi gravi. La pagina prevede un importo minimo in USD e percentuali a scaglioni: NON riportati nell'articolo, per la regola di batch che vieta prezzi e percentuali. La pagina non indica una recensione automatica negativa fra le conseguenze: l'ho quindi esclusa, anche se circola in molte fonti secondarie.\n- Booking.com for Partners, «Gestione dei problemi di overbooking» (aperto in sessione, IT e EN): «if you don't have other rooms available, it's your responsibility to find your guest accommodation elsewhere, of the same or a better standard – and cover the costs. It's also a good idea to organise transport to the new accommodation, or you might have to reimburse it later»; obbligo di avvisare l'assistenza e di segnalare la prenotazione come doppia; commissione dovuta salvo un esonero limitato (la pagina indica soglie di anzianità della struttura e di numero di casi in 12 mesi: soglie NON riportate nell'articolo, che dice solo «l'esonero esiste, ma è limitato a condizioni indicate nella stessa pagina»). Sempre da questa pagina: «When a guest books on our platform, the reservation is confirmed instantly» e, sul riempimento automatico, «If auto-replenishment is turned on, a cancelled reservation can make that room or unit available to book again automatically. This solution is turned on by default for new partners» — è la fonte del secondo controllo nella sezione 6.\n\n3) CHE COSA HO SCELTO DI NON AFFERMARE\n- Nessuna penale numerica: né l'importo minimo Airbnb, né gli scaglioni percentuali, né le soglie dell'esonero commissioni di Booking.com. Nessun prezzo, nessun abbonamento quantificato.\n- Nessun tempo inventato per la connessione diretta: l'articolo dice che la finestra si riduce «al minimo tecnico» e resta breve, senza attribuire secondi o minuti a nessuno strumento.\n- Nessuna marca, nessun nome di channel manager o gestionale.\n- Nessuna statistica su quanti host vanno in overbooking, nessuna percentuale di occupazione o di recensioni.\n- Non ho affermato che la sincronizzazione via link blocchi anche le date chiuse a mano sull'altro portale: la pagina Airbnb dice esplicitamente che non è garantito.\n- Non ho attribuito a Booking.com penali sull'annuncio in caso di doppia prenotazione, perché la pagina parla di responsabilità verso l'ospite e di commissione, non di sanzioni sulla visibilità.\n- WebFetch su partner.booking.com restituisce 403: le pagine Booking.com sono state aperte col browser, quindi gli URL nelle sources sono verificati in sessione.\n\n4) SEPARAZIONE DA channel-manager-affitti-brevi (letto integralmente prima di scrivere)\n- Quell'articolo occupa: che cos'è un channel manager, a cosa serve funzione per funzione, quando serve e quando no, come scegliersene uno, i suoi limiti. Qui non c'è nessuna di queste cose: il channel manager non è mai spiegato, appare come una riga di tabella («connessione diretta dei canali a un gestionale») e come mezza risposta in una FAQ di confronto.\n- Nessuna contraddizione: quell'articolo attribuisce la sincronizzazione «in tempo reale» al channel manager, e qui la connessione diretta è descritta allo stesso modo («la data si chiude praticamente subito su tutti i portali»). La finestra lunga è attribuita solo al presidio manuale e all'importazione periodica del calendario esterno, che è un meccanismo diverso e documentato come non in tempo reale dalle piattaforme stesse. Il residuo tecnico sulla connessione diretta è dichiarato «trascurabile», non «rilevante».\n- Coerente anche sul punto delle prenotazioni fuori sistema: l'altro articolo dice che il channel manager non può sincronizzare ciò che non vede, e la sezione 6 qui lo riprende come leva di prevenzione (bloccare a mano prima di dire sì), senza rifare il discorso sullo strumento.\n- airbnb-o-booking occupa la scelta fra i due portali, pubblico e commissioni: qui non si confrontano pubblici né commissioni, e non si dice quale portale conviene. pubblicare-casa-su-booking occupa la procedura di pubblicazione: qui non c'è nessun passo di registrazione, solo dove si guardano le impostazioni già esistenti.\n\n5) VINCOLI FORMALI\n- 7 sezioni, 2-4 paragrafi ciascuna; una list da 7 voci nella sezione 4; una table 4x4 nella sezione 3 con header propri (non quelli vietati).\n- Prima persona plurale solo nella sezione 7. Frase autonoma e citabile: «Un secondo canale raddoppia la domanda raggiungibile e raddoppia anche gli errori di configurazione che si porta dietro.»\n- 6 FAQ con chiavi q/a, risposta-prima; nelle domande a due metà (FAQ 4) la prima frase risponde a entrambe.\n- Nessun contatto, nessuna CTA, nessuna formula della lista vietata; l'ultima sezione non apre con nessuna delle chiusure già usate."
+}
