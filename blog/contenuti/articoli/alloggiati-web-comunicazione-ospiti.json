@@ -46,7 +46,7 @@
       ],
       "list": [
         "Accedi al portale con le tue credenziali",
-        "Inserisci i dati del documento di ogni ospite",
+        "Inserisci gli estremi del documento per chi li richiede, e i soli dati anagrafici per gli altri",
         "Distingui il capogruppo dagli altri componenti",
         "Invia la comunicazione e scarica la ricevuta",
         "Conserva la ricevuta insieme ai dati della prenotazione"
@@ -62,14 +62,14 @@
     {
       "h2": "Cosa serve dall'ospite",
       "paragraphs": [
-        "Per comunicare i dati ti serve un documento d'identità valido di ogni persona che soggiorna. Servono i dati anagrafici completi e gli estremi del documento, così come richiesti dal portale per il tipo di ospite.",
+        "Chi alloggia va identificato, e per questo serve un documento valido di ogni persona che soggiorna. Quali dati poi si trasmettano è un'altra cosa: per un nucleo familiare bastano gli estremi del documento di uno dei coniugi, che indica l'altro coniuge e i figli minorenni, e per un gruppo guidato quelli del capogruppo, che indica gli altri componenti.",
         "Il consiglio è raccogliere i documenti prima o al momento dell'arrivo, anche in digitale se usi il self check-in. Così eviti di rincorrere l'ospite più tardi, quando ormai è fuori a visitare la città."
       ],
       "list": [
-        "Documento d'identità valido di ogni ospite",
+        "Un documento valido di ogni persona che soggiorna, da guardare all'arrivo",
         "Dati anagrafici completi: nome, data e luogo di nascita",
-        "Il documento anche dei minori che pernottano",
-        "La suddivisione tra capogruppo e altri componenti"
+        "Per i minori accompagnati dai genitori, i dati anagrafici senza gli estremi del documento",
+        "La distinzione fra capofamiglia o capogruppo e gli altri componenti"
       ]
     },
     {

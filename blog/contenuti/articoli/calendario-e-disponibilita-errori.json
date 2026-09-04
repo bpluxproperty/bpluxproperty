@@ -1,0 +1,176 @@
+{
+  "slug": "calendario-e-disponibilita-errori",
+  "keyword": "calendario affitti brevi",
+  "category": "piattaforme",
+  "title": "Calendario affitti brevi: quando rifiuta in silenzio",
+  "metaDescription": "Durata minima, preavviso, tempo di preparazione e finestra: le impostazioni di disponibilità rifiutano prenotazioni senza lasciare traccia. Come accorgersene.",
+  "h1": "Le impostazioni di disponibilità che rifiutano prenotazioni senza dirtelo",
+  "excerpt": "Un prezzo sbagliato lo scopri dalle richieste che non convertono. Una disponibilità sbagliata no: le richieste non arrivano e sembra che non ci sia domanda. Durata minima, preavviso, tempo di preparazione e finestra di prenotazione escludono l'annuncio prima che l'ospite lo veda.",
+  "opening": "Le impostazioni di disponibilità sono le uniche voci di un annuncio che possono rifiutare una prenotazione senza che nessuno se ne accorga. Un prezzo troppo alto produce richieste che non si chiudono; una durata minima troppo lunga non produce niente, perché la casa non compare nemmeno fra i risultati. Il proprietario conclude che non c'è domanda.",
+  "publishedAt": "2026-09-02",
+  "updatedAt": "2026-09-02",
+  "heroKicker": "CALENDARIO",
+  "sections": [
+    {
+      "h2": "Un prezzo sbagliato produce richieste, una disponibilità sbagliata produce silenzio",
+      "paragraphs": [
+        "Le due categorie di errore non si somigliano per niente, e la differenza sta tutta nel tipo di segnale che lasciano. Una tariffa fuori mercato si annuncia da sola: le visite all'annuncio ci sono, i messaggi arrivano, qualcuno chiede uno sconto, qualcun altro sparisce dopo aver letto il totale. Il calendario resta vuoto, ma la vetrina è viva e i dati per capire ci sono. Basta guardarli. Un'impostazione di disponibilità sbagliata, al contrario, spegne la vetrina prima che qualcuno la guardi.",
+        "La ragione è meccanica. La ricerca di un alloggio comincia dalle date, non dal prezzo: chi cerca scrive quando arriva e quando parte, e da quel momento il portale mostra soltanto gli annunci che quelle date le accettano. Una casa con una durata minima più lunga del soggiorno cercato non entra nell'elenco: non compare in fondo, non compare più caro, non compare. L'ospite non la scarta, perché non l'ha mai vista, e il rifiuto avviene senza che nessuna delle due parti sappia di averlo subìto.",
+        "Da questa asimmetria nasce la conclusione sbagliata più frequente: in questa zona non c'è mercato. È una diagnosi che si appoggia su un'assenza, e un'assenza si può spiegare in due modi opposti. Le impostazioni di disponibilità hanno anche un effetto sulla visibilità dell'annuncio nei risultati, che è un capitolo a sé; qui interessa il gradino prima, quello in cui l'annuncio esiste, è visibile, e viene comunque escluso da una ricerca per una regola scritta dal proprietario mesi fa."
+      ]
+    },
+    {
+      "h2": "La durata minima è la voce che rifiuta più prenotazioni",
+      "paragraphs": [
+        "Fra tutte le voci, la durata minima del soggiorno è quella che ha il potere di esclusione più ampio, e per una ragione di posizione: agisce sul primo campo che l'ospite compila. Non è una preferenza comunicata a chi guarda l'annuncio, come le regole della casa o l'orario di arrivo. È un filtro che decide se l'annuncio entra nell'elenco. Chi cerca due notti e trova una casa che ne pretende quattro non legge nessun avviso: vede un risultato in meno e non lo sa.",
+        "Il guaio nasce dal fatto che quel numero viene deciso pensando al periodo che si teme di sbagliare. Tre notti minime su un ponte di primavera proteggono davvero: impediscono che un soggiorno corto occupi il centro di un blocco vendibile intero. Le stesse tre notti a novembre chiudono la porta all'unica domanda che in quel mese esiste, cioè chi si ferma una notte o due per lavoro, per una fiera, per un matrimonio, per un ricovero in ospedale. Il numero è rimasto lì; la domanda intorno è cambiata.",
+        "Il caso più fastidioso è il buco di due notti fra due prenotazioni confermate, con una durata minima di tre. Quelle due notti risultano libere sul calendario e sono irraggiungibili per chiunque: non esiste un ospite al mondo che possa prenotarle, perché il filtro le esclude prima. Le piattaforme prevedono la facoltà di scendere sotto la durata minima su date scelte, e quella di legare il minimo al giorno di check-in: minimo più alto per gli arrivi del venerdì, più basso per gli altri giorni. Sono strumenti che esistono e che quasi nessuno tocca.",
+        "Quanto alzare il minimo e quando riabbassarlo è una decisione di ricavo, e si prende guardando quanto manca alla data: quella parte appartiene al revenue management. Qui conta un'altra cosa, cioè che il numero scritto in quella casella continua a lavorare da solo anche quando la stagione che l'aveva giustificato è finita da mesi, e non manda nessun promemoria."
+      ]
+    },
+    {
+      "h2": "Le altre voci che chiudono la porta senza dirlo",
+      "paragraphs": [
+        "La durata minima non è sola. Attorno al calendario ci sono altre voci con lo stesso comportamento: agiscono a monte, sottraggono date all'elenco dei risultati e non producono nessun messaggio. I nomi cambiano da portale a portale, quindi conviene tenere a mente la funzione più della parola: quanti giorni di margine pretendi prima di un arrivo, fin dove in avanti la casa è prenotabile, quante notti resti chiuso intorno a ogni soggiorno, in quali giorni della settimana accetti che un ospite arrivi.",
+        "Per ognuna vale la pena sapere due cose separate: che cosa toglie dal mercato, e da quale segno si capisce di aver esagerato. Il segno non è mai una richiesta rifiutata, perché quella non esiste: è sempre una forma del calendario, cioè una regolarità nelle notti che restano vuote."
+      ],
+      "list": [
+        "Preavviso: i giorni di margine che pretendi fra la prenotazione e l'arrivo. Toglie dal mercato le date più vicine, quelle che si vendono all'ultimo. Il segno è una serie di notti che scadono vuote mentre l'annuncio sembra disponibile.",
+        "Orario limite per il giorno stesso: se accetti arrivi in giornata, l'ora dopo la quale non si prenota più. Il segno è la domanda del pomeriggio che non arriva mai, in un posto di passaggio dove quella domanda esiste.",
+        "Finestra di disponibilità: fin dove in avanti il calendario è prenotabile, da pochi mesi fino a due anni, oppure limitandolo alle date in cui si vuole ospitare. Il segno è un calendario immobile per mesi che poi si riempie tutto insieme a poche settimane dalla data.",
+        "Tempo di preparazione: le notti che si bloccano prima e dopo ogni prenotazione, una o due per lato. Il segno è una notte chiusa sistematicamente su entrambi i fianchi di ogni soggiorno, anche quando nessuno ne aveva bisogno.",
+        "Numero massimo di notti: se non lo imposti, decide la piattaforma. Airbnb dichiara di applicare in automatico un massimo di trentuno notti. Il segno è una richiesta lunga che arriva inattesa, di una durata che non è più locazione breve.",
+        "Restrizioni sul giorno di arrivo e di partenza: si possono chiudere all'arrivo fino a sei giorni della settimana, cioè lasciarne aperto uno solo. Il segno è che arrivano richieste per un solo tipo di settimana e le altre date restano libere.",
+        "Blocchi manuali dimenticati: date chiuse per un uso personale mai avvenuto, per un lavoro finito, per una prenotazione poi annullata. Il segno è una notte barrata che nessuno ricorda di aver chiuso."
+      ]
+    },
+    {
+      "h2": "I blocchi orfani: le notti che restano invendibili in mezzo",
+      "paragraphs": [
+        "Su un calendario tutte queste esclusioni si presentano allo stesso modo, ed è la parte che rende la diagnosi difficile: una notte tolta da una regola e una notte chiusa a mano hanno lo stesso aspetto. Alcuni blocchi, in più, non si riaprono nemmeno volendo: le date di una prenotazione annullata, quelle che arrivano da un calendario collegato a un altro portale e quelle chiuse per motivi normativi restano ferme finché non si rimuove la causa, non il blocco.",
+        "Un blocco orfano è un gruppo di notti libere che nessuno può prenotare, incastrato fra due soggiorni. Si forma in tre modi, e nessuno dei tre ha a che vedere con la domanda. Il primo è aritmetico: il buco è più corto della durata minima. Il secondo è il tempo di preparazione, che mangia le notti ai bordi: uno stacco di una notte per lato trasforma un buco di quattro notti in un buco di due, e un buco di due notti in niente. Il terzo sono le restrizioni sul giorno di arrivo, che rendono impossibile entrare proprio nella prima notte libera.",
+        "Rincorrerli funziona poco. La facoltà di abbassare la durata minima su date scelte serve esattamente a questo, ed è giusto usarla, ma è una toppa che si applica dopo: qualcuno deve accorgersi del buco mentre c'è ancora tempo per venderlo, e a quel punto le notti rimaste sono poche e vicine. Prevenirli costa meno. Vuol dire legare il minimo al giorno di arrivo invece di tenerne uno solo per tutta la settimana, e trattare il tempo di preparazione come un vincolo di produzione reale e non come un cuscino permanente.",
+        "Resta una domanda diversa da quella del ricavo, e conviene non confonderle. Accettare o no un soggiorno corto che crea il buco è una scelta economica. Che il buco, una volta creato, sia raggiungibile da qualcuno oppure no dipende soltanto da come sono impostate le voci di disponibilità. Il primo problema si risolve con una regola scritta prima; il secondo si risolve guardando il calendario nel momento in cui il buco si forma, cioè quando entra la prenotazione che lo crea."
+      ]
+    },
+    {
+      "h2": "Come si controlla se le impostazioni stanno rifiutando prenotazioni",
+      "paragraphs": [
+        "Non esistono statistiche sui rifiuti invisibili, perché una ricerca che non ha prodotto un risultato non viene registrata da nessuna parte. L'unico controllo diretto è il più artigianale: cercare la propria casa come farebbe un ospite, scrivendo le date esatte e il numero di notti che si vuole vendere, e vedere se compare. Va fatto sulle date che interessano, una combinazione per volta, non in generale: un annuncio che appare per una settimana di agosto può essere invisibile per due notti di martedì.",
+        "Il resto è diagnosi indiretta, e si fa leggendo la forma delle notti vuote. Se le date libere hanno tutte la stessa lunghezza, la responsabile è quasi sempre la durata minima. Se sono tutte vicine, guarda il preavviso. Se stanno sempre ai lati di un soggiorno, guarda il tempo di preparazione. Se cadono sempre negli stessi giorni della settimana, guarda le restrizioni sull'arrivo. La tabella mette in fila i sintomi ricorrenti e la prova che li distingue.",
+        "Una prova vale qualcosa solo se resta sola. Cambiare due voci nello stesso giorno rende impossibile capire quale delle due abbia funzionato, e il mese dopo non dirà niente. Conviene anche scrivere la data del cambio da qualche parte: senza quel riferimento, un calendario che si muove diventa una coincidenza e non una risposta."
+      ],
+      "table": {
+        "headers": [
+          "Il sintomo che vedi",
+          "L'impostazione da sospettare",
+          "Che cosa guardare",
+          "La prova da fare"
+        ],
+        "rows": [
+          [
+            "Nessuna richiesta, neanche per periodi liberi",
+            "Durata minima del soggiorno",
+            "Se i blocchi liberi sono più corti del minimo impostato",
+            "Scendere sotto il minimo su quelle date e lasciarle aperte una settimana"
+          ],
+          [
+            "Calendario fermo per mesi, poi pieno all'improvviso",
+            "Finestra di disponibilità",
+            "Fin dove in avanti la casa risulta prenotabile",
+            "Allungare la finestra e guardare da che distanza arrivano le prime richieste"
+          ],
+          [
+            "Le notti a pochi giorni scadono vuote",
+            "Preavviso e orario limite del giorno stesso",
+            "Quanti giorni di margine sono richiesti prima di un arrivo",
+            "Ridurre il margine e tenerlo ridotto per un ciclo intero di settimane"
+          ],
+          [
+            "Una notte chiusa intorno a ogni soggiorno",
+            "Tempo di preparazione",
+            "Quante notti restano bloccate prima e dopo ogni prenotazione",
+            "Azzerarlo e spostare lo stacco sugli orari di arrivo e di partenza"
+          ],
+          [
+            "Richieste solo per un tipo di settimana",
+            "Restrizioni sul giorno di arrivo",
+            "Quali giorni della settimana sono chiusi in ingresso",
+            "Riaprire un giorno per volta, non tutti insieme"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "La revisione a stagione: che cosa cambia e che cosa resta fermo",
+      "paragraphs": [
+        "Queste voci si dividono in due famiglie che hanno bisogni opposti. Alcune seguono la domanda e vanno riviste a ogni cambio di stagione: la durata minima, le date su cui si scende sotto il minimo, la lunghezza della finestra, i giorni chiusi in ingresso. Altre non hanno niente a che fare con la domanda: il tempo di preparazione dipende da quanto serve per pulire e cambiare la biancheria, l'orario limite del giorno stesso dipende da come funziona il check-in, il numero massimo di notti dipende da come si vuole inquadrare il soggiorno.",
+        "Il numero massimo di notti merita una riga a parte, perché lasciarlo vuoto non è una scelta neutra: la piattaforma ne applica uno suo. Trentuno notti, nel caso di Airbnb, cioè una durata che ha già superato il confine dei trenta giorni entro cui un contratto resta una locazione breve. Un soggiorno accettato a quella lunghezza non è più un affitto breve: cambiano l'inquadramento e gli obblighi che ne derivano. È una casella che si compila una volta, per ragioni che non c'entrano niente con la stagione.",
+        "C'è un momento in cui tutte queste caselle vengono riempite insieme, ed è il giorno in cui l'annuncio va online. Si scelgono in fretta, senza uno storico su cui appoggiarsi, mentre l'attenzione è sulle foto e sul testo. Non c'è nessuna ragione per credere che quelle scelte, prese nel giorno in cui se ne sapeva meno, siano ancora giuste due stagioni dopo.",
+        "La distinzione fra le due famiglie serve a un'operazione concreta. Le voci stagionali vanno datate: quando salgono, quando scendono, su quali periodi. Le voci strutturali vanno giustificate una volta e poi lasciate stare, e se cambiano deve esserci un motivo scritto. Il guasto più duraturo è quello incrociato: una voce strutturale spostata per una ragione stagionale, che nessuno rimette a posto perché nessuno ricorda di averla toccata."
+      ]
+    },
+    {
+      "h2": "La prima casella che apriamo quando un annuncio non riceve richieste",
+      "paragraphs": [
+        "Quando un proprietario ci dice che la sua casa non riceve richieste, il prezzo è l'ultima cosa che guardiamo. Partiamo dalle date: prendiamo il calendario dei tre mesi successivi, segniamo i blocchi liberi uno per uno con la loro lunghezza, e per ognuno ci chiediamo se esista un ospite che, con le impostazioni così come sono, potrebbe prenotarlo. Capita spesso che per una parte delle notti libere la risposta sia no, e che nessuno lo sapesse.",
+        "Il secondo passaggio è distinguere i blocchi che abbiamo messo noi da quelli che arrivano da una regola, perché sul calendario si assomigliano tutti e nessuno dei due porta un'etichetta. Calendario aperto e calendario prenotabile non sono la stessa cosa: una notte che nessun filtro lascia raggiungere non si prenota, e non risulta nemmeno rifiutata. Cambiamo poi una voce sola per volta e ne scriviamo la data accanto, perché una prova senza data non si può leggere il mese dopo.",
+        "La terza cosa che facciamo è la meno tecnica: proviamo a cercare la casa come farebbe un ospite, sulle date che ci interessa vendere e con la durata che vogliamo vendere. È un controllo che dura pochi minuti e che smentisce o conferma tutto il resto. Su annunci che sembravano fermi per mancanza di domanda abbiamo trovato più volte una durata minima alzata per un'estate e mai riabbassata, e un tempo di preparazione lasciato acceso su entrambi i lati.",
+        "Non tutte le case senza richieste hanno un problema di impostazioni, e quando finiamo il giro lo diciamo. Se i blocchi liberi sono raggiungibili, la ricerca mostra l'annuncio e le richieste non arrivano comunque, allora in quel periodo la domanda non c'è, e nessuna casella la fabbrica: restano il prezzo, il tipo di ospite a cui si parla, o l'accettare che quel mese renda poco. Rifiutare in silenzio, al contrario, è una perdita che si chiude in un pomeriggio."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Perché il mio annuncio non riceve richieste anche se le date sono libere?",
+      "a": "Perché una data libera non è automaticamente una data prenotabile: le impostazioni di disponibilità possono escludere l'annuncio da una ricerca prima che l'ospite lo veda. Le voci da controllare sono la durata minima del soggiorno, i giorni di preavviso richiesti prima di un arrivo, le notti bloccate intorno a ogni prenotazione e i giorni della settimana chiusi in ingresso. Nessuna di queste esclusioni produce un messaggio o una notifica."
+    },
+    {
+      "q": "Come faccio a sapere se la durata minima sta bloccando le prenotazioni?",
+      "a": "Cercando la tua casa come farebbe un ospite, con le date esatte e il numero di notti che vuoi vendere: se non compare fra i risultati, il filtro la sta escludendo. Il controllo va rifatto per ogni combinazione che ti interessa, perché un annuncio visibile per una settimana intera può essere invisibile per due notti infrasettimanali. Non esiste un'altra strada, perché una richiesta mai partita non lascia traccia da nessuna parte."
+    },
+    {
+      "q": "Che cos'è il tempo di preparazione e quanto costa tenerlo attivo?",
+      "a": "È l'impostazione che blocca una o due notti prima e dopo ogni prenotazione, e costa esattamente quelle notti, moltiplicate per il numero di soggiorni dell'anno. Serve quando fra un'uscita e un'entrata il lavoro non entra materialmente nella giornata. Se invece il turno si chiude in tempo, tenerlo attivo sottrae notti vendibili senza dare niente in cambio, e trasforma i buchi corti in buchi impossibili."
+    },
+    {
+      "q": "Devo impostare un numero massimo di notti o posso lasciarlo vuoto?",
+      "a": "Conviene impostarlo, perché lasciandolo vuoto decide la piattaforma: Airbnb dichiara di applicare in automatico un massimo di trentuno notti. Quella durata ha già superato i trenta giorni entro cui un contratto resta una locazione breve, quindi una prenotazione accettata così cambia inquadramento e adempimenti. Il numero giusto dipende dal tipo di soggiorni che si vuole vendere, non da un valore consigliato."
+    },
+    {
+      "q": "Come si riempie un buco di due notti fra due prenotazioni?",
+      "a": "Abbassando la durata minima solo su quelle date, perché con un minimo più alto del buco nessun ospite può prenotarlo: le piattaforme prevedono la facoltà di scendere sotto il minimo su date scelte. Va fatto appena il buco si forma e non a fine mese, quando resta poco tempo per venderlo. Conviene anche verificare che il tempo di preparazione non abbia già chiuso una delle due notti."
+    },
+    {
+      "q": "Ogni quanto vanno riviste le impostazioni di disponibilità?",
+      "a": "A ogni cambio di stagione per le voci che seguono la domanda, mai per abitudine per quelle che non la seguono. Durata minima, date su cui si scende sotto il minimo, lunghezza della finestra di prenotazione e giorni chiusi in ingresso cambiano con il periodo dell'anno. Tempo di preparazione, orario limite del giorno stesso e numero massimo di notti dipendono da come funziona la casa, non dal mese."
+    }
+  ],
+  "related": [
+    "revenue-management-affitti-brevi",
+    "multicanale-airbnb-booking-overbooking",
+    "ranking-airbnb-come-farsi-trovare"
+  ],
+  "sources": [
+    {
+      "label": "Aggiornare la disponibilità",
+      "ente": "Airbnb — Centro risorse per host",
+      "data": "consultato a settembre 2026",
+      "url": "https://www.airbnb.it/resources/hosting-homes/a/updating-your-availability-708"
+    },
+    {
+      "label": "Personalizzare le impostazioni di prenotazione",
+      "ente": "Airbnb — Centro assistenza",
+      "data": "consultato a settembre 2026",
+      "url": "https://www.airbnb.it/help/article/484"
+    },
+    {
+      "label": "Impostare il soggiorno minimo e massimo per un alloggio",
+      "ente": "Airbnb — Centro assistenza",
+      "data": "consultato a settembre 2026",
+      "url": "https://www.airbnb.it/help/article/880"
+    }
+  ],
+  "disclaimer": false,
+  "note": "REFERTO VERIFICHE (04/09/2026). IMPOSTAZIONI VERIFICATE ALLA FONTE, una per una, con WebFetch in sessione. (1) airbnb.it/resources/hosting-homes/a/updating-your-availability-708, titolo italiano confermato «Aggiornare la disponibilità»: da questa pagina vengono i nomi italiani «Numero minimo di notti», «Numero massimo di notti», «Durata del soggiorno personalizzata», «Preavviso», «Preavviso per il giorno stesso», «Tempo di preparazione», «Finestra di disponibilità», più la voce che consente di impedire check-in e check-out in certi giorni della settimana. Sulla stessa pagina, in versione inglese: preavviso con opzioni stesso giorno, uno, due, tre o sette giorni; tempo di preparazione con opzioni nessuna, una notte prima e dopo, due notti; finestra apribile su tre, sei, nove, dodici o ventiquattro mesi oppure sulle date scelte; restrizione dei giorni di arrivo e partenza fino a sei giorni su sette; durata personalizzata più corta del minimo su date scelte «can help you fill gaps in your calendar». (2) airbnb.it/help/article/484, titolo confermato «Personalizzare le impostazioni di prenotazione»: contiene la frase da cui viene il dato sul massimo predefinito, «Se non imposti un limite, applicheremo automaticamente un massimo di 31 notti», ricontrollata con una seconda richiesta mirata per avere il testo letterale e non una parafrasi. Lo stesso enunciato compare su airbnb.it/help/article/3728. (3) airbnb.it/help/article/880, titolo confermato «Impostare il soggiorno minimo e massimo per un alloggio»: da qui la facoltà di personalizzare il minimo in base al giorno di check-in, con l'esempio ufficiale «minimo due pernottamenti se il check-in è previsto di venerdì e almeno una notte nel caso in cui avvenga negli altri giorni». (4) airbnb.it/help/article/447: le notti bloccate risultano barrate e l'host può sbloccare qualunque data «eccetto quelle con prenotazioni cancellate, sincronizzate con altri calendari o bloccate per motivi legali o normativi» — è la base del passaggio sui blocchi che non si riaprono. (5) airbnb.it/help/article/2923: «La disponibilità dei tuoi alloggi dipende in gran parte dal tempo di preparazione di cui hai bisogno tra una prenotazione e l'altra». Nelle fonti pubblicate ne ho messe tre, le più portanti; 447 e 2923 sono servite da controprova. NON VERIFICABILE, QUINDI NON SCRITTO: le pagine per partner di Booking.com (partner.booking.com e partnerhelp.booking.com) rispondono 403 a ogni tentativo, quindi i nomi delle restrizioni di quel portale (minimum length of stay, no arrivals, advance reservation) NON sono citati: il pezzo resta scritto per funzione e dice esplicitamente che «i nomi cambiano da portale a portale». Scartate anche due cose lette solo su fonti secondarie: che l'ospite possa richiedere date oltre la finestra di disponibilità impostata (solo su un blog di software), e una funzione di minimo ridotto automatico per le notti libere entro due settimane dal check-in (comparsa in un riassunto di ricerca ma non su una pagina che abbia aperto). La facoltà equivalente e verificata — durata personalizzata più corta del minimo su date scelte — copre lo stesso bisogno ed è quella che ho usato. PERCORSI NELL'INTERFACCIA: mai descritti. Nessun «vai in», nessun nome di schermata, nessuna sequenza di menu. Ogni voce è introdotta dalla funzione (quanti giorni di margine prima di un arrivo, fin dove in avanti la casa è prenotabile, quante notti si bloccano intorno a un soggiorno) e solo dopo, dove serve, dal nome. Ho scelto nomi che sono espressioni italiane comuni e non marchi di funzione, così la pagina non invecchia se cambia una etichetta. Airbnb è nominata solo tre volte, e sempre come soggetto di un dato attribuito (il massimo predefinito di trentuno notti), non come percorso da seguire. SEPARAZIONE DA REVENUE-MANAGEMENT: letto integralmente prima di scrivere, insieme a multicanale-airbnb-booking-overbooking, ranking-airbnb-come-farsi-trovare e politica-cancellazione-airbnb. Quel pezzo tiene la DECISIONE (quanto alzare il minimo, quando riabbassarlo, il costo-opportunità di accettare il soggiorno che crea il buco, il ricavo per notte disponibile, la curva del tempo che manca alla data) e io non la rifaccio: la sezione 2 chiude con una frase che gliela attribuisce esplicitamente, e la sezione 4 distingue le due domande in modo dichiarato — se accettare il soggiorno che crea il buco è economia, se il buco creato sia raggiungibile è impostazione. Non lo contraddico: dove tocca lo stesso terreno («durata minima alta lasciata accesa quando la stagione forte è finita», «una data chiusa non risponde e basta») io sviluppo, con parole diverse, quello che lì stava in tre righe dentro un altro discorso. Evitati i suoi lessici: «notti bruciate», «ricavo per notte disponibile», «rifiuto mancato», «regole da scrivere prima della stagione» non compaiono; il suo header di tabella (Quanto manca alla data | Che cosa conviene fare | Che cosa si rischia) non è riusato. Da multicanale ho evitato la sincronizzazione fra portali, l'overbooking e il tempo di preparazione come difesa anti-doppia-prenotazione: qui il tempo di preparazione è un fabbricatore di notti invendibili, e il calendario è quello di un canale solo. Da ranking ho evitato la visibilità: un solo rimando di mezza riga nella sezione 1, non sviluppato. Le policy di cancellazione restano fuori. VERIFICATO CON GREP sull'intera cartella dei 277 articoli: «finestra di disponibilità», «blocchi orfani», «notti orfane», «trentuno notti» non compaiono in nessun altro file. NUMERI: nessun importo, nessuna percentuale, nessuna misura tecnica. Tutti i numerali sono in parole e sono o conteggi di notti e giorni («due notti», «tre notti», «sei giorni della settimana», «tre mesi») o soglie: trentuno notti è il massimo predefinito dichiarato dalla piattaforma, trenta giorni è il confine della locazione breve. NORMATIVA TOCCATA, un punto solo: il regime della locazione breve riguarda i contratti fino a trenta giorni, quindi un soggiorno di trentuno notti ne esce e cambia inquadramento. Detto in questi termini e senza andare oltre: non ho scritto quale regime si applichi al posto di quello, né aliquote, né adempimenti specifici, perché non è il tema del pezzo. Non toccati cedolare secca, CIN, imposta di soggiorno, Alloggiati Web, soglia dei due appartamenti. FORMULE VIETATE: controllate a testo e assenti «lascia sul tavolo», «Ecco i profili», «senza promesse gonfiate», «L'esperienza B&P», «La regola d'oro», «Gli errori da evitare», «Gli errori più comuni», «Cosa non può mancare», «Stanza per stanza», «Le leve che» (una prima stesura della sezione 7 aveva «le leve che restano»: riscritta in «restano il prezzo, il tipo di ospite»), «Sono due prodotti diversi», «Il resto è coerenza», «Quello che segue serve a orientarsi». Nessuna delle chiusure vietate come h2 finale; l'ultima sezione non apre con «L'errore che vediamo». Header di tabella nuovi. PULLQUOTE: il generatore prima cerca in tutte le sezioni le frasi con «l'errore che/più», «abbiamo visto/imparato», «nostra esperienza», «Superhost»; ho tenuto quelle espressioni fuori da tutto l'articolo (una frase della sezione 6 diceva «l'errore che dura più a lungo» e l'ho cambiata in «il guasto più duraturo») perché la citazione deve uscire dall'ultima sezione. Candidata costruita per passare il filtro: «Calendario aperto e calendario prenotabile non sono la stessa cosa: una notte che nessun filtro lascia raggiungere non si prenota, e non risulta nemmeno rifiutata» — secondo paragrafo dell'ultima sezione, non prima frase, inizia con un sostantivo, nessun connettivo, nessun pronome di rimando, nessuna autopresentazione, e il paragrafo resta di cinquantacinque parole dopo l'estrazione. PRIMA PERSONA PLURALE: solo nella sezione 7, controllata con espressione regolare su tutto il resto del file (nelle altre sezioni ci sono solo forme impersonali con «si» e imperativi alla seconda persona, come nel resto del blog). CTA: assente, nessun recapito, nessun invito a scriverci. CHE COSA NON RISOLVE, detto nel testo: sezione 7, ultimo paragrafo — se i blocchi liberi sono raggiungibili, l'annuncio compare e le richieste non arrivano comunque, la domanda in quel periodo non c'è e nessuna impostazione la fabbrica. FAI-DA-TE: il controllo centrale del pezzo (cercarsi come farebbe un ospite, sulle date che si vogliono vendere) è gratuito, dura pochi minuti e lo fa il proprietario da solo; l'articolo lo dice due volte e non suggerisce che serva qualcuno. MISURE, ricontate sul file scritto: title 52 caratteri, metaDescription 158, excerpt 280, opening 56 parole, 7 sezioni da 2-4 paragrafi tutti fra 45 e 110 parole (minimo 49, massimo 102), una lista di 7 voci nella sezione 3, una tabella 4 colonne per 5 righe rettangolare nella sezione 5, 6 FAQ con chiavi q/a e prima frase che risponde. Testo pubblicato 3.003 parole con 134 caratteri accentati, cioè 4,46 ogni 100 parole: nessun accento mangiato e nessun apostrofo al posto di un accento. Zero cifre, zero importi, zero percentuali nel testo pubblicato. Estrazione della citazione simulata eseguendo il codice del generatore sul file finito: restituisce la frase prevista dalla sezione 7 e il paragrafo di origine resta di 55 parole."
+}

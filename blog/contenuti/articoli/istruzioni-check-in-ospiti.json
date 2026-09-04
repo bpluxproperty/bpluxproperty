@@ -71,12 +71,32 @@
         "Il movimento è lo stesso in tutte e quattro. La riga di partenza descrive, la riga riscritta comanda. La prima dà per condivisa una conoscenza che ha solo chi possiede la casa, la seconda mette al suo posto un segno visibile. La prima si chiude con una scappatoia, la seconda con una verifica: qualcosa che l'ospite può guardare per sapere se è nel punto giusto. Chi riscrive le proprie righe con questo criterio ottiene un testo che nessun altro può copiare, perché aderisce a una casa sola."
       ],
       "table": {
-        "headers": ["Riga come si trova scritta", "Perché si blocca", "La stessa riga riscritta"],
+        "headers": [
+          "Riga come si trova scritta",
+          "Perché si blocca",
+          "La stessa riga riscritta"
+        ],
         "rows": [
-          ["Arrivato in via, individua il civico ed entra dal portone.", "Il civico di notte non si legge, ed «entra» non dice se si spinge, si tira o si suona.", "Cerca il portone verde alla sinistra del bar con le tende rosse. Spingilo con la spalla: è pesante e cede lentamente."],
-          ["Il parcheggio si trova nelle vicinanze dell'appartamento.", "«Vicinanze» cambia significato con una valigia e con la pioggia, e non indica una direzione.", "Lascia l'auto nella piazza dietro la chiesa. Torna indietro a piedi lungo il lato con i portici: il portone è subito dopo l'edicola."],
-          ["Sali al piano che trovi indicato nella prenotazione.", "Obbliga a cercare un'altra informazione in un'altra schermata, con le mani occupate.", "Sali le scale a destra dell'ingresso fino all'ultimo pianerottolo. La porta di casa è quella con lo zerbino grigio."],
-          ["Per qualsiasi problema il recapito è in fondo al messaggio.", "Rimanda a un altro punto del testo, non dice che cosa provare prima né quanto si attende.", "Se la porta non cede al primo tentativo, tirala verso di te e gira di nuovo la chiave. Se resta chiusa, manda un messaggio con la foto della porta davanti a cui sei."]
+          [
+            "Arrivato in via, individua il civico ed entra dal portone.",
+            "Il civico di notte non si legge, ed «entra» non dice se si spinge, si tira o si suona.",
+            "Cerca il portone verde alla sinistra del bar con le tende rosse. Spingilo con la spalla: è pesante e cede lentamente."
+          ],
+          [
+            "Il parcheggio si trova nelle vicinanze dell'appartamento.",
+            "«Vicinanze» cambia significato con una valigia e con la pioggia, e non indica una direzione.",
+            "Lascia l'auto nella piazza dietro la chiesa. Torna indietro a piedi lungo il lato con i portici: il portone è subito dopo l'edicola."
+          ],
+          [
+            "Sali al piano che trovi indicato nella prenotazione.",
+            "Obbliga a cercare un'altra informazione in un'altra schermata, con le mani occupate.",
+            "Sali le scale a destra dell'ingresso fino all'ultimo pianerottolo. La porta di casa è quella con lo zerbino grigio."
+          ],
+          [
+            "Per qualsiasi problema il recapito è in fondo al messaggio.",
+            "Rimanda a un altro punto del testo, non dice che cosa provare prima né quanto si attende.",
+            "Se la porta non cede al primo tentativo, tirala verso di te e gira di nuovo la chiave. Se resta chiusa, manda un messaggio con la foto della porta davanti a cui sei."
+          ]
         ]
       }
     },
@@ -116,7 +136,12 @@
       "a": "Nella lingua in cui l'ospite ha prenotato, con frasi corte e verbi concreti. Una traduzione letterale perde proprio le parole che dicono il gesto, come spingi, tira e abbassa, e le sostituisce con verbi generici che non si eseguono. Vale la pena far leggere la versione tradotta a chi parla quella lingua e correggere i verbi."
     }
   ],
-  "related": ["self-check-in-affitti-brevi", "guida-di-benvenuto-ospiti", "check-in-check-out-affitti-brevi"],
+  "related": [
+    "self-check-in-affitti-brevi",
+    "guida-di-benvenuto-ospiti",
+    "check-in-check-out-affitti-brevi",
+    "ospiti-stranieri-affitti-brevi"
+  ],
   "sources": [
     {
       "label": "Contenuti e linguaggio: risorse per scrivere in modo chiaro e accessibile nei servizi digitali",
