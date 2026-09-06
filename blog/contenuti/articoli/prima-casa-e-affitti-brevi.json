@@ -137,7 +137,8 @@
     "imu-tari-affitti-brevi",
     "destinazione-uso-catasto-affitti-brevi",
     "locazione-breve-vs-locazione-turistica",
-    "affitti-brevi-e-mutuo"
+    "affitti-brevi-e-mutuo",
+    "casa-in-comodato-affitti-brevi"
   ],
   "sources": [
     {

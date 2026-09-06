@@ -53,13 +53,43 @@
         "Nelle foto la differenza si legge male, ed è lì che nascono le contestazioni. Un vetro e una tenda chiara si somigliano, una vasca inquadrata di taglio sembra una doccia, un gradino non si vede mai. Conviene che la descrizione dica a parole quello che l'immagine non chiarisce, con le stesse parole che userebbe l'ospite: si entra nella vasca, la separazione è una tenda, l'ingresso è a filo pavimento."
       ],
       "table": {
-        "headers": ["Soluzione", "Chi la preferisce", "Cosa comporta nel turnover", "Cosa dichiarare nell'annuncio"],
+        "headers": [
+          "Soluzione",
+          "Chi la preferisce",
+          "Cosa comporta nel turnover",
+          "Cosa dichiarare nell'annuncio"
+        ],
         "rows": [
-          ["Doccia con box rigido", "Coppie e viaggiatori di lavoro, chi si ferma poche notti", "Vetri rapidi da asciugare, ma calcare e guarnizioni si vedono subito e vanno controllati a ogni cambio", "Che è una doccia e non una vasca, e se l'ingresso ha un gradino da scavalcare"],
-          ["Doccia con tenda", "Chi guarda soprattutto il prezzo; poco adatta quando il posizionamento è alto", "La tenda è un tessuto: segue il ciclo della biancheria e il bordo inferiore va sorvegliato perché la muffa torna", "Che la separazione è una tenda, perché nelle foto si distingue male dal vetro"],
-          ["Vasca con doccia sopra", "Famiglie con bambini piccoli e soggiorni lunghi", "Superficie ampia da sgrassare e bordo da asciugare; l'ospite lascia più acqua fuori", "Che per la doccia si entra nella vasca, e se c'è un appoggio o un maniglione"],
-          ["Vasca senza doccia", "Nicchia ristretta: piace a chi cerca relax, esclude chi ha poco tempo", "Riempimento e asciugatura lenti, e più occasioni di alone sul fondo", "Che manca il getto in piedi: è l'assenza che genera più contestazioni all'arrivo"],
-          ["Doccia a filo pavimento", "Ospiti anziani, chi viaggia con bagagli ingombranti, chi ha difficoltà motorie", "Nessun bordo da pulire, ma lo scarico a pavimento raccoglie capelli e va aperto a ogni cambio", "Che l'ingresso è senza gradino, senza però promettere un bagno accessibile se non lo è"]
+          [
+            "Doccia con box rigido",
+            "Coppie e viaggiatori di lavoro, chi si ferma poche notti",
+            "Vetri rapidi da asciugare, ma calcare e guarnizioni si vedono subito e vanno controllati a ogni cambio",
+            "Che è una doccia e non una vasca, e se l'ingresso ha un gradino da scavalcare"
+          ],
+          [
+            "Doccia con tenda",
+            "Chi guarda soprattutto il prezzo; poco adatta quando il posizionamento è alto",
+            "La tenda è un tessuto: segue il ciclo della biancheria e il bordo inferiore va sorvegliato perché la muffa torna",
+            "Che la separazione è una tenda, perché nelle foto si distingue male dal vetro"
+          ],
+          [
+            "Vasca con doccia sopra",
+            "Famiglie con bambini piccoli e soggiorni lunghi",
+            "Superficie ampia da sgrassare e bordo da asciugare; l'ospite lascia più acqua fuori",
+            "Che per la doccia si entra nella vasca, e se c'è un appoggio o un maniglione"
+          ],
+          [
+            "Vasca senza doccia",
+            "Nicchia ristretta: piace a chi cerca relax, esclude chi ha poco tempo",
+            "Riempimento e asciugatura lenti, e più occasioni di alone sul fondo",
+            "Che manca il getto in piedi: è l'assenza che genera più contestazioni all'arrivo"
+          ],
+          [
+            "Doccia a filo pavimento",
+            "Ospiti anziani, chi viaggia con bagagli ingombranti, chi ha difficoltà motorie",
+            "Nessun bordo da pulire, ma lo scarico a pavimento raccoglie capelli e va aperto a ogni cambio",
+            "Che l'ingresso è senza gradino, senza però promettere un bagno accessibile se non lo è"
+          ]
         ]
       }
     },
@@ -119,7 +149,8 @@
   "related": [
     "dotazioni-must-have-affitti-brevi",
     "pulizie-e-biancheria-affitti-brevi",
-    "recensioni-5-stelle-affitti-brevi"
+    "recensioni-5-stelle-affitti-brevi",
+    "ospiti-con-disabilita-accessibilita"
   ],
   "sources": [
     {

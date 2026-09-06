@@ -36,7 +36,12 @@
         "Le tre configurazioni che si incontrano più spesso in una casa di famiglia si comportano in modo diverso su ciascuno dei tre piani. Il confronto serve a capire che la domanda «di chi è il reddito» non ha la stessa risposta della domanda «chi tiene i soldi»."
       ],
       "table": {
-        "headers": ["Situazione", "Chi decide sulla locazione", "Chi incassa i corrispettivi", "Chi dichiara il reddito"],
+        "headers": [
+          "Situazione",
+          "Chi decide sulla locazione",
+          "Chi incassa i corrispettivi",
+          "Chi dichiara il reddito"
+        ],
         "rows": [
           [
             "Casa ereditata da più fratelli, quote pro indiviso",
@@ -128,7 +133,12 @@
       "a": "Risponde verso il Comune chi incassa il corrispettivo della locazione breve, con diritto di rivalsa sull'ospite: se l'ospite non versa la sua quota, il tributo resta comunque dovuto e chi ha incassato ne risponde, insieme agli obblighi di dichiarazione. Chi incassa, quindi, va deciso consapevolmente e messo per iscritto nell'accordo fra comproprietari. Importi, esenzioni, scadenze e modalità di versamento li fissa il regolamento del singolo Comune, che va consultato prima di iniziare."
     }
   ],
-  "related": ["contratto-locazione-breve", "tasse-affitti-brevi-quanto-si-paga", "cin-affitti-brevi-come-ottenerlo"],
+  "related": [
+    "contratto-locazione-breve",
+    "tasse-affitti-brevi-quanto-si-paga",
+    "cin-affitti-brevi-come-ottenerlo",
+    "casa-in-comodato-affitti-brevi"
+  ],
   "sources": [
     {
       "label": "Locazioni brevi: la disciplina fiscale e le regole per gli intermediari",

@@ -69,13 +69,43 @@
       ],
       "list": [],
       "table": {
-        "headers": ["Scelta di lancio", "Che cosa rende subito", "Che cosa costruisce", "Quando va abbandonata"],
+        "headers": [
+          "Scelta di lancio",
+          "Che cosa rende subito",
+          "Che cosa costruisce",
+          "Quando va abbandonata"
+        ],
         "rows": [
-          ["Promozione dedicata agli annunci nuovi", "Meno di quanto renderebbe quella notte a prezzo pieno", "Le prime recensioni, con un incentivo dichiarato per chi prenota una casa senza giudizi", "Si chiude da sola: alle prime tre prenotazioni, o alla scadenza prevista dalla piattaforma"],
-          ["Prezzo base sotto il riferimento", "Un incasso più basso su ogni notte, non solo sulle prime", "Richieste, messaggi e salvataggi, che la piattaforma dichiara di contare", "Alla seconda recensione pubblicata: nessuna funzione lo rialza al posto tuo"],
-          ["Cancellazione più permissiva del solito", "Niente, e qualche data da rivendere all'ultimo", "Prenotazioni da chi non rischierebbe su un annuncio senza storia", "Quando arrivano richieste anche per date già occupate"],
-          ["Durata minima ridotta al minimo", "Soggiorni corti, più lavoro per notte venduta", "Più recensioni a parità di notti occupate", "Quando i buchi fra due soggiorni costano più del ricambio"],
-          ["Calendario aperto solo sulle settimane vicine", "Un calendario che a chi guarda sembra vuoto", "Controllo sulle prime esperienze, finché la casa è da collaudare", "Quando due cambi consecutivi sono andati senza intoppi"]
+          [
+            "Promozione dedicata agli annunci nuovi",
+            "Meno di quanto renderebbe quella notte a prezzo pieno",
+            "Le prime recensioni, con un incentivo dichiarato per chi prenota una casa senza giudizi",
+            "Si chiude da sola: alle prime tre prenotazioni, o alla scadenza prevista dalla piattaforma"
+          ],
+          [
+            "Prezzo base sotto il riferimento",
+            "Un incasso più basso su ogni notte, non solo sulle prime",
+            "Richieste, messaggi e salvataggi, che la piattaforma dichiara di contare",
+            "Alla seconda recensione pubblicata: nessuna funzione lo rialza al posto tuo"
+          ],
+          [
+            "Cancellazione più permissiva del solito",
+            "Niente, e qualche data da rivendere all'ultimo",
+            "Prenotazioni da chi non rischierebbe su un annuncio senza storia",
+            "Quando arrivano richieste anche per date già occupate"
+          ],
+          [
+            "Durata minima ridotta al minimo",
+            "Soggiorni corti, più lavoro per notte venduta",
+            "Più recensioni a parità di notti occupate",
+            "Quando i buchi fra due soggiorni costano più del ricambio"
+          ],
+          [
+            "Calendario aperto solo sulle settimane vicine",
+            "Un calendario che a chi guarda sembra vuoto",
+            "Controllo sulle prime esperienze, finché la casa è da collaudare",
+            "Quando due cambi consecutivi sono andati senza intoppi"
+          ]
         ]
       }
     },
@@ -127,7 +157,12 @@
       "a": "Meglio aprire prima le settimane vicine e allargare quando il primo ricambio è andato liscio. Un anno intero disponibile su una casa mai provata significa vendere date che non si sa ancora servire, e rischia di far arrivare la prima recensione fra molti mesi, cioè quando non serve più. Restano fuori da questa logica le date che si vogliono tenere per sé: quelle si chiudono per scelta, e la scelta va scritta insieme al prezzo."
     }
   ],
-  "related": ["prezzi-dinamici-affitti-brevi", "revenue-management-affitti-brevi", "recensioni-5-stelle-affitti-brevi"],
+  "related": [
+    "prezzi-dinamici-affitti-brevi",
+    "revenue-management-affitti-brevi",
+    "recensioni-5-stelle-affitti-brevi",
+    "costo-di-pulizia-come-impostarlo"
+  ],
   "sources": [
     {
       "label": "Come funzionano i risultati di ricerca: fattori del posizionamento (qualità, popolarità, prezzo, posizione) e ricerche di annunci attivati di recente, «l'algoritmo garantisce che i nuovi annunci ottengano un buon posizionamento nei risultati di ricerca»",

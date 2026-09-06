@@ -27,13 +27,43 @@
         "Un dettaglio cambia il tono di quasi tutte le notti della fascia intermedia: la richiesta si spegne con una risposta che riconosce il problema e fissa il momento in cui si risolve. Nessuno pretende un tecnico alle tre di notte; chi scrive vuole sapere che qualcuno ha letto e che il disagio non durerà per tutto il soggiorno. Quando quella risposta manca, un fastidio piccolo diventa una lamentela grande, e la lamentela finisce dritta nella recensione."
       ],
       "table": {
-        "headers": ["Che cosa arriva", "Urgenza vera o percepita", "Che cosa la risolve", "Quando va data una risposta"],
+        "headers": [
+          "Che cosa arriva",
+          "Urgenza vera o percepita",
+          "Che cosa la risolve",
+          "Quando va data una risposta"
+        ],
         "rows": [
-          ["Non riesco a entrare in casa", "Vera: la persona è in strada con i bagagli", "Un secondo modo di accedere, custodito da qualcuno vicino alla casa", "Subito, anche solo per dire che è già in corso qualcosa"],
-          ["Non c'è acqua calda", "Percepita di notte, reale al mattino", "Una spiegazione scritta di come funziona l'impianto e un tecnico abilitato quando non basta", "Subito una risposta, la soluzione con la luce"],
-          ["È andata via la corrente", "Dipende se riguarda solo la casa o tutta la via", "Capire l'estensione del blackout, poi un elettricista abilitato se il problema è interno", "Subito, perché al buio l'ospite non sa che cosa fare"],
-          ["Il vicino protesta per il rumore", "Vera per il condominio, non per chi soggiorna", "Regole della casa scritte e un messaggio diretto agli ospiti", "Subito, prima che diventi una segnalazione formale"],
-          ["Odore di gas, fumo, allagamento, qualcuno sta male", "Vera e non negoziabile", "Mettersi in sicurezza e chiamare il numero unico di emergenza", "Immediata, e senza passare da chi affitta"]
+          [
+            "Non riesco a entrare in casa",
+            "Vera: la persona è in strada con i bagagli",
+            "Un secondo modo di accedere, custodito da qualcuno vicino alla casa",
+            "Subito, anche solo per dire che è già in corso qualcosa"
+          ],
+          [
+            "Non c'è acqua calda",
+            "Percepita di notte, reale al mattino",
+            "Una spiegazione scritta di come funziona l'impianto e un tecnico abilitato quando non basta",
+            "Subito una risposta, la soluzione con la luce"
+          ],
+          [
+            "È andata via la corrente",
+            "Dipende se riguarda solo la casa o tutta la via",
+            "Capire l'estensione del blackout, poi un elettricista abilitato se il problema è interno",
+            "Subito, perché al buio l'ospite non sa che cosa fare"
+          ],
+          [
+            "Il vicino protesta per il rumore",
+            "Vera per il condominio, non per chi soggiorna",
+            "Regole della casa scritte e un messaggio diretto agli ospiti",
+            "Subito, prima che diventi una segnalazione formale"
+          ],
+          [
+            "Odore di gas, fumo, allagamento, qualcuno sta male",
+            "Vera e non negoziabile",
+            "Mettersi in sicurezza e chiamare il numero unico di emergenza",
+            "Immediata, e senza passare da chi affitta"
+          ]
         ]
       }
     },
@@ -117,7 +147,12 @@
       "a": "Si può, ma serve comunque qualcuno sul posto, perché la distanza non si compensa con la disponibilità. Ai messaggi puoi rispondere da qualunque città, mentre il secondo accesso, il sopralluogo e l'apertura al tecnico richiedono una persona che arrivi in tempi brevi. Chi affitta lontano da casa propria e non ha nessun riferimento vicino all'immobile sta contando su una fortuna che prima o poi finisce."
     }
   ],
-  "related": ["manutenzione-affitti-brevi", "self-check-in-affitti-brevi", "check-in-check-out-affitti-brevi"],
+  "related": [
+    "manutenzione-affitti-brevi",
+    "self-check-in-affitti-brevi",
+    "check-in-check-out-affitti-brevi",
+    "caldaia-manutenzione-affitti-brevi"
+  ],
   "sources": [
     {
       "label": "Numero unico di emergenza europeo 112: come funziona e quando si chiama",
