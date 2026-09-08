@@ -8,7 +8,7 @@
   "excerpt": "Con tre o più appartamenti destinati agli affitti brevi scatta la presunzione di attività d'impresa e l'obbligo di partita IVA. Cosa significa in pratica e come non trasformarsi in impresa senza volerlo.",
   "opening": "Dal 1° gennaio 2026, chi destina più di due appartamenti agli affitti brevi rientra nella presunzione di esercizio in forma imprenditoriale di attività d'impresa, con obbligo di partita IVA. Sotto quella soglia si resta nell'affitto breve \"tra privati\" con cedolare secca. È il vero spartiacque fiscale del settore, e va conosciuto prima di comprare il terzo immobile.",
   "publishedAt": "2026-08-11",
-  "updatedAt": "2026-08-11",
+  "updatedAt": "2026-09-08",
   "heroKicker": "NORMATIVA & FISCO",
   "sections": [
     {
@@ -21,12 +21,12 @@
     {
       "h2": "Cosa cambia in pratica con la partita IVA",
       "paragraphs": [
-        "Aprire la partita IVA non è solo un adempimento formale. Significa scegliere un regime fiscale (forfettario oppure ordinario), iscriversi alla gestione previdenziale, tenere una contabilità e, di norma, affidarsi a un commercialista.",
-        "Cambia anche la tassazione: si esce dalla cedolare secca e si entra nel reddito d'impresa, con contributi INPS e obblighi dichiarativi diversi. Non è necessariamente uno svantaggio, ma è una scelta da fare con un professionista, numeri alla mano."
+        "Aprire la partita IVA non è solo un adempimento formale. Significa scegliere un regime fiscale (forfettario oppure ordinario), verificare i presupposti dell'iscrizione alla gestione previdenziale, tenere una contabilità e, di norma, affidarsi a un commercialista.",
+        "Cambia anche la tassazione: si esce dalla cedolare secca e si entra nel reddito d'impresa, con obblighi dichiarativi diversi e un inquadramento previdenziale da verificare. Non è necessariamente uno svantaggio, ma è una scelta da fare con un professionista, numeri alla mano."
       ],
       "list": [
         "Apertura partita IVA e scelta del regime (forfettario/ordinario)",
-        "Iscrizione alla gestione previdenziale INPS",
+        "Verifica dei presupposti per l'iscrizione alla gestione previdenziale",
         "Contabilità e dichiarazioni dedicate",
         "Adempimenti degli affitti brevi comunque dovuti: CIN, comunicazione ospiti, imposta di soggiorno"
       ]
@@ -50,13 +50,13 @@
           ],
           [
             "Tassazione",
-            "21% (1° immobile), 26% (dal 2°)",
+            "26%, ridotta al 21% per una sola unità a scelta",
             "Reddito d'impresa (forfettario o ordinario)"
           ],
           [
             "Contributi INPS",
-            "No",
-            "Sì"
+            "Fuori dall'attività d'impresa",
+            "Da verificare sui presupposti di legge"
           ],
           [
             "Contabilità",
@@ -123,7 +123,8 @@
     "property-manager-affitti-brevi",
     "gestione-affitti-brevi-fai-da-te-o-agenzia",
     "affitti-brevi-bologna-guida",
-    "regime-forfettario-affitti-brevi"
+    "regime-forfettario-affitti-brevi",
+    "affitti-brevi-inps-contributi"
   ],
   "sources": [
     {

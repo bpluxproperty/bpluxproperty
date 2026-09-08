@@ -69,13 +69,43 @@
         "Una cosa attraversa tutte le righe della tabella: nessuna di queste tappe si giudica mentre è in corso. Il silenzio si valuta sulle visite e non sulla sensazione, il primo turnover si valuta sul secondo soggiorno e non sul primo, la bassa stagione si valuta dal tipo di richieste e non dal calendario. La fretta di concludere è il vero costo del primo anno, più della tariffa sbagliata."
       ],
       "table": {
-        "headers": ["Tappa", "Come si riconosce", "L'istinto sbagliato", "La mossa migliore"],
+        "headers": [
+          "Tappa",
+          "Come si riconosce",
+          "L'istinto sbagliato",
+          "La mossa migliore"
+        ],
         "rows": [
-          ["Il silenzio dopo la pubblicazione", "L'annuncio è online e non arriva nessuna richiesta", "Abbassare subito la tariffa", "Guardare quante visite riceve l'annuncio e come si muove la stagione della zona"],
-          ["La prima richiesta", "Un messaggio con molte domande e date ancora incerte", "Accettare qualsiasi deroga per non perderla", "Rispondere in fretta e tenere le regole così come sono scritte nell'annuncio"],
-          ["Il primo turnover", "Due soggiorni attaccati, con poche ore in mezzo", "Comprimere le pulizie per far quadrare gli orari", "Allargare la finestra fra i soggiorni e mettere per iscritto la sequenza del cambio"],
-          ["La prima recensione tiepida", "Voto buono con una frase concreta dentro", "Smettere, oppure rispondere per difendersi", "Trattare quella frase come un'istruzione e correggere quel singolo dettaglio"],
-          ["La prima bassa stagione", "Il calendario si svuota senza che nulla sia cambiato", "Svendere per riempire a ogni costo", "Verificare se arrivano richieste di altro tipo e adattare durata minima e annuncio"]
+          [
+            "Il silenzio dopo la pubblicazione",
+            "L'annuncio è online e non arriva nessuna richiesta",
+            "Abbassare subito la tariffa",
+            "Guardare quante visite riceve l'annuncio e come si muove la stagione della zona"
+          ],
+          [
+            "La prima richiesta",
+            "Un messaggio con molte domande e date ancora incerte",
+            "Accettare qualsiasi deroga per non perderla",
+            "Rispondere in fretta e tenere le regole così come sono scritte nell'annuncio"
+          ],
+          [
+            "Il primo turnover",
+            "Due soggiorni attaccati, con poche ore in mezzo",
+            "Comprimere le pulizie per far quadrare gli orari",
+            "Allargare la finestra fra i soggiorni e mettere per iscritto la sequenza del cambio"
+          ],
+          [
+            "La prima recensione tiepida",
+            "Voto buono con una frase concreta dentro",
+            "Smettere, oppure rispondere per difendersi",
+            "Trattare quella frase come un'istruzione e correggere quel singolo dettaglio"
+          ],
+          [
+            "La prima bassa stagione",
+            "Il calendario si svuota senza che nulla sia cambiato",
+            "Svendere per riempire a ogni costo",
+            "Verificare se arrivano richieste di altro tipo e adattare durata minima e annuncio"
+          ]
         ]
       }
     },
@@ -118,7 +148,9 @@
   "related": [
     "come-iniziare-affitti-brevi-guida",
     "checklist-primo-ospite-affitti-brevi",
-    "recensioni-5-stelle-affitti-brevi"
+    "recensioni-5-stelle-affitti-brevi",
+    "cambiare-property-manager",
+    "sopralluogo-prima-di-affittare"
   ],
   "sources": [
     {

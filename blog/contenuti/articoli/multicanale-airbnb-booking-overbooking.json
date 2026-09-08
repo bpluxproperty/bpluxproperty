@@ -154,7 +154,8 @@
     "channel-manager-affitti-brevi",
     "airbnb-o-booking",
     "pubblicare-casa-su-booking",
-    "calendario-e-disponibilita-errori"
+    "calendario-e-disponibilita-errori",
+    "overbooking-affitti-brevi"
   ],
   "sources": [
     {
