@@ -3,12 +3,12 @@
   "keyword": "sicurezza casa vacanze affitti brevi",
   "category": "preparare-casa",
   "title": "Sicurezza casa vacanze affitti brevi: le buone pratiche",
-  "metaDescription": "Come rendere sicuro un alloggio per affitti brevi: rilevatori di fumo e monossido, estintore, primo soccorso e accessi affidabili. I consigli di un Superhost.",
+  "metaDescription": "Come rendere sicuro un alloggio per affitti brevi: rilevatori di gas e monossido, estintore, primo soccorso e accessi affidabili. I consigli di un Superhost.",
   "h1": "Come rendere sicuro un alloggio per affitti brevi",
   "excerpt": "Rendere sicuro un affitto breve protegge gli ospiti e tutela te: antincendio, primo soccorso, impianti, vie di uscita e accessi. Le buone pratiche, area per area.",
-  "opening": "Una casa sicura protegge chi ci dorme e protegge anche te. Nell'affitto breve gli ospiti cambiano ogni settimana: nessuno conosce l'appartamento, e in caso di problema devono sapere subito cosa fare. Rilevatori di fumo e di monossido, un estintore, un kit di primo soccorso e istruzioni chiare sono la base. Il resto lo aggiungi dove serve davvero.",
+  "opening": "Una casa sicura protegge chi ci dorme e protegge anche te. Nell'affitto breve gli ospiti cambiano ogni settimana: nessuno conosce l'appartamento, e in caso di problema devono sapere subito cosa fare. I rilevatori di gas e di monossido e un estintore sono obblighi di legge; il primo soccorso e le istruzioni chiare completano la base. Il resto lo aggiungi dove serve davvero.",
   "publishedAt": "2026-08-12",
-  "updatedAt": "2026-08-12",
+  "updatedAt": "2026-09-09",
   "heroKicker": "PREPARARE CASA",
   "sections": [
     {
@@ -31,11 +31,11 @@
         "Il fuoco e il monossido di carbonio sono i rischi che fanno più paura, perché arrivano in silenzio. Per questo la prima linea di difesa sono i rilevatori: quello di fumo avvisa in caso di principio d'incendio, quello di monossido intercetta un gas che non si vede e non si sente.",
         "I rilevatori di monossido contano soprattutto dove c'è una combustione: caldaie, scaldabagni a gas, camini, stufe o piani cottura a gas. In quegli ambienti non sono un accessorio, ma il dispositivo che può fare la differenza. Vanno posizionati bene, con le batterie controllate a ogni cambio ospite.",
         "Accanto ai rilevatori serve un estintore adatto agli ambienti domestici, tenuto in un punto raggiungibile e segnalato. Una coperta antifiamma in cucina è un'aggiunta economica e preziosa: spegne in fretta il principio d'incendio di una pentola, il più frequente tra le mura di casa.",
-        "Nella nostra esperienza da Superhost, il rilevatore di fumo, quello di monossido e istruzioni chiare sono il minimo indispensabile: costano poco, si installano in un pomeriggio e tolgono di mezzo i rischi più grossi. È il primo intervento che facciamo su ogni casa che prendiamo in gestione."
+        "Nella nostra esperienza da Superhost, il rilevatore di gas, quello di monossido e istruzioni chiare sono il minimo indispensabile: costano poco, si installano in un pomeriggio e tolgono di mezzo i rischi più grossi. È il primo intervento che facciamo su ogni casa che prendiamo in gestione."
       ],
       "list": [
-        "Rilevatore di fumo: in casa e vicino alle zone notte.",
-        "Rilevatore di monossido: dove ci sono caldaia, scaldabagno, camino, stufa o gas.",
+        "Rilevatore di gas combustibili: dove arriva il gas e vicino agli apparecchi. Il rilevatore di fumo non è fra gli obblighi di legge, ma vicino alle zone notte resta una buona aggiunta.",
+        "Rilevatore di monossido di carbonio: dove ci sono caldaia, scaldabagno, camino, stufa o gas.",
         "Estintore adatto agli usi domestici, raggiungibile e segnalato.",
         "Coperta antifiamma in cucina, contro il principio d'incendio più comune.",
         "Batterie e scadenze controllate a ogni cambio ospite."
@@ -98,11 +98,11 @@
         "rows": [
           [
             "Cucina",
-            "Rilevatore di monossido se c'è il gas, coperta antifiamma, estintore raggiungibile, chiusura del gas segnalata"
+            "Rilevatori di gas combustibili e di monossido, coperta antifiamma, estintore raggiungibile, chiusura del gas segnalata"
           ],
           [
             "Zona notte",
-            "Rilevatore di fumo vicino, luce di emergenza o torcia, via di uscita sgombra"
+            "Rilevatore di fumo come aggiunta, luce di emergenza o torcia, via di uscita sgombra"
           ],
           [
             "Bagno",
@@ -127,11 +127,11 @@
   "faq": [
     {
       "q": "Quali dispositivi di sicurezza servono in un affitto breve?",
-      "a": "Il minimo sono un rilevatore di fumo, un rilevatore di monossido di carbonio e istruzioni chiare con i numeri utili. A questi si aggiungono un estintore, una coperta antifiamma in cucina, un kit di primo soccorso e una torcia o luce di emergenza. Sono dotazioni economiche che tolgono di mezzo i rischi più grossi."
+      "a": "Il minimo lo fissa la legge: rilevatori di gas combustibili e di monossido di carbonio ed estintori portatili a norma, richiesti in ogni caso per le unità destinate a locazione breve, più istruzioni chiare con i numeri utili. A questi si aggiungono un estintore, una coperta antifiamma in cucina, un kit di primo soccorso e una torcia o luce di emergenza. Sono dotazioni economiche che tolgono di mezzo i rischi più grossi."
     },
     {
-      "q": "I rilevatori di fumo sono obbligatori per legge?",
-      "a": "Gli eventuali obblighi variano in base alla situazione e alle norme locali, quindi conviene verificarli con un tecnico. Al di là dell'obbligo, però, il rilevatore di fumo e quello di monossido restano una buona pratica irrinunciabile: costano poco e proteggono da rischi concreti, per questo li consigliamo sempre."
+      "q": "Quali rilevatori sono obbligatori per legge?",
+      "a": "Quelli di gas combustibili e di monossido di carbonio, insieme agli estintori portatili a norma: l'articolo 13-ter comma 7 del decreto legge 145 del 2023 li richiede «in ogni caso» per tutte le unità immobiliari destinate a locazione breve. Il rilevatore di fumo non compare in quell'elenco: resta una buona aggiunta, non un adempimento. Le norme locali possono chiedere altro, quindi il quadro completo si verifica con un tecnico."
     },
     {
       "q": "Dove va messo il rilevatore di monossido di carbonio?",

@@ -8,7 +8,7 @@
   "excerpt": "I quattro blocchi da verificare prima del primo check-in — casa, accesso, annuncio e burocrazia — più la prova finale che evita le brutte sorprese al debutto. La checklist pratica di chi è Superhost.",
   "opening": "La checklist prima del primo ospite mette in fila tutto ciò che va verificato prima del check-in di debutto: la casa pronta, l'accesso testato, l'annuncio in ordine e la burocrazia a posto. Serve a partire senza sorprese, perché al debutto ogni dettaglio pesa e la prima recensione conta più di tutte. Ecco cosa spuntare, blocco per blocco.",
   "publishedAt": "2026-08-12",
-  "updatedAt": "2026-08-12",
+  "updatedAt": "2026-09-09",
   "heroKicker": "PREPARARE CASA",
   "sections": [
     {
@@ -22,7 +22,7 @@
         "Biancheria e asciugamani pronti, con almeno un set di ricambio già lavato e a portata di mano per il turnover.",
         "Dotazioni complete: cucina, bagno e camera con tutto il necessario per il numero massimo di ospiti dichiarato.",
         "Elettrodomestici funzionanti e provati, con istruzioni chiare dove servono: lavatrice, forno, piano cottura, climatizzatore.",
-        "Sicurezza: rilevatori di fumo e di monossido di carbonio installati e funzionanti, estintore se previsto."
+        "Sicurezza: rilevatori di gas combustibili e di monossido di carbonio installati e funzionanti, estintore portatile a norma."
       ]
     },
     {
@@ -93,7 +93,7 @@
         "rows": [
           [
             "Casa",
-            "Pulizia profonda, biancheria e asciugamani con set di ricambio, dotazioni complete, elettrodomestici provati con istruzioni, rilevatori di fumo e monossido"
+            "Pulizia profonda, biancheria e asciugamani con set di ricambio, dotazioni complete, elettrodomestici provati con istruzioni, rilevatori di gas e di monossido"
           ],
           [
             "Accesso",
@@ -126,7 +126,7 @@
     },
     {
       "q": "Cosa non deve mancare in casa prima del primo check-in?",
-      "a": "Una pulizia profonda, biancheria e asciugamani con almeno un set di ricambio, dotazioni complete, elettrodomestici funzionanti con istruzioni e i rilevatori di fumo e monossido di carbonio. È la base che ogni ospite si aspetta di trovare al debutto, quando non hai ancora recensioni a coprirti."
+      "a": "Una pulizia profonda, biancheria e asciugamani con almeno un set di ricambio, dotazioni complete, elettrodomestici funzionanti con istruzioni e i rilevatori di gas combustibili e di monossido di carbonio. È la base che ogni ospite si aspetta di trovare al debutto, quando non hai ancora recensioni a coprirti."
     },
     {
       "q": "Quali adempimenti servono prima di affittare a breve?",

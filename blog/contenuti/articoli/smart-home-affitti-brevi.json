@@ -8,7 +8,7 @@
   "excerpt": "Quali dispositivi rendono davvero smart un affitto breve, dal self check-in ai sensori di rumore, e cosa dice la legge su telecamere e privacy.",
   "opening": "Rendere smart un affitto breve non significa riempirlo di gadget, ma scegliere pochi dispositivi che tolgono lavoro a te e problemi all'ospite. La serratura smart abilita il self check-in, il Wi-Fi veloce è ormai atteso, il termostato taglia gli sprechi tra un soggiorno e l'altro e i sensori di rumore prevengono le feste. Il resto è di contorno.",
   "publishedAt": "2026-08-12",
-  "updatedAt": "2026-08-12",
+  "updatedAt": "2026-09-09",
   "heroKicker": "PREPARARE CASA",
   "sections": [
     {
@@ -60,12 +60,12 @@
       "paragraphs": [
         "Sul tema telecamere non ci sono zone grigie, e conviene essere netti. Le telecamere sono ammesse solo all'esterno o nelle aree comuni, per esempio all'ingresso o in cortile, e vanno sempre dichiarate nell'annuncio. L'ospite ha il diritto di sapere, prima di prenotare, che esiste una telecamera e dove punta.",
         "Le telecamere all'interno dell'alloggio, invece, sono vietate. Le policy delle piattaforme le proibiscono e la loro presenza è una grave violazione della privacy di chi soggiorna. Niente telecamere in soggiorno, in camera, in bagno o in qualsiasi spazio interno: non è una questione di posizione discreta, è un divieto e basta.",
-        "La sicurezza vera, invece, va sempre garantita. I rilevatori di fumo e di monossido di carbonio proteggono l'ospite da rischi concreti e trasmettono l'immagine di una casa curata. Sono tra gli investimenti più sensati che tu possa fare, e alcuni modelli smart avvisano anche sul telefono quando qualcosa non va."
+        "La sicurezza vera, invece, va sempre garantita. I rilevatori di gas combustibili e di monossido di carbonio non sono una scelta di dotazione: la legge li chiede in ogni caso, insieme agli estintori portatili. Alcuni modelli smart avvisano anche sul telefono quando qualcosa non va."
       ],
       "list": [
         "Telecamere esterne o in aree comuni: ammesse, ma sempre dichiarate nell'annuncio",
         "Telecamere interne all'alloggio: vietate dalle piattaforme e lesive della privacy",
-        "Rilevatori di fumo e di monossido di carbonio: sempre consigliati",
+        "Rilevatori di gas combustibili e di monossido di carbonio: obbligatori per legge",
         "Ogni dispositivo di sicurezza va segnalato con chiarezza all'ospite"
       ]
     },
@@ -103,7 +103,7 @@
             "Sicurezza degli accessi, solo se dichiarate nell'annuncio"
           ],
           [
-            "Rilevatori di fumo e monossido",
+            "Rilevatori di gas e di monossido",
             "Sicurezza dell'ospite e tranquillità per te"
           ]
         ]
@@ -113,7 +113,7 @@
   "faq": [
     {
       "q": "Da quali dispositivi smart conviene iniziare?",
-      "a": "Dalla serratura smart o dalla key box, perché abilitano il self check-in e ripagano subito il costo in tempo risparmiato. Poi un Wi-Fi affidabile e i rilevatori di fumo e monossido. Il termostato smart e i sensori di rumore vengono dopo, ma sono ottimi passi successivi."
+      "a": "Dalla serratura smart o dalla key box, perché abilitano il self check-in e ripagano subito il costo in tempo risparmiato. Poi un Wi-Fi affidabile; i rilevatori di gas e di monossido, invece, sono un obbligo e non un passo successivo. Il termostato smart e i sensori di rumore vengono dopo, ma sono ottimi passi successivi."
     },
     {
       "q": "Posso installare telecamere in un affitto breve?",
@@ -141,7 +141,8 @@
     "arredare-casa-per-affitti-brevi",
     "kit-di-benvenuto-affitti-brevi",
     "telecamere-serrature-smart-affitti-brevi",
-    "piscina-affitti-brevi-obblighi"
+    "piscina-affitti-brevi-obblighi",
+    "ricarica-auto-elettrica-affitti-brevi"
   ],
   "sources": [],
   "disclaimer": false,

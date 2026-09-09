@@ -54,7 +54,12 @@
         "Una soglia merita attenzione a parte. Dal 2026 il regime fiscale delle locazioni brevi è riconosciuto solo se nel periodo d'imposta si destinano a questa finalità non più di due appartamenti, mentre fino al 31 dicembre 2025 il limite era di quattro; oltre quella soglia l'attività, da chiunque esercitata, si presume svolta in forma imprenditoriale. Come si conti un appartamento tenuto in comodato, e soprattutto in capo a chi lo si conti, è una domanda da porre al commercialista prima di aggiungere la seconda casa."
       ],
       "table": {
-        "headers": ["Il titolo sulla casa", "Chi può concedere in locazione", "A chi è imputato il reddito", "Il punto da chiarire prima"],
+        "headers": [
+          "Il titolo sulla casa",
+          "Chi può concedere in locazione",
+          "A chi è imputato il reddito",
+          "Il punto da chiarire prima"
+        ],
         "rows": [
           [
             "Comodato",
@@ -142,7 +147,12 @@
       "a": "Il codice non ne prescrive una forma, ma lo scritto è l'unico modo per provarlo. La norma richiede il consenso del comodante perché il comodatario possa concedere il godimento a un terzo e non dice come debba essere manifestato; nel momento in cui la questione diventa controversa, però, un consenso verbale è una parola contro un'altra. Una pagina firmata e datata, che indichi la destinazione a locazione per brevi periodi e la durata dell'accordo, chiude il punto senza complicazioni."
     }
   ],
-  "related": ["affitti-brevi-in-comproprieta", "destinazione-uso-catasto-affitti-brevi", "prima-casa-e-affitti-brevi"],
+  "related": [
+    "affitti-brevi-in-comproprieta",
+    "destinazione-uso-catasto-affitti-brevi",
+    "prima-casa-e-affitti-brevi",
+    "casa-ereditata-affitti-brevi"
+  ],
   "sources": [
     {
       "label": "Codice civile: comodato (artt. 1803-1804, 1809-1810), usufrutto (artt. 981, 984, 999), uso e abitazione (artt. 1021-1024), rappresentanza (artt. 1387-1392)",

@@ -8,7 +8,7 @@
   "excerpt": "Nessuna ripresa negli spazi interni dell'alloggio: il divieto non si supera con un avviso, con il consenso o con il dispositivo spento. Fuori dall'appartamento il quadro è graduato e cambia a seconda di dove l'apparecchio è puntato, fra condizioni, cartelli e regole dei portali.",
   "opening": "Negli spazi interni dell'alloggio locato non si riprende: non basta avvisare l'ospite, non basta il suo consenso, non basta che il dispositivo sia spento. Fuori dall'appartamento il quadro cambia e diventa graduato: una telecamera che inquadra solo l'ingresso di proprietà può essere ammissibile, ma va dichiarata, segnalata con un cartello e limitata nell'angolo di ripresa.",
   "publishedAt": "2026-08-27",
-  "updatedAt": "2026-08-27",
+  "updatedAt": "2026-09-09",
   "heroKicker": "PRIVACY",
   "sections": [
     {
@@ -27,13 +27,37 @@
         "Su quest'ultimo punto vale una precisazione. Quando la telecamera serve a proteggere parti comuni, il Garante indica che l'installazione passa da una delibera dell'assemblea e che la cartellonistica è un obbligo del condominio. Chi affitta a turisti si trova davanti a due piani distinti, quello della propria unità e quello dell'edificio, e il secondo non si risolve con un acquisto in autonomia: si risolve mettendo la questione all'ordine del giorno."
       ],
       "table": {
-        "headers": ["Dove è puntato il dispositivo", "Ammissibile?", "Condizione che deve esistere"],
+        "headers": [
+          "Dove è puntato il dispositivo",
+          "Ammissibile?",
+          "Condizione che deve esistere"
+        ],
         "rows": [
-          ["Spazi interni dell'alloggio locato", "No", "Nessuna: il divieto non si supera con avviso, consenso o dispositivo spento"],
-          ["Soglia esterna della porta dell'unità", "Solo in senso strettissimo", "Inquadratura ferma sulla propria pertinenza, senza coprire pianerottolo e porte altrui"],
-          ["Ingresso condominiale, scale, pianerottolo", "No per iniziativa del singolo", "Sono spazi su cui altri hanno diritti di passaggio: l'angolo di ripresa va escluso"],
-          ["Area esterna di proprietà esclusiva (cortile, vialetto, posto auto)", "Sì, a condizioni", "Ripresa limitata alla pertinenza, cartello prima della zona, informativa e dichiarazione nell'annuncio"],
-          ["Parti comuni condominiali", "Non decide il proprietario dell'unità", "Delibera dell'assemblea e cartellonistica a carico del condominio"]
+          [
+            "Spazi interni dell'alloggio locato",
+            "No",
+            "Nessuna: il divieto non si supera con avviso, consenso o dispositivo spento"
+          ],
+          [
+            "Soglia esterna della porta dell'unità",
+            "Solo in senso strettissimo",
+            "Inquadratura ferma sulla propria pertinenza, senza coprire pianerottolo e porte altrui"
+          ],
+          [
+            "Ingresso condominiale, scale, pianerottolo",
+            "No per iniziativa del singolo",
+            "Sono spazi su cui altri hanno diritti di passaggio: l'angolo di ripresa va escluso"
+          ],
+          [
+            "Area esterna di proprietà esclusiva (cortile, vialetto, posto auto)",
+            "Sì, a condizioni",
+            "Ripresa limitata alla pertinenza, cartello prima della zona, informativa e dichiarazione nell'annuncio"
+          ],
+          [
+            "Parti comuni condominiali",
+            "Non decide il proprietario dell'unità",
+            "Delibera dell'assemblea e cartellonistica a carico del condominio"
+          ]
         ]
       }
     },
@@ -59,7 +83,7 @@
       "paragraphs": [
         "Un rilevatore che misura il livello sonoro e un microfono che registra l'audio non sono lo stesso apparecchio, anche quando stanno nella stessa scatola. Il primo, nella descrizione dei produttori, restituisce un valore in decibel e il superamento di una soglia; il secondo cattura contenuti, cioè conversazioni. La differenza sul piano dei dati personali è sostanziale, perché nel primo caso ciò che è stato detto non viene conservato da nessuna parte.",
         "Va detto con chiarezza che il provvedimento generale del Garante in materia di videosorveglianza si occupa di immagini e non contiene una disciplina dedicata ai rilevatori acustici, e che nelle pagine del Garante consultate non si trova una pronuncia specifica sulla liceità dei fonometri negli alloggi turistici. Su questo punto conviene restare descrittivi: i principi generali del regolamento europeo, finalità determinata, minimizzazione e informazione dell'interessato, si applicano comunque, e la valutazione del singolo dispositivo va portata alla fonte anziché dedotta da una brochure commerciale.",
-        "Le piattaforme, sul rumore, sono state più esplicite della normativa. Airbnb consente i fonometri anche negli spazi interni, ma li vieta in camere da letto, bagni e zone notte e chiede di dichiararne la presenza. Booking.com include i rilevatori di decibel e i sensori di movimento fra i dispositivi di sorveglianza da indicare nel profilo della struttura. Un rilevatore di fumo o di monossido sta invece su un piano completamente diverso: misura una grandezza ambientale, non identifica una persona e non riguarda l'osservazione dell'ospite.",
+        "Le piattaforme, sul rumore, sono state più esplicite della normativa. Airbnb consente i fonometri anche negli spazi interni, ma li vieta in camere da letto, bagni e zone notte e chiede di dichiararne la presenza. Booking.com include i rilevatori di decibel e i sensori di movimento fra i dispositivi di sorveglianza da indicare nel profilo della struttura. Un rilevatore di gas o di monossido sta invece su un piano completamente diverso: misura una grandezza ambientale, non identifica una persona e non riguarda l'osservazione dell'ospite.",
         "Sui sensori di presenza la linea è la stessa: rilevare che qualcuno si muove in un ambiente è una cosa, riconoscere chi è un'altra. Nel momento in cui un dispositivo conta le persone, riconosce volti o associa un passaggio a un individuo identificabile, si è passati dal dato ambientale al dato personale, e per i sistemi che analizzano automaticamente ciò che riprendono il Garante indica una valutazione d'impatto più severa."
       ]
     },

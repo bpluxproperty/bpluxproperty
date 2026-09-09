@@ -139,7 +139,9 @@
     "deposito-cauzionale-affitti-brevi",
     "assicurazione-affitti-brevi",
     "contratto-locazione-breve",
-    "ospite-che-non-lascia-la-casa"
+    "ospite-che-non-lascia-la-casa",
+    "rapporti-con-i-vicini-affitti-brevi",
+    "rimborsi-e-compensazioni-ospiti"
   ],
   "sources": [
     {
