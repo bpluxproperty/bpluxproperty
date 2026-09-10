@@ -144,7 +144,9 @@
   "related": [
     "contratto-locazione-breve",
     "regole-della-casa-affitti-brevi",
-    "deposito-cauzionale-affitti-brevi"
+    "deposito-cauzionale-affitti-brevi",
+    "eta-minima-ospiti-affitti-brevi",
+    "ospiti-non-dichiarati-affitti-brevi"
   ],
   "sources": [
     {

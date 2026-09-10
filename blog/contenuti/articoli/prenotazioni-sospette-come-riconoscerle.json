@@ -67,13 +67,37 @@
         "Conviene dire anche che cosa la tabella non è. Non è una griglia da applicare a punteggio: la colonna di destra descrive la risposta che chiude il dubbio, non un obbligo dell'ospite di rispondere in quel modo. Un ospite può rispondere male per distrazione, per fretta o perché non ha capito la domanda, e questo non lo rende un problema. Quello che conta è la seconda risposta, quella che arriva dopo che la domanda è stata riformulata in modo più semplice."
       ],
       "table": {
-        "headers": ["Il segnale", "La domanda che lo scioglie", "La risposta che chiude"],
+        "headers": [
+          "Il segnale",
+          "La domanda che lo scioglie",
+          "La risposta che chiude"
+        ],
         "rows": [
-          ["Pagamento o conversazione da spostare fuori dalla piattaforma", "«C'è un motivo per cui il pagamento dovrebbe uscire dai canali della piattaforma?»", "Nessuno: la conversazione torna nei messaggi e la richiesta non viene riproposta"],
-          ["Numero di persone incerto o mutevole", "«Quante persone dormono in casa, fra adulti e minori?»", "Un numero, che coincide con quello della prenotazione e con quello comunicato all'arrivo"],
-          ["Motivo del soggiorno che non combacia con le date", "«Quante notti e con che ritmo pensate di usare la casa?»", "Un uso della casa coerente con le date già prenotate"],
-          ["Richiesta di non registrare o di registrare in meno", "«La comunicazione all'autorità è un obbligo di chi ospita: chi arriva, esattamente?»", "I dati di tutti gli ospiti, senza ulteriori trattative sul punto"],
-          ["Fretta di confermare prima di aver letto le regole", "«Le regole della casa sono nell'annuncio: ci sono punti da chiarire prima di confermare?»", "Una domanda nel merito di una regola, e nessuna insistenza sui tempi"]
+          [
+            "Pagamento o conversazione da spostare fuori dalla piattaforma",
+            "«C'è un motivo per cui il pagamento dovrebbe uscire dai canali della piattaforma?»",
+            "Nessuno: la conversazione torna nei messaggi e la richiesta non viene riproposta"
+          ],
+          [
+            "Numero di persone incerto o mutevole",
+            "«Quante persone dormono in casa, fra adulti e minori?»",
+            "Un numero, che coincide con quello della prenotazione e con quello comunicato all'arrivo"
+          ],
+          [
+            "Motivo del soggiorno che non combacia con le date",
+            "«Quante notti e con che ritmo pensate di usare la casa?»",
+            "Un uso della casa coerente con le date già prenotate"
+          ],
+          [
+            "Richiesta di non registrare o di registrare in meno",
+            "«La comunicazione all'autorità è un obbligo di chi ospita: chi arriva, esattamente?»",
+            "I dati di tutti gli ospiti, senza ulteriori trattative sul punto"
+          ],
+          [
+            "Fretta di confermare prima di aver letto le regole",
+            "«Le regole della casa sono nell'annuncio: ci sono punti da chiarire prima di confermare?»",
+            "Una domanda nel merito di una regola, e nessuna insistenza sui tempi"
+          ]
         ]
       }
     },
@@ -116,7 +140,9 @@
   "related": [
     "privacy-gdpr-affitti-brevi",
     "alloggiati-web-comunicazione-ospiti",
-    "cauzione-e-danni-affitti-brevi"
+    "cauzione-e-danni-affitti-brevi",
+    "eta-minima-ospiti-affitti-brevi",
+    "recensire-l-ospite"
   ],
   "sources": [
     {

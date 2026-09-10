@@ -8,7 +8,7 @@
   "excerpt": "Prima di chiedersi se il forfettario sia applicabile, va stabilito che tipo di reddito produce l'attività: fondiario se si affitta e nulla più, d'impresa se subentrano organizzazione o servizi alla persona. Da quella distinzione dipendono partita IVA, regime e adempimenti.",
   "opening": "Il regime forfettario riguarda chi produce reddito d'impresa o di lavoro autonomo. Un appartamento affittato per soggiorni brevi, senza servizi alla persona, produce di norma reddito fondiario: in quel caso il forfettario non entra in gioco e non serve aprire partita IVA solo per gli affitti brevi. La domanda da porsi prima riguarda il tipo di reddito, non il regime.",
   "publishedAt": "2026-08-27",
-  "updatedAt": "2026-08-27",
+  "updatedAt": "2026-09-10",
   "heroKicker": "FISCO",
   "sections": [
     {
@@ -84,7 +84,7 @@
       "h2": "Che cosa cambia in concreto passando all'impresa",
       "paragraphs": [
         "Il primo blocco di lavoro è l'apertura: partita IVA, scelta del codice attività, iscrizione presso gli enti competenti. Accanto agli adempimenti fiscali ce ne sono altri che non dipendono dall'Agenzia delle Entrate ma dal Comune e dalla Regione, perché la forma imprenditoriale di un'attività ricettiva ha requisiti propri, diversi da territorio a territorio. Quali siano, e con quali procedure, va verificato sul sito del Comune e su quello della Regione in cui si trova l'immobile: qui non si può generalizzare.",
-        "Il secondo blocco è documentale. Il forfettario esonera dall'addebito dell'IVA in fattura, dalla liquidazione e dal versamento dell'imposta e dalla dichiarazione annuale, ma non dalla fattura: dal 1° gennaio 2024 l'obbligo di fatturazione elettronica riguarda anche i contribuenti forfetari fino ad allora esonerati. Restano la numerazione e la conservazione delle fatture di acquisto e delle bollette doganali, e l'integrazione delle fatture per le operazioni in cui il forfetario risulta debitore d'imposta.",
+        "Il secondo blocco è documentale. Il forfettario esonera dall'addebito dell'IVA in fattura, dalla liquidazione e dal versamento dell'imposta e dalla dichiarazione annuale, ma non dalla fattura. L'esonero dei forfetari è stato soppresso in due tempi: dal 1° luglio 2022 per chi nell'anno precedente aveva superato una soglia di ricavi o compensi fissata dalla norma, e dal 1° gennaio 2024 per tutti gli altri. Restano la numerazione e la conservazione delle fatture di acquisto e delle bollette doganali, e l'integrazione delle fatture per le operazioni in cui il forfetario risulta debitore d'imposta.",
         "Il terzo blocco è contributivo. Un'attività d'impresa comporta l'iscrizione alla gestione previdenziale competente e il versamento dei contributi obbligatori, con regole e misure che dipendono dalla gestione in cui si ricade e non dal regime fiscale scelto. Sul piano del calcolo, i contributi previdenziali obbligatori si deducono dal reddito determinato forfetariamente e l'eventuale eccedenza è deducibile dal reddito complessivo: un dettaglio che pesa nel confronto fra le strade possibili.",
         "Il quarto blocco è il meno visibile e il più costante: scadenze periodiche, adempimenti annuali, una contabilità da tenere allineata e un professionista che segue la posizione. Non è una spesa una volta sola, è un impegno che si rinnova ogni anno finché la partita IVA resta aperta."
       ]
@@ -144,7 +144,8 @@
   "related": [
     "terzo-immobile-partita-iva-affitti-brevi",
     "cedolare-secca-affitti-brevi",
-    "tasse-affitti-brevi-quanto-si-paga"
+    "tasse-affitti-brevi-quanto-si-paga",
+    "fattura-elettronica-affitti-brevi"
   ],
   "sources": [
     {

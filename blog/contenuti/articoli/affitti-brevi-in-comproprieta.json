@@ -8,7 +8,7 @@
   "excerpt": "La casa al mare o in montagna è spesso di più persone, e chi vuole affittarla scopre tre nodi: il consenso degli altri comproprietari, gli incassi che finiscono su un conto solo e un reddito che il fisco imputa a ciascuno in proporzione alla quota. Prima l'accordo scritto, poi l'annuncio.",
   "opening": "Sì, una casa in comproprietà si può affittare per brevi periodi, ma non basta la volontà di uno. Servono il consenso degli altri comproprietari sull'uso dell'immobile e un accordo su chi gestisce e chi incassa. Sul piano fiscale il reddito resta imputato a ciascuno in proporzione alla propria quota, anche quando il bonifico arriva su un conto solo.",
   "publishedAt": "2026-08-27",
-  "updatedAt": "2026-08-27",
+  "updatedAt": "2026-09-10",
   "heroKicker": "PROPRIETÀ",
   "sections": [
     {
@@ -76,7 +76,7 @@
         "Come si dividono incassi e spese: se la ripartizione segue le quote o un criterio diverso, con quale periodicità si liquida, su quale conto transitano i pagamenti.",
         "Chi anticipa le spese straordinarie: chi mette i soldi per la caldaia o per il tetto, in che tempi viene rimborsato, che cosa accade se un comproprietario non versa la sua parte.",
         "Che cosa succede se uno vuole usare la casa: quante settimane, con quale preavviso, se il periodo occupato viene valorizzato come mancato incasso e in che misura.",
-        "Chi tiene i rapporti con gli enti: chi risulta come gestore per la comunicazione degli ospiti, chi presenta la dichiarazione dell'imposta di soggiorno al Comune, chi custodisce le credenziali.",
+        "Chi tiene i rapporti con gli enti: chi risulta come gestore per la comunicazione degli ospiti, chi presenta la dichiarazione dell'imposta di soggiorno al Comune, chi è incaricato di trasmettere i dati degli ospiti.",
         "Chi conserva i documenti fiscali e in che forma: certificazioni delle ritenute, rendiconti degli incassi, ricevute delle spese, così che ogni comproprietario possa consegnarli al proprio commercialista.",
         "Come si esce dall'accordo: durata, preavviso per il recesso, che fine fanno le prenotazioni già confermate, come si chiudono le pendenze economiche."
       ]
@@ -94,7 +94,7 @@
       "paragraphs": [
         "Sul CIN le fonti ufficiali sono meno chiare di quanto si vorrebbe. Le FAQ del Ministero del Turismo sulla banca dati delle strutture ricettive indicano fra i soggetti obbligati i titolari o gestori delle strutture turistico-ricettive e i locatori delle unità immobiliari a uso abitativo destinate a locazione per finalità turistiche o a locazione breve, ma non affrontano il caso dell'immobile intestato a più persone: non dicono quale comproprietario debba presentare la richiesta, né se serva il consenso degli altri. Su questo punto la risposta va chiesta al Ministero del Turismo o alla Regione.",
         "Il manuale della banca dati aggiunge un elemento utile: chi opera come delegato, e non come titolare, deve caricare in piattaforma una delega firmata dal titolare insieme alla copia del suo documento d'identità. È la traccia procedurale del fatto che qualcuno, su quella scheda, risulta come riferimento. Il codice regionale, dove previsto, è un adempimento separato dal CIN e non lo sostituisce: sigle e procedure cambiano da regione a regione e vanno verificate sul portale della Regione competente.",
-        "Gli altri due adempimenti hanno regole proprie. La comunicazione delle generalità degli ospiti alle questure va trasmessa dal gestore entro le ventiquattro ore successive all'arrivo, e comunque entro le sei ore successive all'arrivo per i soggiorni non superiori alle ventiquattro ore: le credenziali sono personali, quindi va deciso chi le detiene. Per l'imposta di soggiorno risponde verso il Comune chi incassa il corrispettivo della locazione breve, con diritto di rivalsa sull'ospite: se l'ospite non versa la sua quota, il tributo resta comunque dovuto. Importi, esenzioni e scadenze li stabilisce il regolamento comunale."
+        "Gli altri due adempimenti hanno regole proprie. La comunicazione delle generalità degli ospiti alle questure va trasmessa dal gestore entro le ventiquattro ore successive all'arrivo, e comunque entro le sei ore successive all'arrivo per i soggiorni non superiori alle ventiquattro ore: le credenziali la questura le rilascia alla struttura e possono essere consegnate a un incaricato della trasmissione, quindi va deciso chi trasmette. Per l'imposta di soggiorno risponde verso il Comune chi incassa il corrispettivo della locazione breve, con diritto di rivalsa sull'ospite: se l'ospite non versa la sua quota, il tributo resta comunque dovuto. Importi, esenzioni e scadenze li stabilisce il regolamento comunale."
       ]
     },
     {
