@@ -677,16 +677,38 @@ def render_autori():
       S["url"]+"/blog/autori/", body, ld))
 
 # ---------------- SITEMAP ----------------
+def _data_art(a): return a.get("updatedAt") or a.get("publishedAt") or ""
+
 def sitemap():
-    urls=[f'{S["url"]}/blog/']+[f'{S["url"]}/blog/categoria/{c}/' for c in CAT_ORDER if any(a["category"]==c for a in articles)]+[art_url(a["slug"]) for a in articles]
-    now=datetime.date(2026,8,11).isoformat()
+    # La data NON e' l'oggi: dipende solo dal contenuto, cosi' due esecuzioni di
+    # fila danno lo stesso file. Le pagine che elencano articoli (hub, categorie)
+    # cambiano quando cambia l'articolo piu' recente che contengono.
+    tutte=[d for d in (_data_art(a) for a in articles) if d]
+    now=max(tutte) if tutte else datetime.date(2026,8,11).isoformat()
+    def cat_data(c):
+        d=[x for x in (_data_art(a) for a in articles if a["category"]==c) if x]
+        return max(d) if d else now
     body='<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
     for a in articles:
         body+=f'<url><loc>{art_url(a["slug"])}</loc><lastmod>{a.get("updatedAt",now)}</lastmod></url>\n'
-    for u in [f'{S["url"]}/blog/',f'{S["url"]}/blog/guida-proprietario/',f'{S["url"]}/blog/calcolatore-rendita/',f'{S["url"]}/blog/recensioni-appartamenti/',f'{S["url"]}/blog/recensioni-b-p-lux-property/',f'{S["url"]}/blog/autori/']+[f'{S["url"]}/blog/categoria/{c}/' for c in CAT_ORDER if any(a["category"]==c for a in articles)]:
+    for u in [f'{S["url"]}/blog/',f'{S["url"]}/blog/guida-proprietario/',f'{S["url"]}/blog/calcolatore-rendita/',f'{S["url"]}/blog/recensioni-appartamenti/',f'{S["url"]}/blog/recensioni-b-p-lux-property/',f'{S["url"]}/blog/autori/']:
         body+=f'<url><loc>{u}</loc><lastmod>{now}</lastmod></url>\n'
+    for c in CAT_ORDER:
+        if any(a["category"]==c for a in articles):
+            body+=f'<url><loc>{S["url"]}/blog/categoria/{c}/</loc><lastmod>{cat_data(c)}</lastmod></url>\n'
     body+='</urlset>\n'
     open(os.path.join(OUT,"sitemap.xml"),"w",encoding="utf-8").write(body)
+    # L'indice in public/: senza questo aggiornamento continua a dichiarare che
+    # la sitemap del blog non cambia da settimane, ed e' proprio il lastmod
+    # dell'indice il segnale con cui il crawler decide se rileggere la figlia.
+    idx=('<?xml version="1.0" encoding="UTF-8"?>\n'
+         '<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+         '  <sitemap>\n'
+         f'    <loc>{S["url"]}/blog/sitemap.xml</loc>\n'
+         f'    <lastmod>{now}</lastmod>\n'
+         '  </sitemap>\n'
+         '</sitemapindex>\n')
+    open(os.path.join(os.path.dirname(OUT),"sitemap.xml"),"w",encoding="utf-8").write(idx)
 
 # ---------------- CALCOLATORE ----------------
 CALC_CITIES=[("Milano","A"),("Venezia","A"),("Firenze","A"),("Como","A"),("Sorrento","A"),

@@ -145,7 +145,8 @@
     "terzo-immobile-partita-iva-affitti-brevi",
     "cedolare-secca-affitti-brevi",
     "tasse-affitti-brevi-quanto-si-paga",
-    "fattura-elettronica-affitti-brevi"
+    "fattura-elettronica-affitti-brevi",
+    "societa-o-persona-fisica-affitti-brevi"
   ],
   "sources": [
     {

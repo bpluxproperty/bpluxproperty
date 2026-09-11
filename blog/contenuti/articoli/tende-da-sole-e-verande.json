@@ -8,7 +8,7 @@
   "excerpt": "Da giugno ad agosto un terrazzo senza ombra non entra nella giornata di nessuno. Le quattro soluzioni che producono quell'ombra sembrano una scala di prezzo e sono una scala di titoli: il testo unico dell'edilizia ne nomina alcune e non altre, e la veranda chiusa è il caso che crea più problemi.",
   "opening": "Le foto del terrazzo si scattano a maggio, quando il sole è basso e il pavimento è tiepido. L'ospite ci arriva a luglio, alle due del pomeriggio, e trova una superficie che scotta e due sedie che nessuno userà. L'ombra è la sola cosa che trasforma un terrazzo in una stanza in più, e non tutte le ombre si installano allo stesso modo.",
   "publishedAt": "2026-09-10",
-  "updatedAt": "2026-09-10",
+  "updatedAt": "2026-09-11",
   "heroKicker": "OMBRA",
   "sections": [
     {
@@ -41,7 +41,7 @@
       "paragraphs": [
         "Chiudere un balcone per «guadagnare una stanza» è la richiesta più frequente e la più insidiosa. La lettera dell'articolo 6 che riguarda gli elementi vetrati la esclude per iscritto: la b-bis), quella delle vetrate panoramiche amovibili e totalmente trasparenti, vale a condizione che non si configurino spazi stabilmente chiusi con variazione di volumi e di superfici, «che possano generare nuova volumetria o comportare il mutamento della destinazione d'uso dell'immobile anche da superficie accessoria a superficie utile».",
         "Quella frase finale è il centro della questione. Una veranda chiusa crea superficie, e la distinzione fra superficie utile e superficie accessoria, con le definizioni uniformi che la fissano, è [il terreno di un altro articolo](/blog/mansarda-e-seminterrato-affitti-brevi/): va letto prima di questo passaggio. Qui basta la conseguenza. Se l'opera amplia il fabbricato all'esterno della sagoma esistente, l'articolo 3, comma 1, lettera e), la considera nuova costruzione, e l'articolo 10, comma 1, lettera a), riserva le nuove costruzioni al permesso di costruire.",
-        "La parte scomoda arriva quando la veranda c'è già e la pratica no. Una difformità fra lo stato dei luoghi e i titoli depositati non resta dove è nata: riemerge il giorno in cui qualcuno confronta le carte con la casa, e quel giorno ha nomi prevedibili, come una compravendita, un mutuo, un controllo. Se poi sull'immobile c'è un vincolo paesaggistico la strada si restringe: l'articolo 167 del codice dei beni culturali e del paesaggio, nel testo in vigore dal 24 aprile 2008, ammette l'accertamento di compatibilità paesaggistica solo per lavori che non abbiano determinato creazione di superfici utili o volumi.",
+        "La parte scomoda arriva quando la veranda c'è già e la pratica no. Una difformità fra lo stato dei luoghi e i titoli depositati non resta dove è nata: riemerge il giorno in cui qualcuno confronta le carte con la casa, e quel giorno ha nomi prevedibili: una compravendita, un mutuo, un controllo. Con un vincolo paesaggistico la strada si restringe: l'articolo 167 del codice dei beni culturali e del paesaggio, nel testo in vigore dal 24 aprile 2008, ammette l'accertamento di compatibilità paesaggistica solo per lavori che non abbiano determinato creazione di superfici utili o volumi, salvo la deroga dell'articolo 36-bis.",
         "Esiste poi un piano che riguarda l'uso e non l'opera. In Emilia-Romagna l'articolo 6, comma 4, della legge regionale 19 dicembre 2025, n. 10 vieta l'esercizio della locazione breve nei locali e negli spazi degli immobili ad uso abitativo «aventi carattere accessorio o di servizio, a norma delle vigenti definizioni tecniche uniformi (DTU) regionali». Una stanza guadagnata chiudendo un balcone, se resta classificata come accessoria, in quella Regione non si può nemmeno affittare per brevi periodi. Altrove una regola così va cercata nella legge della Regione in cui si trova la casa."
       ]
     },
@@ -131,13 +131,14 @@
     },
     {
       "q": "Una struttura montata anni fa senza pratica si può regolarizzare oggi?",
-      "a": "Dipende da che cosa quell'opera ha prodotto, e sul versante paesaggistico la porta è strettissima: l'articolo 167 del codice dei beni culturali e del paesaggio ammette l'accertamento di compatibilità paesaggistica soltanto per lavori che non abbiano determinato creazione di superfici utili o volumi, per l'impiego di materiali in difformità e per interventi configurabili come manutenzione, e in caso di rigetto resta la rimessione in pristino. Sul versante edilizio la strada dipende dal titolo che l'opera avrebbe richiesto e va istruita da un tecnico abilitato. Ordinare una struttura nuova non sistema quella vecchia."
+      "a": "Dipende da che cosa quell'opera ha prodotto, e sul versante paesaggistico la porta è strettissima: l'articolo 167 del codice dei beni culturali e del paesaggio ammette l'accertamento di compatibilità paesaggistica soltanto per lavori che non abbiano determinato creazione di superfici utili o volumi, per l'impiego di materiali in difformità e per interventi configurabili come manutenzione, e in caso di rigetto resta la rimessione in pristino. Dal 28 luglio 2024 c'è però una deroga circoscritta: l'articolo 36-bis del testo unico dell'edilizia, al comma 4, dispone che per gli interventi del suo comma 1 il parere vincolante dell'autorità preposta alla tutela si richiede «anche in caso di lavori che abbiano determinato la creazione di superfici utili o volumi ovvero l'aumento di quelli legittimamente realizzati». Vale per quei casi, non in generale. Sul versante edilizio la strada dipende dal titolo che l'opera avrebbe richiesto e va istruita da un tecnico abilitato. Ordinare una struttura nuova non sistema quella vecchia."
     }
   ],
   "related": [
     "mansarda-e-seminterrato-affitti-brevi",
     "sopralluogo-prima-di-affittare",
-    "illuminazione-affitti-brevi"
+    "illuminazione-affitti-brevi",
+    "difformita-edilizie-affitti-brevi"
   ],
   "sources": [
     {
