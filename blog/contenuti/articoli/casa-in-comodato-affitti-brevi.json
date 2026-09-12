@@ -152,7 +152,8 @@
     "destinazione-uso-catasto-affitti-brevi",
     "prima-casa-e-affitti-brevi",
     "casa-ereditata-affitti-brevi",
-    "donazione-e-affitti-brevi"
+    "donazione-e-affitti-brevi",
+    "subaffitto-e-affitti-brevi"
   ],
   "sources": [
     {

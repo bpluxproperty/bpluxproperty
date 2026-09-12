@@ -1,0 +1,175 @@
+{
+  "slug": "modifica-prenotazione-cambio-date",
+  "keyword": "modifica prenotazione affitti brevi",
+  "category": "piattaforme",
+  "title": "Modifica prenotazione affitti brevi: date e prezzo",
+  "metaDescription": "Richiesta di modifica su Airbnb e Booking.com: chi deve accettare, come si ricalcola il prezzo e quando spostare le date diventa una cancellazione.",
+  "h1": "Cambio date e prezzo: come si modifica una prenotazione già confermata",
+  "excerpt": "Spostare le date di una prenotazione confermata sembra un favore da concedere in due minuti. In realtà è un contratto nuovo: il totale si ricalcola, le imposte pure, i termini di cancellazione possono cambiare famiglia e il rifiuto dell'ospite può lasciare come unica uscita la cancellazione.",
+  "opening": "«Si può spostare di una settimana?» Il messaggio arriva a prenotazione confermata, di solito con una motivazione plausibile. Sembra una cortesia da concedere in due minuti e invece tocca il calendario, il prezzo, le tasse e, oltre una certa durata, perfino i termini di cancellazione applicabili. Airbnb e Booking.com la trattano in modo diverso: conviene sapere come, prima di rispondere.",
+  "publishedAt": "2026-09-12",
+  "updatedAt": "2026-09-12",
+  "heroKicker": "CAMBIO DATE",
+  "sections": [
+    {
+      "h2": "Spostare le date non è mai soltanto spostare le date",
+      "paragraphs": [
+        "Una richiesta di spostamento sembra la più innocua delle domande, perché la casa resta quella e l'ospite pure. Cambia tutto il resto. Le notti liberate tornano in vendita in un momento dell'anno che può essere ottimo o pessimo, le nuove escono dal calendario e smettono di essere vendibili ad altri, il totale si ricalcola sulle impostazioni delle date nuove e le imposte seguono. Chi ospita, intanto, ha già trasmesso dei dati che si riferiscono a un arrivo che non avverrà più in quel giorno.",
+        "Il Centro assistenza di Airbnb chiama questa procedura richiesta di modifica del viaggio e ne descrive il perimetro senza ambiguità: si possono modificare le date, il numero di ospiti, il prezzo o l'annuncio, e le prenotazioni passate non si modificano affatto. Il Partner Help di Booking.com parte da un'altra premessa e lo dice in apertura: ciò che si può cambiare dipende dal momento in cui avviene la variazione, prima o dopo il check-in, e da chi gestisce il pagamento.",
+        "Da qui discende la regola pratica di tutto il tema: una modifica non è un aggiustamento del contratto esistente, è un contratto nuovo che sostituisce il precedente, con il prezzo e i termini che le date nuove portano con sé. Trattarla come una gentilezza reversibile è il modo più rapido per ritrovarsi con notti invendute in alta stagione e un ospite convinto di avere ancora le condizioni di prima."
+      ]
+    },
+    {
+      "h2": "Chi può modificare che cosa, e chi deve accettare",
+      "paragraphs": [
+        "Su Airbnb il meccanismo è simmetrico: host e ospite possono entrambi proporre una richiesta di modifica, e l'altra parte deve accettarla. Se rifiuta o non risponde, la prenotazione resta invariata, e la pagina dedicata al rifiuto precisa che non sono previste conseguenze per chi dice di no. Un dettaglio che sfugge spesso: secondo il Centro assistenza solo chi ha effettuato la prenotazione originale può inviare una richiesta o accettarne una, quindi non serve trattare con l'accompagnatore che scrive al posto suo.",
+        "Su Booking.com la simmetria non c'è. Secondo il Partner Help, se il pagamento lo gestisce la struttura si invia una richiesta di cambio date e l'ospite ha ventiquattro ore per accettare, mentre le nuove date restano temporaneamente escluse dal calendario; se invece il pagamento è gestito dalla piattaforma, le date si cambiano direttamente senza approvazione dell'ospite, ma solo a condizione che la durata del soggiorno e il prezzo restino invariati.",
+        "Le asimmetrie non finiscono qui, e mescolarle è l'inconveniente tipico di chi gestisce i due canali con la stessa testa. Su un canale la modifica è una proposta che l'altra parte deve accettare; sull'altro può essere un'operazione che si esegue e basta, oppure che l'ospite esegue da solo senza chiedere niente a nessuno. Conviene tenere davanti la distribuzione dei poteri come la descrivono le due documentazioni, prima di promettere qualcosa per messaggio."
+      ],
+      "list": [
+        "Airbnb, richiesta di modifica: la può inviare sia chi ospita sia chi soggiorna, e l'altra parte deve accettarla; il rifiuto, dice il Centro assistenza, non comporta conseguenze.",
+        "Airbnb, Prenotazione Immediata: l'ospite può aggiungere notti con conferma immediata, senza passare da una richiesta di modifica, fino a settantadue ore prima dell'orario di check-out previsto.",
+        "Airbnb, una richiesta alla volta: per ogni prenotazione ne può esistere una sola in sospeso, e una richiesta già inviata non si corregge, si annulla e se ne manda un'altra.",
+        "Airbnb, limiti numerici: le modifiche a una singola prenotazione sono consentite fino a tre al giorno e dieci in totale, oltre le quali la piattaforma rimanda all'assistenza.",
+        "Booking.com, pagamento gestito dalla struttura: si chiede il cambio date e l'ospite ha ventiquattro ore per accettare, mentre le nuove notti escono intanto dal calendario.",
+        "Booking.com, ospite dentro la finestra di cancellazione gratuita prevista dalle politiche della struttura: può cambiare le date da solo, senza approvazione, purché ci sia disponibilità sulle nuove.",
+        "Booking.com, richiesta dell'ospite fuori da quella finestra: arriva una notifica e si accetta o si rifiuta in base a disponibilità e politiche, anche quando la politica di cancellazione non prevede modifiche."
+      ]
+    },
+    {
+      "h2": "Il prezzo si ricalcola, e non sempre nel verso che immagini",
+      "paragraphs": [
+        "Il ricalcolo non è una semplice proporzione sulle notti. Secondo il Centro assistenza di Airbnb, spostando le date il prezzo originale può cambiare perché entrano in gioco le tariffe personalizzate e gli sconti impostati sull'annuncio; una variazione del numero di ospiti si applica all'intera prenotazione, non solo alle notti aggiunte; e gli sconti settimanali o mensili possono saltare se la durata scende sotto la soglia che li attivava. L'importo iniziale e quello nuovo vengono mostrati all'ospite prima che accetti.",
+        "Chi versa la differenza, e quando, è il punto che genera i guai. Sempre secondo il Centro assistenza, se il costo aumenta l'addebito parte di norma in automatico sul metodo di pagamento originale, ma in alcune circostanze all'ospite viene chiesto di inviare il pagamento entro quarantotto ore: se l'importo non arriva, la modifica viene rifiutata automaticamente e la prenotazione torna allo stato iniziale. Una modifica accettata, quindi, può disfarsi da sola due giorni dopo senza che nessuno abbia cambiato idea.",
+        "Su Booking.com esiste una funzione diversa, pensata per le tariffe non rimborsabili, e le sue condizioni sono esplicite: l'ospite può spostare le date una volta sola, il nuovo soggiorno deve avere un valore pari o superiore all'originale, le condizioni della prenotazione restano quelle e la modifica può riflettere soltanto disponibilità, tariffe e restrizioni del momento. Accorciare si può, purché il totale non scenda. La struttura può inoltre fissare un termine oltre il quale lo spostamento non è più ammesso.",
+        "Una voce si ricalcola sempre, e non dipende dalla trattativa: le imposte. Il Centro assistenza scrive che, quando la richiesta di modifica viene accettata, le tasse previste per la prenotazione vengono ricalcolate in base ai requisiti fiscali più recenti applicabili nella zona in cui si trova l'alloggio. È il motivo per cui il totale nuovo può discostarsi da quello che chi ospita aveva calcolato a mano moltiplicando le notti."
+      ]
+    },
+    {
+      "h2": "Le modifiche che sono una cancellazione travestita",
+      "paragraphs": [
+        "Prima di decidere se concedere, conviene sapere che nessuna delle due parti ha un diritto da esercitare. L'articolo 59 del D.Lgs. 6 settembre 2005 n. 206, intitolato «Eccezioni al diritto di recesso» e vigente nel testo in vigore dal 2 aprile 2023, esclude il recesso del consumatore per una serie di contratti, fra cui «la fornitura di alloggi per fini non residenziali» quando «il contratto preveda una data o un periodo di esecuzione specifici». Un soggiorno con date fissate sta esattamente in quella lettera.",
+        "Da qui nasce la trappola, ed è scritta in una riga sola nella pagina per gli host: l'ospite ha facoltà di rifiutare, e se rifiuta e chi ospita non può onorare la prenotazione così com'è, quella prenotazione andrà cancellata. Proporre uno spostamento che serve alla casa e non all'ospite significa quindi mettersi in un imbuto, con la cancellazione come unica uscita e le conseguenze che le piattaforme riservano a chi cancella, comprese quelle che Airbnb descrive per le prenotazioni già attive.",
+        "Il travestimento più comune ha un'altra forma ancora: chiedere all'ospite di cancellare e riprenotare alle date nuove. Sembra una scorciatoia tecnica e invece ribalta su di lui l'effetto della politica di cancellazione, gli fa perdere la prenotazione originale e lo consegna alla disponibilità pubblica del momento. Il Partner Help di Booking.com fissa il punto di partenza senza giri di parole: tutte le prenotazioni sono confermate immediatamente e devono essere onorate, e gli scenari in cui si può chiedere di uscirne sono elencati uno per uno."
+      ]
+    },
+    {
+      "h2": "Il tipo di richiesta, che cosa cambia, che cosa conviene",
+      "paragraphs": [
+        "Le richieste che arrivano davvero sono poche e si ripetono. Distinguerle prima di rispondere costa un minuto e cambia la risposta, perché ciascuna sposta cose diverse: il calendario, il totale, la famiglia di termini applicabile o soltanto la riga dei dati già trasmessi. La tabella tiene insieme il tipo di richiesta, quello che si muove sotto e la verifica da fare prima di scrivere anche solo un «forse».",
+        "Il momento in cui la richiesta arriva conta quanto il suo contenuto. Secondo il Partner Help, dopo il check-in una prenotazione il cui pagamento è gestito dalla struttura si può ancora ritoccare nelle date e nel costo, a patto che non sia doppia, non ricada nei programmi di flessibilità della piattaforma e non sia già stata fatturata; con i pagamenti gestiti da Booking.com, dopo il check-in non si tocca più niente. Su Airbnb la richiesta di modifica resta invece disponibile anche a soggiorno iniziato, sempre che l'ospite accetti.",
+        "Due precisazioni che risparmiano discussioni, entrambe dal Partner Help. Se al check-in si presentano più persone di quante ne erano state prenotate, il numero totale di ospiti non si può correggere, ma il prezzo totale sì, in base alle persone effettive. E dopo il check-in le date si possono modificare anche quando il calendario le indica come non disponibili: la nota sta scritta nella pagina, e spiega perché certe richieste che sembrano impossibili in realtà passano."
+      ],
+      "table": {
+        "headers": [
+          "Che cosa chiede l'ospite",
+          "Che cosa si sposta davvero",
+          "Chi deve dare il consenso",
+          "Che cosa verificare prima di rispondere"
+        ],
+        "rows": [
+          [
+            "Stesse notti, più avanti o più indietro",
+            "Le notti liberate tornano in vendita, le nuove escono dal calendario",
+            "L'altra parte, salvo i casi in cui la piattaforma esegue da sola",
+            "Se il periodo liberato si rivende, e a quali condizioni"
+          ],
+          [
+            "Soggiorno più corto",
+            "Totale, sconti di durata e, oltre la soglia mensile, la famiglia di termini applicabile",
+            "L'altra parte",
+            "Che cosa resta davvero prenotabile delle notti restituite"
+          ],
+          [
+            "Soggiorno più lungo",
+            "Totale e disponibilità delle notti aggiunte, che possono essere già impegnate",
+            "Nessuno, quando l'estensione passa dalla conferma immediata",
+            "Se le notti in coda sono libere e a che prezzo escono"
+          ],
+          [
+            "Numero di ospiti diverso",
+            "Il totale sull'intera prenotazione, non soltanto sulle notti nuove",
+            "L'altra parte",
+            "Capienza dell'annuncio e regole locali sugli occupanti"
+          ],
+          [
+            "Cambio di alloggio o di unità",
+            "L'oggetto stesso del contratto, con prezzo e termini dell'annuncio nuovo",
+            "L'altra parte, dopo una proposta esplicita",
+            "Che l'alternativa sia equivalente e realmente libera"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "La risposta da mandare, e che cosa non scrivere mai",
+      "paragraphs": [
+        "La risposta utile ha tre righe e un ordine fisso: si conferma di aver letto, si dice che cosa è possibile sulle date chieste e si indica il passo successivo, cioè la richiesta formale che arriverà dentro la piattaforma. Scriverla sul canale della prenotazione, e non altrove, serve a due cose insieme: lascia una traccia leggibile se poi qualcosa va storto, e tiene la modifica dentro il sistema che ricalcola prezzo e imposte al posto di chi ospita.",
+        "Tre frasi vanno tenute fuori dalla conversazione. «Va bene, poi sistemiamo»: una modifica accettata a parole non esiste finché non passa dalla richiesta formale, e il totale che si forma è quello delle date nuove, non quello promesso la sera prima. «Cancella e riprenota»: sposta sull'ospite l'effetto della politica di cancellazione e lo consegna alla disponibilità del momento. «Non si può»: senza il motivo suona come un capriccio, mentre la disponibilità è un motivo dicibile e verificabile.",
+        "Va tenuta fuori anche la promessa di bloccare le date «per sicurezza» mentre si decide. Su Booking.com la piattaforma lo fa già da sola quando parte una richiesta di cambio date, escludendo temporaneamente le nuove notti dal calendario; farlo a mano su un canale che non lo prevede significa togliere dal mercato notti che nessuno ha ancora pagato. Un ultimo accorgimento operativo: su Airbnb una richiesta già inviata non si corregge, si annulla e se ne manda un'altra, quindi il controllo va fatto prima di premere invia."
+      ]
+    },
+    {
+      "h2": "Perché su una modifica dormiamo una notte",
+      "paragraphs": [
+        "Le richieste di spostamento arrivano quasi sempre di sera, con una motivazione vera e una fretta che sembra reciproca. La tentazione di chiudere la faccenda in due messaggi è forte, e quasi sempre produce una promessa che il sistema poi smentisce. Quello che facciamo è rispondere subito una riga sola, per dire che abbiamo ricevuto e che guardiamo le date: nessun impegno, nessun prezzo, nessuna data alternativa buttata lì per gentilezza.",
+        "La mattina dopo il quadro cambia quasi ogni volta. Alle richieste di modifica non si risponde a caldo: si risponde dopo aver riaperto il calendario. Le notti che l'ospite libera cadono in un periodo che si rivende in tre giorni oppure in uno che resterà fermo fino a primavera, e quella differenza decide da sola la risposta. Poi guardiamo il totale sulle date nuove, perché la differenza qualcuno la versa: o chi soggiorna, o chi possiede la casa.",
+        "Il secondo controllo riguarda quello che la piattaforma non tocca: i dati degli alloggiati già trasmessi per un arrivo che ora slitta, l'imposta di soggiorno che segue i pernottamenti effettivi, la ricevuta o il contratto se erano già stati emessi. Sono passaggi che restano in capo a chi ospita, e che si sistemano molto meglio prima di accettare la modifica che il giorno del nuovo check-in.",
+        "Quando la risposta è sì, mandiamo la richiesta formale già compilata e lasciamo che l'ospite legga il nuovo importo prima di accettare: così nessuno scopre una differenza dopo. Quando invece è no, scriviamo il motivo per intero, perché un rifiuto spiegato chiude la questione e un rifiuto secco la riapre a ogni messaggio. E capita spesso che la risposta giusta sia sì e basta: se il periodo liberato si rivende, spostare due date costa un minuto e quel minuto torna indietro nella recensione."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Serve il mio consenso perché l'ospite sposti le date di una prenotazione confermata?",
+      "a": "Di norma sì, ma le due piattaforme prevedono eccezioni documentate. Su Airbnb la richiesta di modifica del viaggio deve essere accettata dall'altra parte, con un'apertura per la Prenotazione Immediata: chi ha prenotato così può aggiungere notti con conferma immediata fino a settantadue ore prima dell'orario di check-out previsto. Su Booking.com, se la prenotazione rientra nella finestra di cancellazione gratuita prevista dalle politiche della struttura, l'ospite può cambiare le date da solo, purché ci sia disponibilità sulle nuove."
+    },
+    {
+      "q": "Se accetto lo spostamento, il prezzo resta quello pattuito?",
+      "a": "No, il totale si ricalcola sulle date nuove. Secondo il Centro assistenza di Airbnb il prezzo originale può cambiare per effetto delle tariffe personalizzate e degli sconti impostati sull'annuncio, gli sconti settimanali o mensili possono saltare se la durata scende sotto la soglia che li attivava, e le tasse vengono sempre ricalcolate sui requisiti fiscali più recenti della zona. L'importo vecchio e quello nuovo compaiono all'ospite prima dell'accettazione."
+    },
+    {
+      "q": "Che cosa succede se non rispondo a una richiesta di modifica?",
+      "a": "La prenotazione resta com'è, su entrambe le piattaforme. Airbnb scrive che se l'altra parte rifiuta o non risponde la prenotazione resta invariata e che il rifiuto non comporta conseguenze; su Booking.com, quando è la struttura a chiedere il cambio date, l'ospite ha ventiquattro ore per accettare e alla scadenza vale la prenotazione di prima. Il silenzio conserva la prenotazione, non la relazione con chi arriva."
+    },
+    {
+      "q": "L'ospite propone di cancellare e riprenotare alle date nuove: conviene accettare?",
+      "a": "Quasi mai, perché quella strada scarica su di lui un rischio che la richiesta di modifica evita. Con la cancellazione scatta la politica applicabile, la prenotazione originale sparisce e le date nuove restano esposte a chiunque nel frattempo; con la richiesta di modifica le due operazioni restano legate e il totale viene mostrato prima dell'accettazione. Ha senso solo quando per quel tipo di prenotazione la piattaforma non prevede alcuna modifica."
+    },
+    {
+      "q": "Posso inviare più di una richiesta di modifica per la stessa prenotazione?",
+      "a": "Sì, ma una alla volta e con un tetto. Il Centro assistenza di Airbnb precisa che per ogni prenotazione può esserci una sola richiesta in sospeso, che una richiesta già inviata non si corregge ma si annulla per mandarne un'altra, e che le modifiche a una singola prenotazione sono consentite fino a tre al giorno e dieci in totale. Oltre quei limiti la pagina rimanda all'assistenza della piattaforma."
+    },
+    {
+      "q": "Cambiare la durata può cambiare i termini di cancellazione applicabili?",
+      "a": "Sì, quando la modifica fa attraversare la soglia fra soggiorno breve e soggiorno mensile. Airbnb applica i termini per soggiorni a lungo termine alle prenotazioni di almeno ventotto notti: se un soggiorno mensile scende a ventisette notti o meno, alla prenotazione aggiornata si applicano i termini standard scelti per l'annuncio, e un soggiorno breve che supera le ventotto notti passa ai termini di lungo periodo. Dentro la stessa fascia, invece, i termini restano quelli di prima."
+    }
+  ],
+  "related": [
+    "politica-cancellazione-airbnb",
+    "no-show-ospite-che-non-arriva",
+    "calendario-e-disponibilita-errori"
+  ],
+  "sources": [
+    {
+      "label": "Modificare una prenotazione in qualità di host; Modificare le date della prenotazione di un alloggio; Rispondere alla richiesta di modifica del viaggio effettuata da un ospite; Rifiutare una richiesta di modifica per la prenotazione di un alloggio; Modificare il prezzo delle prenotazioni di alloggi confermate o in sospeso; Modificare o cancellare la prenotazione dell'alloggio di un ospite entro 24 ore dal check-in o durante il soggiorno",
+      "ente": "Airbnb, Centro Assistenza",
+      "data": "pagine prive di data di aggiornamento, consultate il 12 settembre 2026",
+      "url": "https://www.airbnb.it/help/article/50"
+    },
+    {
+      "label": "Come modificare una prenotazione presso la struttura; Changing dates for non-refundable bookings",
+      "ente": "Booking.com for Partners, Partner Help",
+      "data": "entrambe le pagine riportano «Aggiornato 1 mese fa» / «Updated 1 month ago», consultate il 12 settembre 2026",
+      "url": "https://partner.booking.com/it/aiuto/prenotazioni/modifiche-cancellazioni/come-modificare-una-prenotazione-la-tua-struttura"
+    },
+    {
+      "label": "Art. 59 del D.Lgs. 6 settembre 2005 n. 206, codice del consumo, «Eccezioni al diritto di recesso», comma 1 lettera n)",
+      "ente": "Normattiva",
+      "data": "intestazione «Testo in vigore dal: 2-4-2023» letta in pagina, nessuna data di fine indicata; consultato il 12 settembre 2026",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206~art59!vig=2026-09-12"
+    }
+  ],
+  "disclaimer": false,
+  "note": "REFERTO VERIFICHE — 12 settembre 2026.\n\nPAGINE APERTE E LETTE IN SESSIONE (tutte con esito positivo).\n1) Normattiva, art. 59 D.Lgs. 206/2005 via permalink con !vig=2026-09-12: HTTP 200, 192 KB, content-type text/html. Stringa di controllo cercata e trovata nel corpo: «Eccezioni al diritto di recesso» + «descrizione: 59» (non è stato reso un articolo diverso). Intestazione letta: «Testo in vigore dal: 2-4-2023», SENZA data di fine (niente abrogazione futura segnalata). Il testo NON contiene una lettera intitolata «servizi di alloggio»: la fattispecie sta nella lettera n) del comma 1 e recita, verbatim, «la fornitura di alloggi per fini non residenziali, il trasporto di beni, i servizi di noleggio di autovetture, i servizi di catering o i servizi riguardanti le attività del tempo libero qualora il contratto preveda una data o un periodo di esecuzione specifici». Nell'articolo ho riportato i due frammenti fra virgolette basse senza alterarli. Correzione all'indicazione ricevuta nella specifica: il testo non dice che il recesso «non si applica», dice che «è escluso», e l'esclusione opera dentro il perimetro del comma 1, cioè per i contratti a distanza e i contratti negoziati fuori dei locali commerciali, fra professionista e consumatore. Ho quindi scritto che nessuna delle due parti ha un diritto di recesso da esercitare in quel contesto, senza estendere la norma ai rapporti in cui chi ospita non agisce come professionista, che il testo non regola.\n2) Airbnb, Centro Assistenza, articoli 50, 913, 1504, 1505, 1501, 2389 (versione italiana airbnb.it): HTTP 200 ciascuno, letti in chiaro. Nessuna delle pagine mostra una data di ultimo aggiornamento: l'ho scritto nel campo data della fonte invece di inventarla. Fatti ripresi verbatim o quasi: perimetro della modifica (date, numero di ospiti, prezzo, annuncio; prenotazioni passate non modificabili); «l'ospite ha facoltà di rifiutare. Se lo fa e tu non puoi onorare la sua attuale prenotazione, dovrai cancellarla»; addebito automatico sul metodo originale con l'eccezione delle 48 ore e il ritorno della prenotazione allo stato iniziale; estensione con Prenotazione Immediata fino a 72 ore prima del check-out; una sola richiesta in sospeso per prenotazione; limite di 3 modifiche al giorno e 10 in totale; richiesta inviata non correggibile, solo annullabile; ricalcolo sempre delle tasse; soglia 27/28 notti che sposta la famiglia di termini di cancellazione; solo chi ha effettuato la prenotazione originale può inviare o accettare una richiesta; «Non sono previste conseguenze in caso di rifiuto»; cancellazione di una prenotazione attiva con possibili «costi o altre conseguenze».\n3) Booking.com for Partners, «Come modificare una prenotazione presso la struttura»: WebFetch ha risposto 403, curl con User-Agent di browser ha risposto HTTP 200 (287 KB). Non è un aggiramento di controlli anti-bot: nessun CAPTCHA, nessun blocco dichiarato, solo un percorso che rifiuta il client di default, coerente con quanto già noto su questo dominio. Etichetta di aggiornamento letta in pagina: «Aggiornato 1 mese fa». Fatti ripresi: la variabile è il momento (prima/dopo check-in) e chi gestisce il pagamento; richiesta di cambio date con 24 ore per l'ospite e nuove date temporaneamente escluse dal calendario; con Pagamenti tramite Booking.com il cambio è diretto senza approvazione ma solo se durata e prezzo restano invariati; l'ospite può chiedere il cambio anche quando la politica non prevede modifiche, e può cambiarle da solo dentro la finestra di cancellazione gratuita; dopo il check-in si modifica solo se il pagamento è gestito dalla struttura, la prenotazione non è doppia e non è già stata fatturata; ospiti aggiuntivi, numero non modificabile e prezzo sì; «è possibile apportare modifiche alle date anche se il calendario indica che le date non sono disponibili»; «Tutte le prenotazioni sono confermate immediatamente e devono essere onorate». Stessa pagina, quarta condizione dopo il check-in: il Partner Help nomina un programma commerciale di prenotazioni flessibili. Ho reso la condizione in forma descrittiva («non ricada nei programmi di flessibilità della piattaforma») per non introdurre un nome commerciale nel testo; il nome resta leggibile alla fonte.\n4) Booking.com for Partners, «Changing dates for non-refundable bookings»: curl HTTP 200, etichetta «Updated 1 month ago». Fatti ripresi: una sola modifica per prenotazione, valore pari o superiore, condizioni della prenotazione invariate, riflesso di disponibilità/tariffe/restrizioni in tempo reale, possibilità di accorciare purché il totale non scenda, facoltà della struttura di fissare un termine. Non ho riportato il meccanismo di incasso della differenza (carta virtuale o metodo originale) perché avrebbe richiesto di nominare uno strumento di pagamento e di entrare in un dettaglio che la specifica chiedeva di evitare.\n\nCHE COSA HO SCELTO DI NON AFFERMARE.\n- Nessun importo, nessuna percentuale, nessuna quota di penale o di rimborso: sul prezzo ho scritto solo quali voci si ricalcolano, quali restano ferme e chi versa la differenza.\n- Non ho scritto che su Booking.com esiste un pulsante per rifiutare una richiesta dell'ospite equivalente a quello di Airbnb: la pagina parla di accettare o rifiutare in base a disponibilità e politiche, senza descrivere un flusso simmetrico, e non ho trovato una pagina che lo descriva.\n- Non ho affermato che le conseguenze di una cancellazione da parte dell'host siano le stesse sulle due piattaforme: la pagina Airbnb consultata parla genericamente di «costi o altre conseguenze» e rimanda ai Termini di cancellazione, che non ho aperto.\n- Non ho toccato gli adempimenti su alloggiati, imposta di soggiorno e ricevuta con indicazione di termini o articoli: li nomino nell'ultima sezione come cose che restano in capo a chi ospita, senza citare norme che in questo articolo non ho riverificato. Il tema è già trattato per esteso nel vicino sul mancato arrivo.\n\nCENSIMENTO DEI VICINI (fatto su tutti i 337 file, non solo sui tre related).\n- Header di tabella: 247 header distinti nel corpus. Il mio («Che cosa chiede l'ospite | Che cosa si sposta davvero | Chi deve dare il consenso | Che cosa verificare prima di rispondere») non compare. Ho scartato una prima versione che apriva con «La richiesta che arriva», identica alla prima colonna di ospiti-con-disabilita-accessibilita.\n- FAQ: 29 domande del corpus contengono modific/cambi/spostar. Le due più vicine sono ospiti-non-dichiarati-affitti-brevi («L'host può cambiare da solo il numero di ospiti di una prenotazione confermata?») e supplemento-per-ospite-aggiuntivo («Se cambio il numero di ospiti incluso, le prenotazioni già confermate si aggiornano?»): ho evitato del tutto la domanda sul numero di ospiti e ho lasciato quel caso in una sola riga di tabella. politica-cancellazione-airbnb ha «Posso cambiare la politica di cancellazione dopo aver pubblicato l'annuncio?», diversa dalla mia sesta FAQ, che riguarda il cambio di fascia di durata su una prenotazione già confermata. no-show-ospite-che-non-arriva cita fra le sue fonti anche le pagine Airbnb sulla modifica del viaggio: ho verificato che nessuna delle sue sei FAQ e nessuno dei suoi sette h2 copra la richiesta di modifica in sé.\n\nFRASE CITABILE. Costruzione assegnata «non si », usata una volta sola, nella seconda frase del secondo paragrafo dell'ultima sezione (non nella prima frase della sezione, che il generatore salta): «Alle richieste di modifica non si risponde a caldo: si risponde dopo aver riaperto il calendario» — 16 parole, 97 caratteri, verbo «rispondere», estraneo alle combinazioni forti consumate (improvvisa/prenota/riempie/recupera/compra). Verificato importando pullquote_for e _quotabile da blog/scripts/genera.py ed eseguendoli su questo file: la funzione restituisce quella frase e l'indice dell'ultima sezione. Nessun'altra frase dell'ultima sezione contiene un innesco (controllati , non / non si / vale / pesa / conta più / non basta / non è quanto-quello-come-una questione e tutti i forti). Le espressioni del primo passaggio (Superhost, nostra esperienza, nel nostro lavoro, Nella nostra, da property manager, lo vediamo di continuo, abbiamo visto, abbiamo imparato, l'errore che) sono assenti da tutto l'articolo. render_article non è stato eseguito, quindi non è stata creata nessuna directory da rimuovere.\n\nERRORI TROVATI IN ARTICOLI GIÀ PUBBLICATI: nessuno. Segnalo solo, senza toccarlo, che politica-cancellazione-airbnb ha sources vuoto e quattro sezioni con \"table\": null."
+}

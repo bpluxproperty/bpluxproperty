@@ -69,12 +69,37 @@
         "Il contenuto della dichiarazione e la conservazione dei documenti: la trasmissione si affida a un incaricato, la responsabilità su che cosa c'è scritto no."
       ],
       "table": {
-        "headers": ["Adempimento", "Si può affidare", "A chi", "Che cosa serve perché valga"],
+        "headers": [
+          "Adempimento",
+          "Si può affidare",
+          "A chi",
+          "Che cosa serve perché valga"
+        ],
         "rows": [
-          ["Invio della dichiarazione dei redditi", "Sì", "Un incaricato fra i soggetti che la norma abilita alla trasmissione telematica, per esempio un professionista iscritto all'albo", "L'incarico alla trasmissione, con impegno e ricevute da conservare"],
-          ["Ricezione degli atti e delle notifiche", "Sì", "Una persona o un ufficio nel comune del proprio domicilio fiscale, oppure un rappresentante fiscale", "Una comunicazione all'ufficio competente, efficace dal trentesimo giorno dopo la ricezione"],
-          ["Versamento delle imposte", "In parte", "Chi ha un conto presso una banca convenzionata; in mancanza si paga con bonifico dall'estero", "Dati del contribuente e causale corretti, qualunque sia il canale usato"],
-          ["Accesso all'area riservata del Fisco", "Sì", "Un rappresentante oppure un parente o una persona di fiducia abilitata dall'Agenzia", "L'abilitazione chiesta all'Agenzia; chi opera entra con la propria identità digitale"]
+          [
+            "Invio della dichiarazione dei redditi",
+            "Sì",
+            "Un incaricato fra i soggetti che la norma abilita alla trasmissione telematica, per esempio un professionista iscritto all'albo",
+            "L'incarico alla trasmissione, con impegno e ricevute da conservare"
+          ],
+          [
+            "Ricezione degli atti e delle notifiche",
+            "Sì",
+            "Una persona o un ufficio nel comune del proprio domicilio fiscale, oppure un rappresentante fiscale",
+            "Una comunicazione all'ufficio competente, efficace dal trentesimo giorno dopo la ricezione"
+          ],
+          [
+            "Versamento delle imposte",
+            "In parte",
+            "Chi ha un conto presso una banca convenzionata; in mancanza si paga con bonifico dall'estero",
+            "Dati del contribuente e causale corretti, qualunque sia il canale usato"
+          ],
+          [
+            "Accesso all'area riservata del Fisco",
+            "Sì",
+            "Un rappresentante oppure un parente o una persona di fiducia abilitata dall'Agenzia",
+            "L'abilitazione chiesta all'Agenzia; chi opera entra con la propria identità digitale"
+          ]
         ]
       }
     },
@@ -114,7 +139,12 @@
       "a": "Sì per i cittadini italiani maggiorenni, a condizione di avere un documento di identità italiano in corso di validità e un codice fiscale. Il riconoscimento può avvenire online, con le modalità contrassegnate come disponibili fuori dall'Italia, oppure di persona davanti agli incaricati attivi presso le sedi consolari; se il documento è scaduto va rinnovato prima. Chi non è cittadino italiano deve verificare che cosa gli sia accessibile: per alcuni servizi del Fisco è previsto l'accesso con un'identità digitale europea, limitatamente allo Sportello Digitale Unico."
     }
   ],
-  "related": ["gestione-affitti-brevi-a-distanza", "dichiarazione-redditi-affitti-brevi", "prima-casa-e-affitti-brevi"],
+  "related": [
+    "gestione-affitti-brevi-a-distanza",
+    "dichiarazione-redditi-affitti-brevi",
+    "prima-casa-e-affitti-brevi",
+    "residenza-dell-ospite-affitti-brevi"
+  ],
   "sources": [
     {
       "label": "Cedolare secca: chi può optare e applicazione alle locazioni brevi",

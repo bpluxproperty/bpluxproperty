@@ -8,7 +8,7 @@
   "excerpt": "Guida pratica per pubblicare da soli la propria casa su Booking.com: dalla registrazione della struttura ai prezzi, dalle politiche ai pagamenti. Con le differenze reali rispetto ad Airbnb e il nodo dei calendari da sincronizzare.",
   "opening": "Pubblicare la tua casa su Booking.com significa completare un percorso guidato: registri la struttura, inserisci posizione, servizi, foto e descrizione, imposti unità, calendario, prezzi e politiche, aggiungi i dati per il pagamento e mandi tutto in verifica. Prima di andare online, un ultimo controllo. Qui vediamo ogni passo, con occhio pratico e onesto.",
   "publishedAt": "2026-08-12",
-  "updatedAt": "2026-08-12",
+  "updatedAt": "2026-09-12",
   "heroKicker": "BOOKING",
   "sections": [
     {
@@ -62,7 +62,7 @@
       "paragraphs": [
         "Con la vetrina pronta, apri le date. Il calendario indica quando l'alloggio è prenotabile: senza date aperte, l'annuncio esiste ma non vende.",
         "Poi imposti i prezzi. Booking lavora molto sui piani tariffari: la tariffa standard è la base, ma puoi affiancare piani non rimborsabili a prezzo più basso, tariffe con colazione, offerte per soggiorni lunghi o per chi prenota in anticipo. Ogni piano è una leva diversa sullo stesso calendario.",
-        "Un prezzo fisso tutto l'anno lascia soldi . Alzare nei weekend e negli eventi, abbassare nei periodi vuoti, rende di più. Le percentuali e le condizioni dei programmi cambiano nel tempo: verifica sempre le condizioni aggiornate nell'area partner prima di decidere."
+        "Un prezzo fisso tutto l'anno rende meno di uno che segue la domanda. Alzare nei weekend e negli eventi, abbassare nei periodi vuoti, rende di più. Le percentuali e le condizioni dei programmi cambiano nel tempo: verifica sempre le condizioni aggiornate nell'area partner prima di decidere."
       ],
       "list": [
         "Tariffa standard: il prezzo base per notte da cui parte tutto.",
@@ -76,7 +76,7 @@
       "h2": "Politiche, pagamenti e verifica prima dell'online",
       "paragraphs": [
         "Restano le regole del gioco. Imposti la politica di cancellazione, gli orari di check-in e check-out, le regole della casa: animali, feste, fumo, età minima. Sono le condizioni che l'ospite accetta quando prenota, quindi vanno scritte con chiarezza.",
-        "Poi i dati per il pagamento e la fatturazione: intestatario, IBAN, informazioni fiscali. Booking segue il modello alberghiero: la commissione è a carico della struttura, non divisa con l'ospite come nel modello tipico di Airbnb. È una percentuale a doppia cifra sul valore della prenotazione, variabile per mercato e programmi: verifica le condizioni aggiornate prima di fissare i prezzi.",
+        "Poi i dati per il pagamento e la fatturazione: intestatario, IBAN, informazioni fiscali. Booking segue il modello alberghiero: la commissione è a carico della struttura, non divisa con l'ospite come nel modello tipico di Airbnb. È una percentuale sul valore della prenotazione, variabile per mercato e per i programmi a cui si aderisce: verifica le condizioni aggiornate prima di fissare i prezzi.",
         "Occhio anche all'imposta di soggiorno: dove il Comune la prevede, si incassa dall'ospite e si versa secondo le sue regole. Non sempre è gestita in automatico, quindi controlla come applicarla nel tuo caso. Infine la verifica: prima di andare online Booking controlla i dati della struttura. Rileggi tu stesso ogni sezione, poi conferma la pubblicazione."
       ],
       "list": [
@@ -170,7 +170,7 @@
     },
     {
       "q": "Pubblicare su Booking costa qualcosa?",
-      "a": "Aprire l'annuncio non prevede un costo di iscrizione: Booking guadagna con una commissione sulle prenotazioni, interamente a carico della struttura. È una percentuale a doppia cifra sul valore della prenotazione, variabile per mercato e programmi. Verifica sempre le condizioni aggiornate prima di fissare i prezzi."
+      "a": "Aprire l'annuncio non prevede un costo di iscrizione: Booking guadagna con una commissione sulle prenotazioni, interamente a carico della struttura. È una percentuale sul valore della prenotazione, variabile per mercato e per i programmi a cui si aderisce. Verifica sempre le condizioni aggiornate prima di fissare i prezzi."
     },
     {
       "q": "Che differenza c'è tra pubblicare su Booking e su Airbnb?",
@@ -194,7 +194,8 @@
     "come-funziona-airbnb-host",
     "channel-manager-affitti-brevi",
     "multicanale-airbnb-booking-overbooking",
-    "vrbo-e-altri-portali"
+    "vrbo-e-altri-portali",
+    "come-e-quando-paga-booking"
   ],
   "sources": [
     {

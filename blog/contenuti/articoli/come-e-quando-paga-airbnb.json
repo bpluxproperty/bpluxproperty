@@ -8,7 +8,7 @@
   "excerpt": "Airbnb non ti paga alla prenotazione, ma dopo il check-in dell'ospite. Ecco come funziona il payout, i metodi disponibili, la differenza con Booking e cosa fare se un pagamento tarda. Spiegato semplice, da chi lo fa di mestiere.",
   "opening": "Airbnb, di norma, paga l'host dopo il check-in dell'ospite: in genere entro circa un giorno dall'arrivo, non al momento della prenotazione. L'ospite paga subito, ma i fondi vengono rilasciati a te quando il soggiorno è iniziato, sul metodo di payout che hai impostato. I tempi poi variano per metodo e Paese: verifica sempre le condizioni aggiornate nel tuo account.",
   "publishedAt": "2026-08-12",
-  "updatedAt": "2026-08-12",
+  "updatedAt": "2026-09-12",
   "heroKicker": "AIRBNB",
   "sections": [
     {
@@ -108,12 +108,12 @@
           [
             "Quando ricevi i soldi",
             "Di norma dopo il check-in",
-            "Quando incassi tu dall'ospite"
+            "Dipende dal modello di pagamento attivo"
           ],
           [
             "La commissione",
             "Già trattenuta prima del payout",
-            "Di norma versata o scalata dopo, a parte"
+            "Detratta dai pagamenti gestiti, oppure fatturata a fine mese"
           ],
           [
             "Cosa arriva a te",
@@ -184,9 +184,17 @@
     "come-funziona-airbnb-host",
     "commissioni-airbnb-quanto-trattiene",
     "cedolare-secca-affitti-brevi",
-    "ritenuta-piattaforme-affitti-brevi"
+    "ritenuta-piattaforme-affitti-brevi",
+    "come-e-quando-paga-booking"
   ],
-  "sources": [],
+  "sources": [
+    {
+      "label": "Come vengono gestiti la commissione e il costo di servizio del pagamento",
+      "ente": "Booking.com for Partners – Partner Help",
+      "data": "consultata il 12 settembre 2026",
+      "url": "https://partner.booking.com/it/aiuto/commissioni-fatture-e-tasse/prodotti-pagamenti/ricevi-bonifici-con-i-pagamenti-tramite"
+    }
+  ],
   "disclaimer": false,
   "note": ""
 }

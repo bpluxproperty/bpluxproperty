@@ -144,7 +144,8 @@
     "regole-della-casa-valore-legale",
     "casa-vacanze-o-affitto-breve-differenze",
     "eta-minima-ospiti-affitti-brevi",
-    "ospiti-non-dichiarati-affitti-brevi"
+    "ospiti-non-dichiarati-affitti-brevi",
+    "residenza-dell-ospite-affitti-brevi"
   ],
   "sources": [
     {

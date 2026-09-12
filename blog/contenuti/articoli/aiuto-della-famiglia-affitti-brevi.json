@@ -68,13 +68,43 @@
         "Una riga della tabella merita un'annotazione a parte. Le credenziali del portale della questura sono rilasciate alla struttura, su domanda del gestore, e vanno usate personalmente da lui oppure consegnate a un soggetto identificato e appositamente incaricato della trasmissione, con le istruzioni relative: passare la password a voce a chi si trova in casa quella sera non è la stessa cosa. E la ricevuta di ogni comunicazione va conservata cinque anni, il che richiede che qualcuno abbia deciso in anticipo dove finisce."
       ],
       "table": {
-        "headers": ["Il compito", "Chi in famiglia lo prende di solito", "Il giorno in cui salta", "La condizione che lo tiene in piedi"],
+        "headers": [
+          "Il compito",
+          "Chi in famiglia lo prende di solito",
+          "Il giorno in cui salta",
+          "La condizione che lo tiene in piedi"
+        ],
         "rows": [
-          ["Risposte agli ospiti e conferme", "Chi ha il telefono sempre in mano", "Ferie, un ricovero, un viaggio senza campo", "Un secondo accesso già attivo e una persona che sa dove sono le informazioni"],
-          ["Consegna delle chiavi e accoglienza", "Chi abita più vicino alla casa", "Due arrivi nello stesso pomeriggio, o un treno in ritardo", "Un'alternativa che non dipende da una persona sola"],
-          ["Pulizia e cambio della biancheria", "Chi lo ha sempre fatto in casa propria", "La partenza e l'arrivo nella stessa giornata", "Un fornitore già contattato prima, non cercato il giorno stesso"],
-          ["Comunicazione delle persone alloggiate", "Chi ha in mano le credenziali della struttura", "Un arrivo di sera quando quella persona non c'è", "Un incaricato identificato, con istruzioni scritte, come prevede il decreto"],
-          ["Incassi, spese e rendiconto", "Chi ha aperto il conto, quasi sempre il proprietario", "Il primo rimborso chiesto a voce e mai registrato", "Un conto solo per la casa e una traccia scritta di ogni passaggio"]
+          [
+            "Risposte agli ospiti e conferme",
+            "Chi ha il telefono sempre in mano",
+            "Ferie, un ricovero, un viaggio senza campo",
+            "Un secondo accesso già attivo e una persona che sa dove sono le informazioni"
+          ],
+          [
+            "Consegna delle chiavi e accoglienza",
+            "Chi abita più vicino alla casa",
+            "Due arrivi nello stesso pomeriggio, o un treno in ritardo",
+            "Un'alternativa che non dipende da una persona sola"
+          ],
+          [
+            "Pulizia e cambio della biancheria",
+            "Chi lo ha sempre fatto in casa propria",
+            "La partenza e l'arrivo nella stessa giornata",
+            "Un fornitore già contattato prima, non cercato il giorno stesso"
+          ],
+          [
+            "Comunicazione delle persone alloggiate",
+            "Chi ha in mano le credenziali della struttura",
+            "Un arrivo di sera quando quella persona non c'è",
+            "Un incaricato identificato, con istruzioni scritte, come prevede il decreto"
+          ],
+          [
+            "Incassi, spese e rendiconto",
+            "Chi ha aperto il conto, quasi sempre il proprietario",
+            "Il primo rimborso chiesto a voce e mai registrato",
+            "Un conto solo per la casa e una traccia scritta di ogni passaggio"
+          ]
         ]
       }
     },
@@ -114,7 +144,12 @@
       "a": "Il limite non è un numero di ore ma la presenza di una sostituzione: un assetto regge finché ogni compito ha almeno due persone in grado di farlo. Il monte ore complessivo di un affitto breve dipende dalla casa, dalla stagione e da quanti cambi ci sono, e ha una risposta a sé. Il segnale che conta qui è diverso e viene dalle persone: quando la disponibilità diventa condizionata e qualcuno inizia a tenere il conto delle volte, il perimetro va ridotto prima che si rompa qualcosa."
     }
   ],
-  "related": ["affitti-brevi-inps-contributi", "quanto-tempo-serve-gestire-affitto-breve", "contratto-property-manager-cosa-controllare"],
+  "related": [
+    "affitti-brevi-inps-contributi",
+    "quanto-tempo-serve-gestire-affitto-breve",
+    "contratto-property-manager-cosa-controllare",
+    "casa-assegnata-separazione-affitti-brevi"
+  ],
   "sources": [
     {
       "label": "Codice civile, articolo 230-bis: impresa familiare, nozione di familiare e diritti di partecipazione (testo in vigore dal 1° agosto 2024, con la nota di aggiornamento sulla sentenza della Corte costituzionale n. 148 del 2024)",

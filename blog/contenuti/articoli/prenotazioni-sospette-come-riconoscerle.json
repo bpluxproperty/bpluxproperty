@@ -142,7 +142,8 @@
     "alloggiati-web-comunicazione-ospiti",
     "cauzione-e-danni-affitti-brevi",
     "eta-minima-ospiti-affitti-brevi",
-    "recensire-l-ospite"
+    "recensire-l-ospite",
+    "modifica-prenotazione-cambio-date"
   ],
   "sources": [
     {

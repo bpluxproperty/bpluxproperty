@@ -159,7 +159,8 @@
     "airbnb-o-booking",
     "multicanale-airbnb-booking-overbooking",
     "channel-manager-affitti-brevi",
-    "prenotazioni-dirette-affitti-brevi"
+    "prenotazioni-dirette-affitti-brevi",
+    "modifica-prenotazione-cambio-date"
   ],
   "sources": [
     {

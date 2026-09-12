@@ -1,0 +1,187 @@
+{
+  "slug": "come-e-quando-paga-booking",
+  "keyword": "come e quando paga booking",
+  "category": "piattaforme",
+  "title": "Come e quando paga Booking: tempi, carta e bonifico",
+  "metaDescription": "Come e quando paga Booking dipende dalla configurazione: riscossione in struttura, bonifico dopo il check-out o carta virtuale da addebitare al POS.",
+  "h1": "Come funzionano gli incassi su Booking: dal pagamento dell'ospite al tuo conto",
+  "excerpt": "Su Booking non esiste un solo modo di essere pagati: chi riscuote dall'ospite, su quale binario arriva il denaro e in quanto tempo dipendono dalla configurazione della struttura e dal mercato. I tre modelli, la carta virtuale e la commissione che a volte si detrae e a volte si fattura.",
+  "opening": "Su Booking il denaro può seguire strade diverse: può incassarlo la struttura, oppure la piattaforma, che poi versa l'importo dopo il check-out con un bonifico o caricandolo su una carta di credito virtuale da addebitare al POS. Quale delle tre valga per una singola casa dipende dalla configurazione del conto e dal mercato, e va letto nell'extranet.",
+  "publishedAt": "2026-09-12",
+  "updatedAt": "2026-09-12",
+  "heroKicker": "INCASSI",
+  "sections": [
+    {
+      "h2": "Su Booking il denaro non passa sempre dallo stesso posto",
+      "paragraphs": [
+        "Chi arriva da un portale che incassa sempre lui si aspetta una regola unica, e su Booking quella regola unica non c'è. Il servizio che permette alla piattaforma di raccogliere i pagamenti degli ospiti si chiama Pagamenti tramite Booking.com, e la documentazione ufficiale precisa che una struttura può non esserne idonea, o che il servizio può non essere ancora disponibile nella sua area geografica. Finché non è attivo, a riscuotere è chi affitta.",
+        "Da qui discendono tre domande che vanno tenute separate, perché hanno tre risposte e tre impostazioni diverse. La prima: chi chiede i soldi all'ospite. La seconda: su quale binario il denaro raggiunge chi affitta, se un bonifico sul conto o una carta da addebitare al terminale. La terza: in quale momento quel movimento avviene. Confondere le tre domande è il modo più rapido per aspettare un accredito che, nella configurazione attiva, non era mai previsto.",
+        "C'è poi un vincolo che sorprende chi ragiona per analogia con gli altri portali: la commissione e il costo del servizio di pagamento seguono un percorso proprio, che in certe configurazioni li sottrae dall'accredito e in altre li trasforma in una fattura da saldare. È la parte che decide se il denaro entra al lordo o al netto."
+      ],
+      "list": [],
+      "table": null
+    },
+    {
+      "h2": "Pagamento in struttura e pagamenti gestiti dal portale",
+      "paragraphs": [
+        "Nel primo modello la riscossione è interamente a carico di chi affitta. I dati della carta dell'ospite vengono raccolti al momento della prenotazione e servono ad addebitare pagamenti anticipati, depositi e mancate presentazioni secondo le condizioni impostate; l'elaborazione passa dal proprio terminale o dal proprio gateway, e la responsabilità sulla sicurezza dei dati e sulle norme applicabili resta a chi incassa. La documentazione avverte che i partner nuovi possono trovare una restrizione temporanea sui pagamenti anticipati, finché la verifica della struttura non è conclusa.",
+        "Nel secondo modello è il portale a facilitare il pagamento: l'ospite paga con il metodo che preferisce e, sulle prenotazioni senza pagamento anticipato, la piattaforma verifica le carte e gestisce le penali di cancellazione e di mancata presentazione dovute alla struttura. I fondi vengono poi inviati dopo il check-out dell'ospite, tramite bonifico o carta di credito virtuale, a seconda di dove si trova la struttura e delle impostazioni di pagamento.",
+        "Esiste anche una via di mezzo, riservata a chi usa il servizio di pagamento e offre condizioni senza prepagamento con cancellazione gratuita: l'ospite salda direttamente in struttura dopo il check-in, mentre la piattaforma controlla le carte dal momento della prenotazione fino al termine della cancellazione gratuita e prova a riscuotere le penali dovute. La stessa pagina indica che, per aumentare le probabilità di recupero, le mancate presentazioni vanno segnalate entro quattro giorni di calendario dalla data del check-in."
+      ],
+      "list": [
+        "Riscossione in proprio: i dati della carta si consultano fino a tre volte ed entro dieci giorni dal check-out o dalla cancellazione, e il codice di verifica compare una volta sola.",
+        "Carta che non si riesce ad addebitare: si segnala come non valida, e la piattaforma dichiara che su quella prenotazione la commissione non viene addebitata.",
+        "Rimborsi con riscossione in proprio: li emette chi ha incassato, con lo stesso metodo usato dall'ospite.",
+        "Servizio di pagamento del portale: rimborsi agli ospiti, costi di cancellazione oltre i termini e pagamenti contestati restano in capo alla piattaforma.",
+        "Pagamento in struttura con verifica delle carte: la pagina ufficiale lo indica disponibile, fra gli altri, nei Paesi dello Spazio economico europeo."
+      ],
+      "table": null
+    },
+    {
+      "h2": "La carta virtuale: che cos'è e da quando si può usare",
+      "paragraphs": [
+        "La carta di credito virtuale è disponibile soltanto a chi ha attivato il servizio di pagamento del portale. Funziona così: la piattaforma incassa dall'ospite e carica l'importo su una carta, che chi affitta addebita al proprio POS come farebbe con qualunque altra carta di credito. Serve quindi un terminale che accetti questo tipo di carte, e un utente con i diritti giusti sull'account, perché i dati si vedono solo con l'autorizzazione dedicata.",
+        "Il passaggio che genera più domande è la data di attivazione, perché la carta non è addebitabile dal primo giorno. Ogni nuova carta viene attivata in base alle condizioni della prenotazione: per le prenotazioni non rimborsabili l'attivazione cade nella stessa data della prenotazione, per tutte le altre si sposta al momento in cui la prenotazione supera la soglia di non rimborsabilità indicata dalla piattaforma. E quel momento anticipato spetta solo a chi rientra in una serie di requisiti: fatture pagate nei termini nell'ultimo anno, nessun rimborso di carta virtuale scaduto, almeno una fattura delle commissioni saldata, soggiorni e recensioni verificati.",
+        "Chi non li soddisfa, o gestisce una struttura nuova, addebita più tardi: la piattaforma indica il check-in per le strutture statunitensi e il giorno successivo negli altri casi, e riesamina i requisiti ogni quattro mesi. Dall'altro lato c'è una scadenza da non superare: la carta si può addebitare fino a dodici mesi dalla data di check-out, poi scade, i fondi tornano al portale e per quella prenotazione non viene emessa una nuova carta. Un promemoria automatico arriva dopo il check-out se l'addebito non è ancora avvenuto.",
+        "Due avvertenze pratiche chiudono il quadro. La carta si può addebitare più volte fino ad azzerarne il saldo, e l'errore di fondi insufficienti spesso non dipende dalla carta: alcuni costi extra e alcune tasse, tipicamente quelli impostati a persona, restano esclusi dal prezzo e vanno riscossi dall'ospite durante il soggiorno. Se invece una carta già addebitata va rimborsata, la piattaforma fissa quarantacinque giorni dal primo promemoria, oltre i quali avvia uno storno."
+      ],
+      "list": [],
+      "table": null
+    },
+    {
+      "h2": "La commissione: detratta dal pagamento oppure fatturata a parte",
+      "paragraphs": [
+        "Qui l'intuizione presa dagli altri portali porta fuori strada, in entrambe le direzioni. La documentazione descrive due opzioni, che variano in base alla località e alla configurazione. Se la piattaforma gestisce tutti i pagamenti degli ospiti, detrae automaticamente la commissione e il costo di transazione da ogni importo versato. Se invece una parte degli ospiti paga direttamente alla struttura e il resto passa dal portale, alla fine del mese arriva una sola fattura per la commissione e per i costi di transazione di tutte le prenotazioni.",
+        "La pagina dedicata alle fatture aggiunge le eccezioni che contano per un proprietario di seconda casa. L'addebito automatico vale quando la piattaforma riscuote da tutti gli ospiti e la struttura non accetta carte di credito; la fattura resta invece da pagare a mano se le strutture sono più di una, se la riscossione riguarda solo una parte delle prenotazioni o se si rientra in un modello di pagamento diverso. Chi apre il secondo appartamento, quindi, torna a saldare un documento mensile.",
+        "Sui tempi, la fattura delle commissioni arriva la prima settimana di ogni mese e raccoglie le prenotazioni con check-out nel mese precedente. L'esempio della piattaforma è utile: un ospite che arriva il trentuno gennaio e parte il primo febbraio finisce nella fattura di marzo. Le fatture vanno saldate entro quattordici giorni dall'emissione, e possono servire circa sette giorni lavorativi perché un pagamento ricevuto si rifletta nell'extranet: in quella finestra il documento può ancora risultare non pagato. Le fatture non saldate portano alla chiusura temporanea della struttura.",
+        "Un dettaglio riguarda solo l'Italia ed è facile da non vedere. Fra i documenti che la piattaforma può emettere compare una fattura fiscale dedicata agli affitti brevi italiani, destinata ai partner con pagamento al netto, che riepiloga gli importi trattenuti e saldati sui pagamenti a loro favore. È il documento che tiene insieme le due metà del conto quando la commissione non transita da un bonifico in uscita."
+      ],
+      "list": [],
+      "table": null
+    },
+    {
+      "h2": "Il modello di incasso: chi addebita e in quanto tempo accredita",
+      "paragraphs": [
+        "Prima del confronto serve sapere quale configurazione è attiva, e si legge in due posti. Nella scheda delle prenotazioni, la colonna di stato segnala se il pagamento di quell'ospite è gestito dal portale, senza però dire se il denaro sia già stato incassato o trasferito. Nel menù della contabilità, invece, la voce visibile fa da spia: le informazioni sui pagamenti indicano il bonifico, la gestione delle carte virtuali indica la carta, la sola voce del servizio indica che i requisiti ci sono ma il servizio non è attivo.",
+        "Sul bonifico i tempi sono scritti. La piattaforma riscuote prima dell'arrivo dell'ospite e versa l'importo dopo il check-out, con la cadenza scelta nelle impostazioni contabili: giornaliera, elaborata il giorno dopo il check-out e ferma nei fine settimana e nei festivi; settimanale, elaborata di giovedì per i check-out della settimana precedente e rinviata al primo giorno lavorativo se il giovedì è festivo; mensile, elaborata il primo giorno del mese per i check-out del mese prima. L'accredito può poi richiedere fino a dieci giorni.",
+        "Il resto lo dice la tabella. Vale la pena leggerla tenendo a mente che le righe non sono alternative rigide: una struttura può usare il servizio di pagamento su una parte delle prenotazioni e riscuotere da sola sulle altre, ed è proprio quel misto a spostare la commissione dalla detrazione alla fattura."
+      ],
+      "list": [],
+      "table": {
+        "headers": [
+          "Come sei configurato",
+          "Chi riscuote dall'ospite",
+          "Come ti arriva il denaro",
+          "Che cosa resta in mano tua"
+        ],
+        "rows": [
+          [
+            "Riscossione propria, senza il servizio di pagamento del portale",
+            "Chi affitta, con i dati di carta della prenotazione o in struttura",
+            "Sul proprio terminale o gateway, con i tempi della propria banca",
+            "Addebitare entro i termini e saldare la fattura mensile"
+          ],
+          [
+            "Servizio di pagamento del portale con accredito su conto",
+            "La piattaforma, con il metodo scelto dall'ospite",
+            "Bonifico dopo il check-out, con la cadenza impostata",
+            "Tenere validi i dati bancari e controllare la cadenza"
+          ],
+          [
+            "Servizio di pagamento del portale con carta virtuale",
+            "La piattaforma, che carica l'importo su una carta",
+            "Una carta da addebitare al POS entro la scadenza",
+            "Addebitare appena si attiva e azzerare il saldo"
+          ],
+          [
+            "Pagamento in struttura con verifica delle carte",
+            "Chi affitta al check-in; le penali le riscuote la piattaforma",
+            "Direttamente in struttura; le penali col metodo abituale",
+            "Segnalare le mancate presentazioni nei termini indicati"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Le impostazioni che si sistemano una volta sola",
+      "paragraphs": [
+        "Alcune voci dell'extranet si toccano all'inizio e poi restano ferme per anni, ed è questo che le rende insidiose: l'errore resta lì. I dati bancari sono la prima. Modificarli sospende i pagamenti per cinque giorni lavorativi, in attesa di verifica, e la stessa attesa vale quando la piattaforma li considera mancanti, non validi o aggiornati di recente. Se ci sono fatture in sospeso che superano il pagamento previsto, l'accredito non parte finché il saldo non è chiuso.",
+        "La seconda voce è il metodo con cui si viene pagati, e ha una porta a senso unico: il passaggio dalla carta di credito virtuale al bonifico non si può annullare, e la piattaforma indica circa cinque giorni perché diventi effettivo, con le prenotazioni create nel frattempo già pagate con il nuovo metodo. La terza riguarda come sono impostati i costi extra: quelli esclusi, tipicamente quelli a persona, li riscuote la struttura e non compaiono nell'accredito.",
+        "Resta una famiglia di impostazioni che non riguarda il denaro ma chi può toccarlo. La contabilità va abilitata sull'account dell'extranet, e il permesso di vedere i dati della carta va assegnato a chi materialmente deve addebitarla: senza quel permesso la voce non compare, e la spiegazione più frequente di un dato di carta invisibile è proprio questa, non un guasto."
+      ],
+      "list": [
+        "Dati bancari: un solo conto attivo per struttura, e con più immobili si imposta un conto per ciascun identificativo.",
+        "Conto in un altro Paese: ammesso dentro l'area SEPA, altrimenti deve stare nel Paese in cui la struttura è registrata.",
+        "Cadenza dei pagamenti: giornaliera, settimanale o mensile dove disponibile, dalle impostazioni contabili.",
+        "Metodo di pagamento: il passaggio dalla carta virtuale al bonifico si fa una volta sola e non torna indietro.",
+        "Costi extra: quello che resta impostato come escluso lo riscuote la struttura e non compare nell'accredito.",
+        "Conformità: la piattaforma cita fra i blocchi i requisiti DAC7 e la verifica del partner, da completare a cura dell'intestatario del conto."
+      ],
+      "table": null
+    },
+    {
+      "h2": "Perché su Booking controlliamo gli incassi a soggiorno finito",
+      "paragraphs": [
+        "A soggiorno chiuso apriamo due documenti e li leggiamo insieme, perché presi da soli raccontano cose diverse. Il resoconto dei pagamenti dice quello che il portale ha riscosso per conto della struttura; la fattura dice l'importo su cui la commissione lavora. Le due cifre coincidono di rado, e la spiegazione è quasi sempre una tassa impostata come esclusa, che l'ospite salda in casa e che quindi nell'accredito non compare mai.",
+        "Sul calendario abbiamo una regola sola: fissiamo il controllo qualche giorno dopo il check-out, mai prima. Il prezzo che l'ospite ha pagato non è quello che il portale ci accrediterà. Fra il prezzo e l'accredito si inseriscono la detrazione o la fattura della commissione, le tasse escluse da riscuotere in casa, le eventuali modifiche di prezzo e i rimborsi già elaborati, e ognuna di queste voci compare in un documento diverso. Guardare l'accredito il giorno stesso della partenza produce solo allarmi inutili.",
+        "Sulle carte virtuali teniamo una scadenza scritta accanto a ogni prenotazione, perché l'attivazione dipende dalle condizioni e la finestra utile si chiude da sola. Addebitiamo appena la carta è attiva, verifichiamo che il saldo sia sceso a zero e archiviamo la ricevuta insieme alla prenotazione. Quando resta un residuo, quasi sempre c'è dietro una voce impostata come esclusa: la chiediamo all'ospite prima della partenza, perché dopo diventa una telefonata sgradevole.",
+        "L'ultima abitudine riguarda le fatture. Le paghiamo appena arrivano, senza aspettare la scadenza, perché il ritardo qui ha una conseguenza sproporzionata: la piattaforma può chiudere temporaneamente la struttura, e riaprirla richiede prima di saldare tutto e poi di attendere l'accredito bancario. Su un appartamento che lavora in alta stagione, qualche giorno di annuncio spento costa molto più della somma in fattura."
+      ],
+      "list": [],
+      "table": null
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quando paga Booking una casa vacanze?",
+      "a": "Dipende dal modello di incasso attivo, e le risposte possibili sono tre. Con il servizio di pagamento del portale e l'accredito su conto, la piattaforma riscuote prima dell'arrivo e versa l'importo dopo il check-out, con la cadenza giornaliera, settimanale o mensile scelta nelle impostazioni contabili; l'accredito può poi richiedere fino a dieci giorni. Con la carta di credito virtuale il denaro diventa disponibile quando la carta si attiva, secondo le condizioni della prenotazione. Se invece la riscossione resta alla struttura, il momento lo decide chi addebita."
+    },
+    {
+      "q": "Che cos'è la carta di credito virtuale di Booking e come si incassa?",
+      "a": "È una carta su cui la piattaforma carica il pagamento dell'ospite, e si incassa addebitandola al proprio POS come una normale carta di credito. È disponibile solo a chi ha attivato il servizio di pagamento del portale e richiede un terminale che accetti queste carte. Ogni carta ha una data di attivazione legata alle condizioni della prenotazione e si può addebitare fino a dodici mesi dalla data di check-out, dopodiché scade e i fondi tornano al portale."
+    },
+    {
+      "q": "Perché l'importo accreditato è più basso del totale della prenotazione?",
+      "a": "Perché fra il prezzo pagato dall'ospite e l'accredito si inseriscono più voci, e la piattaforma le elenca. Nelle configurazioni in cui commissione e costo di transazione vengono detratti, l'importo parte già decurtato; le tasse e i supplementi impostati come esclusi non passano dal portale e restano da riscuotere in struttura. Incidono poi le conversioni di valuta, i rimborsi o le modifiche di prezzo già elaborati, le penali incassate al posto dell'intero soggiorno e gli addebiti solo parziali della carta virtuale."
+    },
+    {
+      "q": "La commissione di Booking viene detratta dall'accredito o fatturata a parte?",
+      "a": "Dipende dalla configurazione, perché la documentazione descrive entrambe le strade. Se la piattaforma riscuote da tutti gli ospiti e la struttura non accetta carte di credito, commissione e costo di transazione vengono detratti automaticamente da ogni importo versato. La fattura resta invece da pagare a mano quando le strutture gestite sono più di una, quando la riscossione riguarda solo una parte delle prenotazioni o quando si rientra in un modello di pagamento diverso. Quale opzione si applica si legge nella pagina del servizio di pagamento, dentro la sezione contabilità."
+    },
+    {
+      "q": "Il bonifico non arriva: che cosa controllare prima di scrivere all'assistenza?",
+      "a": "Prima di tutto i dati bancari e le fatture in sospeso, che sono le due cause citate per prime dalla piattaforma. Dati mancanti, non validi o aggiornati di recente sospendono i pagamenti per cinque giorni lavorativi in attesa di verifica, e le fatture non saldate bloccano l'accredito finché il saldo resta aperto. Poi vanno esclusi i falsi allarmi che la stessa pagina elenca: una cadenza più lunga, un fine settimana o un giorno festivo, un saldo a zero per rimborsi o compensazioni, un cambio di metodo ancora in corso."
+    },
+    {
+      "q": "Si possono ricevere i pagamenti su due conti diversi per due case?",
+      "a": "Sì, ma un conto per casa: i pagamenti di una singola struttura vanno su un solo conto attivo, mentre con più immobili si può impostare un conto bancario diverso per ciascun identificativo di struttura. Il conto può trovarsi in un Paese diverso da quello della casa solo se entrambi rientrano nell'area SEPA; fuori da quell'area deve stare nello stesso Paese in cui la struttura è registrata."
+    }
+  ],
+  "related": [
+    "come-e-quando-paga-airbnb",
+    "commissioni-booking-quanto-trattiene",
+    "pubblicare-casa-su-booking"
+  ],
+  "sources": [
+    {
+      "label": "Aderire ai Pagamenti tramite Booking.com",
+      "ente": "Booking.com for Partners — Partner Help",
+      "data": "consultata il 12 settembre 2026",
+      "url": "https://partner.booking.com/it/aiuto/soluzioni-pagamento-fatture/pagamenti-tramite-bookingcom/aderire-ai-pagamenti-tramite"
+    },
+    {
+      "label": "Ricevi bonifici con i Pagamenti tramite Booking.com",
+      "ente": "Booking.com for Partners — Partner Help",
+      "data": "consultata il 12 settembre 2026",
+      "url": "https://partner.booking.com/it/aiuto/commissioni-fatture-e-tasse/prodotti-pagamenti/ricevi-bonifici-con-i-pagamenti-tramite"
+    },
+    {
+      "label": "Ricevi pagamenti tramite carte di credito virtuali (CCV)",
+      "ente": "Booking.com for Partners — Partner Help",
+      "data": "consultata il 12 settembre 2026",
+      "url": "https://partner.booking.com/it/aiuto/commissioni-fatture-e-tasse/prodotti-pagamenti/ricevi-pagamenti-tramite-carte-di-credito"
+    }
+  ],
+  "disclaimer": false,
+  "note": "REFERTO DELLE VERIFICHE — 12 settembre 2026.\n\nCOME HO RAGGIUNTO LE FONTI. partner.booking.com risponde 200 a curl con User-Agent di browser: nessun blocco, nessun CAPTCHA, nessun aggiramento. Tutte le pagine sotto sono state scaricate e lette in sessione. PAGINE CHE NON SONO RIUSCITO AD APRIRE: nessuna. Non ho tentato percorsi dietro login (l'extranet vero): tutto quello che descrivo dell'extranet è quello che la documentazione pubblica dichiara, e l'ho scritto come dichiarazione della piattaforma, non come osservazione diretta.\n\nURL APERTI E LETTI (oltre ai tre in sources):\n- https://partner.booking.com/it/aiuto/soluzioni-pagamento-fatture/fatture/pagamento-delle-fatture-da-bookingcom (fatture: scadenze, stati, chiusura struttura, eccezioni all'addebito automatico, fattura italiana per i partner con pagamento al netto)\n- https://partner.booking.com/it/aiuto/commissioni-fatture-e-tasse/fatture/come-funziona-la-commissione (commissione applicata al check-out, fattura mensile sui check-out del mese precedente, esempio 31 gennaio / 1 febbraio -> fattura di marzo)\n- https://partner.booking.com/it/aiuto/commissioni-fatture-e-tasse/prodotti-pagamenti/smart-pay-property-di-bookingcom (pagamento in struttura con verifica carte; disponibilità SEE; quattro giorni di calendario per le mancate presentazioni)\n- https://partner.booking.com/it/aiuto/soluzioni-pagamento-fatture/pagamenti-clientela/gestire-le-carte-di-credito-degli-ospiti (riscossione in proprio: dati carta fino a tre volte entro dieci giorni dal check-out, codice di verifica una volta sola, segnalazione carta non valida, restrizione temporanea per i partner nuovi, rimborsi a carico di chi ha incassato)\n\nIL PUNTO CHE IL BRIEF MI CHIEDEVA DI VERIFICARE, E CHE RISULTA DIVERSO DALL'IPOTESI. Il brief ipotizzava che su Booking la commissione «tipicamente non viene trattenuta alla fonte ma fatturata e pagata a parte». NON è così in generale, ed è per questo che ho riscritto l'h2 della sezione 4 da «Le commissioni non si trattengono: si fatturano e si pagano» a «La commissione: detratta dal pagamento oppure fatturata a parte» (tesi e posizione invariate; ricontrollato che il nuovo h2 non collida con nessuno degli h2 del corpus, confronto esatto più similarità di Jaccard sopra 0,6 su tutti i file della cartella, e neppure con i vicini). La pagina sui bonifici è esplicita, verbatim: «La modalità di gestione della commissione e del costo di servizio del pagamento variano in base alla località. Sono disponibili due opzioni: Se gestiamo tutti i tuoi pagamenti, detrarremo la nostra commissione e il costo di servizio del pagamento da ogni importo che ricevi. Se riscuoti il pagamento direttamente da alcuni ospiti, mentre noi ci occupiamo di altri, ti invieremo una fattura... alla fine del mese». La pagina di adesione ripete la stessa coppia («Detrazione dal pagamento» / «Fattura mensile») e aggiunge, alla voce «Perché il mio pagamento è inferiore al prezzo totale della prenotazione»: «se ricevi i pagamenti tramite bonifici e non accetti le carte di credito in struttura, deduciamo la commissione e i costi di transazione prima di inviarti l'importo. Se accetti le carte di credito, non deduciamo questi costi dal pagamento, che ti verranno invece fatturati separatamente». La pagina sulle fatture chiude il cerchio con le tre eccezioni che ho messo in articolo: si paga comunque a mano se «Hai più di una struttura», se «Gestiamo la riscossione dei pagamenti solo per alcune delle tue prenotazioni» o se si rientra in un modello di pagamento diverso. Quest'ultimo caso la fonte lo chiama col nome di un fornitore terzo: l'ho reso «un modello di pagamento diverso» per non introdurre una marca commerciale. Ho quindi scritto ovunque che dipende dalla configurazione e dal mercato, mai che esista «il» modo in cui Booking paga.\n\nALTRI VERBATIM SU CUI POGGIANO LE AFFERMAZIONI.\n- Idoneità non garantita: «è possibile che la tua struttura non sia idonea al momento, oppure che il servizio non sia ancora disponibile nella tua area geografica» (adesione).\n- Tempi bonifico: «noi riscuotiamo il pagamento prima dell'arrivo dell'ospite e ti versiamo l'importo tramite bonifico dopo il check-out»; cadenza giornaliera «elaborato un giorno dopo il check-out. Non viene elaborato nei fine settimana o nei giorni festivi», settimanale «ogni giovedì per i check-out effettuati tra il giovedì e il mercoledì precedenti... Se il giovedì è un giorno festivo, il pagamento verrà elaborato il giorno lavorativo successivo», mensile «il primo giorno di ogni mese per i check-out del mese precedente»; «i pagamenti possono impiegare fino a 10 giorni per arrivare sul conto bancario» (bonifici).\n- Carta virtuale: «Puoi addebitare la CCV fino a un massimo di 12 mesi dalla data di check-out, dopodiché la CCV scade»; «Per le prenotazioni non rimborsabili, l'attivazione avviene nella stessa data della prenotazione»; requisiti per l'addebito anticipato e «Verificheremo ogni quattro mesi se soddisfi questi requisiti»; ripiego «al momento del check-in per le strutture degli Stati Uniti oppure 1 giorno dopo negli altri casi»; rimborso «entro 45 giorni dalla ricezione della prima e-mail di promemoria»; «Puoi addebitare la CCV più volte fino a quando il saldo non arriva a zero»; l'errore «Fondi insufficienti» ricondotto ai costi impostati a persona ed esclusi (CCV).\n- Fatture: «Tutte le fatture devono essere pagate entro 14 giorni dalla data di emissione»; «Possono volerci circa sette giorni lavorativi prima che i pagamenti ricevuti si riflettano nell'extranet»; «La prima settimana di ogni mese riceverai la fattura delle commissioni»; chiusura temporanea per fatture non pagate; e, fra i tipi di documento, «Fattura per la licenza di alloggio (solo Italia): fattura fiscale per affitti a breve termine specifica per l'Italia, per i partner con pagamento al netto» (fatture).\n- Ritardi e blocchi, conti, conformità: verifica dati bancari «fino a cinque giorni lavorativi»; «Le fatture o le commissioni in sospeso superano il pagamento previsto. In questo caso, non verrà effettuato alcun pagamento»; «Le procedure di blocco per motivi legali o di conformità (come i requisiti DAC7 o KYP) devono essere espletate dal titolare del conto»; «i pagamenti per un'unica struttura possono essere inviati solo a un conto corrente attivo»; conto in altro Paese ammesso solo dentro l'area SEPA (adesione + bonifici).\n\nNUMERI: ZERO IMPORTI E ZERO PERCENTUALI. Non ho scritto nessuna percentuale di commissione, nessun costo di transazione, nessuna soglia in euro. Le fonti pubblicano due percentuali che ho deliberatamente NON riportato: il costo di transazione sul bonifico («una percentuale del valore totale», mai quantificata dalla fonte stessa) e la soglia di non rimborsabilità della carta virtuale, che la pagina CCV fissa al 90% («puoi addebitare la CCV quando la prenotazione diventa non rimborsabile almeno al 90%»): in articolo l'ho resa «supera la soglia di non rimborsabilità indicata dalla piattaforma». Tutte le altre quantità sono termini procedurali scritti in lettere (dodici mesi, quattordici giorni, dieci giorni, cinque giorni lavorativi, sette giorni lavorativi, quattro mesi, quarantacinque giorni, quattro giorni di calendario, tre volte), come già fatto nell'articolo vicino sulle commissioni.\n\nCOSA HO SCELTO DI NON AFFERMARE. (1) Non ho scritto quanto costi il servizio di pagamento, né in percentuale né in valore. (2) Non ho scritto che il pagamento in struttura sia «il modello normale di Booking in Italia»: la fonte non lo dice e la disponibilità dipende da idoneità e mercato. (3) Non ho affermato che la carta virtuale sia sempre disponibile: la pagina dice che se l'opzione non compare il metodo non è disponibile nell'area. (4) Non ho scritto che la commissione sia deducibile: la pagina di adesione usa la formula «possono essere considerate spese deducibili» e la valutazione è del commercialista, quindi ho evitato del tutto il tema fiscale. (5) La pagina di adesione annuncia l'estensione della riscossione dei costi a persona a un elenco di Paesi a partire da una data del 2026: non ho scritto né la data né il numero di Paesi, perché è una lista in movimento, e ho tenuto solo la regola stabile (quello che è impostato come escluso lo riscuote la struttura). (6) Non ho riportato i claim promozionali sui vantaggi del servizio. (7) Non ho descritto i metodi di pagamento delle fatture specifici di altri Paesi.\n\nCENSIMENTO DEI VICINI (fatto prima di scrivere, su prosa, slug, keyword, h2, FAQ e header di tabella dei 337 file). come-e-quando-paga-airbnb ha davvero una sezione «Airbnb e Booking: chi incassa e quando è diverso»: l'ho letta per intero. Quella sezione dice, in due paragrafi e una tabella Aspetto/Airbnb/Booking, che su Booking «è spesso la struttura a incassare direttamente dall'ospite» e che la commissione «si versa o si scala in un secondo momento». Il mio articolo NON rispiega nulla di Airbnb: la stringa «Airbnb» non compare in nessun paragrafo, lista, tabella o FAQ (solo nello slug di un related, che è un link). Non parlo di payout dopo il check-in, non elenco metodi di payout di Airbnb, non metto le due piattaforme a confronto. Entro invece nella meccanica che quella sezione sfiora soltanto: idoneità al servizio, carta virtuale e sua data di attivazione, cadenze del bonifico, detrazione contro fatturazione, blocchi dell'accredito, impostazioni contabili. commissioni-booking-quanto-trattiene ha una sezione «Chi incassa dall'ospite e quando arrivano i soldi»: per non duplicarla ho lasciato fuori base di calcolo, strati (Partner Preferiti, Visibility Booster, Genius, Smart Flex), IVA sulla fattura commissioni, irreversibilità CCV-bonifico come argomento di convenienza e le quarantotto ore per segnalare le modifiche; ho tenuto solo la meccanica dell'incasso e le due modalità di liquidazione, che lì sono accennate in un paragrafo. pubblicare-casa-su-booking si ferma a «intestatario, IBAN, informazioni fiscali» nella sezione «Politiche, pagamenti e verifica prima dell'online»: nessuna sovrapposizione con la sezione 6.\n\nHEADER DI TABELLA E FAQ — CONTROLLO DI UNICITÀ. Header scelto: «Come sei configurato | Chi riscuote dall'ospite | Come ti arriva il denaro | Che cosa resta in mano tua». Non compare fra i 247 header distinti del corpus, e non riusa nessuna delle combinazioni vietate dal brief né i quattro header a tema pagamenti dei vicini Booking («Dove si guarda | Che cosa ci trovi | Che cosa non dice | Ogni quanto tornarci», «Aspetto | Airbnb | Booking», «Passaggio | Cosa succede all'incasso», «Passo | Cosa fare»). Le sei FAQ sono state confrontate con tutte le domande del corpus che contengono «Booking»: nessuna coincide, e in particolare non ripeto «Quanto trattiene Booking», «Conviene disattivare i Pagamenti tramite Booking.com», «Devo occuparmi io dell'imposta di soggiorno su Booking» né «Quando paga Airbnb l'host».\n\nFRASE CITABILE. Costruzione assegnata «non è quello», usata una volta sola, nella frase-tesi della sezione 7, seconda frase del secondo paragrafo (non la prima frase del primo paragrafo, che il generatore salta): «Il prezzo che l'ospite ha pagato non è quello che il portale ci accrediterà» — quattordici parole. Nessun'altra frase della sezione 7 contiene un innesco, forte o debole: ho controllato una per una contro le due regex di genera.py (niente «, non », «non si», «vale», «pesa», «conta più», «non basta», e nessuno degli inneschi forti vietati). Le espressioni del primo passaggio di pullquote_for («Superhost», «nostra esperienza», «nel nostro lavoro», «abbiamo visto/imparato», «l'errore che») sono assenti dall'intero articolo, quindi la citazione non può essere dirottata su una sezione intermedia. Verificato importando pullquote_for e _quotabile da blog/scripts/genera.py ed eseguendoli su questo file, senza chiamare render_article e senza scrivere nulla su disco.\n\nERRORI TROVATI IN ARTICOLI GIÀ PUBBLICATI (non corretti, come da regola). In come-e-quando-paga-airbnb, la tabella «Airbnb e Booking» afferma senza condizionale che su Booking i soldi arrivano «Quando incassi tu dall'ospite» e che la commissione è «Di norma versata o scalata dopo, a parte». La documentazione della piattaforma descrive invece due modalità di liquidazione alternative e, nella configurazione in cui il portale riscuote da tutti gli ospiti, la commissione è detratta prima dell'accredito: la riga andrebbe resa condizionale. In pubblicare-casa-su-booking, la frase «È una percentuale a doppia cifra sul valore della prenotazione» non è sostenuta dalla fonte ufficiale, che non pubblica alcun valore e dichiara che «la percentuale esatta dipende dal Paese, dal tipo di struttura e dal contratto»."
+}

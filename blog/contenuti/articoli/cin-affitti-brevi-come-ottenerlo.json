@@ -8,7 +8,7 @@
   "excerpt": "Il Codice Identificativo Nazionale è ormai obbligatorio per affittare a breve. Come richiederlo passo passo, dove esporlo e quali sono le sanzioni.",
   "opening": "Il CIN (Codice Identificativo Nazionale) è il codice obbligatorio che identifica ogni immobile destinato agli affitti brevi. Si richiede online sul portale del Ministero del Turismo con SPID o CIE, va esposto in tutti gli annunci e all'esterno dell'alloggio. Senza, l'annuncio viene rimosso e scattano sanzioni.",
   "publishedAt": "2026-08-11",
-  "updatedAt": "2026-08-11",
+  "updatedAt": "2026-09-12",
   "heroKicker": "NORMATIVA & FISCO",
   "sections": [
     {
@@ -101,7 +101,7 @@
     },
     {
       "q": "Quanto si rischia senza CIN?",
-      "a": "Senza CIN l'annuncio viene rimosso dalle piattaforme e si rischiano sanzioni per singolo immobile, indicativamente nell'ordine di alcune migliaia di euro. Gli importi vanno verificati sulla normativa aggiornata: qui trovi solo un'indicazione."
+      "a": "Si rischia una sanzione pecuniaria, e le sanzioni le applica il comune, non la piattaforma. L'articolo 13-ter del decreto-legge 145 del 2023, al comma 9, distingue due casi: chi concede in locazione un'unità immobiliare priva di CIN è punito con una sanzione pecuniaria commisurata alle dimensioni dell'immobile; chi invece il CIN ce l'ha ma non lo espone all'esterno dello stabile e non lo indica nell'annuncio è punito con una sanzione pecuniaria «e con la sanzione dell'immediata rimozione dell'annuncio irregolare pubblicato», per ciascuna unità per la quale la violazione è accertata. Il comma 11 affida controlli, verifiche e applicazione di quelle sanzioni al comune in cui si trova l'immobile, attraverso gli organi di polizia locale. La rimozione dell'annuncio è quindi la conseguenza di un accertamento, non una decisione spontanea del portale."
     },
     {
       "q": "CIN e CIR sono la stessa cosa?",

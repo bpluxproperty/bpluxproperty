@@ -52,12 +52,37 @@
         "La tabella tiene insieme le voci con la controparte e con il punto in cui la posizione si verifica. Nessuna delle quattro si controlla nello stesso posto e nessuna avvisa in anticipo: le pagine sono pubbliche, ma stanno su siti diversi e parlano linguaggi diversi. È la ragione pratica per cui è difficile mettersi in regola per intuito, e per cui conviene fare i controlli una volta sola, all'inizio, invece di rincorrerli quando la casa è già in calendario."
       ],
       "table": {
-        "headers": ["La voce", "Chi la chiede", "Da che cosa dipende", "Dove si verifica"],
+        "headers": [
+          "La voce",
+          "Chi la chiede",
+          "Da che cosa dipende",
+          "Dove si verifica"
+        ],
         "rows": [
-          ["Canone di abbonamento ordinario", "Agenzia delle entrate, con addebito nella bolletta elettrica", "La detenzione di un apparecchio dentro la famiglia anagrafica", "Le risposte alle domande frequenti sul canone TV e la dichiarazione sostitutiva"],
-          ["Canone di abbonamento speciale", "RAI, sede competente per territorio", "La detenzione fuori dall'ambito familiare, per ciascun indirizzo", "Le domande frequenti sul canone speciale, con la categoria da farsi confermare"],
-          ["Diritto d'autore", "SIAE", "La diffusione di opere del repertorio amministrato", "La scheda della musica d'ambiente per le strutture ricettive"],
-          ["Diritti connessi", "SCF e gli altri organismi di gestione collettiva", "L'utilizzo di musica registrata, distinto dal diritto d'autore", "L'elenco delle categorie raccolte tramite SIAE per conto degli organismi"]
+          [
+            "Canone di abbonamento ordinario",
+            "Agenzia delle entrate, con addebito nella bolletta elettrica",
+            "La detenzione di un apparecchio dentro la famiglia anagrafica",
+            "Le risposte alle domande frequenti sul canone TV e la dichiarazione sostitutiva"
+          ],
+          [
+            "Canone di abbonamento speciale",
+            "RAI, sede competente per territorio",
+            "La detenzione fuori dall'ambito familiare, per ciascun indirizzo",
+            "Le domande frequenti sul canone speciale, con la categoria da farsi confermare"
+          ],
+          [
+            "Diritto d'autore",
+            "SIAE",
+            "La diffusione di opere del repertorio amministrato",
+            "La scheda della musica d'ambiente per le strutture ricettive"
+          ],
+          [
+            "Diritti connessi",
+            "SCF e gli altri organismi di gestione collettiva",
+            "L'utilizzo di musica registrata, distinto dal diritto d'autore",
+            "L'elenco delle categorie raccolte tramite SIAE per conto degli organismi"
+          ]
         ]
       }
     },
@@ -116,7 +141,8 @@
   "related": [
     "imu-tari-affitti-brevi",
     "costi-deducibili-affitti-brevi",
-    "dotazioni-must-have-affitti-brevi"
+    "dotazioni-must-have-affitti-brevi",
+    "residenza-dell-ospite-affitti-brevi"
   ],
   "sources": [
     {
