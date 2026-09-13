@@ -136,7 +136,9 @@
     "politica-cancellazione-airbnb",
     "overbooking-affitti-brevi",
     "rimborsi-e-compensazioni-ospiti",
-    "modifica-prenotazione-cambio-date"
+    "modifica-prenotazione-cambio-date",
+    "cancellare-una-prenotazione-come-host",
+    "emergenza-sanitaria-ospite"
   ],
   "sources": [
     {

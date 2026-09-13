@@ -8,7 +8,7 @@
   "excerpt": "Tutti spiegano come si comincia con gli affitti brevi, quasi nessuno come si smette. L'uscita ha un ordine: le prenotazioni confermate restano vincolanti, il calendario si chiude dal fondo, gli adempimenti si spengono uno per uno e la casa arredata per gli ospiti non la vuole un inquilino.",
   "opening": "Chi decide di smettere con gli affitti brevi si accorge presto che la decisione era la parte facile. Restano prenotazioni già accettate, un calendario aperto su mesi lontani, codici e comunicazioni attivi a nome dell'immobile, e una casa attrezzata per un uso che il prossimo inquilino non chiede. L'ordine in cui si smonta tutto questo cambia il risultato.",
   "publishedAt": "2026-09-02",
-  "updatedAt": "2026-09-02",
+  "updatedAt": "2026-09-13",
   "heroKicker": "USCITA",
   "sections": [
     {
@@ -23,7 +23,7 @@
       "h2": "Le prenotazioni confermate non si sciolgono con una decisione",
       "paragraphs": [
         "Una prenotazione confermata è un contratto concluso, non un'opzione. La scelta di smettere non è una causa che la scioglie: dal lato di chi affitta, annullarla è un inadempimento, e le piattaforme la trattano di conseguenza perché a valle c'è un viaggio già organizzato. Il fatto che la decisione sia legittima, e magari ottima per il proprietario, non cambia nulla per chi ha comprato quelle notti mesi prima e ha in mano una conferma scritta.",
-        "Le conseguenze previste dai portali si sommano e non si negoziano una per una: una penale a carico di chi annulla, le date di quel soggiorno bloccate sul calendario e quindi non rivendibili, nessun pagamento per la prenotazione annullata, i riconoscimenti guadagnati sul portale a rischio e, quando gli annullamenti si ripetono, la sospensione o la rimozione dell'annuncio o dell'account. Le eccezioni esistono, ma riguardano circostanze fuori controllo e documentate: un danno grave, un'inagibilità, una malattia.",
+        "Le conseguenze previste dai portali si sommano e non si negoziano una per una: una penale a carico di chi annulla, le date di quel soggiorno bloccate sul calendario e quindi non rivendibili, nessun pagamento per la prenotazione annullata, i riconoscimenti guadagnati sul portale a rischio e, per chi annulla senza un motivo riconosciuto valido, la sospensione o la rimozione dell'annuncio o dell'account. Le eccezioni esistono, ma riguardano circostanze fuori controllo e documentate: un danno grave, un'inagibilità, una malattia.",
         "Chiudere la posizione su un portale non è una scorciatoia per liberarsi dei soggiorni già presi. La chiusura del rapporto non annulla le prenotazioni in essere e non cancella le fatture aperte, e se quei soggiorni non vengono onorati i costi per sistemare gli ospiti altrove restano a carico di chi ha chiuso. Sparire dalla vetrina non equivale a sparire dagli impegni presi mentre la vetrina era aperta.",
         "Ne segue una regola pratica poco intuitiva: conviene lasciar correre la coda invece di tagliarla. L'ultima prenotazione già confermata è la prima data vera dell'uscita, e tutto il resto si programma a partire da lì. Due o tre soggiorni ancora in calendario costano qualche settimana di attesa; annullarli costa la penale, le date bloccate, la reputazione dell'annuncio e, se la casa serve libera a una data, non risolve nemmeno il problema di partenza."
       ]
@@ -124,7 +124,7 @@
   "faq": [
     {
       "q": "Posso annullare le prenotazioni già confermate se ho deciso di smettere?",
-      "a": "Puoi farlo, ma la decisione di smettere non scioglie il contratto: annullare una prenotazione confermata resta un inadempimento e i portali lo trattano come tale, con una penale a carico di chi annulla, le date bloccate sul calendario, nessun pagamento per quel soggiorno e, se gli annullamenti si ripetono, la sospensione dell'annuncio. Conviene quasi sempre onorare la coda e far partire l'uscita dall'ultima partenza."
+      "a": "Puoi farlo, ma la decisione di smettere non scioglie il contratto: annullare una prenotazione confermata resta un inadempimento e i portali lo trattano come tale, con una penale a carico di chi annulla, le date bloccate sul calendario, nessun pagamento per quel soggiorno e, per chi annulla senza un motivo riconosciuto valido, la sospensione dell'annuncio. Conviene quasi sempre onorare la coda e far partire l'uscita dall'ultima partenza."
     },
     {
       "q": "Devo comunicare a qualcuno che ho smesso di affittare a turisti?",

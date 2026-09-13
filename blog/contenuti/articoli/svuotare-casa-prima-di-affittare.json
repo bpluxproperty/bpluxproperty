@@ -69,13 +69,43 @@
         "Il momento è l'altra colonna che conviene fissare per iscritto. Alcune cose escono prima delle fotografie, perché altrimenti finirebbero nell'annuncio; altre prima del primo ospite, e non c'è ragione di anticiparle; altre ancora soltanto quando è già chiaro che cosa prenderà il loro posto, per non svuotare una stanza e poi tenerla vuota per settimane. Quando la casa non è intestata a chi la mette a reddito, la questione dei titoli va chiarita prima di spostare qualunque cosa."
       ],
       "table": {
-        "headers": ["Che cosa esce", "Dove finisce", "Chi può deciderlo", "In che momento"],
+        "headers": [
+          "Che cosa esce",
+          "Dove finisce",
+          "Chi può deciderlo",
+          "In che momento"
+        ],
         "rows": [
-          ["Documenti, carte di famiglia, vecchi supporti digitali", "Fuori dalla casa, in un luogo che resta sotto il controllo di chi li possiede", "Solo l'intestatario, oppure gli eredi tutti insieme", "Prima delle fotografie per l'annuncio"],
-          ["Medicinali, cosmetici e prodotti già aperti", "Il canale per i rifiuti urbani pericolosi indicato dal regolamento comunale", "Chiunque stia svuotando: su un flacone scaduto nessuno discute", "Il primo giorno, per partire da una categoria senza conflitti"],
-          ["Armi legalmente detenute, comprese quelle sportive", "Fuori dalla casa, con la diligenza di custodia richiesta dalla legge", "Solo il detentore, che verifica con l'autorità competente", "Prima che la casa diventi accessibile a estranei"],
-          ["Mobili, materassi ed elettrodomestici non più usati", "Rifiuto urbano ingombrante o apparecchiatura elettrica, secondo il regolamento del Comune", "Chi ha titolo sull'immobile", "Quando è già deciso che cosa entra al loro posto"],
-          ["Ricordi e pezzi di famiglia insostituibili", "Un'altra casa della famiglia, oppure la stanza che resta chiusa", "La famiglia intera, in una giornata dedicata", "Per ultimi, con un giorno scritto e non rinviabile"]
+          [
+            "Documenti, carte di famiglia, vecchi supporti digitali",
+            "Fuori dalla casa, in un luogo che resta sotto il controllo di chi li possiede",
+            "Solo l'intestatario, oppure gli eredi tutti insieme",
+            "Prima delle fotografie per l'annuncio"
+          ],
+          [
+            "Medicinali, cosmetici e prodotti già aperti",
+            "Il canale per i rifiuti urbani pericolosi indicato dal regolamento comunale",
+            "Chiunque stia svuotando: su un flacone scaduto nessuno discute",
+            "Il primo giorno, per partire da una categoria senza conflitti"
+          ],
+          [
+            "Armi legalmente detenute, comprese quelle sportive",
+            "Fuori dalla casa, con la diligenza di custodia richiesta dalla legge",
+            "Solo il detentore, che verifica con l'autorità competente",
+            "Prima che la casa diventi accessibile a estranei"
+          ],
+          [
+            "Mobili, materassi ed elettrodomestici non più usati",
+            "Rifiuto urbano ingombrante o apparecchiatura elettrica, secondo il regolamento del Comune",
+            "Chi ha titolo sull'immobile",
+            "Quando è già deciso che cosa entra al loro posto"
+          ],
+          [
+            "Ricordi e pezzi di famiglia insostituibili",
+            "Un'altra casa della famiglia, oppure la stanza che resta chiusa",
+            "La famiglia intera, in una giornata dedicata",
+            "Per ultimi, con un giorno scritto e non rinviabile"
+          ]
         ]
       }
     },
@@ -115,7 +145,12 @@
       "a": "Conviene soltanto se il deposito ha una data di uscita scritta. Senza quella diventa il modo più caro di non decidere: la spesa si rinnova, gli oggetti non tornano utili e la scelta rimandata resta identica a se stessa. Con una scadenza, invece, è uno strumento legittimo per separare i tempi della casa da quelli della famiglia."
     }
   ],
-  "related": ["sopralluogo-prima-di-affittare", "proteggere-casa-danni-furti-affitti-brevi", "primo-anno-affitto-breve"],
+  "related": [
+    "sopralluogo-prima-di-affittare",
+    "proteggere-casa-danni-furti-affitti-brevi",
+    "primo-anno-affitto-breve",
+    "affittare-la-seconda-casa"
+  ],
   "sources": [
     {
       "label": "D.Lgs. 152/2006, art. 183 comma 1 lettera b-ter e art. 198 comma 2: i rifiuti ingombranti «ivi compresi materassi e mobili» e i rifiuti da apparecchiature elettriche ed elettroniche sono rifiuti urbani; i Comuni disciplinano conferimento, raccolta differenziata e gestione distinta dei rifiuti pericolosi con appositi regolamenti",

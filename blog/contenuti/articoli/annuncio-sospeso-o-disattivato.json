@@ -67,12 +67,37 @@
       ],
       "list": [],
       "table": {
-        "headers": ["Come si presenta", "Da che cosa nasce", "Che cosa resta possibile", "Il passo che riapre"],
+        "headers": [
+          "Come si presenta",
+          "Da che cosa nasce",
+          "Che cosa resta possibile",
+          "Il passo che riapre"
+        ],
         "rows": [
-          ["Annuncio sospeso", "Violazioni gravi o ripetute delle regole di base", "Onorare le prenotazioni in corso e future, nella maggior parte dei casi", "Riattivare a fine sospensione, provando che il problema è stato risolto"],
-          ["Annuncio in attesa di rimozione", "Segnalazioni già contestate e non superate", "Onorare quanto confermato fino alla data comunicata", "Ricorso entro la scadenza indicata, con i codici di prenotazione"],
-          ["Account con restrizioni", "Problemi segnalati su soggiorni di cui si era titolari o co-host", "Ospitare con gli annunci già pubblicati", "Attendere la revoca: nuovi annunci e rete co-host restano chiusi"],
-          ["Struttura chiusa alle prenotazioni", "Fattura delle commissioni non saldata, o numero di licenza non fornito", "Nessuna nuova prenotazione: la pagina esce dalla vendita", "Saldare o inserire il numero, poi riaprire dall'extranet"]
+          [
+            "Annuncio sospeso",
+            "Violazioni gravi o ripetute delle regole di base",
+            "Onorare le prenotazioni in corso e future, nella maggior parte dei casi",
+            "Riattivare a fine sospensione, provando che il problema è stato risolto"
+          ],
+          [
+            "Annuncio in attesa di rimozione",
+            "Segnalazioni già contestate e non superate",
+            "Onorare quanto confermato fino alla data comunicata",
+            "Ricorso entro la scadenza indicata, con i codici di prenotazione"
+          ],
+          [
+            "Account con restrizioni",
+            "Problemi segnalati su soggiorni di cui si era titolari o co-host",
+            "Ospitare con gli annunci già pubblicati",
+            "Attendere la revoca: nuovi annunci e rete co-host restano chiusi"
+          ],
+          [
+            "Struttura chiusa alle prenotazioni",
+            "Fattura delle commissioni non saldata, o numero di licenza non fornito",
+            "Nessuna nuova prenotazione: la pagina esce dalla vendita",
+            "Saldare o inserire il numero, poi riaprire dall'extranet"
+          ]
         ]
       }
     },
@@ -124,7 +149,12 @@
       "a": "Serve quando si portano elementi nuovi, e l'elenco di ciò che va allegato è pubblicato. Airbnb chiede il nome dell'annuncio o dell'account, i codici di prenotazione dei soggiorni per cui sono stati segnalati i problemi, il motivo riferito a quelle specifiche segnalazioni e la documentazione pertinente a sostegno. La stessa pagina esclude due argomenti: che la recensione dell'ospite sia stata ingiusta e che si sia trattato di un problema occasionale."
     }
   ],
-  "related": ["multicanale-airbnb-booking-overbooking", "prenotazioni-dirette-affitti-brevi", "ranking-airbnb-come-farsi-trovare"],
+  "related": [
+    "multicanale-airbnb-booking-overbooking",
+    "prenotazioni-dirette-affitti-brevi",
+    "ranking-airbnb-come-farsi-trovare",
+    "prenotazione-immediata-o-su-richiesta"
+  ],
   "sources": [
     {
       "label": "Art. 13-ter del decreto-legge 18 ottobre 2023 n. 145, testo in vigore dal 1-1-2025 (obblighi dei portali telematici, comma 6; rimozione dell'annuncio irregolare, comma 9; controlli del comune, comma 11)",

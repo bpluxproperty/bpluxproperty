@@ -156,7 +156,8 @@
     "pulizie-e-biancheria-affitti-brevi",
     "prezzo-di-lancio-nuovo-annuncio",
     "commissioni-booking-quanto-trattiene",
-    "supplemento-per-ospite-aggiuntivo"
+    "supplemento-per-ospite-aggiuntivo",
+    "prezzo-minimo-affitti-brevi"
   ],
   "sources": [
     {

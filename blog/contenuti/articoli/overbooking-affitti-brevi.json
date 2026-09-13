@@ -8,7 +8,7 @@
   "excerpt": "Due ospiti confermati sulla stessa notte non sono un errore da correggere: sono un incidente da gestire. Le prime ore decidono quanto costerà, e la mossa più costosa è quasi sempre quella che sembra la più rapida: aprire l'applicazione e cancellare.",
   "opening": "Un overbooking negli affitti brevi non è un problema di calendario: è un impegno preso due volte sulla stessa notte, con due ospiti che hanno entrambi una prenotazione valida. Da quel momento non esiste una soluzione senza costo, esistono soluzioni con costi diversi. Quale si paga dipende da chi cancella, da quando e su quale piattaforma.",
   "publishedAt": "2026-09-08",
-  "updatedAt": "2026-09-08",
+  "updatedAt": "2026-09-13",
   "heroKicker": "DOPPIA PRENOTAZIONE",
   "sections": [
     {
@@ -128,7 +128,7 @@
     },
     {
       "q": "Posso chiedere all'ospite di cancellare al posto mio?",
-      "a": "No. La pagina di Airbnb rivolta agli ospiti dice di non effettuare la cancellazione al posto dell'host e di chiedere invece che sia l'host ad avviarla, e aggiunge che chi ha già cancellato per conto dell'host può rivolgersi all'assistenza per ottenere il rimborso e le tutele che gli spettano. Quella pagina non descrive sanzioni per l'host, ma resta una scorciatoia che l'altra parte è invitata a rifiutare."
+      "a": "No. La pagina di Airbnb rivolta agli ospiti dice di non effettuare la cancellazione al posto dell'host e di chiedere invece che sia l'host ad avviarla, e aggiunge che chi ha già cancellato per conto dell'host può rivolgersi all'assistenza per ottenere il rimborso e le tutele che gli spettano. Il divieto sta anche nelle pagine rivolte agli host: una dice «Non chiedere all'ospite di cancellare per tuo conto, né incoraggiarlo a farlo» e avverte che ciò può comportare conseguenze secondo le regole di base e i termini di cancellazione; l'altra scrive che «all'host non è consentito chiedere all'ospite di effettuare la cancellazione al posto suo». Non è quindi solo una scorciatoia sgradita: è una condotta che la piattaforma vieta a chi ospita."
     },
     {
       "q": "Dopo una cancellazione dell'host resta una recensione sull'annuncio?",
@@ -169,6 +169,12 @@
       "ente": "Booking.com for Partners, Partner Help",
       "data": "pagina che riporta «Aggiornato 1 mese fa», consultata l'8 settembre 2026",
       "url": "https://partner.booking.com/it/aiuto/prenotazioni/gestione/gestione-dei-problemi-di-overbooking"
+    },
+    {
+      "label": "Come cancellare una prenotazione in qualità di host",
+      "ente": "Airbnb, Centro assistenza",
+      "data": "consultata il 13 settembre 2026",
+      "url": "https://www.airbnb.it/help/article/166"
     }
   ],
   "disclaimer": false,

@@ -140,7 +140,8 @@
   "related": [
     "check-in-check-out-affitti-brevi",
     "turnover-ospiti-affitti-brevi",
-    "servizi-extra-affitti-brevi"
+    "servizi-extra-affitti-brevi",
+    "oggetti-dimenticati-dagli-ospiti"
   ],
   "sources": [
     {

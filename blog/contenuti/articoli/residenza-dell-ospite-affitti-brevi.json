@@ -136,7 +136,8 @@
   "related": [
     "alloggiati-web-comunicazione-ospiti",
     "contratto-locazione-breve",
-    "ospite-che-non-lascia-la-casa"
+    "ospite-che-non-lascia-la-casa",
+    "ospite-che-prolunga-il-soggiorno"
   ],
   "sources": [
     {
