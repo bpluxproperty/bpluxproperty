@@ -141,7 +141,8 @@
     "guida-di-benvenuto-ospiti",
     "check-in-check-out-affitti-brevi",
     "ospiti-stranieri-affitti-brevi",
-    "posto-auto-e-parcheggio-affitti-brevi"
+    "posto-auto-e-parcheggio-affitti-brevi",
+    "check-in-anticipato-e-late-check-out"
   ],
   "sources": [
     {

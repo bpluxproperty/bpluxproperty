@@ -59,12 +59,32 @@
         "Nessuna riga qui sotto è una raccomandazione valida per chiunque: sono ipotesi di lavoro da verificare sulla propria casa e sul proprio calendario. Il criterio che le tiene insieme però è uno solo, ed è operativo prima che commerciale: si può confermare automaticamente ciò che si è già in grado di consegnare senza telefonare a nessuno. Dove quella certezza manca, la richiesta da approvare compra il tempo di una verifica."
       ],
       "table": {
-        "headers": ["Com'è organizzata la casa", "L'impostazione che regge", "Il rischio da presidiare"],
+        "headers": [
+          "Com'è organizzata la casa",
+          "L'impostazione che regge",
+          "Il rischio da presidiare"
+        ],
         "rows": [
-          ["Accesso autonomo, riassetto affidato a un fornitore stabile", "Conferma automatica con preavviso di almeno un giorno", "Un arrivo a ridosso trova la casa ancora da preparare"],
-          ["Consegna delle chiavi di persona, in una fascia oraria stretta", "Richiesta da approvare, per concordare l'orario prima di confermare", "Le date restano bloccate se la richiesta scade senza risposta"],
-          ["Stessa casa pubblicata su più portali con calendari sincronizzati", "Conferma automatica solo dopo aver verificato la sincronia", "La doppia prenotazione, che la documentazione indica come possibile"],
-          ["Casa aperta poche settimane l'anno, disponibilità a singhiozzo", "Richiesta da approvare, finché il calendario non si stabilizza", "Il tasso di risposta scende se le richieste restano ferme"]
+          [
+            "Accesso autonomo, riassetto affidato a un fornitore stabile",
+            "Conferma automatica con preavviso di almeno un giorno",
+            "Un arrivo a ridosso trova la casa ancora da preparare"
+          ],
+          [
+            "Consegna delle chiavi di persona, in una fascia oraria stretta",
+            "Richiesta da approvare, per concordare l'orario prima di confermare",
+            "Le date restano bloccate se la richiesta scade senza risposta"
+          ],
+          [
+            "Stessa casa pubblicata su più portali con calendari sincronizzati",
+            "Conferma automatica solo dopo aver verificato la sincronia",
+            "La doppia prenotazione, che la documentazione indica come possibile"
+          ],
+          [
+            "Casa aperta poche settimane l'anno, disponibilità a singhiozzo",
+            "Richiesta da approvare, finché il calendario non si stabilizza",
+            "Il tasso di risposta scende se le richieste restano ferme"
+          ]
         ]
       }
     },
@@ -115,7 +135,8 @@
   "related": [
     "prenotazioni-sospette-come-riconoscerle",
     "come-creare-annuncio-airbnb",
-    "ranking-airbnb-come-farsi-trovare"
+    "ranking-airbnb-come-farsi-trovare",
+    "check-in-anticipato-e-late-check-out"
   ],
   "sources": [
     {
