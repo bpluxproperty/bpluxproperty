@@ -69,13 +69,37 @@
         "Una precisazione sulla colonna di destra. «Dove sta scritto» non significa che ogni riga abbia dietro una norma: due righe rinviano a una posizione dell'amministrazione e a una regola di piattaforma, che sono cose diverse da una legge e vanno citate per quello che sono. Dove una fonte primaria manca, la riga lo dice: la conseguenza pratica è che quel caso si decide con un legale, non con un modello preso da un altro annuncio."
       ],
       "table": {
-        "headers": ["La situazione", "Che cosa si può chiedere", "Dove sta scritto"],
+        "headers": [
+          "La situazione",
+          "Che cosa si può chiedere",
+          "Dove sta scritto"
+        ],
         "rows": [
-          ["Chi intesta la prenotazione", "Che sia maggiorenne, perché è la persona che assume l'obbligo", "Articoli 2 e 1425 del codice civile; per l'account, la pagina «Chi può avere un account su Airbnb»"],
-          ["Un minorenne che dorme in casa con i genitori", "Il documento di identità e i dati richiesti per la comunicazione", "Articolo 109 del testo unico delle leggi di pubblica sicurezza; allegato tecnico del decreto del 7 gennaio 2013"],
-          ["Un minorenne accompagnato da un adulto che non è il genitore", "L'assenso dei genitori, secondo la prassi indicata dall'amministrazione", "Schema pubblicato dalla Polizia di Stato, da nota del Ministero dell'Interno del 1° settembre 2008"],
-          ["Un gruppo di minorenni senza adulti", "Niente che risolva da sé: il caso va portato a un legale", "Nessuna norma primaria reperita; lo schema della Polizia di Stato dice che il minore non accompagnato non può essere ospitato"],
-          ["Un'età minima più alta dei diciotto anni, scritta nell'annuncio", "Nulla: fuori dai paesi elencati la piattaforma non la consente", "Pagina «Età minima per gli alloggi negli Stati Uniti e in altri paesi specificati»"]
+          [
+            "Chi intesta la prenotazione",
+            "Che sia maggiorenne, perché è la persona che assume l'obbligo",
+            "Articoli 2 e 1425 del codice civile; per l'account, la pagina «Chi può avere un account su Airbnb»"
+          ],
+          [
+            "Un minorenne che dorme in casa con i genitori",
+            "Il documento di identità e i dati richiesti per la comunicazione",
+            "Articolo 109 del testo unico delle leggi di pubblica sicurezza; allegato tecnico del decreto del 7 gennaio 2013"
+          ],
+          [
+            "Un minorenne accompagnato da un adulto che non è il genitore",
+            "L'assenso dei genitori, secondo la prassi indicata dall'amministrazione",
+            "Schema pubblicato dalla Polizia di Stato, da nota del Ministero dell'Interno del 1° settembre 2008"
+          ],
+          [
+            "Un gruppo di minorenni senza adulti",
+            "Niente che risolva da sé: il caso va portato a un legale",
+            "Nessuna norma primaria reperita; lo schema della Polizia di Stato dice che il minore non accompagnato non può essere ospitato"
+          ],
+          [
+            "Un'età minima più alta dei diciotto anni, scritta nell'annuncio",
+            "Nulla: fuori dai paesi elencati la piattaforma non la consente",
+            "Pagina «Età minima per gli alloggi negli Stati Uniti e in altri paesi specificati»"
+          ]
         ]
       }
     },
@@ -118,7 +142,8 @@
   "related": [
     "regole-della-casa-valore-legale",
     "prenotazioni-sospette-come-riconoscerle",
-    "ospite-che-non-lascia-la-casa"
+    "ospite-che-non-lascia-la-casa",
+    "casa-intestata-a-un-minore"
   ],
   "sources": [
     {

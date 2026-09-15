@@ -67,7 +67,12 @@
         "Sul cane di assistenza vale la pena fermarsi un attimo senza rifare un discorso che ha già una pagina sua: un animale di servizio non è un animale da compagnia, e la regola della casa sugli animali non si applica allo stesso modo. La distinzione, con le condizioni e i limiti verificati, sta nella pagina che tratta gli animali domestici negli affitti brevi. Allo stesso modo, il mestiere di scrivere titolo e descrizione — comprese le cose da dichiarare anche quando non aiutano a vendere — ha un articolo dedicato."
       ],
       "table": {
-        "headers": ["La richiesta che arriva", "L'informazione che decide", "Che cosa la casa può offrire", "Che cosa va scritto in chiaro"],
+        "headers": [
+          "La richiesta che arriva",
+          "L'informazione che decide",
+          "Che cosa la casa può offrire",
+          "Che cosa va scritto in chiaro"
+        ],
         "rows": [
           [
             "Chi si sposta in carrozzina, spesso con un accompagnatore",
@@ -129,7 +134,8 @@
   "related": [
     "titolo-e-descrizione-annuncio",
     "animali-domestici-affitti-brevi",
-    "dotazioni-must-have-affitti-brevi"
+    "dotazioni-must-have-affitti-brevi",
+    "casa-su-due-livelli-e-scale-interne"
   ],
   "sources": [
     {

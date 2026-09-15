@@ -149,7 +149,9 @@
     "politica-cancellazione-airbnb",
     "no-show-ospite-che-non-arriva",
     "calendario-e-disponibilita-errori",
-    "cancellare-una-prenotazione-come-host"
+    "cancellare-una-prenotazione-come-host",
+    "ospite-che-non-risponde-ai-messaggi",
+    "richieste-fuori-calendario"
   ],
   "sources": [
     {

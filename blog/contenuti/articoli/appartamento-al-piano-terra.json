@@ -59,11 +59,27 @@
         "La tabella che segue riassume i tre punti: da dove nasce ciascuno, e su quale aspetto agisce davvero un intervento, distinguendo quello che si può fare da soli da quello che dipende da altro, per esempio dall'edificio di fronte o dal traffico della via, su cui l'inquilino di un singolo appartamento ha poco margine."
       ],
       "table": {
-        "headers": ["Il difetto", "Che cosa lo causa", "Che cosa lo riduce davvero"],
+        "headers": [
+          "Il difetto",
+          "Che cosa lo causa",
+          "Che cosa lo riduce davvero"
+        ],
         "rows": [
-          ["La sensazione di essere osservati", "Finestra alla stessa altezza di chi cammina, senza dislivello né elemento che spezzi la linea visiva", "Arredo non rivolto verso il vetro, una schermatura parziale, piante o elementi che interrompono la linea diretta"],
-          ["Il rumore che entra dalla strada", "Nessun cortile o arretramento fra la finestra e il flusso di passanti, traffico o soste", "Scegliere come camera da letto il lato meno esposto, quando la pianta lo permette"],
-          ["La luce naturale che manca", "Sporti, balconi o edifici di fronte che fanno ombra, più le tende tenute chiuse per proteggere la privacy", "Colori chiari, luce artificiale ben distribuita, una schermatura che copre solo la parte bassa della finestra"]
+          [
+            "La sensazione di essere osservati",
+            "Finestra alla stessa altezza di chi cammina, senza dislivello né elemento che spezzi la linea visiva",
+            "Arredo non rivolto verso il vetro, una schermatura parziale, piante o elementi che interrompono la linea diretta"
+          ],
+          [
+            "Il rumore che entra dalla strada",
+            "Nessun cortile o arretramento fra la finestra e il flusso di passanti, traffico o soste",
+            "Scegliere come camera da letto il lato meno esposto, quando la pianta lo permette"
+          ],
+          [
+            "La luce naturale che manca",
+            "Sporti, balconi o edifici di fronte che fanno ombra, più le tende tenute chiuse per proteggere la privacy",
+            "Colori chiari, luce artificiale ben distribuita, una schermatura che copre solo la parte bassa della finestra"
+          ]
         ]
       }
     },
@@ -111,7 +127,12 @@
       "a": "Che cosa si vede dalla finestra guardando da fuori, in piedi sul marciapiede, sia di giorno sia con le luci accese alla sera. È il controllo più semplice da fare ed è anche quello che orienta le scelte successive su tende, arredo e immagini per l'annuncio."
     }
   ],
-  "related": ["sicurezza-alloggio-affitti-brevi", "insonorizzazione-affitti-brevi", "proteggere-casa-danni-furti-affitti-brevi"],
+  "related": [
+    "sicurezza-alloggio-affitti-brevi",
+    "insonorizzazione-affitti-brevi",
+    "proteggere-casa-danni-furti-affitti-brevi",
+    "casa-su-due-livelli-e-scale-interne"
+  ],
   "sources": [
     {
       "label": "Accogliere le persone con esigenze di accessibilità — l'accesso senza gradini come esempio di caratteristica di accessibilità dichiarabile nell'annuncio, e filtro di ricerca dedicato per gli ospiti",

@@ -64,12 +64,37 @@
         "Che cosa ne segue, in concreto. Il dato comunicato resta disponibile a lungo: l'articolo 12, comma 2, impone al gestore di conservare i dati delle verifiche e delle comunicazioni fino al 31 dicembre del quinto anno successivo a quello in cui le informazioni sono state comunicate o avrebbero dovuto esserlo. Se l'archivio del proprietario si ferma prima, il confronto fra le due versioni dello stesso anno diventa impari."
       ],
       "table": {
-        "headers": ["Che cosa parte dal portale", "Norma che lo impone", "Termine", "Che cosa ne riceve il proprietario"],
+        "headers": [
+          "Che cosa parte dal portale",
+          "Norma che lo impone",
+          "Termine",
+          "Che cosa ne riceve il proprietario"
+        ],
         "rows": [
-          ["Comunicazione dei dati su venditore e proprietà inserzionata", "D.Lgs. 32/2023, articoli 10 e 11", "31 gennaio dell'anno successivo al periodo", "Le stesse informazioni, fornite al venditore entro la medesima data"],
-          ["Trasmissione dei dati dei contratti di locazione breve", "Art. 4, comma 4, del D.L. 50/2017", "30 giugno dell'anno successivo", "Nulla: è un flusso diretto verso l'Agenzia delle entrate"],
-          ["Ritenuta sui canoni, quando l'intermediario incassa o interviene nel pagamento", "Art. 4, comma 5, del D.L. 50/2017", "All'atto del pagamento al beneficiario", "La certificazione prevista dall'art. 4 del D.P.R. 322/1998"],
-          ["Conservazione di verifiche e comunicazioni negli archivi del gestore", "D.Lgs. 32/2023, art. 12, comma 2", "Fino al 31 dicembre del quinto anno successivo", "Nulla: riguarda gli archivi del portale"]
+          [
+            "Comunicazione dei dati su venditore e proprietà inserzionata",
+            "D.Lgs. 32/2023, articoli 10 e 11",
+            "31 gennaio dell'anno successivo al periodo",
+            "Le stesse informazioni, fornite al venditore entro la medesima data"
+          ],
+          [
+            "Trasmissione dei dati dei contratti di locazione breve",
+            "Art. 4, comma 4, del D.L. 50/2017",
+            "30 giugno dell'anno successivo",
+            "Nulla: è un flusso diretto verso l'Agenzia delle entrate"
+          ],
+          [
+            "Ritenuta sui canoni, quando l'intermediario incassa o interviene nel pagamento",
+            "Art. 4, comma 5, del D.L. 50/2017",
+            "All'atto del pagamento al beneficiario",
+            "La certificazione prevista dall'art. 4 del D.P.R. 322/1998"
+          ],
+          [
+            "Conservazione di verifiche e comunicazioni negli archivi del gestore",
+            "D.Lgs. 32/2023, art. 12, comma 2",
+            "Fino al 31 dicembre del quinto anno successivo",
+            "Nulla: riguarda gli archivi del portale"
+          ]
         ]
       }
     },
@@ -118,7 +143,12 @@
       "a": "Ogni gestore comunica quello che ha facilitato lui, quindi le comunicazioni sono più d'una ma non si sovrappongono sullo stesso incasso. L'articolo 10 prevede un esonero soltanto quando più gestori sono obbligati in relazione al medesimo venditore e uno di essi può provare che le stesse informazioni sono già state comunicate da un altro. Per il proprietario questo significa attendere più riepiloghi e sommarli, tenendo separate le prenotazioni ricevute fuori piattaforma, che non compaiono in nessuno dei due."
     }
   ],
-  "related": ["ritenuta-piattaforme-affitti-brevi", "dichiarazione-redditi-affitti-brevi", "privacy-gdpr-affitti-brevi"],
+  "related": [
+    "ritenuta-piattaforme-affitti-brevi",
+    "dichiarazione-redditi-affitti-brevi",
+    "privacy-gdpr-affitti-brevi",
+    "conto-dedicato-affitti-brevi"
+  ],
   "sources": [
     {
       "label": "D.Lgs. 1 marzo 2023, n. 32 - attuazione della direttiva (UE) 2021/514 (artt. 2, 4, 6, 7, 10, 11 e 12), testo vigente al 12-9-2026",

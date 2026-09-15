@@ -68,13 +68,37 @@
         "La terza colonna raccoglie le formule da lasciare fuori. Non sono vietate una per una, e nessuna di loro fa scattare da sola una rimozione: sono inutili a chi legge, e le più cariche scivolano nel terreno che le regole di Airbnb sui contenuti chiudono, quello degli attacchi alla persona."
       ],
       "table": {
-        "headers": ["Il comportamento", "Come si descrive nella recensione", "Che cosa resta fuori"],
+        "headers": [
+          "Il comportamento",
+          "Come si descrive nella recensione",
+          "Che cosa resta fuori"
+        ],
         "rows": [
-          ["Casa lasciata in disordine", "«Cucina riconsegnata con le stoviglie da lavare e i rifiuti non smaltiti»", "«Ospiti sporchi»: un giudizio sulla persona al posto del fatto"],
-          ["Più persone di quelle prenotate", "«All'arrivo erano presenti due persone in più rispetto alla prenotazione»", "«Hanno provato a imbrogliarci»: un'intenzione che non si dimostra"],
-          ["Regola dell'annuncio non rispettata", "«È stato fumato in casa, contro la regola indicata nell'annuncio»", "«Nessun rispetto per niente»: un episodio esteso a tutto il soggiorno"],
-          ["Comunicazione assente", "«I messaggi sul check-in non hanno ricevuto risposta»", "«Ospiti maleducati»: un aggettivo che chi legge non può controllare"],
-          ["Danno comunicato dopo la partenza", "«La rottura del piano cottura è stata comunicata il giorno dopo il check-out»", "«Hanno distrutto la casa»: una misura che il fatto non regge"]
+          [
+            "Casa lasciata in disordine",
+            "«Cucina riconsegnata con le stoviglie da lavare e i rifiuti non smaltiti»",
+            "«Ospiti sporchi»: un giudizio sulla persona al posto del fatto"
+          ],
+          [
+            "Più persone di quelle prenotate",
+            "«All'arrivo erano presenti due persone in più rispetto alla prenotazione»",
+            "«Hanno provato a imbrogliarci»: un'intenzione che non si dimostra"
+          ],
+          [
+            "Regola dell'annuncio non rispettata",
+            "«È stato fumato in casa, contro la regola indicata nell'annuncio»",
+            "«Nessun rispetto per niente»: un episodio esteso a tutto il soggiorno"
+          ],
+          [
+            "Comunicazione assente",
+            "«I messaggi sul check-in non hanno ricevuto risposta»",
+            "«Ospiti maleducati»: un aggettivo che chi legge non può controllare"
+          ],
+          [
+            "Danno comunicato dopo la partenza",
+            "«La rottura del piano cottura è stata comunicata il giorno dopo il check-out»",
+            "«Hanno distrutto la casa»: una misura che il fatto non regge"
+          ]
         ]
       }
     },
@@ -114,7 +138,12 @@
       "a": "La violazione dei termini di Airbnb sulle recensioni o della sua politica sui contenuti. I termini vietano fra l'altro le informazioni false, ingannevoli, ricattatorie, intimidatorie o manipolatorie, la minaccia di una recensione negativa per ottenere un risarcimento o un rimborso, e le recensioni scritte per vendicarsi di chi ha fatto rispettare una politica di Airbnb; la politica sui contenuti esclude fra l'altro i contenuti umilianti, offensivi o molesti e quelli che violano la politica antidiscriminatoria. Airbnb aggiunge che, a seconda della violazione, l'account collegato può essere limitato, sospeso o rimosso."
     }
   ],
-  "related": ["prenotazioni-sospette-come-riconoscerle", "messaggi-automatici-ospiti-airbnb", "ranking-airbnb-come-farsi-trovare"],
+  "related": [
+    "prenotazioni-sospette-come-riconoscerle",
+    "messaggi-automatici-ospiti-airbnb",
+    "ranking-airbnb-come-farsi-trovare",
+    "far-rimuovere-una-recensione"
+  ],
   "sources": [
     {
       "label": "Recensioni degli alloggi: chi può scrivere e quando, pubblicazione, visibilità",

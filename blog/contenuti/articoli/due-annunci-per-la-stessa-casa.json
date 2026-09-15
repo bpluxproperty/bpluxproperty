@@ -60,13 +60,37 @@
       ],
       "list": [],
       "table": {
-        "headers": ["Elemento", "Che cosa succede fra i due annunci", "Perché"],
+        "headers": [
+          "Elemento",
+          "Che cosa succede fra i due annunci",
+          "Perché"
+        ],
         "rows": [
-          ["Indirizzo e responsabile dell'annuncio", "Identico in entrambi", "È la stessa casa, con lo stesso host che risponde di entrambi gli annunci"],
-          ["Notti che entrambi potrebbero vendere", "Collegate fra loro, mai gestite a mano separatamente", "Una notte occupata su un annuncio deve sparire anche dall'altro"],
-          ["Capienza e configurazione", "Diversa per definizione", "Descrivono due modi distinti di occupare la casa"],
-          ["Prezzo per notte", "Impostato in modo indipendente", "Ogni configurazione corrisponde a una cifra decisa a parte"],
-          ["Descrizione e foto", "Coerenti fra loro, mai identiche", "Devono mostrare ciò che quell'annuncio specifico offre davvero"]
+          [
+            "Indirizzo e responsabile dell'annuncio",
+            "Identico in entrambi",
+            "È la stessa casa, con lo stesso host che risponde di entrambi gli annunci"
+          ],
+          [
+            "Notti che entrambi potrebbero vendere",
+            "Collegate fra loro, mai gestite a mano separatamente",
+            "Una notte occupata su un annuncio deve sparire anche dall'altro"
+          ],
+          [
+            "Capienza e configurazione",
+            "Diversa per definizione",
+            "Descrivono due modi distinti di occupare la casa"
+          ],
+          [
+            "Prezzo per notte",
+            "Impostato in modo indipendente",
+            "Ogni configurazione corrisponde a una cifra decisa a parte"
+          ],
+          [
+            "Descrizione e foto",
+            "Coerenti fra loro, mai identiche",
+            "Devono mostrare ciò che quell'annuncio specifico offre davvero"
+          ]
         ]
       }
     },
@@ -125,7 +149,12 @@
       "a": "Meglio uno solo. Due annunci per uno spazio che resta identico non aggiungono una possibilità di prenotazione in più: aggiungono un prezzo da allineare due volte, una descrizione da mantenere coerente e un calendario in più da collegare, senza che l'ospite trovi davvero qualcosa di diverso scegliendo l'uno o l'altro."
     }
   ],
-  "related": ["multicanale-airbnb-booking-overbooking", "come-creare-annuncio-airbnb", "calendario-e-disponibilita-errori"],
+  "related": [
+    "multicanale-airbnb-booking-overbooking",
+    "come-creare-annuncio-airbnb",
+    "calendario-e-disponibilita-errori",
+    "il-vicino-che-affitta-anche-lui"
+  ],
   "sources": [
     {
       "label": "Pubblicare annunci per più stanze",

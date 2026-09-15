@@ -51,12 +51,37 @@
         "Letta così, la griglia mostra una cosa sola e la mostra bene: l'ultima colonna non cambia intensità. Le prime tre si gonfiano e si sgonfiano con l'occupazione, la quarta resta costante perché le sue date le fissano la legge, il contratto o l'ente. È questa asimmetria a spiegare perché un anno chiuso in utile possa attraversare mesi di cassa negativa, e perché il passaggio più stretto capiti quasi sempre quando la casa non produce."
       ],
       "table": {
-        "headers": ["Il tipo di mese", "Che cosa entra", "Che cosa esce", "Che cosa può scadere lo stesso"],
+        "headers": [
+          "Il tipo di mese",
+          "Che cosa entra",
+          "Che cosa esce",
+          "Che cosa può scadere lo stesso"
+        ],
         "rows": [
-          ["Mese di punta, calendario quasi pieno", "Gli accrediti dei soggiorni già conclusi, al netto delle trattenute", "Le uscite legate ai turni, nel loro momento di massimo", "Le scadenze a data fissa, che non guardano quanto la casa ha lavorato"],
-          ["Mese di spalla, calendario a macchie", "Accrediti irregolari, spesso riferiti a soggiorni del mese precedente", "Uscite per turno ridotte, più le manutenzioni rinviate dai mesi pieni", "I rinnovi che seguono la data di sottoscrizione, non la stagione"],
-          ["Mese a casa chiusa o quasi vuota", "Poco o nulla, salvo le caparre delle prenotazioni future", "Solo le voci ricorrenti: tributi, condominio, quote fisse delle utenze", "Le comunicazioni periodiche, dovute in alcune Regioni anche senza presenze"],
-          ["Mese di riapertura, prima dei primi arrivi", "I saldi anticipati di chi ha prenotato con largo margine", "Scorte, verifiche degli impianti, sistemazioni rimandate a casa vuota", "I documenti e i controlli da avere pronti prima del primo ospite"]
+          [
+            "Mese di punta, calendario quasi pieno",
+            "Gli accrediti dei soggiorni già conclusi, al netto delle trattenute",
+            "Le uscite legate ai turni, nel loro momento di massimo",
+            "Le scadenze a data fissa, che non guardano quanto la casa ha lavorato"
+          ],
+          [
+            "Mese di spalla, calendario a macchie",
+            "Accrediti irregolari, spesso riferiti a soggiorni del mese precedente",
+            "Uscite per turno ridotte, più le manutenzioni rinviate dai mesi pieni",
+            "I rinnovi che seguono la data di sottoscrizione, non la stagione"
+          ],
+          [
+            "Mese a casa chiusa o quasi vuota",
+            "Poco o nulla, salvo le caparre delle prenotazioni future",
+            "Solo le voci ricorrenti: tributi, condominio, quote fisse delle utenze",
+            "Le comunicazioni periodiche, dovute in alcune Regioni anche senza presenze"
+          ],
+          [
+            "Mese di riapertura, prima dei primi arrivi",
+            "I saldi anticipati di chi ha prenotato con largo margine",
+            "Scorte, verifiche degli impianti, sistemazioni rimandate a casa vuota",
+            "I documenti e i controlli da avere pronti prima del primo ospite"
+          ]
         ]
       }
     },
@@ -113,7 +138,13 @@
       "a": "Con la stessa frequenza dei fatti che deve registrare, quindi in pratica ogni settimana nei periodi in cui la casa lavora. Un aggiornamento settimanale costa pochi minuti e tiene allineate le righe dei soggiorni con gli accrediti ricevuti; un aggiornamento annuale costringe a ricostruire a posteriori date, canali e trattenute. Le comunicazioni periodiche imposte dalla Regione seguono invece una cadenza propria, in Emilia-Romagna mensile per la rilevazione sul movimento dei clienti negli esercizi ricettivi."
     }
   ],
-  "related": ["quanto-costa-avviare-affitto-breve", "ritenuta-piattaforme-affitti-brevi", "chiusura-stagionale-casa-vacanze"],
+  "related": [
+    "quanto-costa-avviare-affitto-breve",
+    "ritenuta-piattaforme-affitti-brevi",
+    "chiusura-stagionale-casa-vacanze",
+    "conto-dedicato-affitti-brevi",
+    "quando-la-casa-si-ripaga"
+  ],
   "sources": [
     {
       "label": "Decreto legge 24 aprile 2017 n. 50, articolo 4: trasmissione dei dati dei contratti entro il 30 giugno (comma 4), ritenuta e certificazione (comma 5), imposta di soggiorno e dichiarazione entro il 30 giugno (comma 5-ter)",

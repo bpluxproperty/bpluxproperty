@@ -50,13 +50,43 @@
         "Conviene leggerla partendo dalla seconda colonna, non dalla prima: è la condizione del calendario, più della richiesta in sé, a decidere come si risponde. La stessa domanda, fatta in due momenti diversi dell'anno o su due prenotazioni diverse, può avere due risposte opposte, ed è corretto che sia così."
       ],
       "table": {
-        "headers": ["Richiesta", "Quando è possibile", "Che cosa costa concederla", "Come si risponde"],
+        "headers": [
+          "Richiesta",
+          "Quando è possibile",
+          "Che cosa costa concederla",
+          "Come si risponde"
+        ],
         "rows": [
-          ["Check-in con un paio d'ore di anticipo", "La notte precedente non ha un'uscita: la casa è già pronta", "Poco o nulla, se la pulizia era già conclusa", "Un sì diretto, comunicato con il nuovo orario"],
-          ["Check-in nella prima mattina", "Solo se la pulizia è stata completata il giorno prima", "Richiede spostare all'indietro un turno di lavoro", "Un sì condizionato, dopo aver sentito chi pulisce"],
-          ["Late check-out di un'ora o due", "Non c'è un arrivo previsto nelle ore successive", "Restringe la finestra della pulizia, senza azzerarla", "Un sì con il nuovo orario confermato a chi pulisce"],
-          ["Late check-out fino al pomeriggio", "La casa resta libera per l'intera giornata", "Sposta l'intero turno di pulizia, non solo l'inizio", "Una valutazione caso per caso, spesso a pagamento"],
-          ["Richiesta a poche ore dall'orario, senza margine", "Un'altra prenotazione occupa la notte prima o dopo", "Richiederebbe una casa non ancora libera o già assegnata", "Un no motivato dal calendario, senza spazio di trattativa"]
+          [
+            "Check-in con un paio d'ore di anticipo",
+            "La notte precedente non ha un'uscita: la casa è già pronta",
+            "Poco o nulla, se la pulizia era già conclusa",
+            "Un sì diretto, comunicato con il nuovo orario"
+          ],
+          [
+            "Check-in nella prima mattina",
+            "Solo se la pulizia è stata completata il giorno prima",
+            "Richiede spostare all'indietro un turno di lavoro",
+            "Un sì condizionato, dopo aver sentito chi pulisce"
+          ],
+          [
+            "Late check-out di un'ora o due",
+            "Non c'è un arrivo previsto nelle ore successive",
+            "Restringe la finestra della pulizia, senza azzerarla",
+            "Un sì con il nuovo orario confermato a chi pulisce"
+          ],
+          [
+            "Late check-out fino al pomeriggio",
+            "La casa resta libera per l'intera giornata",
+            "Sposta l'intero turno di pulizia, non solo l'inizio",
+            "Una valutazione caso per caso, spesso a pagamento"
+          ],
+          [
+            "Richiesta a poche ore dall'orario, senza margine",
+            "Un'altra prenotazione occupa la notte prima o dopo",
+            "Richiederebbe una casa non ancora libera o già assegnata",
+            "Un no motivato dal calendario, senza spazio di trattativa"
+          ]
         ]
       }
     },
@@ -111,7 +141,12 @@
       "a": "Toccano lo stesso margine di tempo da due lati opposti: il check-in anticipato consuma il tempo prima dell'arrivo dell'ospite, il late check-out consuma quello dopo la sua partenza. In entrambi i casi a pagarne il prezzo operativo è la stessa fase, cioè la pulizia, e per questo si valutano con lo stesso criterio."
     }
   ],
-  "related": ["check-in-check-out-affitti-brevi", "servizi-extra-affitti-brevi", "turnover-ospiti-affitti-brevi"],
+  "related": [
+    "check-in-check-out-affitti-brevi",
+    "servizi-extra-affitti-brevi",
+    "turnover-ospiti-affitti-brevi",
+    "ospite-che-non-risponde-ai-messaggi"
+  ],
   "sources": [
     {
       "label": "Request an early check-in time (la richiesta dipende dall'host, che \"will let you know if they're able to welcome you any earlier\"; possibili costi aggiuntivi)",
