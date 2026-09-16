@@ -53,12 +53,32 @@
         "Le righe ruotano tutte attorno alla stessa variabile, il tempo trascorso fra l'uscita e la scoperta. A spostare l'esito non è la fotografia del danno, che chiunque può produrre in qualunque momento, ma la prova che in quel tempo la casa è rimasta chiusa e disabitata. È l'unico elemento che una richiesta tardiva può aggiungere al fascicolo, e l'unico di cui una richiesta immediata non ha bisogno perché lo dà per scontato."
       ],
       "table": {
-        "headers": ["Quando emerge il danno", "Che cosa si riesce ancora a dimostrare", "Che strada resta aperta"],
+        "headers": [
+          "Quando emerge il danno",
+          "Che cosa si riesce ancora a dimostrare",
+          "Che strada resta aperta"
+        ],
         "rows": [
-          ["Durante il turno, prima che entri chiunque altro", "Lo stato alla consegna e un intervallo chiuso da una persona sola", "Richiesta a chi ha soggiornato e canale del portale, con i termini ancora interi"],
-          ["Nei giorni dopo la partenza, con la casa vuota", "Che il danno c'era prima dell'ingresso successivo, se l'intervallo è documentato", "Canale del portale finché la finestra regge, allegando il registro degli ingressi"],
-          ["Dopo l'arrivo dell'ospite seguente", "Che il danno esiste, non in quale dei due soggiorni sia nato", "Verso chi è partito la richiesta perde appiglio; la discussione si sposta su chi occupa la casa"],
-          ["Oltre i giorni indicati dal portale", "Quanto si è raccolto, ma senza più la procedura interna del canale", "Richiesta diretta a chi ha soggiornato, o valutazione con un legale e con la propria compagnia"]
+          [
+            "Durante il turno, prima che entri chiunque altro",
+            "Lo stato alla consegna e un intervallo chiuso da una persona sola",
+            "Richiesta a chi ha soggiornato e canale del portale, con i termini ancora interi"
+          ],
+          [
+            "Nei giorni dopo la partenza, con la casa vuota",
+            "Che il danno c'era prima dell'ingresso successivo, se l'intervallo è documentato",
+            "Canale del portale finché la finestra regge, allegando il registro degli ingressi"
+          ],
+          [
+            "Dopo l'arrivo dell'ospite seguente",
+            "Che il danno esiste, non in quale dei due soggiorni sia nato",
+            "Verso chi è partito la richiesta perde appiglio; la discussione si sposta su chi occupa la casa"
+          ],
+          [
+            "Oltre i giorni indicati dal portale",
+            "Quanto si è raccolto, ma senza più la procedura interna del canale",
+            "Richiesta diretta a chi ha soggiornato, o valutazione con un legale e con la propria compagnia"
+          ]
         ]
       }
     },
@@ -116,7 +136,12 @@
       "a": "Solo in parte, perché riguarda un punto diverso. L'articolo 1590 dispone che, in mancanza di descrizione, si presume che il conduttore abbia ricevuto la cosa in buono stato di manutenzione: la presunzione copre lo stato iniziale dell'immobile, non il giorno in cui il danno è comparso. In una scoperta tardiva il fatto contestato è proprio quello, e va sostenuto con le date, con il registro degli ingressi e con la prova che la casa è rimasta chiusa."
     }
   ],
-  "related": ["cauzione-e-danni-affitti-brevi", "danni-causati-dagli-ospiti", "contratto-con-chi-pulisce"],
+  "related": [
+    "cauzione-e-danni-affitti-brevi",
+    "danni-causati-dagli-ospiti",
+    "contratto-con-chi-pulisce",
+    "cosa-non-copre-l-assicurazione-affitti-brevi"
+  ],
   "sources": [
     {
       "label": "Codice civile, art. 1590 Restituzione della cosa locata (letti alla fonte anche gli artt. 1588, 1591 e 2946)",

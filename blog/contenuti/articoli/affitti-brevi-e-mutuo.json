@@ -144,7 +144,8 @@
     "assicurazione-affitti-brevi",
     "destinazione-uso-catasto-affitti-brevi",
     "canone-rai-affitti-brevi",
-    "plusvalenza-vendita-casa-affittata"
+    "plusvalenza-vendita-casa-affittata",
+    "cosa-non-copre-l-assicurazione-affitti-brevi"
   ],
   "sources": [
     {

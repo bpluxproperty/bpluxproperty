@@ -139,7 +139,8 @@
     "cedolare-secca-affitti-brevi",
     "alloggiati-web-comunicazione-ospiti",
     "imu-tari-affitti-brevi",
-    "colazione-affitti-brevi-si-puo"
+    "colazione-affitti-brevi-si-puo",
+    "pagamenti-in-contanti-affitti-brevi"
   ],
   "sources": [
     {

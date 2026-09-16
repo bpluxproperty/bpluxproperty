@@ -146,7 +146,8 @@
     "regole-della-casa-affitti-brevi",
     "deposito-cauzionale-affitti-brevi",
     "eta-minima-ospiti-affitti-brevi",
-    "ospiti-non-dichiarati-affitti-brevi"
+    "ospiti-non-dichiarati-affitti-brevi",
+    "cosa-non-copre-l-assicurazione-affitti-brevi"
   ],
   "sources": [
     {

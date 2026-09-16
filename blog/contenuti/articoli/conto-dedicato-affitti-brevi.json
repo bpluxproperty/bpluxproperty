@@ -144,7 +144,9 @@
   "related": [
     "budget-e-scadenzario-affitti-brevi",
     "dichiarazione-redditi-affitti-brevi",
-    "societa-o-persona-fisica-affitti-brevi"
+    "societa-o-persona-fisica-affitti-brevi",
+    "sospendere-l-attivita-affitti-brevi",
+    "pagamenti-in-contanti-affitti-brevi"
   ],
   "sources": [
     {

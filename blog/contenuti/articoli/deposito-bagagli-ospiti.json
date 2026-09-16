@@ -142,7 +142,8 @@
     "turnover-ospiti-affitti-brevi",
     "servizi-extra-affitti-brevi",
     "oggetti-dimenticati-dagli-ospiti",
-    "check-in-anticipato-e-late-check-out"
+    "check-in-anticipato-e-late-check-out",
+    "portineria-e-servizi-dello-stabile"
   ],
   "sources": [
     {
