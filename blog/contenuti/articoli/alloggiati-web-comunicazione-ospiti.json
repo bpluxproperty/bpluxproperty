@@ -55,7 +55,7 @@
     {
       "h2": "Entro quando va fatta la comunicazione",
       "paragraphs": [
-        "La comunicazione va effettuata entro 24 ore dall'arrivo dell'ospite. Per i soggiorni che non superano le 24 ore il termine si stringe a sei ore dall'arrivo: è il caso di chi accoglie un ospite la sera e lo saluta la mattina dopo, e significa che la trasmissione va fatta la sera stessa, non il giorno seguente.",
+        "La comunicazione va effettuata entro 24 ore dall'arrivo dell'ospite. Per i soggiorni che non superano le 24 ore il termine diventa l'arrivo stesso: è il caso di chi accoglie un ospite la sera e lo saluta la mattina dopo, e significa che la trasmissione va fatta la sera stessa, non il giorno seguente.",
         "Le istruzioni operative possono aggiornarsi nel tempo: verifica sempre le indicazioni ufficiali sul portale della Polizia di Stato prima di impostare la tua routine. Il consiglio pratico è muoversi subito dopo il check-in, senza rimandare."
       ]
     },
@@ -115,7 +115,7 @@
     },
     {
       "q": "Entro quando devo comunicare gli ospiti?",
-      "a": "Entro 24 ore dall'arrivo dell'ospite, e entro sei ore se il soggiorno non supera le 24 ore. La seconda ipotesi è quella che sorprende: chi accetta arrivi serali e partenze all'alba deve trasmettere la sera stessa. Verifica sempre le istruzioni ufficiali aggiornate sul portale della Polizia di Stato."
+      "a": "Entro 24 ore dall'arrivo dell'ospite, e all'arrivo stesso se il soggiorno non supera le 24 ore. La seconda ipotesi è quella che sorprende: chi accetta arrivi serali e partenze all'alba deve trasmettere la sera stessa. Verifica sempre le istruzioni ufficiali aggiornate sul portale della Polizia di Stato."
     },
     {
       "q": "Il self check-in mi esonera dalla comunicazione?",
@@ -136,7 +136,7 @@
   ],
   "sources": [
     {
-      "label": "Termini di comunicazione delle persone alloggiate: 24 ore, e sei ore per i soggiorni non superiori a 24 ore (D.M. 7 gennaio 2013, art. 1, come modificato dal D.M. 16 settembre 2021)",
+      "label": "Termini di comunicazione delle persone alloggiate: 24 ore, e all'arrivo stesso per i soggiorni inferiori alle 24 ore (D.M. 7 gennaio 2013, art. 1, come modificato dal D.M. 16 settembre 2021)",
       "ente": "Ministero dell'Interno",
       "data": "2026",
       "url": "https://questure.poliziadistato.it/statics/16/dm-07.01.2013-aggiornato.pdf"

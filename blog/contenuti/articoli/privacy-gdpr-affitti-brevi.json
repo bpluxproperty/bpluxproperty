@@ -14,7 +14,7 @@
     {
       "h2": "Affittare a breve significa trattare dati personali",
       "paragraphs": [
-        "La disciplina di pubblica sicurezza non guarda al numero di prenotazioni. L'articolo 109 del Testo unico delle leggi di pubblica sicurezza impone a chi dà alloggio di accogliere solo persone munite di carta d'identità o di altro documento idoneo ad attestarne l'identità, e di comunicare le generalità delle persone alloggiate alla questura competente entro ventiquattro ore dall'arrivo, ed entro le sei ore successive quando il soggiorno non supera le ventiquattro ore: è al rilascio della ricevuta che si chiude il trattamento e la copia va cancellata. Una norma di interpretazione autentica del 2018 ha chiarito che gli stessi obblighi valgono anche per chi loca immobili o parti di essi con contratti di durata inferiore a trenta giorni. Due settimane l'anno bastano.",
+        "La disciplina di pubblica sicurezza non guarda al numero di prenotazioni. L'articolo 109 del Testo unico delle leggi di pubblica sicurezza impone a chi dà alloggio di accogliere solo persone munite di carta d'identità o di altro documento idoneo ad attestarne l'identità, e di comunicare le generalità delle persone alloggiate alla questura competente entro ventiquattro ore dall'arrivo, e all'arrivo stesso quando il soggiorno non supera le ventiquattro ore: è al rilascio della ricevuta che si chiude il trattamento e la copia va cancellata. Una norma di interpretazione autentica del 2018 ha chiarito che gli stessi obblighi valgono anche per chi loca immobili o parti di essi con contratti di durata inferiore a trenta giorni. Due settimane l'anno bastano.",
         "Da qui nasce la conseguenza che sorprende molti proprietari. Il regolamento europeo definisce titolare del trattamento chi determina finalità e mezzi del trattamento dei dati personali: chi affitta decide come chiedere il documento, con quale strumento, dove finiscono i dati e per quanto tempo restano. È titolare, anche senza partita IVA e anche affidando le prenotazioni a un portale. Nel comunicato del 29 aprile 2026 il Garante richiama espressamente il «preciso dovere dei titolari del trattamento» di garantire la sicurezza dei dati personali.",
         "I dati che passano dalle mani di chi ospita sono elencati nell'allegato tecnico del decreto del Ministro dell'Interno del 7 gennaio 2013, come modificato nel settembre 2021: data di arrivo, giorni di permanenza, cognome, nome, sesso, data e luogo di nascita, cittadinanza, tipo, numero e luogo di rilascio del documento. Per i componenti di un nucleo familiare o di un gruppo l'elenco previsto è più corto e gli estremi del documento non vi figurano. La base giuridica è l'obbligo legale dell'articolo 6, paragrafo 1, lettera c) del regolamento: il consenso dell'ospite non c'entra, e chiederlo confonde le idee a entrambi."
       ]
@@ -143,7 +143,8 @@
     "adempimenti-affitti-brevi-checklist",
     "contratto-locazione-breve",
     "telecamere-serrature-smart-affitti-brevi",
-    "prenotazioni-sospette-come-riconoscerle"
+    "prenotazioni-sospette-come-riconoscerle",
+    "wi-fi-degli-ospiti-responsabilita"
   ],
   "sources": [
     {

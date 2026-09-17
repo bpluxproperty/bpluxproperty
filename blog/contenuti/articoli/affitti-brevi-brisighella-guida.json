@@ -104,7 +104,7 @@
         "Codice regionale dell'Emilia-Romagna: è un codice a sé, rilasciato dalla Regione attraverso la banca dati regionale, e il CIN non lo manda in pensione.",
         "Avvio dell'attività: la comunicazione passa dallo sportello unico competente per Brisighella, che è quello dell'Unione della Romagna Faentina.",
         "Imposta di soggiorno: sul regolamento comunale si leggono importi, esenzioni e scadenze, tenendo presente che la responsabilità del versamento è di chi affitta, non dell'ospite.",
-        "Generalità degli ospiti: si trasmettono alla Questura attraverso il servizio telematico della Polizia di Stato entro ventiquattro ore dall'arrivo, ed entro sei ore quando il soggiorno non supera le ventiquattro ore.",
+        "Generalità degli ospiti: si trasmettono alla Questura attraverso il servizio telematico della Polizia di Stato entro ventiquattro ore dall'arrivo, e all'arrivo stesso quando il soggiorno non supera le ventiquattro ore.",
         "Dati sul movimento dei clienti: la Regione li raccoglie con la propria applicazione, ed è un obbligo separato dalla comunicazione alla Questura.",
         "Confini: il territorio comunale è ampio, quindi va accertato che la casa ricada davvero nel Comune di Brisighella prima di applicare regole viste in un paese vicino.",
         "Centro storico e parco: se la casa è dentro il borgo o nel perimetro del Parco regionale della Vena del Gesso Romagnola, i vincoli su interventi esterni e insegne si chiedono prima, non dopo."
@@ -143,7 +143,7 @@
     },
     {
       "q": "Quali pratiche servono prima del primo ospite a Brisighella?",
-      "a": "Servono il CIN nazionale, il codice identificativo rilasciato dalla Regione Emilia-Romagna, la posizione in ordine con il Comune e la comunicazione delle generalità degli ospiti. Il CIN si chiede al Ministero del Turismo e va indicato negli annunci; il codice regionale è un adempimento distinto e il CIN non lo sostituisce. Per il livello locale il riferimento è il Comune di Brisighella, i cui servizi sono gestiti in forma associata dall'Unione della Romagna Faentina: lì si verificano avvio dell'attività e imposta di soggiorno, di cui chi affitta è responsabile verso il Comune con diritto di rivalsa sull'ospite. Le generalità si trasmettono alla Questura entro ventiquattro ore dall'arrivo, ed entro sei ore se il soggiorno non supera le ventiquattro ore."
+      "a": "Servono il CIN nazionale, il codice identificativo rilasciato dalla Regione Emilia-Romagna, la posizione in ordine con il Comune e la comunicazione delle generalità degli ospiti. Il CIN si chiede al Ministero del Turismo e va indicato negli annunci; il codice regionale è un adempimento distinto e il CIN non lo sostituisce. Per il livello locale il riferimento è il Comune di Brisighella, i cui servizi sono gestiti in forma associata dall'Unione della Romagna Faentina: lì si verificano avvio dell'attività e imposta di soggiorno, di cui chi affitta è responsabile verso il Comune con diritto di rivalsa sull'ospite. Le generalità si trasmettono alla Questura entro ventiquattro ore dall'arrivo, e all'arrivo stesso se il soggiorno non supera le ventiquattro ore."
     }
   ],
   "related": [

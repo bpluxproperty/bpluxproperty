@@ -40,7 +40,7 @@
       "paragraphs": [
         "Nei contratti più snelli questo capitolo semplicemente non esiste, e la sua assenza è già un'informazione. Quando una casa viene affittata a rotazione, prima o poi qualcosa va storto: un ospite rompe un elettrodomestico, una pulizia finisce contestata in recensione, un pagamento non arriva, un guasto crea un danno al piano di sotto. Chi ne risponde non è ovvio, e senza una riga scritta la discussione avviene a caldo, con l'ospite ancora in casa e nessuna delle due parti disposta a cedere.",
         "Non serve un elenco esaustivo di ogni disgrazia possibile, serve un criterio: chi decide, chi anticipa i soldi e chi li recupera. Guarda con attenzione anche le coperture assicurative, perché nominarle non basta. Conta chi è il contraente, chi è l'assicurato, quali eventi rientrano e chi paga il premio. Una polizza intestata al gestore può non proteggere te, e la garanzia offerta da una piattaforma non è un'assicurazione: è uno strumento con regole, soglie e tempi propri, che possono cambiare.",
-        "Un esempio concreto per l'ultima riga della tabella: le persone alloggiate vanno comunicate alle autorità entro ventiquattro ore dall'arrivo, ed entro sei ore quando il soggiorno non supera le ventiquattro ore. Se quel compito è delegato, il contratto deve dirlo e deve indicare in che modo ti resta prova dell'invio nei termini, perché la responsabilità di un adempimento mancato non si valuta a parole."
+        "Un esempio concreto per l'ultima riga della tabella: le persone alloggiate vanno comunicate alle autorità entro ventiquattro ore dall'arrivo, e all'arrivo stesso quando il soggiorno non supera le ventiquattro ore. Se quel compito è delegato, il contratto deve dirlo e deve indicare in che modo ti resta prova dell'invio nei termini, perché la responsabilità di un adempimento mancato non si valuta a parole."
       ],
       "table": {
         "headers": [
@@ -161,7 +161,7 @@
       "url": "https://bdsr.ministeroturismo.gov.it"
     },
     {
-      "label": "Termini per la comunicazione delle persone alloggiate: 24 ore dall'arrivo, sei ore per i soggiorni non superiori a 24 ore",
+      "label": "Termini per la comunicazione delle persone alloggiate: 24 ore dall'arrivo, all'arrivo stesso per i soggiorni inferiori alle 24 ore",
       "ente": "Ministero dell'Interno",
       "data": "",
       "url": "https://alloggiatiweb.poliziadistato.it"

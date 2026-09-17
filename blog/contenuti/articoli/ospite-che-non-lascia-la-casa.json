@@ -40,7 +40,7 @@
       "h2": "La tutela si costruisce prima dell'arrivo",
       "paragraphs": [
         "Tutto quello che serve nel momento difficile si prepara quando l'ospite è ancora un messaggio in casella. Il primo strumento è il contratto scritto, con la data e l'ora di uscita indicate in modo che non si possano leggere in due modi. Un testo di una pagina, firmato prima della consegna delle chiavi, vale più di dieci scambi cordiali: fissa che cosa è stato concordato e fino a quando.",
-        "Il secondo è un obbligo che esiste comunque e che, come effetto collaterale, lascia una traccia. Chi loca immobili con contratti di durata inferiore a trenta giorni deve comunicare alla Questura i dati delle persone alloggiate attraverso il portale Alloggiati Web della Polizia di Stato: il termine è di ventiquattro ore dall'arrivo, ridotto a sei ore se il soggiorno non supera le ventiquattro ore. L'invio produce una ricevuta datata, che documenta chi ha soggiornato e da quando.",
+        "Il secondo è un obbligo che esiste comunque e che, come effetto collaterale, lascia una traccia. Chi loca immobili con contratti di durata inferiore a trenta giorni deve comunicare alla Questura i dati delle persone alloggiate attraverso il portale Alloggiati Web della Polizia di Stato: il termine è di ventiquattro ore dall'arrivo, e all'arrivo stesso se il soggiorno non supera le ventiquattro ore. L'invio produce una ricevuta datata, che documenta chi ha soggiornato e da quando.",
         "Il terzo strumento non costa nulla: tenere la conversazione su un canale che conservi i messaggi con data e ora, e non spostarla su telefonate di cui non resta niente. Insieme al contratto vanno le regole della casa, accettate per iscritto e non allegate come volantino. Che peso abbia ciascuno di questi documenti in una controversia lo valuta un legale sul caso concreto; che sia meglio averli che non averli non richiede un parere."
       ],
       "table": {
@@ -128,7 +128,7 @@
     },
     {
       "q": "La comunicazione degli ospiti alla Questura dimostra che l'ospite era in casa?",
-      "a": "Serve prima di tutto ad assolvere un obbligo di pubblica sicurezza, e in più lascia una ricevuta datata dell'invio. Il termine è di ventiquattro ore dall'arrivo, e di sei ore se il soggiorno non supera le ventiquattro ore. Che peso abbia quella traccia in una controversia lo valuta un legale: l'adempimento non nasce come strumento di prova, ma la data resta."
+      "a": "Serve prima di tutto ad assolvere un obbligo di pubblica sicurezza, e in più lascia una ricevuta datata dell'invio. Il termine è di ventiquattro ore dall'arrivo, e all'arrivo stesso se il soggiorno non supera le ventiquattro ore. Che peso abbia quella traccia in una controversia lo valuta un legale: l'adempimento non nasce come strumento di prova, ma la data resta."
     },
     {
       "q": "La piattaforma su cui è arrivata la prenotazione può far uscire l'ospite?",
@@ -155,7 +155,7 @@
       "url": "https://alloggiatiweb.poliziadistato.it/PortaleAlloggiati/"
     },
     {
-      "label": "Alloggiati Web: locazioni sotto i trenta giorni e termini di invio (24 e 6 ore)",
+      "label": "Alloggiati Web: locazioni sotto i trenta giorni e termini di invio (24 ore, e all'arrivo stesso sotto le 24)",
       "ente": "Polizia di Stato - Questura",
       "data": "2026",
       "url": "https://questure.poliziadistato.it/it/Oristano/articolo/9025c93a2332b98e686663089"

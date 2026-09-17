@@ -40,7 +40,7 @@
     {
       "h2": "I documenti e la comunicazione delle persone alloggiate",
       "paragraphs": [
-        "L'obbligo di comunicare alle questure le generalità delle persone alloggiate non riguarda solo gli alberghi: per interpretazione autentica si applica anche a chi loca immobili o parti di essi con contratti di durata inferiore a trenta giorni. Il termine ordinario è entro le ventiquattr'ore successive all'arrivo, e si stringe a sei ore quando il soggiorno non supera le ventiquattro ore. Quel secondo termine, con chi viaggia da lontano, si incontra spesso: una notte sola fra due voli, atterraggio la sera e partenza la mattina dopo.",
+        "L'obbligo di comunicare alle questure le generalità delle persone alloggiate non riguarda solo gli alberghi: per interpretazione autentica si applica anche a chi loca immobili o parti di essi con contratti di durata inferiore a trenta giorni. Il termine ordinario è entro le ventiquattr'ore successive all'arrivo, e diventa l'arrivo stesso quando il soggiorno non supera le ventiquattro ore. Quel secondo termine, con chi viaggia da lontano, si incontra spesso: una notte sola fra due voli, atterraggio la sera e partenza la mattina dopo.",
         "Sull'identificazione la norma è più rigida di quanto si creda: si può dare alloggio esclusivamente a persone munite della carta d'identità o di altro documento idoneo ad attestarne l'identità secondo le norme vigenti. Per gli stranieri extracomunitari è sufficiente l'esibizione del passaporto o di altro documento considerato ad esso equivalente in forza di accordi internazionali, purché munito della fotografia del titolare. Un cittadino dell'Unione, quindi, è in regola con il documento di identità del proprio Stato; per chi arriva da fuori dell'Unione il riferimento è il passaporto.",
         "Il punto pratico è che un documento straniero non si legge come una carta d'identità italiana. Servono il tipo di documento, il numero e il luogo di rilascio, con lo Stato al posto del comune quando il documento è estero, più cittadinanza e luogo di nascita. Su un passaporto l'ordine fra cognome e nomi cambia, le date possono essere scritte in una sequenza diversa, il nome è traslitterato e lo Stato che rilascia non coincide sempre con la cittadinanza: i campi si copiano dal documento, non dal nome della prenotazione.",
         "Due semplificazioni vale la pena conoscerle: per i nuclei familiari bastano i dati del documento di uno dei coniugi, che indica quelli dell'altro coniuge e dei figli minorenni; per i gruppi guidati quelli del capogruppo. Sugli adempimenti in più per un ospite extra-Unione, la pagina della Polizia di Stato dedicata all'ospitalità ai cittadini extracomunitari precisa che per gli alloggi offerti dai gestori di strutture ricettive, comprese le case vacanze, la comunicazione degli ospiti si effettua esclusivamente online; la dichiarazione scritta entro quarantotto ore riguarda chi ospita fuori da quel canale. Ogni situazione atipica va verificata alla questura competente."
@@ -131,7 +131,7 @@
     },
     {
       "q": "Entro quanto va comunicato l'arrivo di un ospite che resta una notte sola?",
-      "a": "Entro sei ore dall'arrivo, perché il soggiorno non supera le ventiquattro ore; il termine ordinario, invece, è entro le ventiquattr'ore successive all'arrivo. Con chi viaggia da lontano la notte singola fra due voli è un caso frequente, quindi conviene trasmettere subito dopo il check in invece di rimandare al giorno dopo."
+      "a": "All'arrivo stesso, perché il soggiorno non supera le ventiquattro ore; il termine ordinario, invece, è entro le ventiquattr'ore successive all'arrivo. Con chi viaggia da lontano la notte singola fra due voli è un caso frequente, quindi conviene trasmettere subito dopo il check in invece di rimandare al giorno dopo."
     },
     {
       "q": "Per un ospite extra-Unione serve una dichiarazione di ospitalità in più?",
@@ -160,7 +160,7 @@
       "url": "https://questure.poliziadistato.it/statics/05/art.109-tulps-aggiornato.pdf?lang=it"
     },
     {
-      "label": "D.M. 7 gennaio 2013, art. 1 e allegato tecnico: trasmissione entro ventiquattro ore dall'arrivo e entro sei ore per i soggiorni non superiori alle ventiquattro ore, dati richiesti e semplificazioni per nuclei familiari e gruppi guidati",
+      "label": "D.M. 7 gennaio 2013, art. 1 e allegato tecnico: trasmissione entro ventiquattro ore dall'arrivo e all'arrivo stesso per i soggiorni inferiori alle ventiquattro ore, dati richiesti e semplificazioni per nuclei familiari e gruppi guidati",
       "ente": "Ministero dell'Interno",
       "data": "2013, testo modificato in vigore dal 12 gennaio 2022",
       "url": "https://questure.poliziadistato.it/statics/16/dm-07.01.2013-aggiornato.pdf"

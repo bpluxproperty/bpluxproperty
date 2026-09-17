@@ -42,7 +42,7 @@
         "Il regime è lo stesso. Il comma 1 dell'articolo 4 del decreto legge 50/2017 definisce locazioni brevi i contratti di immobili a uso abitativo di durata non superiore a trenta giorni stipulati da persone fisiche fuori dall'esercizio di attività d'impresa, «direttamente o tramite» soggetti che esercitano intermediazione immobiliare o gestiscono portali telematici. La guida dell'Agenzia delle Entrate sulle locazioni brevi, edizione di aprile 2026, lo ripete con parole proprie: la disciplina si applica sia ai contratti conclusi direttamente sia a quelli in cui intervengono gli intermediari, e per queste seconde situazioni la legge ha individuato precisi adempimenti a carico di quei soggetti.",
         "È il punto tecnico che cambia davvero. Nel testo dell'articolo 4 la parola «ritenuta» compare due volte e in entrambe è rivolta a chi esercita intermediazione o gestisce portali telematici: sono loro a operarla, in qualità di sostituti d'imposta, quando incassano i corrispettivi o intervengono nel pagamento, e sono sempre loro a rilasciarne la certificazione. Il locatore non è mai il destinatario di quell'obbligo. Senza intermediario non esiste alcun sostituto d'imposta: nessuno trattiene, nessuno versa, nessuno certifica. L'imposta però non si riduce, resta intera da liquidare in dichiarazione.",
         "Qui arriva la sorpresa che in pochi mettono in conto: collegare un sistema di pagamento alla propria pagina non ricrea quella ritenuta. La stessa guida precisa che banche, istituti di pagamento, istituti di moneta elettronica e società che offrono servizi di pagamento e di trasferimento di denaro via internet non devono effettuare la ritenuta, perché intervengono in qualità di prestatori di servizi di pagamento e non di intermediari nella stipula dei contratti. L'incasso arriva quindi intero, sembra più generoso di quello dei portali, e la parte che non ti spetta va accantonata a mano.",
-        "Il resto non cambia. La comunicazione degli ospiti alla questura resta entro ventiquattro ore dall'arrivo, ridotta a sei ore quando il soggiorno non supera le ventiquattro; chi dà alloggio a uno straniero o a un apolide ne dà comunicazione scritta entro quarantotto ore all'autorità locale di pubblica sicurezza, per l'articolo 7 del decreto legislativo 286/1998, quale che sia la durata. L'imposta di soggiorno segue il regolamento del Comune, con dichiarazione entro il 30 giugno dell'anno successivo. Cambia soltanto che nessun pannello di piattaforma te li mette più davanti in ordine."
+        "Il resto non cambia. La comunicazione degli ospiti alla questura resta entro ventiquattro ore dall'arrivo, e all'arrivo stesso quando il soggiorno non supera le ventiquattro; chi dà alloggio a uno straniero o a un apolide ne dà comunicazione scritta entro quarantotto ore all'autorità locale di pubblica sicurezza, per l'articolo 7 del decreto legislativo 286/1998, quale che sia la durata. L'imposta di soggiorno segue il regolamento del Comune, con dichiarazione entro il 30 giugno dell'anno successivo. Cambia soltanto che nessun pannello di piattaforma te li mette più davanti in ordine."
       ]
     },
     {
@@ -133,7 +133,7 @@
     },
     {
       "q": "Con una prenotazione diretta cambiano gli obblighi di comunicazione degli ospiti?",
-      "a": "No, restano identici. La comunicazione alla questura va fatta entro ventiquattro ore dall'arrivo, ridotte a sei ore quando il soggiorno non supera le ventiquattro; chi dà alloggio a uno straniero o a un apolide comunica per iscritto entro quarantotto ore all'autorità locale di pubblica sicurezza, qualunque sia la durata del soggiorno. Il canale da cui è arrivata la prenotazione non compare in nessuna delle due regole."
+      "a": "No, restano identici. La comunicazione alla questura va fatta entro ventiquattro ore dall'arrivo, e all'arrivo stesso quando il soggiorno non supera le ventiquattro; chi dà alloggio a uno straniero o a un apolide comunica per iscritto entro quarantotto ore all'autorità locale di pubblica sicurezza, qualunque sia la durata del soggiorno. Il canale da cui è arrivata la prenotazione non compare in nessuna delle due regole."
     },
     {
       "q": "L'ospite che prenota sul mio sito può recedere come in un acquisto online?",
@@ -149,7 +149,8 @@
     "contratto-locazione-breve",
     "commissioni-booking-quanto-trattiene",
     "annuncio-sospeso-o-disattivato",
-    "chiudere-l-annuncio-su-una-piattaforma"
+    "chiudere-l-annuncio-su-una-piattaforma",
+    "cauzione-fuori-dalla-piattaforma"
   ],
   "sources": [
     {

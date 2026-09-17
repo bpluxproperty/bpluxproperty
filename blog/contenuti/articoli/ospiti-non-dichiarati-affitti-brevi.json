@@ -22,7 +22,7 @@
     {
       "h2": "Il numero non è una formalità: chi dorme in casa va identificato",
       "paragraphs": [
-        "Il decreto del Ministero dell'Interno del 7 gennaio 2013, all'articolo 1, dispone che le generalità delle persone alloggiate siano trasmesse entro le ventiquattro ore successive all'arrivo, e comunque entro le sei ore successive all'arrivo nel caso di soggiorni non superiori alle ventiquattro ore. Il testo parla di persone alloggiate, non di nomi sulla prenotazione: se in casa dormono in quattro, la trasmissione riguarda quattro persone. La procedura di accreditamento e di invio su Alloggiati Web è un capitolo a sé, e va imparata prima del primo arrivo, non la sera in cui il numero cambia.",
+        "Il decreto del Ministero dell'Interno del 7 gennaio 2013, all'articolo 1, dispone che le generalità delle persone alloggiate siano trasmesse entro le ventiquattro ore successive all'arrivo, e comunque all'arrivo stesso nel caso di soggiorni non superiori alle ventiquattro ore. Il testo parla di persone alloggiate, non di nomi sulla prenotazione: se in casa dormono in quattro, la trasmissione riguarda quattro persone. La procedura di accreditamento e di invio su Alloggiati Web è un capitolo a sé, e va imparata prima del primo arrivo, non la sera in cui il numero cambia.",
         "L'allegato tecnico dello stesso decreto contiene la semplificazione che viene citata più spesso, e quasi sempre allargata oltre il suo perimetro: per i nuclei familiari è sufficiente inserire i dati del documento di identità di uno dei coniugi, che indicherà i dati dell'altro coniuge e dei figli minorenni, e per i gruppi guidati basta il documento del capogruppo, che indicherà i dati degli altri componenti. Riguarda quali dati trasmettere, non quante persone possono dormire in casa: per ciascun componente restano da indicare cognome, nome, sesso, data e luogo di nascita e cittadinanza. Nessuno sparisce dall'elenco.",
         "Sul versante fiscale il numero ha lo stesso peso. L'articolo 4 del decreto legislativo 23 del 2011 istituisce un'imposta a carico di coloro che alloggiano nelle strutture ricettive, da applicare per notte di soggiorno: il presupposto è il pernottamento della singola persona. Lo stesso articolo, al comma 1-ter, rende il gestore responsabile del pagamento con diritto di rivalsa e della presentazione della dichiarazione, entro il 30 giugno dell'anno successivo, e distingue la dichiarazione omessa da quella infedele, prevedendo una sanzione amministrativa per entrambe."
       ]
@@ -122,7 +122,7 @@
     },
     {
       "q": "Gli ospiti non dichiarati vanno comunque comunicati alla Questura?",
-      "a": "Sì: l'obbligo riguarda le persone alloggiate, non i nomi indicati nella prenotazione. Il decreto del Ministero dell'Interno del 7 gennaio 2013 fissa la trasmissione entro le ventiquattro ore successive all'arrivo, ed entro le sei ore nel caso di soggiorni non superiori alle ventiquattro ore. Se il numero cambia in corsa, la comunicazione segue le persone che dormono in casa, non il numero prenotato."
+      "a": "Sì: l'obbligo riguarda le persone alloggiate, non i nomi indicati nella prenotazione. Il decreto del Ministero dell'Interno del 7 gennaio 2013 fissa la trasmissione entro le ventiquattro ore successive all'arrivo, e all'arrivo stesso nel caso di soggiorni non superiori alle ventiquattro ore. Se il numero cambia in corsa, la comunicazione segue le persone che dormono in casa, non il numero prenotato."
     },
     {
       "q": "Per una famiglia basta un documento solo, e questo significa che i figli non contano?",
@@ -145,7 +145,7 @@
   ],
   "sources": [
     {
-      "label": "Comunicazione delle persone alloggiate: art. 1, entro le 24 ore successive all'arrivo e comunque entro le sei ore per i soggiorni non superiori alle 24 ore; allegato tecnico, punto 2, nuclei familiari e gruppi guidati",
+      "label": "Comunicazione delle persone alloggiate: art. 1, entro le 24 ore successive all'arrivo e comunque all'arrivo stesso per i soggiorni inferiori alle 24 ore; allegato tecnico, punto 2, nuclei familiari e gruppi guidati",
       "ente": "Ministero dell'Interno, D.M. 7 gennaio 2013 (testo aggiornato pubblicato sul portale delle Questure, Polizia di Stato)",
       "data": "7 gennaio 2013, testo aggiornato in vigore dal 12 gennaio 2022; consultato il 10 settembre 2026",
       "url": "https://questure.poliziadistato.it/statics/16/dm-07.01.2013-aggiornato.pdf?lang=it"

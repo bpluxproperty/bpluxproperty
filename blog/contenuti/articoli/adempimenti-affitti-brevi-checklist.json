@@ -27,7 +27,7 @@
         "CIN (Codice Identificativo Nazionale): il codice che identifica l'immobile, si richiede al Ministero del Turismo e va esposto negli annunci",
         "Eventuale comunicazione o SCIA al Comune: dove prevista, la segnalazione di avvio dell'attività di locazione turistica; verifica sul sito del tuo Comune",
         "Dotazioni di sicurezza dell'alloggio: rilevatori di gas combustibili e di monossido di carbonio funzionanti ed estintori portatili a norma, richiesti a tutte le unità destinate a locazione breve, in forma imprenditoriale o no; i requisiti degli impianti riguardano invece chi opera in forma imprenditoriale",
-        "Alloggiati Web: la comunicazione dei dati di ogni ospite alla Questura, tramite il portale della Polizia di Stato, entro 24 ore dall'arrivo e entro sei ore per i soggiorni che non superano le 24 ore",
+        "Alloggiati Web: la comunicazione dei dati di ogni ospite alla Questura, tramite il portale della Polizia di Stato, entro 24 ore dall'arrivo e all'arrivo stesso per i soggiorni che non superano le 24 ore",
         "Imposta di soggiorno: il tributo che riscuoti dall'ospite e versi al Comune, dove prevista",
         "Comunicazione ISTAT: la rilevazione statistica di arrivi e presenze, che molte Regioni raccolgono dal proprio portale turistico",
         "Adempimenti fiscali: la dichiarazione dei redditi da locazione, con cedolare secca o regime ordinario",
@@ -99,7 +99,7 @@
     {
       "h2": "A ogni prenotazione e a ogni soggiorno",
       "paragraphs": [
-        "Con l'immobile in regola e l'annuncio online, iniziano gli obblighi che tornano a ogni ospite. Il primo è Alloggiati Web: entro 24 ore dall'arrivo — e entro sei ore se il soggiorno non supera le 24 ore — comunichi alla Questura i dati del documento di ogni persona che pernotta, tramite il portale della Polizia di Stato. È un obbligo di pubblica sicurezza e non viene sostituito dal self check-in.",
+        "Con l'immobile in regola e l'annuncio online, iniziano gli obblighi che tornano a ogni ospite. Il primo è Alloggiati Web: entro 24 ore dall'arrivo — e all'arrivo stesso se il soggiorno non supera le 24 ore — comunichi alla Questura i dati del documento di ogni persona che pernotta, tramite il portale della Polizia di Stato. È un obbligo di pubblica sicurezza e non viene sostituito dal self check-in.",
         "Poi c'è l'imposta di soggiorno, dove prevista: la riscuoti dall'ospite e la versi al Comune con una dichiarazione periodica. E la comunicazione ISTAT del movimento turistico, cioè arrivi e presenze, che molte Regioni raccolgono dal proprio portale turistico. Tre adempimenti distinti, con tre enti diversi: la Questura, il Comune e la Regione. Verifica sempre le regole del Comune e della Regione dove si trova l'immobile."
       ]
     },
@@ -150,7 +150,7 @@
   ],
   "sources": [
     {
-      "label": "Termini di comunicazione delle persone alloggiate: 24 ore, e sei ore per i soggiorni non superiori a 24 ore (D.M. 7 gennaio 2013, art. 1, come modificato dal D.M. 16 settembre 2021)",
+      "label": "Termini di comunicazione delle persone alloggiate: 24 ore, e all'arrivo stesso per i soggiorni inferiori alle 24 ore (D.M. 7 gennaio 2013, art. 1, come modificato dal D.M. 16 settembre 2021)",
       "ente": "Ministero dell'Interno",
       "data": "2026",
       "url": "https://questure.poliziadistato.it/statics/16/dm-07.01.2013-aggiornato.pdf"
