@@ -52,13 +52,37 @@
         "La riga più insidiosa è la seconda, perché somiglia a un guasto comune e spesso non lo è. Prima di segnalare all'amministratore un blackout dell'edificio conviene però far verificare all'ospite che l'interruttore generale dell'appartamento sia alzato: se è scattato quello, il problema è dentro casa e la competenza torna interamente tua. È la verifica che costa un minuto e che evita di mandare una ditta condominiale a controllare un impianto privato."
       ],
       "table": {
-        "headers": ["Il guasto", "Chi ha la competenza", "Che cosa si scrive subito all'ospite"],
+        "headers": [
+          "Il guasto",
+          "Chi ha la competenza",
+          "Che cosa si scrive subito all'ospite"
+        ],
         "rows": [
-          ["Ascensore fermo", "Parte comune: amministratore e ditta di manutenzione", "Che la segnalazione è partita e a quale piano si trova la casa"],
-          ["Corrente assente in tutto l'edificio", "Parte comune, se l'interruttore generale della casa è alzato", "Di verificare il quadro dentro casa prima di ogni altra cosa"],
-          ["Acqua assente ai piani alti", "Parte comune: autoclave e colonna montante dell'edificio", "Quali rubinetti restano utilizzabili nel frattempo"],
-          ["Riscaldamento centralizzato spento", "Parte comune: la centrale serve tutte le unità", "Che l'impianto è condominiale e come scaldare le stanze intanto"],
-          ["Portone o citofono bloccati", "Comune il portone, tua la cornetta dentro l'appartamento", "Come entrare e come aprire a chi suona, finché dura"]
+          [
+            "Ascensore fermo",
+            "Parte comune: amministratore e ditta di manutenzione",
+            "Che la segnalazione è partita e a quale piano si trova la casa"
+          ],
+          [
+            "Corrente assente in tutto l'edificio",
+            "Parte comune, se l'interruttore generale della casa è alzato",
+            "Di verificare il quadro dentro casa prima di ogni altra cosa"
+          ],
+          [
+            "Acqua assente ai piani alti",
+            "Parte comune: autoclave e colonna montante dell'edificio",
+            "Quali rubinetti restano utilizzabili nel frattempo"
+          ],
+          [
+            "Riscaldamento centralizzato spento",
+            "Parte comune: la centrale serve tutte le unità",
+            "Che l'impianto è condominiale e come scaldare le stanze intanto"
+          ],
+          [
+            "Portone o citofono bloccati",
+            "Comune il portone, tua la cornetta dentro l'appartamento",
+            "Come entrare e come aprire a chi suona, finché dura"
+          ]
         ]
       }
     },
@@ -115,7 +139,12 @@
       "a": "Sì, e la ragione non è soltanto di correttezza. L'articolo 1578 esclude il rimedio quando si tratta «di vizi da lui conosciuti o facilmente riconoscibili» dal conduttore: l'informazione data prima della prenotazione sposta il disagio fra le condizioni accettate. Taciuta, resta un difetto scoperto dopo il pagamento."
     }
   ],
-  "related": ["emergenze-notturne-affitti-brevi", "cantiere-in-condominio-e-ponteggi", "rimborsi-e-compensazioni-ospiti"],
+  "related": [
+    "emergenze-notturne-affitti-brevi",
+    "cantiere-in-condominio-e-ponteggi",
+    "rimborsi-e-compensazioni-ospiti",
+    "consumi-anomali-affitti-brevi"
+  ],
   "sources": [
     {
       "label": "Art. 1130, «Attribuzioni dell'amministratore», intestazione «Testo in vigore dal: 22-2-2014»: l'amministratore deve «disciplinare l'uso delle cose comuni e la fruizione dei servizi nell'interesse comune», «riscuotere i contributi ed erogare le spese occorrenti per la manutenzione ordinaria delle parti comuni dell'edificio e per l'esercizio dei servizi comuni», «compiere gli atti conservativi relativi alle parti comuni dell'edificio». Art. 1135 («Testo in vigore dal: 22-2-2014»), n. 4 e secondo comma: l'assemblea provvede «alle opere di manutenzione straordinaria e alle innovazioni, costituendo obbligatoriamente un fondo speciale di importo pari all'ammontare dei lavori» e «l'amministratore non può ordinare lavori di manutenzione straordinaria, salvo che rivestano carattere urgente, ma in questo caso deve riferirne nella prima assemblea». Art. 1134, «Gestione di iniziativa individuale» («Testo in vigore dal: 18-6-2013»): «Il condomino che ha assunto la gestione delle parti comuni senza autorizzazione dell'amministratore o dell'assemblea non ha diritto al rimborso, salvo che si tratti di spesa urgente»",
